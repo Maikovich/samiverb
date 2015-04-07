@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "livvadit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "livvadan",
+                "livvadat",
+                "livvada",
+                "livvadetne",
+                "livvadeahppi",
+                "livvadeaba",
+                "livvadit, -dat",
+                "livvadehpet",
+                "livvadit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in livvat",
+                "it livvat",
+                "ii livvat",
+                "ean livvat",
+                "eahppi livvat",
+                "eaba livvat",
+                "eat livvat",
+                "ehpet livvat",
+                "eai livvat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "livvadin",
+                "livvadit",
+                "livvadii",
+                "livvadeimme",
+                "livvadeidde",
+                "livvadeigga",
+                "livvadeimmet",
+                "livvadeiddet",
+                "livvadedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in livvadan",
+                "it livvadan",
+                "ii livvadan",
+                "ean livvadan",
+                "eahppi livvadan",
+                "eaba livvadan",
+                "eat livvadan",
+                "ehpet livvadan",
+                "eai livvadan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean livvadan",
+                "leat livvadan",
+                "lea livvadan",
+                "letne livvadan",
+                "leahppi livvadan",
+                "leaba livvadan",
+                "leat livvadan",
+                "lehpet livvadan",
+                "leat livvadan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen livvadan",
+                "ledjet livvadan",
+                "lei livvadan",
+                "leimme livvadan",
+                "leidde livvadan",
+                "leigga livvadan",
+                "leimmet livvadan",
+                "leiddet livvadan",
+                "ledje livvadan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean livvadeame, -men",
+                "leat livvadeame, -men",
+                "lea livvadeame, -men",
+                "letne livvadeame, -men",
+                "leahppi livvadeame, -men",
+                "leaba livvadeame, -men",
+                "leat livvadeame, -men",
+                "lehpet livvadeame, -men",
+                "leat livvadeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen livvadeame, -men",
+                "ledjet livvadeame, -men",
+                "lei livvadeame, -men",
+                "leimme livvadeame, -men",
+                "leidde livvadeame, -men",
+                "leigga livvadeame, -men",
+                "leimmet livvadeame, -men",
+                "leiddet livvadeame, -men",
+                "ledje livvadeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "livvadivččen",
+                "livvadivččet",
+                "livvadivččii",
+                "livvadivččiime",
+                "livvadivččiide",
+                "livvadivččiiga",
+                "livvadivččiimet",
+                "livvadivččiidet",
+                "livvadivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in livvadivčče",
+                "it livvadivčče",
+                "ii livvadivčče",
+                "ean livvadivčče",
+                "eahppi livvadivčče",
+                "eaba livvadivčče",
+                "eat livvadivčče",
+                "ehpet livvadivčče",
+                "eai livvadivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "livvadeaččan",
+                "livvadeaččat",
+                "livvadeaš, -deš, -deažžá",
+                "livvadežže",
+                "livvadeažžabeahtti",
+                "livvadeažžaba",
+                "livvadeažžat",
+                "livvadeažžabehtet",
+                "livvadežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in livvadeaš, -deš, -deažžá",
+                "it livvadeaš, -deš, -deažžá",
+                "ii livvadeaš, -deš, -deažžá",
+                "ean livvadeaš, -deš, -deažžá",
+                "eahppi livvadeaš, -deš, -deažžá",
+                "eaba livvadeaš, -deš, -deažžá",
+                "eat livvadeaš, -deš, -deažžá",
+                "ehpet livvadeaš, -deš, -deažžá",
+                "eai livvadeaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "livvadehkon",
+                "livvat",
+                "livvadehkos, livvadus",
+                "livvadeadnu",
+                "livvadeahkki",
+                "livvadehkoska",
+                "livvadehkot, livvadeahkkut, livvadetnot, livvadeadnot",
+                "livvadehket",
+                "livvadehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon livvat",
+                "ale livvat",
+                "allos livvat",
+                "allu livvat",
+                "alli livvat",
+                "alloska livvat",
+                "allot, allut livvat",
+                "allet, allit livvat",
+                "alloset livvat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Livvadit",
+    "valid": 1
+}

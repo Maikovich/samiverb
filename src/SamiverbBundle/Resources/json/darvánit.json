@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "darvánit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "darvánan",
+                "darvánat",
+                "darvána",
+                "darvánetne",
+                "darváneahppi",
+                "darváneaba",
+                "darvánit, -nat",
+                "darvánehpet",
+                "darvánit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in darván",
+                "it darván",
+                "ii darván",
+                "ean darván",
+                "eahppi darván",
+                "eaba darván",
+                "eat darván",
+                "ehpet darván",
+                "eai darván"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "darvánin",
+                "darvánit",
+                "darvánii",
+                "darváneimme",
+                "darváneidde",
+                "darváneigga",
+                "darváneimmet",
+                "darváneiddet",
+                "darvánedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in darvánan",
+                "it darvánan",
+                "ii darvánan",
+                "ean darvánan",
+                "eahppi darvánan",
+                "eaba darvánan",
+                "eat darvánan",
+                "ehpet darvánan",
+                "eai darvánan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean darvánan",
+                "leat darvánan",
+                "lea darvánan",
+                "letne darvánan",
+                "leahppi darvánan",
+                "leaba darvánan",
+                "leat darvánan",
+                "lehpet darvánan",
+                "leat darvánan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen darvánan",
+                "ledjet darvánan",
+                "lei darvánan",
+                "leimme darvánan",
+                "leidde darvánan",
+                "leigga darvánan",
+                "leimmet darvánan",
+                "leiddet darvánan",
+                "ledje darvánan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean darváneame, -men",
+                "leat darváneame, -men",
+                "lea darváneame, -men",
+                "letne darváneame, -men",
+                "leahppi darváneame, -men",
+                "leaba darváneame, -men",
+                "leat darváneame, -men",
+                "lehpet darváneame, -men",
+                "leat darváneame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen darváneame, -men",
+                "ledjet darváneame, -men",
+                "lei darváneame, -men",
+                "leimme darváneame, -men",
+                "leidde darváneame, -men",
+                "leigga darváneame, -men",
+                "leimmet darváneame, -men",
+                "leiddet darváneame, -men",
+                "ledje darváneame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "darvánivččen",
+                "darvánivččet",
+                "darvánivččii",
+                "darvánivččiime",
+                "darvánivččiide",
+                "darvánivččiiga",
+                "darvánivččiimet",
+                "darvánivččiidet",
+                "darvánivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in darvánivčče",
+                "it darvánivčče",
+                "ii darvánivčče",
+                "ean darvánivčče",
+                "eahppi darvánivčče",
+                "eaba darvánivčče",
+                "eat darvánivčče",
+                "ehpet darvánivčče",
+                "eai darvánivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "darváneaččan",
+                "darváneaččat",
+                "darváneaš, -neš, -neažžá",
+                "darvánežže",
+                "darváneažžabeahtti",
+                "darváneažžaba",
+                "darváneažžat",
+                "darváneažžabehtet",
+                "darvánežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in darváneaš, -neš, -neažžá",
+                "it darváneaš, -neš, -neažžá",
+                "ii darváneaš, -neš, -neažžá",
+                "ean darváneaš, -neš, -neažžá",
+                "eahppi darváneaš, -neš, -neažžá",
+                "eaba darváneaš, -neš, -neažžá",
+                "eat darváneaš, -neš, -neažžá",
+                "ehpet darváneaš, -neš, -neažžá",
+                "eai darváneaš, -neš, -neažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "darvánehkon",
+                "darván",
+                "darvánehkos, darvánus",
+                "darváneadnu",
+                "darváneahkki",
+                "darvánehkoska",
+                "darvánehkot, darváneahkkut, darvánetnot, darváneadnot",
+                "darvánehket",
+                "darvánehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon darván",
+                "ale darván",
+                "allos darván",
+                "allu darván",
+                "alli darván",
+                "alloska darván",
+                "allot, allut darván",
+                "allet, allit darván",
+                "alloset darván"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Darvánit",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "eardut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "earddun",
+                "earddut",
+                "eardu",
+                "erdo",
+                "eardubeahtti",
+                "earduba",
+                "eardut",
+                "eardubehtet",
+                "erdot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in earddo",
+                "it earddo",
+                "ii earddo",
+                "ean earddo",
+                "eahppi earddo",
+                "eaba earddo",
+                "eat earddo",
+                "ehpet earddo",
+                "eai earddo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "erdon",
+                "erdot",
+                "earddui",
+                "eardduime",
+                "eardduide",
+                "eardduiga",
+                "eardduimet",
+                "eardduidet",
+                "erdo"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in erdon",
+                "it erdon",
+                "ii erdon",
+                "ean erdon",
+                "eahppi erdon",
+                "eaba erdon",
+                "eat erdon",
+                "ehpet erdon",
+                "eai erdon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean erdon",
+                "leat erdon",
+                "lea erdon",
+                "letne erdon",
+                "leahppi erdon",
+                "leaba erdon",
+                "leat erdon",
+                "lehpet erdon",
+                "leat erdon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen erdon",
+                "ledjet erdon",
+                "lei erdon",
+                "leimme erdon",
+                "leidde erdon",
+                "leigga erdon",
+                "leimmet erdon",
+                "leiddet erdon",
+                "ledje erdon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean eardume, -min",
+                "leat eardume, -min",
+                "lea eardume, -min",
+                "letne eardume, -min",
+                "leahppi eardume, -min",
+                "leaba eardume, -min",
+                "leat eardume, -min",
+                "lehpet eardume, -min",
+                "leat eardume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen eardume, -min",
+                "ledjet eardume, -min",
+                "lei eardume, -min",
+                "leimme eardume, -min",
+                "leidde eardume, -min",
+                "leigga eardume, -min",
+                "leimmet eardume, -min",
+                "leiddet eardume, -min",
+                "ledje eardume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "erddošin",
+                "erddošit",
+                "erddošii",
+                "erddošeimme",
+                "erddošeidde",
+                "erddošeigga",
+                "erddošeimmet",
+                "erddošeiddet",
+                "erddošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in erddoše",
+                "it erddoše",
+                "ii erddoše",
+                "ean erddoše",
+                "eahppi erddoše",
+                "eaba erddoše",
+                "eat erddoše",
+                "ehpet erddoše",
+                "eai erddoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "erddožan",
+                "erddožat",
+                "erddoš",
+                "erddožetne",
+                "erddožeahppi",
+                "erddožeaba",
+                "erddožit, -žat",
+                "erddožehpet",
+                "erddožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in erddoš",
+                "it erddoš",
+                "ii erddoš",
+                "ean erddoš",
+                "eahppi erddoš",
+                "eaba erddoš",
+                "eat erddoš",
+                "ehpet erddoš",
+                "eai erddoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "erdon",
+                "earddo",
+                "erdos",
+                "eardu",
+                "eardu",
+                "erdoska",
+                "erdot, eardot",
+                "erdot, eardot",
+                "erdoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon earddo",
+                "ale earddo",
+                "allos earddo",
+                "allu earddo",
+                "alli earddo",
+                "alloska earddo",
+                "allot, allut earddo",
+                "allet, allit earddo",
+                "alloset earddo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Eardut",
+    "valid": 1
+}

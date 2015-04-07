@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "burgit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "burggán",
+                "burggát",
+                "burgá",
+                "burge",
+                "burgibeahtti",
+                "burgiba",
+                "burgit",
+                "burgibehtet",
+                "burget"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in burgge",
+                "it burgge",
+                "ii burgge",
+                "ean burgge",
+                "eahppi burgge",
+                "eaba burgge",
+                "eat burgge",
+                "ehpet burgge",
+                "eai burgge"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "burgen",
+                "burget",
+                "burggii",
+                "burggiime",
+                "burggiide",
+                "burggiiga",
+                "burggiimet",
+                "burggiidet",
+                "burge"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in burgán",
+                "it burgán",
+                "ii burgán",
+                "ean burgán",
+                "eahppi burgán",
+                "eaba burgán",
+                "eat burgán",
+                "ehpet burgán",
+                "eai burgán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean burgán",
+                "leat burgán",
+                "lea burgán",
+                "letne burgán",
+                "leahppi burgán",
+                "leaba burgán",
+                "leat burgán",
+                "lehpet burgán",
+                "leat burgán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen burgán",
+                "ledjet burgán",
+                "lei burgán",
+                "leimme burgán",
+                "leidde burgán",
+                "leigga burgán",
+                "leimmet burgán",
+                "leiddet burgán",
+                "ledje burgán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean burgime, -min",
+                "leat burgime, -min",
+                "lea burgime, -min",
+                "letne burgime, -min",
+                "leahppi burgime, -min",
+                "leaba burgime, -min",
+                "leat burgime, -min",
+                "lehpet burgime, -min",
+                "leat burgime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen burgime, -min",
+                "ledjet burgime, -min",
+                "lei burgime, -min",
+                "leimme burgime, -min",
+                "leidde burgime, -min",
+                "leigga burgime, -min",
+                "leimmet burgime, -min",
+                "leiddet burgime, -min",
+                "ledje burgime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "burggášin",
+                "burggášit",
+                "burggášii",
+                "burggášeimme",
+                "burggášeidde",
+                "burggášeigga",
+                "burggášeimmet",
+                "burggášeiddet",
+                "burggášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in burggáše",
+                "it burggáše",
+                "ii burggáše",
+                "ean burggáše",
+                "eahppi burggáše",
+                "eaba burggáše",
+                "eat burggáše",
+                "ehpet burggáše",
+                "eai burggáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "burggežan",
+                "burggežat",
+                "burggeš",
+                "burggežetne",
+                "burggežeahppi",
+                "burggežeaba",
+                "burggežit, -žat",
+                "burggežehpet",
+                "burggežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in burggeš",
+                "it burggeš",
+                "ii burggeš",
+                "ean burggeš",
+                "eahppi burggeš",
+                "eaba burggeš",
+                "eat burggeš",
+                "ehpet burggeš",
+                "eai burggeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "burgon",
+                "burgge",
+                "burgos",
+                "burgu",
+                "burgi",
+                "burgoska",
+                "burgot",
+                "burget",
+                "burgoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon burgge",
+                "ale burgge",
+                "allos burgge",
+                "allu burgge",
+                "alli burgge",
+                "alloska burgge",
+                "allot, allut burgge",
+                "allet, allit burgge",
+                "alloset burgge"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Burgit",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čuoldit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čuolddán",
+                "čuolddát",
+                "čuoldá",
+                "čulde",
+                "čuoldibeahtti",
+                "čuoldiba",
+                "čuoldit",
+                "čuoldibehtet",
+                "čuldet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čuoldde",
+                "it čuoldde",
+                "ii čuoldde",
+                "ean čuoldde",
+                "eahppi čuoldde",
+                "eaba čuoldde",
+                "eat čuoldde",
+                "ehpet čuoldde",
+                "eai čuoldde"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čulden",
+                "čuldet",
+                "čulddii",
+                "čulddiime",
+                "čulddiide",
+                "čulddiiga",
+                "čulddiimet",
+                "čulddiidet",
+                "čulde"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čuoldán",
+                "it čuoldán",
+                "ii čuoldán",
+                "ean čuoldán",
+                "eahppi čuoldán",
+                "eaba čuoldán",
+                "eat čuoldán",
+                "ehpet čuoldán",
+                "eai čuoldán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čuoldán",
+                "leat čuoldán",
+                "lea čuoldán",
+                "letne čuoldán",
+                "leahppi čuoldán",
+                "leaba čuoldán",
+                "leat čuoldán",
+                "lehpet čuoldán",
+                "leat čuoldán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čuoldán",
+                "ledjet čuoldán",
+                "lei čuoldán",
+                "leimme čuoldán",
+                "leidde čuoldán",
+                "leigga čuoldán",
+                "leimmet čuoldán",
+                "leiddet čuoldán",
+                "ledje čuoldán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čuoldime, -min",
+                "leat čuoldime, -min",
+                "lea čuoldime, -min",
+                "letne čuoldime, -min",
+                "leahppi čuoldime, -min",
+                "leaba čuoldime, -min",
+                "leat čuoldime, -min",
+                "lehpet čuoldime, -min",
+                "leat čuoldime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čuoldime, -min",
+                "ledjet čuoldime, -min",
+                "lei čuoldime, -min",
+                "leimme čuoldime, -min",
+                "leidde čuoldime, -min",
+                "leigga čuoldime, -min",
+                "leimmet čuoldime, -min",
+                "leiddet čuoldime, -min",
+                "ledje čuoldime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čuolddášin",
+                "čuolddášit",
+                "čuolddášii",
+                "čuolddášeimme",
+                "čuolddášeidde",
+                "čuolddášeigga",
+                "čuolddášeimmet",
+                "čuolddášeiddet",
+                "čuolddášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čuolddáše",
+                "it čuolddáše",
+                "ii čuolddáše",
+                "ean čuolddáše",
+                "eahppi čuolddáše",
+                "eaba čuolddáše",
+                "eat čuolddáše",
+                "ehpet čuolddáše",
+                "eai čuolddáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čulddežan",
+                "čulddežat",
+                "čulddeš",
+                "čulddežetne",
+                "čulddežeahppi",
+                "čulddežeaba",
+                "čulddežit, -žat",
+                "čulddežehpet",
+                "čulddežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čulddeš",
+                "it čulddeš",
+                "ii čulddeš",
+                "ean čulddeš",
+                "eahppi čulddeš",
+                "eaba čulddeš",
+                "eat čulddeš",
+                "ehpet čulddeš",
+                "eai čulddeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čuldon",
+                "čuoldde",
+                "čuldos",
+                "čuoldu",
+                "čuoldi",
+                "čuldoska",
+                "čuldot, čuoldot",
+                "čuldet, čuoldet",
+                "čuldoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čuoldde",
+                "ale čuoldde",
+                "allos čuoldde",
+                "allu čuoldde",
+                "alli čuoldde",
+                "alloska čuoldde",
+                "allot, allut čuoldde",
+                "allet, allit čuoldde",
+                "alloset čuoldde"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čuoldit",
+    "valid": 1
+}

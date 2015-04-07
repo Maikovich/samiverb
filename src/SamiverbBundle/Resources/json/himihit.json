@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "himihit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "himihan",
+                "himihat",
+                "himiha",
+                "himihetne",
+                "himiheahppi",
+                "himiheaba",
+                "himihit, -hat",
+                "himihehpet",
+                "himihit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in himit",
+                "it himit",
+                "ii himit",
+                "ean himit",
+                "eahppi himit",
+                "eaba himit",
+                "eat himit",
+                "ehpet himit",
+                "eai himit"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "himihin",
+                "himihit",
+                "himihii",
+                "himiheimme",
+                "himiheidde",
+                "himiheigga",
+                "himiheimmet",
+                "himiheiddet",
+                "himihedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in himihan",
+                "it himihan",
+                "ii himihan",
+                "ean himihan",
+                "eahppi himihan",
+                "eaba himihan",
+                "eat himihan",
+                "ehpet himihan",
+                "eai himihan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean himihan",
+                "leat himihan",
+                "lea himihan",
+                "letne himihan",
+                "leahppi himihan",
+                "leaba himihan",
+                "leat himihan",
+                "lehpet himihan",
+                "leat himihan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen himihan",
+                "ledjet himihan",
+                "lei himihan",
+                "leimme himihan",
+                "leidde himihan",
+                "leigga himihan",
+                "leimmet himihan",
+                "leiddet himihan",
+                "ledje himihan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean himiheame, -men",
+                "leat himiheame, -men",
+                "lea himiheame, -men",
+                "letne himiheame, -men",
+                "leahppi himiheame, -men",
+                "leaba himiheame, -men",
+                "leat himiheame, -men",
+                "lehpet himiheame, -men",
+                "leat himiheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen himiheame, -men",
+                "ledjet himiheame, -men",
+                "lei himiheame, -men",
+                "leimme himiheame, -men",
+                "leidde himiheame, -men",
+                "leigga himiheame, -men",
+                "leimmet himiheame, -men",
+                "leiddet himiheame, -men",
+                "ledje himiheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "himihivččen",
+                "himihivččet",
+                "himihivččii",
+                "himihivččiime",
+                "himihivččiide",
+                "himihivččiiga",
+                "himihivččiimet",
+                "himihivččiidet",
+                "himihivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in himihivčče",
+                "it himihivčče",
+                "ii himihivčče",
+                "ean himihivčče",
+                "eahppi himihivčče",
+                "eaba himihivčče",
+                "eat himihivčče",
+                "ehpet himihivčče",
+                "eai himihivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "himiheaččan",
+                "himiheaččat",
+                "himiheaš, -heš, -heažžá",
+                "himihežže",
+                "himiheažžabeahtti",
+                "himiheažžaba",
+                "himiheažžat",
+                "himiheažžabehtet",
+                "himihežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in himiheaš, -heš, -heažžá",
+                "it himiheaš, -heš, -heažžá",
+                "ii himiheaš, -heš, -heažžá",
+                "ean himiheaš, -heš, -heažžá",
+                "eahppi himiheaš, -heš, -heažžá",
+                "eaba himiheaš, -heš, -heažžá",
+                "eat himiheaš, -heš, -heažžá",
+                "ehpet himiheaš, -heš, -heažžá",
+                "eai himiheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "himihehkon",
+                "himit",
+                "himihehkos, himihus",
+                "himiheadnu",
+                "himiheahkki",
+                "himihehkoska",
+                "himihehkot, himiheahkkut, himihetnot, himiheadnot",
+                "himihehket",
+                "himihehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon himit",
+                "ale himit",
+                "allos himit",
+                "allu himit",
+                "alli himit",
+                "alloska himit",
+                "allot, allut himit",
+                "allet, allit himit",
+                "alloset himit"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Himihit",
+    "valid": 1
+}

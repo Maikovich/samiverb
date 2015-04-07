@@ -1,0 +1,13 @@
+<div class="alert alert-warning alert-dismissable fade in" role="alert" ng-show="isSuggestionsReady() && !isChecked()">
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+  <h4 id="verb-suggestions">
+    ´{[{getRequestedVerb()}]}´ Did you mean: 
+    <a href class="suggestions" ng-repeat="match in suggestions.matches" ng-click="requestNewVerb(match)">
+      <em>{[{match}]}</em>
+    </a>
+    ?
+  </h4>
+  <p>
+    <strong>Oops, warning!</strong> This verb might be misspelled, so I suggested another verb for you. 
+  </p>
+</div>

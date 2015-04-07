@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "verzulit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "verzulan",
+                "verzulat",
+                "verzula",
+                "verzuletne",
+                "verzuleahppi",
+                "verzuleaba",
+                "verzulit, -lat",
+                "verzulehpet",
+                "verzulit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in verzul",
+                "it verzul",
+                "ii verzul",
+                "ean verzul",
+                "eahppi verzul",
+                "eaba verzul",
+                "eat verzul",
+                "ehpet verzul",
+                "eai verzul"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "verzulin",
+                "verzulit",
+                "verzulii",
+                "verzuleimme",
+                "verzuleidde",
+                "verzuleigga",
+                "verzuleimmet",
+                "verzuleiddet",
+                "verzuledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in verzulan",
+                "it verzulan",
+                "ii verzulan",
+                "ean verzulan",
+                "eahppi verzulan",
+                "eaba verzulan",
+                "eat verzulan",
+                "ehpet verzulan",
+                "eai verzulan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean verzulan",
+                "leat verzulan",
+                "lea verzulan",
+                "letne verzulan",
+                "leahppi verzulan",
+                "leaba verzulan",
+                "leat verzulan",
+                "lehpet verzulan",
+                "leat verzulan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen verzulan",
+                "ledjet verzulan",
+                "lei verzulan",
+                "leimme verzulan",
+                "leidde verzulan",
+                "leigga verzulan",
+                "leimmet verzulan",
+                "leiddet verzulan",
+                "ledje verzulan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean verzuleame, -men",
+                "leat verzuleame, -men",
+                "lea verzuleame, -men",
+                "letne verzuleame, -men",
+                "leahppi verzuleame, -men",
+                "leaba verzuleame, -men",
+                "leat verzuleame, -men",
+                "lehpet verzuleame, -men",
+                "leat verzuleame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen verzuleame, -men",
+                "ledjet verzuleame, -men",
+                "lei verzuleame, -men",
+                "leimme verzuleame, -men",
+                "leidde verzuleame, -men",
+                "leigga verzuleame, -men",
+                "leimmet verzuleame, -men",
+                "leiddet verzuleame, -men",
+                "ledje verzuleame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "verzulivččen",
+                "verzulivččet",
+                "verzulivččii",
+                "verzulivččiime",
+                "verzulivččiide",
+                "verzulivččiiga",
+                "verzulivččiimet",
+                "verzulivččiidet",
+                "verzulivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in verzulivčče",
+                "it verzulivčče",
+                "ii verzulivčče",
+                "ean verzulivčče",
+                "eahppi verzulivčče",
+                "eaba verzulivčče",
+                "eat verzulivčče",
+                "ehpet verzulivčče",
+                "eai verzulivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "verzuleaččan",
+                "verzuleaččat",
+                "verzuleaš, -leš, -leažžá",
+                "verzuležže",
+                "verzuleažžabeahtti",
+                "verzuleažžaba",
+                "verzuleažžat",
+                "verzuleažžabehtet",
+                "verzuležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in verzuleaš, -leš, -leažžá",
+                "it verzuleaš, -leš, -leažžá",
+                "ii verzuleaš, -leš, -leažžá",
+                "ean verzuleaš, -leš, -leažžá",
+                "eahppi verzuleaš, -leš, -leažžá",
+                "eaba verzuleaš, -leš, -leažžá",
+                "eat verzuleaš, -leš, -leažžá",
+                "ehpet verzuleaš, -leš, -leažžá",
+                "eai verzuleaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "verzulehkon",
+                "verzul",
+                "verzulehkos, verzulus",
+                "verzuleadnu",
+                "verzuleahkki",
+                "verzulehkoska",
+                "verzulehkot, verzuleahkkut, verzuletnot, verzuleadnot",
+                "verzulehket",
+                "verzulehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon verzul",
+                "ale verzul",
+                "allos verzul",
+                "allu verzul",
+                "alli verzul",
+                "alloska verzul",
+                "allot, allut verzul",
+                "allet, allit verzul",
+                "alloset verzul"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "valid": 0,
+    "value": "Verzulit"
+}

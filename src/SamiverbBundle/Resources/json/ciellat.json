@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "ciellat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "cielan",
+                "cielat",
+                "ciellá",
+                "cille",
+                "ciellabeahtti",
+                "ciellaba",
+                "ciellat",
+                "ciellabehtet",
+                "cillet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in ciela",
+                "it ciela",
+                "ii ciela",
+                "ean ciela",
+                "eahppi ciela",
+                "eaba ciela",
+                "eat ciela",
+                "ehpet ciela",
+                "eai ciela"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "cillen",
+                "cillet",
+                "cielai",
+                "cielaime",
+                "cielaide",
+                "cielaiga",
+                "cielaimet",
+                "cielaidet",
+                "cille"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ciellan",
+                "it ciellan",
+                "ii ciellan",
+                "ean ciellan",
+                "eahppi ciellan",
+                "eaba ciellan",
+                "eat ciellan",
+                "ehpet ciellan",
+                "eai ciellan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ciellan",
+                "leat ciellan",
+                "lea ciellan",
+                "letne ciellan",
+                "leahppi ciellan",
+                "leaba ciellan",
+                "leat ciellan",
+                "lehpet ciellan",
+                "leat ciellan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ciellan",
+                "ledjet ciellan",
+                "lei ciellan",
+                "leimme ciellan",
+                "leidde ciellan",
+                "leigga ciellan",
+                "leimmet ciellan",
+                "leiddet ciellan",
+                "ledje ciellan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean ciellame, -min",
+                "leat ciellame, -min",
+                "lea ciellame, -min",
+                "letne ciellame, -min",
+                "leahppi ciellame, -min",
+                "leaba ciellame, -min",
+                "leat ciellame, -min",
+                "lehpet ciellame, -min",
+                "leat ciellame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen ciellame, -min",
+                "ledjet ciellame, -min",
+                "lei ciellame, -min",
+                "leimme ciellame, -min",
+                "leidde ciellame, -min",
+                "leigga ciellame, -min",
+                "leimmet ciellame, -min",
+                "leiddet ciellame, -min",
+                "ledje ciellame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "cielašin",
+                "cielašit",
+                "cielašii",
+                "cielašeimme",
+                "cielašeidde",
+                "cielašeigga",
+                "cielašeimmet",
+                "cielašeiddet",
+                "cielašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in cielaše",
+                "it cielaše",
+                "ii cielaše",
+                "ean cielaše",
+                "eahppi cielaše",
+                "eaba cielaše",
+                "eat cielaše",
+                "ehpet cielaše",
+                "eai cielaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "cielažan",
+                "cielažat",
+                "cielaš",
+                "cielažetne",
+                "cielažeahppi",
+                "cielažeaba",
+                "cielažit, -žat",
+                "cielažehpet",
+                "cielažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in cielaš",
+                "it cielaš",
+                "ii cielaš",
+                "ean cielaš",
+                "eahppi cielaš",
+                "eaba cielaš",
+                "eat cielaš",
+                "ehpet cielaš",
+                "eai cielaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "cillon",
+                "ciela",
+                "cillos",
+                "ciellu",
+                "cielli",
+                "cilloska",
+                "cillot, ciellot",
+                "cillet, ciellit",
+                "cilloset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon ciela",
+                "ale ciela",
+                "allos ciela",
+                "allu ciela",
+                "alli ciela",
+                "alloska ciela",
+                "allot, allut ciela",
+                "allet, allit ciela",
+                "alloset ciela"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Ciellat",
+    "valid": 1
+}

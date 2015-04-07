@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "vuojašit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "vuojašan",
+                "vuojašat",
+                "vuojaša",
+                "vuojašetne",
+                "vuojašeahppi",
+                "vuojašeaba",
+                "vuojašit, -šat",
+                "vuojašehpet",
+                "vuojašit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in vuojaš",
+                "it vuojaš",
+                "ii vuojaš",
+                "ean vuojaš",
+                "eahppi vuojaš",
+                "eaba vuojaš",
+                "eat vuojaš",
+                "ehpet vuojaš",
+                "eai vuojaš"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "vuojašin",
+                "vuojašit",
+                "vuojašii",
+                "vuojašeimme",
+                "vuojašeidde",
+                "vuojašeigga",
+                "vuojašeimmet",
+                "vuojašeiddet",
+                "vuojašedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in vuojašan",
+                "it vuojašan",
+                "ii vuojašan",
+                "ean vuojašan",
+                "eahppi vuojašan",
+                "eaba vuojašan",
+                "eat vuojašan",
+                "ehpet vuojašan",
+                "eai vuojašan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean vuojašan",
+                "leat vuojašan",
+                "lea vuojašan",
+                "letne vuojašan",
+                "leahppi vuojašan",
+                "leaba vuojašan",
+                "leat vuojašan",
+                "lehpet vuojašan",
+                "leat vuojašan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen vuojašan",
+                "ledjet vuojašan",
+                "lei vuojašan",
+                "leimme vuojašan",
+                "leidde vuojašan",
+                "leigga vuojašan",
+                "leimmet vuojašan",
+                "leiddet vuojašan",
+                "ledje vuojašan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean vuojašeame, -men",
+                "leat vuojašeame, -men",
+                "lea vuojašeame, -men",
+                "letne vuojašeame, -men",
+                "leahppi vuojašeame, -men",
+                "leaba vuojašeame, -men",
+                "leat vuojašeame, -men",
+                "lehpet vuojašeame, -men",
+                "leat vuojašeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen vuojašeame, -men",
+                "ledjet vuojašeame, -men",
+                "lei vuojašeame, -men",
+                "leimme vuojašeame, -men",
+                "leidde vuojašeame, -men",
+                "leigga vuojašeame, -men",
+                "leimmet vuojašeame, -men",
+                "leiddet vuojašeame, -men",
+                "ledje vuojašeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "vuojašivččen",
+                "vuojašivččet",
+                "vuojašivččii",
+                "vuojašivččiime",
+                "vuojašivččiide",
+                "vuojašivččiiga",
+                "vuojašivččiimet",
+                "vuojašivččiidet",
+                "vuojašivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in vuojašivčče",
+                "it vuojašivčče",
+                "ii vuojašivčče",
+                "ean vuojašivčče",
+                "eahppi vuojašivčče",
+                "eaba vuojašivčče",
+                "eat vuojašivčče",
+                "ehpet vuojašivčče",
+                "eai vuojašivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "vuojašeaččan",
+                "vuojašeaččat",
+                "vuojašeaš, -šeš, -šeažžá",
+                "vuojašežže",
+                "vuojašeažžabeahtti",
+                "vuojašeažžaba",
+                "vuojašeažžat",
+                "vuojašeažžabehtet",
+                "vuojašežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in vuojašeaš, -šeš, -šeažžá",
+                "it vuojašeaš, -šeš, -šeažžá",
+                "ii vuojašeaš, -šeš, -šeažžá",
+                "ean vuojašeaš, -šeš, -šeažžá",
+                "eahppi vuojašeaš, -šeš, -šeažžá",
+                "eaba vuojašeaš, -šeš, -šeažžá",
+                "eat vuojašeaš, -šeš, -šeažžá",
+                "ehpet vuojašeaš, -šeš, -šeažžá",
+                "eai vuojašeaš, -šeš, -šeažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "vuojašehkon",
+                "vuojaš",
+                "vuojašehkos, vuojašus",
+                "vuojašeadnu",
+                "vuojašeahkki",
+                "vuojašehkoska",
+                "vuojašehkot, vuojašeahkkut, vuojašetnot, vuojašeadnot",
+                "vuojašehket",
+                "vuojašehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon vuojaš",
+                "ale vuojaš",
+                "allos vuojaš",
+                "allu vuojaš",
+                "alli vuojaš",
+                "alloska vuojaš",
+                "allot, allut vuojaš",
+                "allet, allit vuojaš",
+                "alloset vuojaš"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Vuojašit",
+    "valid": 1
+}

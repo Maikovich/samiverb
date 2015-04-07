@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "bálkut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "bálkkun",
+                "bálkkut",
+                "bálku",
+                "bálko",
+                "bálkubeahtti",
+                "bálkuba",
+                "bálkut",
+                "bálkubehtet",
+                "bálkot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in bálkko",
+                "it bálkko",
+                "ii bálkko",
+                "ean bálkko",
+                "eahppi bálkko",
+                "eaba bálkko",
+                "eat bálkko",
+                "ehpet bálkko",
+                "eai bálkko"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "bálkon",
+                "bálkot",
+                "bálkkui",
+                "bálkkuime",
+                "bálkkuide",
+                "bálkkuiga",
+                "bálkkuimet",
+                "bálkkuidet",
+                "bálko"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in bálkon",
+                "it bálkon",
+                "ii bálkon",
+                "ean bálkon",
+                "eahppi bálkon",
+                "eaba bálkon",
+                "eat bálkon",
+                "ehpet bálkon",
+                "eai bálkon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean bálkon",
+                "leat bálkon",
+                "lea bálkon",
+                "letne bálkon",
+                "leahppi bálkon",
+                "leaba bálkon",
+                "leat bálkon",
+                "lehpet bálkon",
+                "leat bálkon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen bálkon",
+                "ledjet bálkon",
+                "lei bálkon",
+                "leimme bálkon",
+                "leidde bálkon",
+                "leigga bálkon",
+                "leimmet bálkon",
+                "leiddet bálkon",
+                "ledje bálkon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean bálkume, -min",
+                "leat bálkume, -min",
+                "lea bálkume, -min",
+                "letne bálkume, -min",
+                "leahppi bálkume, -min",
+                "leaba bálkume, -min",
+                "leat bálkume, -min",
+                "lehpet bálkume, -min",
+                "leat bálkume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen bálkume, -min",
+                "ledjet bálkume, -min",
+                "lei bálkume, -min",
+                "leimme bálkume, -min",
+                "leidde bálkume, -min",
+                "leigga bálkume, -min",
+                "leimmet bálkume, -min",
+                "leiddet bálkume, -min",
+                "ledje bálkume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "bálkkošin",
+                "bálkkošit",
+                "bálkkošii",
+                "bálkkošeimme",
+                "bálkkošeidde",
+                "bálkkošeigga",
+                "bálkkošeimmet",
+                "bálkkošeiddet",
+                "bálkkošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in bálkkoše",
+                "it bálkkoše",
+                "ii bálkkoše",
+                "ean bálkkoše",
+                "eahppi bálkkoše",
+                "eaba bálkkoše",
+                "eat bálkkoše",
+                "ehpet bálkkoše",
+                "eai bálkkoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "bálkkožan",
+                "bálkkožat",
+                "bálkkoš",
+                "bálkkožetne",
+                "bálkkožeahppi",
+                "bálkkožeaba",
+                "bálkkožit, -žat",
+                "bálkkožehpet",
+                "bálkkožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in bálkkoš",
+                "it bálkkoš",
+                "ii bálkkoš",
+                "ean bálkkoš",
+                "eahppi bálkkoš",
+                "eaba bálkkoš",
+                "eat bálkkoš",
+                "ehpet bálkkoš",
+                "eai bálkkoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "bálkon",
+                "bálkko",
+                "bálkos",
+                "bálku",
+                "bálku",
+                "bálkoska",
+                "bálkot",
+                "bálkot",
+                "bálkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon bálkko",
+                "ale bálkko",
+                "allos bálkko",
+                "allu bálkko",
+                "alli bálkko",
+                "alloska bálkko",
+                "allot, allut bálkko",
+                "allet, allit bálkko",
+                "alloset bálkko"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Bálkut",
+    "valid": 1
+}

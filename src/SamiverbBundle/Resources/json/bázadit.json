@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "bázadit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "bázadan",
+                "bázadat",
+                "bázada",
+                "bázadetne",
+                "bázadeahppi",
+                "bázadeaba",
+                "bázadit, -dat",
+                "bázadehpet",
+                "bázadit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in bázat",
+                "it bázat",
+                "ii bázat",
+                "ean bázat",
+                "eahppi bázat",
+                "eaba bázat",
+                "eat bázat",
+                "ehpet bázat",
+                "eai bázat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "bázadin",
+                "bázadit",
+                "bázadii",
+                "bázadeimme",
+                "bázadeidde",
+                "bázadeigga",
+                "bázadeimmet",
+                "bázadeiddet",
+                "bázadedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in bázadan",
+                "it bázadan",
+                "ii bázadan",
+                "ean bázadan",
+                "eahppi bázadan",
+                "eaba bázadan",
+                "eat bázadan",
+                "ehpet bázadan",
+                "eai bázadan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean bázadan",
+                "leat bázadan",
+                "lea bázadan",
+                "letne bázadan",
+                "leahppi bázadan",
+                "leaba bázadan",
+                "leat bázadan",
+                "lehpet bázadan",
+                "leat bázadan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen bázadan",
+                "ledjet bázadan",
+                "lei bázadan",
+                "leimme bázadan",
+                "leidde bázadan",
+                "leigga bázadan",
+                "leimmet bázadan",
+                "leiddet bázadan",
+                "ledje bázadan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean bázadeame, -men",
+                "leat bázadeame, -men",
+                "lea bázadeame, -men",
+                "letne bázadeame, -men",
+                "leahppi bázadeame, -men",
+                "leaba bázadeame, -men",
+                "leat bázadeame, -men",
+                "lehpet bázadeame, -men",
+                "leat bázadeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen bázadeame, -men",
+                "ledjet bázadeame, -men",
+                "lei bázadeame, -men",
+                "leimme bázadeame, -men",
+                "leidde bázadeame, -men",
+                "leigga bázadeame, -men",
+                "leimmet bázadeame, -men",
+                "leiddet bázadeame, -men",
+                "ledje bázadeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "bázadivččen",
+                "bázadivččet",
+                "bázadivččii",
+                "bázadivččiime",
+                "bázadivččiide",
+                "bázadivččiiga",
+                "bázadivččiimet",
+                "bázadivččiidet",
+                "bázadivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in bázadivčče",
+                "it bázadivčče",
+                "ii bázadivčče",
+                "ean bázadivčče",
+                "eahppi bázadivčče",
+                "eaba bázadivčče",
+                "eat bázadivčče",
+                "ehpet bázadivčče",
+                "eai bázadivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "bázadeaččan",
+                "bázadeaččat",
+                "bázadeaš, -deš, -deažžá",
+                "bázadežže",
+                "bázadeažžabeahtti",
+                "bázadeažžaba",
+                "bázadeažžat",
+                "bázadeažžabehtet",
+                "bázadežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in bázadeaš, -deš, -deažžá",
+                "it bázadeaš, -deš, -deažžá",
+                "ii bázadeaš, -deš, -deažžá",
+                "ean bázadeaš, -deš, -deažžá",
+                "eahppi bázadeaš, -deš, -deažžá",
+                "eaba bázadeaš, -deš, -deažžá",
+                "eat bázadeaš, -deš, -deažžá",
+                "ehpet bázadeaš, -deš, -deažžá",
+                "eai bázadeaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "bázadehkon",
+                "bázat",
+                "bázadehkos, bázadus",
+                "bázadeadnu",
+                "bázadeahkki",
+                "bázadehkoska",
+                "bázadehkot, bázadeahkkut, bázadetnot, bázadeadnot",
+                "bázadehket",
+                "bázadehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon bázat",
+                "ale bázat",
+                "allos bázat",
+                "allu bázat",
+                "alli bázat",
+                "alloska bázat",
+                "allot, allut bázat",
+                "allet, allit bázat",
+                "alloset bázat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Bázadit",
+    "valid": 1
+}

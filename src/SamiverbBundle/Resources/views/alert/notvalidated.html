@@ -1,0 +1,17 @@
+<div class="alert alert-warning alert-dismissable fade in" role="alert" ng-show="isPossibleVerb() && !isChecked()">
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+  <h4 id="verb-validation-warning">
+    Verb has not been validated!
+  </h4>
+  <p>
+    <strong>Be careful!</strong> This verb has not been validated, please request validation by clicking on the button below.
+  </p>
+  <p>
+    <button class="btn btn-warning" type="button" data-toggle="modal" data-target="#validateModal">
+      Request validation
+    </button>
+    <button class="btn btn-default" type="button">
+      Learn more
+    </button>
+  </p>
+</div>

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "vuhtodit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "vuhtodan",
+                "vuhtodat",
+                "vuhtoda",
+                "vuhtodetne",
+                "vuhtodeahppi",
+                "vuhtodeaba",
+                "vuhtodit, -dat",
+                "vuhtodehpet",
+                "vuhtodit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in vuhtot",
+                "it vuhtot",
+                "ii vuhtot",
+                "ean vuhtot",
+                "eahppi vuhtot",
+                "eaba vuhtot",
+                "eat vuhtot",
+                "ehpet vuhtot",
+                "eai vuhtot"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "vuhtodin",
+                "vuhtodit",
+                "vuhtodii",
+                "vuhtodeimme",
+                "vuhtodeidde",
+                "vuhtodeigga",
+                "vuhtodeimmet",
+                "vuhtodeiddet",
+                "vuhtodedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in vuhtodan",
+                "it vuhtodan",
+                "ii vuhtodan",
+                "ean vuhtodan",
+                "eahppi vuhtodan",
+                "eaba vuhtodan",
+                "eat vuhtodan",
+                "ehpet vuhtodan",
+                "eai vuhtodan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean vuhtodan",
+                "leat vuhtodan",
+                "lea vuhtodan",
+                "letne vuhtodan",
+                "leahppi vuhtodan",
+                "leaba vuhtodan",
+                "leat vuhtodan",
+                "lehpet vuhtodan",
+                "leat vuhtodan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen vuhtodan",
+                "ledjet vuhtodan",
+                "lei vuhtodan",
+                "leimme vuhtodan",
+                "leidde vuhtodan",
+                "leigga vuhtodan",
+                "leimmet vuhtodan",
+                "leiddet vuhtodan",
+                "ledje vuhtodan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean vuhtodeame, -men",
+                "leat vuhtodeame, -men",
+                "lea vuhtodeame, -men",
+                "letne vuhtodeame, -men",
+                "leahppi vuhtodeame, -men",
+                "leaba vuhtodeame, -men",
+                "leat vuhtodeame, -men",
+                "lehpet vuhtodeame, -men",
+                "leat vuhtodeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen vuhtodeame, -men",
+                "ledjet vuhtodeame, -men",
+                "lei vuhtodeame, -men",
+                "leimme vuhtodeame, -men",
+                "leidde vuhtodeame, -men",
+                "leigga vuhtodeame, -men",
+                "leimmet vuhtodeame, -men",
+                "leiddet vuhtodeame, -men",
+                "ledje vuhtodeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "vuhtodivččen",
+                "vuhtodivččet",
+                "vuhtodivččii",
+                "vuhtodivččiime",
+                "vuhtodivččiide",
+                "vuhtodivččiiga",
+                "vuhtodivččiimet",
+                "vuhtodivččiidet",
+                "vuhtodivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in vuhtodivčče",
+                "it vuhtodivčče",
+                "ii vuhtodivčče",
+                "ean vuhtodivčče",
+                "eahppi vuhtodivčče",
+                "eaba vuhtodivčče",
+                "eat vuhtodivčče",
+                "ehpet vuhtodivčče",
+                "eai vuhtodivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "vuhtodeaččan",
+                "vuhtodeaččat",
+                "vuhtodeaš, -deš, -deažžá",
+                "vuhtodežže",
+                "vuhtodeažžabeahtti",
+                "vuhtodeažžaba",
+                "vuhtodeažžat",
+                "vuhtodeažžabehtet",
+                "vuhtodežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in vuhtodeaš, -deš, -deažžá",
+                "it vuhtodeaš, -deš, -deažžá",
+                "ii vuhtodeaš, -deš, -deažžá",
+                "ean vuhtodeaš, -deš, -deažžá",
+                "eahppi vuhtodeaš, -deš, -deažžá",
+                "eaba vuhtodeaš, -deš, -deažžá",
+                "eat vuhtodeaš, -deš, -deažžá",
+                "ehpet vuhtodeaš, -deš, -deažžá",
+                "eai vuhtodeaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "vuhtodehkon",
+                "vuhtot",
+                "vuhtodehkos, vuhtodus",
+                "vuhtodeadnu",
+                "vuhtodeahkki",
+                "vuhtodehkoska",
+                "vuhtodehkot, vuhtodeahkkut, vuhtodetnot, vuhtodeadnot",
+                "vuhtodehket",
+                "vuhtodehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon vuhtot",
+                "ale vuhtot",
+                "allos vuhtot",
+                "allu vuhtot",
+                "alli vuhtot",
+                "alloska vuhtot",
+                "allot, allut vuhtot",
+                "allet, allit vuhtot",
+                "alloset vuhtot"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Vuhtodit",
+    "valid": 1
+}

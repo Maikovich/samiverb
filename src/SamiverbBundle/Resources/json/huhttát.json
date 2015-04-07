@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "huhttát",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "huhttán",
+                "huhttát",
+                "huhttá",
+                "huhttájetne",
+                "huhttábeahtti",
+                "huhttába",
+                "huhttát",
+                "huhttábehtet",
+                "huhttájit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in huhttá",
+                "it huhttá",
+                "ii huhttá",
+                "ean huhttá",
+                "eahppi huhttá",
+                "eaba huhttá",
+                "eat huhttá",
+                "ehpet huhttá",
+                "eai huhttá"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "huhttájin",
+                "huhttájit",
+                "huhttái",
+                "huhttáime",
+                "huhttáide",
+                "huhttáiga",
+                "huhttáimet",
+                "huhttáidet",
+                "huhttájedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in huhttán",
+                "it huhttán",
+                "ii huhttán",
+                "ean huhttán",
+                "eahppi huhttán",
+                "eaba huhttán",
+                "eat huhttán",
+                "ehpet huhttán",
+                "eai huhttán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean huhttán",
+                "leat huhttán",
+                "lea huhttán",
+                "letne huhttán",
+                "leahppi huhttán",
+                "leaba huhttán",
+                "leat huhttán",
+                "lehpet huhttán",
+                "leat huhttán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen huhttán",
+                "ledjet huhttán",
+                "lei huhttán",
+                "leimme huhttán",
+                "leidde huhttán",
+                "leigga huhttán",
+                "leimmet huhttán",
+                "leiddet huhttán",
+                "ledje huhttán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean huhttáme, -min",
+                "leat huhttáme, -min",
+                "lea huhttáme, -min",
+                "letne huhttáme, -min",
+                "leahppi huhttáme, -min",
+                "leaba huhttáme, -min",
+                "leat huhttáme, -min",
+                "lehpet huhttáme, -min",
+                "leat huhttáme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen huhttáme, -min",
+                "ledjet huhttáme, -min",
+                "lei huhttáme, -min",
+                "leimme huhttáme, -min",
+                "leidde huhttáme, -min",
+                "leigga huhttáme, -min",
+                "leimmet huhttáme, -min",
+                "leiddet huhttáme, -min",
+                "ledje huhttáme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "huhttášin",
+                "huhttášit",
+                "huhttášii",
+                "huhttášeimme",
+                "huhttášeidde",
+                "huhttášeigga",
+                "huhttášeimmet",
+                "huhttášeiddet",
+                "huhttášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in huhttáše",
+                "it huhttáše",
+                "ii huhttáše",
+                "ean huhttáše",
+                "eahppi huhttáše",
+                "eaba huhttáše",
+                "eat huhttáše",
+                "ehpet huhttáše",
+                "eai huhttáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "huhttážan",
+                "huhttážat",
+                "huhttáš",
+                "huhttážetne",
+                "huhttážeahppi",
+                "huhttážeaba",
+                "huhttážit, -žat",
+                "huhttážehpet",
+                "huhttážit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in huhttáš",
+                "it huhttáš",
+                "ii huhttáš",
+                "ean huhttáš",
+                "eahppi huhttáš",
+                "eaba huhttáš",
+                "eat huhttáš",
+                "ehpet huhttáš",
+                "eai huhttáš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "huhttájehkon",
+                "huhttá",
+                "huhttájehkos",
+                "huhttájeadnu",
+                "huhttájeahkki",
+                "huhttájehkoska",
+                "huhttájeahkkut, huhttájeadnot, huhttájehkot, huhttájetnot",
+                "huhttájeahkkit",
+                "huhttájehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon huhttá",
+                "ale huhttá",
+                "allos huhttá",
+                "allu huhttá",
+                "alli huhttá",
+                "alloska huhttá",
+                "allot, allut huhttá",
+                "allet, allit huhttá",
+                "alloset huhttá"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Huhttát",
+    "valid": 1
+}

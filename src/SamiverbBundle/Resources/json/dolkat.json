@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "dolkat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "dolkkan",
+                "dolkkat",
+                "dolká",
+                "dolke",
+                "dolkabeahtti",
+                "dolkaba",
+                "dolkat",
+                "dolkabehtet",
+                "dolket"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in dolkka",
+                "it dolkka",
+                "ii dolkka",
+                "ean dolkka",
+                "eahppi dolkka",
+                "eaba dolkka",
+                "eat dolkka",
+                "ehpet dolkka",
+                "eai dolkka"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "dolken",
+                "dolket",
+                "dolkkai",
+                "dolkkaime",
+                "dolkkaide",
+                "dolkkaiga",
+                "dolkkaimet",
+                "dolkkaidet",
+                "dolke"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in dolkan",
+                "it dolkan",
+                "ii dolkan",
+                "ean dolkan",
+                "eahppi dolkan",
+                "eaba dolkan",
+                "eat dolkan",
+                "ehpet dolkan",
+                "eai dolkan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean dolkan",
+                "leat dolkan",
+                "lea dolkan",
+                "letne dolkan",
+                "leahppi dolkan",
+                "leaba dolkan",
+                "leat dolkan",
+                "lehpet dolkan",
+                "leat dolkan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen dolkan",
+                "ledjet dolkan",
+                "lei dolkan",
+                "leimme dolkan",
+                "leidde dolkan",
+                "leigga dolkan",
+                "leimmet dolkan",
+                "leiddet dolkan",
+                "ledje dolkan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean dolkame, -min",
+                "leat dolkame, -min",
+                "lea dolkame, -min",
+                "letne dolkame, -min",
+                "leahppi dolkame, -min",
+                "leaba dolkame, -min",
+                "leat dolkame, -min",
+                "lehpet dolkame, -min",
+                "leat dolkame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen dolkame, -min",
+                "ledjet dolkame, -min",
+                "lei dolkame, -min",
+                "leimme dolkame, -min",
+                "leidde dolkame, -min",
+                "leigga dolkame, -min",
+                "leimmet dolkame, -min",
+                "leiddet dolkame, -min",
+                "ledje dolkame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "dolkkašin",
+                "dolkkašit",
+                "dolkkašii",
+                "dolkkašeimme",
+                "dolkkašeidde",
+                "dolkkašeigga",
+                "dolkkašeimmet",
+                "dolkkašeiddet",
+                "dolkkašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in dolkkaše",
+                "it dolkkaše",
+                "ii dolkkaše",
+                "ean dolkkaše",
+                "eahppi dolkkaše",
+                "eaba dolkkaše",
+                "eat dolkkaše",
+                "ehpet dolkkaše",
+                "eai dolkkaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "dolkkažan",
+                "dolkkažat",
+                "dolkkaš",
+                "dolkkažetne",
+                "dolkkažeahppi",
+                "dolkkažeaba",
+                "dolkkažit, -žat",
+                "dolkkažehpet",
+                "dolkkažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in dolkkaš",
+                "it dolkkaš",
+                "ii dolkkaš",
+                "ean dolkkaš",
+                "eahppi dolkkaš",
+                "eaba dolkkaš",
+                "eat dolkkaš",
+                "ehpet dolkkaš",
+                "eai dolkkaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "dolkon",
+                "dolkka",
+                "dolkos",
+                "dolku",
+                "dolki",
+                "dolkoska",
+                "dolkot",
+                "dolket, dolkit",
+                "dolkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon dolkka",
+                "ale dolkka",
+                "allos dolkka",
+                "allu dolkka",
+                "alli dolkka",
+                "alloska dolkka",
+                "allot, allut dolkka",
+                "allet, allit dolkka",
+                "alloset dolkka"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Dolkat",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "guossut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "guosun",
+                "guosut",
+                "guossu",
+                "gusso",
+                "guossubeahtti",
+                "guossuba",
+                "guossut",
+                "guossubehtet",
+                "gussot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in guoso",
+                "it guoso",
+                "ii guoso",
+                "ean guoso",
+                "eahppi guoso",
+                "eaba guoso",
+                "eat guoso",
+                "ehpet guoso",
+                "eai guoso"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gusson",
+                "gussot",
+                "guosui",
+                "guosuime",
+                "guosuide",
+                "guosuiga",
+                "guosuimet",
+                "guosuidet",
+                "gusso"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gusson",
+                "it gusson",
+                "ii gusson",
+                "ean gusson",
+                "eahppi gusson",
+                "eaba gusson",
+                "eat gusson",
+                "ehpet gusson",
+                "eai gusson"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gusson",
+                "leat gusson",
+                "lea gusson",
+                "letne gusson",
+                "leahppi gusson",
+                "leaba gusson",
+                "leat gusson",
+                "lehpet gusson",
+                "leat gusson"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gusson",
+                "ledjet gusson",
+                "lei gusson",
+                "leimme gusson",
+                "leidde gusson",
+                "leigga gusson",
+                "leimmet gusson",
+                "leiddet gusson",
+                "ledje gusson"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean guossume, -min",
+                "leat guossume, -min",
+                "lea guossume, -min",
+                "letne guossume, -min",
+                "leahppi guossume, -min",
+                "leaba guossume, -min",
+                "leat guossume, -min",
+                "lehpet guossume, -min",
+                "leat guossume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen guossume, -min",
+                "ledjet guossume, -min",
+                "lei guossume, -min",
+                "leimme guossume, -min",
+                "leidde guossume, -min",
+                "leigga guossume, -min",
+                "leimmet guossume, -min",
+                "leiddet guossume, -min",
+                "ledje guossume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gusošin",
+                "gusošit",
+                "gusošii",
+                "gusošeimme",
+                "gusošeidde",
+                "gusošeigga",
+                "gusošeimmet",
+                "gusošeiddet",
+                "gusošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gusoše",
+                "it gusoše",
+                "ii gusoše",
+                "ean gusoše",
+                "eahppi gusoše",
+                "eaba gusoše",
+                "eat gusoše",
+                "ehpet gusoše",
+                "eai gusoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gusožan",
+                "gusožat",
+                "gusoš",
+                "gusožetne",
+                "gusožeahppi",
+                "gusožeaba",
+                "gusožit, -žat",
+                "gusožehpet",
+                "gusožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gusoš",
+                "it gusoš",
+                "ii gusoš",
+                "ean gusoš",
+                "eahppi gusoš",
+                "eaba gusoš",
+                "eat gusoš",
+                "ehpet gusoš",
+                "eai gusoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gusson",
+                "guoso",
+                "gussos",
+                "guossu",
+                "guossu",
+                "gussoska",
+                "gussot, guossot",
+                "gussot, guossot",
+                "gussoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon guoso",
+                "ale guoso",
+                "allos guoso",
+                "allu guoso",
+                "alli guoso",
+                "alloska guoso",
+                "allot, allut guoso",
+                "allet, allit guoso",
+                "alloset guoso"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Guossut",
+    "valid": 1
+}

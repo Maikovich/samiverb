@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "várgulit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "várgulan",
+                "várgulat",
+                "várgula",
+                "várguletne",
+                "várguleahppi",
+                "várguleaba",
+                "várgulit, -lat",
+                "várgulehpet",
+                "várgulit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in várgul",
+                "it várgul",
+                "ii várgul",
+                "ean várgul",
+                "eahppi várgul",
+                "eaba várgul",
+                "eat várgul",
+                "ehpet várgul",
+                "eai várgul"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "várgulin",
+                "várgulit",
+                "várgulii",
+                "várguleimme",
+                "várguleidde",
+                "várguleigga",
+                "várguleimmet",
+                "várguleiddet",
+                "várguledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in várgulan",
+                "it várgulan",
+                "ii várgulan",
+                "ean várgulan",
+                "eahppi várgulan",
+                "eaba várgulan",
+                "eat várgulan",
+                "ehpet várgulan",
+                "eai várgulan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean várgulan",
+                "leat várgulan",
+                "lea várgulan",
+                "letne várgulan",
+                "leahppi várgulan",
+                "leaba várgulan",
+                "leat várgulan",
+                "lehpet várgulan",
+                "leat várgulan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen várgulan",
+                "ledjet várgulan",
+                "lei várgulan",
+                "leimme várgulan",
+                "leidde várgulan",
+                "leigga várgulan",
+                "leimmet várgulan",
+                "leiddet várgulan",
+                "ledje várgulan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean várguleame, -men",
+                "leat várguleame, -men",
+                "lea várguleame, -men",
+                "letne várguleame, -men",
+                "leahppi várguleame, -men",
+                "leaba várguleame, -men",
+                "leat várguleame, -men",
+                "lehpet várguleame, -men",
+                "leat várguleame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen várguleame, -men",
+                "ledjet várguleame, -men",
+                "lei várguleame, -men",
+                "leimme várguleame, -men",
+                "leidde várguleame, -men",
+                "leigga várguleame, -men",
+                "leimmet várguleame, -men",
+                "leiddet várguleame, -men",
+                "ledje várguleame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "várgulivččen",
+                "várgulivččet",
+                "várgulivččii",
+                "várgulivččiime",
+                "várgulivččiide",
+                "várgulivččiiga",
+                "várgulivččiimet",
+                "várgulivččiidet",
+                "várgulivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in várgulivčče",
+                "it várgulivčče",
+                "ii várgulivčče",
+                "ean várgulivčče",
+                "eahppi várgulivčče",
+                "eaba várgulivčče",
+                "eat várgulivčče",
+                "ehpet várgulivčče",
+                "eai várgulivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "várguleaččan",
+                "várguleaččat",
+                "várguleaš, -leš, -leažžá",
+                "várguležže",
+                "várguleažžabeahtti",
+                "várguleažžaba",
+                "várguleažžat",
+                "várguleažžabehtet",
+                "várguležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in várguleaš, -leš, -leažžá",
+                "it várguleaš, -leš, -leažžá",
+                "ii várguleaš, -leš, -leažžá",
+                "ean várguleaš, -leš, -leažžá",
+                "eahppi várguleaš, -leš, -leažžá",
+                "eaba várguleaš, -leš, -leažžá",
+                "eat várguleaš, -leš, -leažžá",
+                "ehpet várguleaš, -leš, -leažžá",
+                "eai várguleaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "várgulehkon",
+                "várgul",
+                "várgulehkos, várgulus",
+                "várguleadnu",
+                "várguleahkki",
+                "várgulehkoska",
+                "várgulehkot, várguleahkkut, várguletnot, várguleadnot",
+                "várgulehket",
+                "várgulehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon várgul",
+                "ale várgul",
+                "allos várgul",
+                "allu várgul",
+                "alli várgul",
+                "alloska várgul",
+                "allot, allut várgul",
+                "allet, allit várgul",
+                "alloset várgul"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "valid": 0,
+    "value": "Várgulit"
+}

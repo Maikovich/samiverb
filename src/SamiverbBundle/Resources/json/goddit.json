@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "goddit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gottán",
+                "gottát",
+                "goddá",
+                "godde",
+                "goddibeahtti",
+                "goddiba",
+                "goddit",
+                "goddibehtet",
+                "goddet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gotte",
+                "it gotte",
+                "ii gotte",
+                "ean gotte",
+                "eahppi gotte",
+                "eaba gotte",
+                "eat gotte",
+                "ehpet gotte",
+                "eai gotte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "godden",
+                "goddet",
+                "gottii",
+                "gottiime",
+                "gottiide",
+                "gottiiga",
+                "gottiimet",
+                "gottiidet",
+                "godde"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in goddán",
+                "it goddán",
+                "ii goddán",
+                "ean goddán",
+                "eahppi goddán",
+                "eaba goddán",
+                "eat goddán",
+                "ehpet goddán",
+                "eai goddán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean goddán",
+                "leat goddán",
+                "lea goddán",
+                "letne goddán",
+                "leahppi goddán",
+                "leaba goddán",
+                "leat goddán",
+                "lehpet goddán",
+                "leat goddán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen goddán",
+                "ledjet goddán",
+                "lei goddán",
+                "leimme goddán",
+                "leidde goddán",
+                "leigga goddán",
+                "leimmet goddán",
+                "leiddet goddán",
+                "ledje goddán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean goddime, -min",
+                "leat goddime, -min",
+                "lea goddime, -min",
+                "letne goddime, -min",
+                "leahppi goddime, -min",
+                "leaba goddime, -min",
+                "leat goddime, -min",
+                "lehpet goddime, -min",
+                "leat goddime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen goddime, -min",
+                "ledjet goddime, -min",
+                "lei goddime, -min",
+                "leimme goddime, -min",
+                "leidde goddime, -min",
+                "leigga goddime, -min",
+                "leimmet goddime, -min",
+                "leiddet goddime, -min",
+                "ledje goddime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gottášin",
+                "gottášit",
+                "gottášii",
+                "gottášeimme",
+                "gottášeidde",
+                "gottášeigga",
+                "gottášeimmet",
+                "gottášeiddet",
+                "gottášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gottáše",
+                "it gottáše",
+                "ii gottáše",
+                "ean gottáše",
+                "eahppi gottáše",
+                "eaba gottáše",
+                "eat gottáše",
+                "ehpet gottáše",
+                "eai gottáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gottežan",
+                "gottežat",
+                "gotteš",
+                "gottežetne",
+                "gottežeahppi",
+                "gottežeaba",
+                "gottežit, -žat",
+                "gottežehpet",
+                "gottežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gotteš",
+                "it gotteš",
+                "ii gotteš",
+                "ean gotteš",
+                "eahppi gotteš",
+                "eaba gotteš",
+                "eat gotteš",
+                "ehpet gotteš",
+                "eai gotteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "goddon",
+                "gotte",
+                "goddos",
+                "goddu",
+                "goddi",
+                "goddoska",
+                "goddot",
+                "goddet",
+                "goddoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gotte",
+                "ale gotte",
+                "allos gotte",
+                "allu gotte",
+                "alli gotte",
+                "alloska gotte",
+                "allot, allut gotte",
+                "allet, allit gotte",
+                "alloset gotte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Goddit",
+    "valid": 1
+}

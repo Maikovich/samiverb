@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gielistit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gielistan",
+                "gielistat",
+                "gielista",
+                "gielistetne",
+                "gielisteahppi",
+                "gielisteaba",
+                "gielistit, -tat",
+                "gielistehpet",
+                "gielistit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gielis",
+                "it gielis",
+                "ii gielis",
+                "ean gielis",
+                "eahppi gielis",
+                "eaba gielis",
+                "eat gielis",
+                "ehpet gielis",
+                "eai gielis"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gielistin",
+                "gielistit",
+                "gielistii",
+                "gielisteimme",
+                "gielisteidde",
+                "gielisteigga",
+                "gielisteimmet",
+                "gielisteiddet",
+                "gielistedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gielistan",
+                "it gielistan",
+                "ii gielistan",
+                "ean gielistan",
+                "eahppi gielistan",
+                "eaba gielistan",
+                "eat gielistan",
+                "ehpet gielistan",
+                "eai gielistan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gielistan",
+                "leat gielistan",
+                "lea gielistan",
+                "letne gielistan",
+                "leahppi gielistan",
+                "leaba gielistan",
+                "leat gielistan",
+                "lehpet gielistan",
+                "leat gielistan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gielistan",
+                "ledjet gielistan",
+                "lei gielistan",
+                "leimme gielistan",
+                "leidde gielistan",
+                "leigga gielistan",
+                "leimmet gielistan",
+                "leiddet gielistan",
+                "ledje gielistan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gielisteame, -men",
+                "leat gielisteame, -men",
+                "lea gielisteame, -men",
+                "letne gielisteame, -men",
+                "leahppi gielisteame, -men",
+                "leaba gielisteame, -men",
+                "leat gielisteame, -men",
+                "lehpet gielisteame, -men",
+                "leat gielisteame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gielisteame, -men",
+                "ledjet gielisteame, -men",
+                "lei gielisteame, -men",
+                "leimme gielisteame, -men",
+                "leidde gielisteame, -men",
+                "leigga gielisteame, -men",
+                "leimmet gielisteame, -men",
+                "leiddet gielisteame, -men",
+                "ledje gielisteame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gielistivččen",
+                "gielistivččet",
+                "gielistivččii",
+                "gielistivččiime",
+                "gielistivččiide",
+                "gielistivččiiga",
+                "gielistivččiimet",
+                "gielistivččiidet",
+                "gielistivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gielistivčče",
+                "it gielistivčče",
+                "ii gielistivčče",
+                "ean gielistivčče",
+                "eahppi gielistivčče",
+                "eaba gielistivčče",
+                "eat gielistivčče",
+                "ehpet gielistivčče",
+                "eai gielistivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gielisteaččan",
+                "gielisteaččat",
+                "gielisteaš, -teš, -teažžá",
+                "gielistežže",
+                "gielisteažžabeahtti",
+                "gielisteažžaba",
+                "gielisteažžat",
+                "gielisteažžabehtet",
+                "gielistežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gielisteaš, -teš, -teažžá",
+                "it gielisteaš, -teš, -teažžá",
+                "ii gielisteaš, -teš, -teažžá",
+                "ean gielisteaš, -teš, -teažžá",
+                "eahppi gielisteaš, -teš, -teažžá",
+                "eaba gielisteaš, -teš, -teažžá",
+                "eat gielisteaš, -teš, -teažžá",
+                "ehpet gielisteaš, -teš, -teažžá",
+                "eai gielisteaš, -teš, -teažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gielistehkon",
+                "gielis",
+                "gielistehkos, gielistus",
+                "gielisteadnu",
+                "gielisteahkki",
+                "gielistehkoska",
+                "gielistehkot, gielisteahkkut, gielistetnot, gielisteadnot",
+                "gielistehket",
+                "gielistehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gielis",
+                "ale gielis",
+                "allos gielis",
+                "allu gielis",
+                "alli gielis",
+                "alloska gielis",
+                "allot, allut gielis",
+                "allet, allit gielis",
+                "alloset gielis"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gielistit",
+    "valid": 1
+}

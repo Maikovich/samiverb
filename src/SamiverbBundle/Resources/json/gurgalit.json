@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gurgalit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gurgalan",
+                "gurgalat",
+                "gurgala",
+                "gurgaletne",
+                "gurgaleahppi",
+                "gurgaleaba",
+                "gurgalit, -lat",
+                "gurgalehpet",
+                "gurgalit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gurgal",
+                "it gurgal",
+                "ii gurgal",
+                "ean gurgal",
+                "eahppi gurgal",
+                "eaba gurgal",
+                "eat gurgal",
+                "ehpet gurgal",
+                "eai gurgal"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gurgalin",
+                "gurgalit",
+                "gurgalii",
+                "gurgaleimme",
+                "gurgaleidde",
+                "gurgaleigga",
+                "gurgaleimmet",
+                "gurgaleiddet",
+                "gurgaledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gurgalan",
+                "it gurgalan",
+                "ii gurgalan",
+                "ean gurgalan",
+                "eahppi gurgalan",
+                "eaba gurgalan",
+                "eat gurgalan",
+                "ehpet gurgalan",
+                "eai gurgalan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gurgalan",
+                "leat gurgalan",
+                "lea gurgalan",
+                "letne gurgalan",
+                "leahppi gurgalan",
+                "leaba gurgalan",
+                "leat gurgalan",
+                "lehpet gurgalan",
+                "leat gurgalan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gurgalan",
+                "ledjet gurgalan",
+                "lei gurgalan",
+                "leimme gurgalan",
+                "leidde gurgalan",
+                "leigga gurgalan",
+                "leimmet gurgalan",
+                "leiddet gurgalan",
+                "ledje gurgalan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gurgaleame, -men",
+                "leat gurgaleame, -men",
+                "lea gurgaleame, -men",
+                "letne gurgaleame, -men",
+                "leahppi gurgaleame, -men",
+                "leaba gurgaleame, -men",
+                "leat gurgaleame, -men",
+                "lehpet gurgaleame, -men",
+                "leat gurgaleame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gurgaleame, -men",
+                "ledjet gurgaleame, -men",
+                "lei gurgaleame, -men",
+                "leimme gurgaleame, -men",
+                "leidde gurgaleame, -men",
+                "leigga gurgaleame, -men",
+                "leimmet gurgaleame, -men",
+                "leiddet gurgaleame, -men",
+                "ledje gurgaleame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gurgalivččen",
+                "gurgalivččet",
+                "gurgalivččii",
+                "gurgalivččiime",
+                "gurgalivččiide",
+                "gurgalivččiiga",
+                "gurgalivččiimet",
+                "gurgalivččiidet",
+                "gurgalivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gurgalivčče",
+                "it gurgalivčče",
+                "ii gurgalivčče",
+                "ean gurgalivčče",
+                "eahppi gurgalivčče",
+                "eaba gurgalivčče",
+                "eat gurgalivčče",
+                "ehpet gurgalivčče",
+                "eai gurgalivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gurgaleaččan",
+                "gurgaleaččat",
+                "gurgaleaš, -leš, -leažžá",
+                "gurgaležže",
+                "gurgaleažžabeahtti",
+                "gurgaleažžaba",
+                "gurgaleažžat",
+                "gurgaleažžabehtet",
+                "gurgaležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gurgaleaš, -leš, -leažžá",
+                "it gurgaleaš, -leš, -leažžá",
+                "ii gurgaleaš, -leš, -leažžá",
+                "ean gurgaleaš, -leš, -leažžá",
+                "eahppi gurgaleaš, -leš, -leažžá",
+                "eaba gurgaleaš, -leš, -leažžá",
+                "eat gurgaleaš, -leš, -leažžá",
+                "ehpet gurgaleaš, -leš, -leažžá",
+                "eai gurgaleaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gurgalehkon",
+                "gurgal",
+                "gurgalehkos, gurgalus",
+                "gurgaleadnu",
+                "gurgaleahkki",
+                "gurgalehkoska",
+                "gurgalehkot, gurgaleahkkut, gurgaletnot, gurgaleadnot",
+                "gurgalehket",
+                "gurgalehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gurgal",
+                "ale gurgal",
+                "allos gurgal",
+                "allu gurgal",
+                "alli gurgal",
+                "alloska gurgal",
+                "allot, allut gurgal",
+                "allet, allit gurgal",
+                "alloset gurgal"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gurgalit",
+    "valid": 1
+}

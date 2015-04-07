@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "vákšut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "vákššun",
+                "vákššut",
+                "vákšu",
+                "vákšo",
+                "vákšubeahtti",
+                "vákšuba",
+                "vákšut",
+                "vákšubehtet",
+                "vákšot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in vákššo",
+                "it vákššo",
+                "ii vákššo",
+                "ean vákššo",
+                "eahppi vákššo",
+                "eaba vákššo",
+                "eat vákššo",
+                "ehpet vákššo",
+                "eai vákššo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "vákšon",
+                "vákšot",
+                "vákššui",
+                "vákššuime",
+                "vákššuide",
+                "vákššuiga",
+                "vákššuimet",
+                "vákššuidet",
+                "vákšo"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in vákšon",
+                "it vákšon",
+                "ii vákšon",
+                "ean vákšon",
+                "eahppi vákšon",
+                "eaba vákšon",
+                "eat vákšon",
+                "ehpet vákšon",
+                "eai vákšon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean vákšon",
+                "leat vákšon",
+                "lea vákšon",
+                "letne vákšon",
+                "leahppi vákšon",
+                "leaba vákšon",
+                "leat vákšon",
+                "lehpet vákšon",
+                "leat vákšon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen vákšon",
+                "ledjet vákšon",
+                "lei vákšon",
+                "leimme vákšon",
+                "leidde vákšon",
+                "leigga vákšon",
+                "leimmet vákšon",
+                "leiddet vákšon",
+                "ledje vákšon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean vákšume, -min",
+                "leat vákšume, -min",
+                "lea vákšume, -min",
+                "letne vákšume, -min",
+                "leahppi vákšume, -min",
+                "leaba vákšume, -min",
+                "leat vákšume, -min",
+                "lehpet vákšume, -min",
+                "leat vákšume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen vákšume, -min",
+                "ledjet vákšume, -min",
+                "lei vákšume, -min",
+                "leimme vákšume, -min",
+                "leidde vákšume, -min",
+                "leigga vákšume, -min",
+                "leimmet vákšume, -min",
+                "leiddet vákšume, -min",
+                "ledje vákšume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "vákššošin",
+                "vákššošit",
+                "vákššošii",
+                "vákššošeimme",
+                "vákššošeidde",
+                "vákššošeigga",
+                "vákššošeimmet",
+                "vákššošeiddet",
+                "vákššošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in vákššoše",
+                "it vákššoše",
+                "ii vákššoše",
+                "ean vákššoše",
+                "eahppi vákššoše",
+                "eaba vákššoše",
+                "eat vákššoše",
+                "ehpet vákššoše",
+                "eai vákššoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "vákššožan",
+                "vákššožat",
+                "vákššoš",
+                "vákššožetne",
+                "vákššožeahppi",
+                "vákššožeaba",
+                "vákššožit, -žat",
+                "vákššožehpet",
+                "vákššožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in vákššoš",
+                "it vákššoš",
+                "ii vákššoš",
+                "ean vákššoš",
+                "eahppi vákššoš",
+                "eaba vákššoš",
+                "eat vákššoš",
+                "ehpet vákššoš",
+                "eai vákššoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "vákšon",
+                "vákššo",
+                "vákšos",
+                "vákšu",
+                "vákšu",
+                "vákšoska",
+                "vákšot",
+                "vákšot",
+                "vákšoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon vákššo",
+                "ale vákššo",
+                "allos vákššo",
+                "allu vákššo",
+                "alli vákššo",
+                "alloska vákššo",
+                "allot, allut vákššo",
+                "allet, allit vákššo",
+                "alloset vákššo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Vákšut",
+    "valid": 1
+}

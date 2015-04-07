@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "oidnot",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "oidnon",
+                "oidnot",
+                "oidno",
+                "oidnojetne",
+                "oidnobeahtti",
+                "oidnoba",
+                "oidnot",
+                "oidnobehtet",
+                "oidnojit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in oidno",
+                "it oidno",
+                "ii oidno",
+                "ean oidno",
+                "eahppi oidno",
+                "eaba oidno",
+                "eat oidno",
+                "ehpet oidno",
+                "eai oidno"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "oidnojin",
+                "oidnojit",
+                "oidnui",
+                "oidnuime",
+                "oidnuide",
+                "oidnuiga",
+                "oidnuimet",
+                "oidnuidet",
+                "oidnojedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in oidnon",
+                "it oidnon",
+                "ii oidnon",
+                "ean oidnon",
+                "eahppi oidnon",
+                "eaba oidnon",
+                "eat oidnon",
+                "ehpet oidnon",
+                "eai oidnon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean oidnon",
+                "leat oidnon",
+                "lea oidnon",
+                "letne oidnon",
+                "leahppi oidnon",
+                "leaba oidnon",
+                "leat oidnon",
+                "lehpet oidnon",
+                "leat oidnon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen oidnon",
+                "ledjet oidnon",
+                "lei oidnon",
+                "leimme oidnon",
+                "leidde oidnon",
+                "leigga oidnon",
+                "leimmet oidnon",
+                "leiddet oidnon",
+                "ledje oidnon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean oidnome, -min",
+                "leat oidnome, -min",
+                "lea oidnome, -min",
+                "letne oidnome, -min",
+                "leahppi oidnome, -min",
+                "leaba oidnome, -min",
+                "leat oidnome, -min",
+                "lehpet oidnome, -min",
+                "leat oidnome, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen oidnome, -min",
+                "ledjet oidnome, -min",
+                "lei oidnome, -min",
+                "leimme oidnome, -min",
+                "leidde oidnome, -min",
+                "leigga oidnome, -min",
+                "leimmet oidnome, -min",
+                "leiddet oidnome, -min",
+                "ledje oidnome, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "oidnošin",
+                "oidnošit",
+                "oidnošii",
+                "oidnošeimme",
+                "oidnošeidde",
+                "oidnošeigga",
+                "oidnošeimmet",
+                "oidnošeiddet",
+                "oidnošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in oidnoše",
+                "it oidnoše",
+                "ii oidnoše",
+                "ean oidnoše",
+                "eahppi oidnoše",
+                "eaba oidnoše",
+                "eat oidnoše",
+                "ehpet oidnoše",
+                "eai oidnoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "oidnožan",
+                "oidnožat",
+                "oidnoš",
+                "oidnožetne",
+                "oidnožeahppi",
+                "oidnožeaba",
+                "oidnožit, -žat",
+                "oidnožehpet",
+                "oidnožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in oidnoš",
+                "it oidnoš",
+                "ii oidnoš",
+                "ean oidnoš",
+                "eahppi oidnoš",
+                "eaba oidnoš",
+                "eat oidnoš",
+                "ehpet oidnoš",
+                "eai oidnoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "oidnojehkon",
+                "oidno",
+                "oidnojehkos",
+                "oidnojeadnu",
+                "oidnojeahkki",
+                "oidnojehkoska",
+                "oidnojeahkkut, oidnojeadnot, oidnojehkot, oidnojetnot",
+                "oidnojeahkkit",
+                "oidnojehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon oidno",
+                "ale oidno",
+                "allos oidno",
+                "allu oidno",
+                "alli oidno",
+                "alloska oidno",
+                "allot, allut oidno",
+                "allet, allit oidno",
+                "alloset oidno"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Oidnot",
+    "valid": 1
+}

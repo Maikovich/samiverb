@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "báhkkanit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "báhkkanan",
+                "báhkkanat",
+                "báhkkana",
+                "báhkkanetne",
+                "báhkkaneahppi",
+                "báhkkaneaba",
+                "báhkkanit, -nat",
+                "báhkkanehpet",
+                "báhkkanit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in báhkkan",
+                "it báhkkan",
+                "ii báhkkan",
+                "ean báhkkan",
+                "eahppi báhkkan",
+                "eaba báhkkan",
+                "eat báhkkan",
+                "ehpet báhkkan",
+                "eai báhkkan"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "báhkkanin",
+                "báhkkanit",
+                "báhkkanii",
+                "báhkkaneimme",
+                "báhkkaneidde",
+                "báhkkaneigga",
+                "báhkkaneimmet",
+                "báhkkaneiddet",
+                "báhkkanedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in báhkkanan",
+                "it báhkkanan",
+                "ii báhkkanan",
+                "ean báhkkanan",
+                "eahppi báhkkanan",
+                "eaba báhkkanan",
+                "eat báhkkanan",
+                "ehpet báhkkanan",
+                "eai báhkkanan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean báhkkanan",
+                "leat báhkkanan",
+                "lea báhkkanan",
+                "letne báhkkanan",
+                "leahppi báhkkanan",
+                "leaba báhkkanan",
+                "leat báhkkanan",
+                "lehpet báhkkanan",
+                "leat báhkkanan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen báhkkanan",
+                "ledjet báhkkanan",
+                "lei báhkkanan",
+                "leimme báhkkanan",
+                "leidde báhkkanan",
+                "leigga báhkkanan",
+                "leimmet báhkkanan",
+                "leiddet báhkkanan",
+                "ledje báhkkanan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean báhkkaneame, -men",
+                "leat báhkkaneame, -men",
+                "lea báhkkaneame, -men",
+                "letne báhkkaneame, -men",
+                "leahppi báhkkaneame, -men",
+                "leaba báhkkaneame, -men",
+                "leat báhkkaneame, -men",
+                "lehpet báhkkaneame, -men",
+                "leat báhkkaneame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen báhkkaneame, -men",
+                "ledjet báhkkaneame, -men",
+                "lei báhkkaneame, -men",
+                "leimme báhkkaneame, -men",
+                "leidde báhkkaneame, -men",
+                "leigga báhkkaneame, -men",
+                "leimmet báhkkaneame, -men",
+                "leiddet báhkkaneame, -men",
+                "ledje báhkkaneame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "báhkkanivččen",
+                "báhkkanivččet",
+                "báhkkanivččii",
+                "báhkkanivččiime",
+                "báhkkanivččiide",
+                "báhkkanivččiiga",
+                "báhkkanivččiimet",
+                "báhkkanivččiidet",
+                "báhkkanivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in báhkkanivčče",
+                "it báhkkanivčče",
+                "ii báhkkanivčče",
+                "ean báhkkanivčče",
+                "eahppi báhkkanivčče",
+                "eaba báhkkanivčče",
+                "eat báhkkanivčče",
+                "ehpet báhkkanivčče",
+                "eai báhkkanivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "báhkkaneaččan",
+                "báhkkaneaččat",
+                "báhkkaneaš, -neš, -neažžá",
+                "báhkkanežže",
+                "báhkkaneažžabeahtti",
+                "báhkkaneažžaba",
+                "báhkkaneažžat",
+                "báhkkaneažžabehtet",
+                "báhkkanežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in báhkkaneaš, -neš, -neažžá",
+                "it báhkkaneaš, -neš, -neažžá",
+                "ii báhkkaneaš, -neš, -neažžá",
+                "ean báhkkaneaš, -neš, -neažžá",
+                "eahppi báhkkaneaš, -neš, -neažžá",
+                "eaba báhkkaneaš, -neš, -neažžá",
+                "eat báhkkaneaš, -neš, -neažžá",
+                "ehpet báhkkaneaš, -neš, -neažžá",
+                "eai báhkkaneaš, -neš, -neažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "báhkkanehkon",
+                "báhkkan",
+                "báhkkanehkos, báhkkanus",
+                "báhkkaneadnu",
+                "báhkkaneahkki",
+                "báhkkanehkoska",
+                "báhkkanehkot, báhkkaneahkkut, báhkkanetnot, báhkkaneadnot",
+                "báhkkanehket",
+                "báhkkanehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon báhkkan",
+                "ale báhkkan",
+                "allos báhkkan",
+                "allu báhkkan",
+                "alli báhkkan",
+                "alloska báhkkan",
+                "allot, allut báhkkan",
+                "allet, allit báhkkan",
+                "alloset báhkkan"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Báhkkanit",
+    "valid": 1
+}

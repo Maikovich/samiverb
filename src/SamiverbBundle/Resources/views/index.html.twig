@@ -1,0 +1,61 @@
+{% extends "SamiverbBundle::base.html.twig" %}
+
+{% block title %}
+  A convenient conjugating tool
+{% endblock %}
+
+{% block navbar_add %}
+  <form class="navbar-form navbar-right">
+    <button class="btn btn-default" id="goToTop" onclick="scrollToTarget('#enterverb')">
+      <span class="glyphicon glyphicon-arrow-up" aria-hidden="true"></span> Go to top
+    </button>
+  </form>
+{% endblock %}
+
+{% block content %}
+
+  <section id="enterverb">
+    <div id="front">
+      <!--<div class="bg"></div>-->
+      <div class="container">
+        <div class="col-xs-12">
+          <div class="row">
+            <div class="col-xs-12 col-sm-12 text-center">
+              <h1 class="title">Samiverb</h1>
+              <ol id="cooltext" class="list-unstyled text-center">
+                <li>Click on the form</li>
+                <li>Type in a verb</li>
+                <li>Press conjugate</li>
+              </ol>
+              <conjugate-form></conjugate-form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="conjugations">
+    <div id="conjug" ng-cloak>
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-sm-12">
+            <div ng-controller="OutputController">
+              <!--TODO FIX NG-SHOW HERE !-->
+              <alert-suggestions></alert-suggestions>
+              <alert-notvalidated></alert-notvalidated>
+              <alert-invalid></alert-invalid>
+
+              <verbresult></verbresult>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <validate-modal></validate-modal>
+  <revalidate-modal></revalidate-modal>
+
+{% endblock %}

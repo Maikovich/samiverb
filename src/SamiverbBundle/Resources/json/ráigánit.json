@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "ráigánit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "ráigánan",
+                "ráigánat",
+                "ráigána",
+                "ráigánetne",
+                "ráigáneahppi",
+                "ráigáneaba",
+                "ráigánit, -nat",
+                "ráigánehpet",
+                "ráigánit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in ráigán",
+                "it ráigán",
+                "ii ráigán",
+                "ean ráigán",
+                "eahppi ráigán",
+                "eaba ráigán",
+                "eat ráigán",
+                "ehpet ráigán",
+                "eai ráigán"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ráigánin",
+                "ráigánit",
+                "ráigánii",
+                "ráigáneimme",
+                "ráigáneidde",
+                "ráigáneigga",
+                "ráigáneimmet",
+                "ráigáneiddet",
+                "ráigánedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ráigánan",
+                "it ráigánan",
+                "ii ráigánan",
+                "ean ráigánan",
+                "eahppi ráigánan",
+                "eaba ráigánan",
+                "eat ráigánan",
+                "ehpet ráigánan",
+                "eai ráigánan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ráigánan",
+                "leat ráigánan",
+                "lea ráigánan",
+                "letne ráigánan",
+                "leahppi ráigánan",
+                "leaba ráigánan",
+                "leat ráigánan",
+                "lehpet ráigánan",
+                "leat ráigánan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ráigánan",
+                "ledjet ráigánan",
+                "lei ráigánan",
+                "leimme ráigánan",
+                "leidde ráigánan",
+                "leigga ráigánan",
+                "leimmet ráigánan",
+                "leiddet ráigánan",
+                "ledje ráigánan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean ráigáneame, -men",
+                "leat ráigáneame, -men",
+                "lea ráigáneame, -men",
+                "letne ráigáneame, -men",
+                "leahppi ráigáneame, -men",
+                "leaba ráigáneame, -men",
+                "leat ráigáneame, -men",
+                "lehpet ráigáneame, -men",
+                "leat ráigáneame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen ráigáneame, -men",
+                "ledjet ráigáneame, -men",
+                "lei ráigáneame, -men",
+                "leimme ráigáneame, -men",
+                "leidde ráigáneame, -men",
+                "leigga ráigáneame, -men",
+                "leimmet ráigáneame, -men",
+                "leiddet ráigáneame, -men",
+                "ledje ráigáneame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "ráigánivččen",
+                "ráigánivččet",
+                "ráigánivččii",
+                "ráigánivččiime",
+                "ráigánivččiide",
+                "ráigánivččiiga",
+                "ráigánivččiimet",
+                "ráigánivččiidet",
+                "ráigánivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in ráigánivčče",
+                "it ráigánivčče",
+                "ii ráigánivčče",
+                "ean ráigánivčče",
+                "eahppi ráigánivčče",
+                "eaba ráigánivčče",
+                "eat ráigánivčče",
+                "ehpet ráigánivčče",
+                "eai ráigánivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "ráigáneaččan",
+                "ráigáneaččat",
+                "ráigáneaš, -neš, -neažžá",
+                "ráigánežže",
+                "ráigáneažžabeahtti",
+                "ráigáneažžaba",
+                "ráigáneažžat",
+                "ráigáneažžabehtet",
+                "ráigánežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in ráigáneaš, -neš, -neažžá",
+                "it ráigáneaš, -neš, -neažžá",
+                "ii ráigáneaš, -neš, -neažžá",
+                "ean ráigáneaš, -neš, -neažžá",
+                "eahppi ráigáneaš, -neš, -neažžá",
+                "eaba ráigáneaš, -neš, -neažžá",
+                "eat ráigáneaš, -neš, -neažžá",
+                "ehpet ráigáneaš, -neš, -neažžá",
+                "eai ráigáneaš, -neš, -neažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "ráigánehkon",
+                "ráigán",
+                "ráigánehkos, ráigánus",
+                "ráigáneadnu",
+                "ráigáneahkki",
+                "ráigánehkoska",
+                "ráigánehkot, ráigáneahkkut, ráigánetnot, ráigáneadnot",
+                "ráigánehket",
+                "ráigánehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon ráigán",
+                "ale ráigán",
+                "allos ráigán",
+                "allu ráigán",
+                "alli ráigán",
+                "alloska ráigán",
+                "allot, allut ráigán",
+                "allet, allit ráigán",
+                "alloset ráigán"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Ráigánit",
+    "valid": 1
+}

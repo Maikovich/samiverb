@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "bargguhuvvat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "bargguhuvan",
+                "bargguhuvat",
+                "bargguhuvvá",
+                "bargguhuvve",
+                "bargguhuvvabeahtti",
+                "bargguhuvvaba",
+                "bargguhuvvat",
+                "bargguhuvvabehtet",
+                "bargguhuvvet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in bargguhuva",
+                "it bargguhuva",
+                "ii bargguhuva",
+                "ean bargguhuva",
+                "eahppi bargguhuva",
+                "eaba bargguhuva",
+                "eat bargguhuva",
+                "ehpet bargguhuva",
+                "eai bargguhuva"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "bargguhuvven",
+                "bargguhuvvet",
+                "bargguhuvai",
+                "bargguhuvaime",
+                "bargguhuvaide",
+                "bargguhuvaiga",
+                "bargguhuvaimet",
+                "bargguhuvaidet",
+                "bargguhuvve"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in bargguhuvvan",
+                "it bargguhuvvan",
+                "ii bargguhuvvan",
+                "ean bargguhuvvan",
+                "eahppi bargguhuvvan",
+                "eaba bargguhuvvan",
+                "eat bargguhuvvan",
+                "ehpet bargguhuvvan",
+                "eai bargguhuvvan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean bargguhuvvan",
+                "leat bargguhuvvan",
+                "lea bargguhuvvan",
+                "letne bargguhuvvan",
+                "leahppi bargguhuvvan",
+                "leaba bargguhuvvan",
+                "leat bargguhuvvan",
+                "lehpet bargguhuvvan",
+                "leat bargguhuvvan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen bargguhuvvan",
+                "ledjet bargguhuvvan",
+                "lei bargguhuvvan",
+                "leimme bargguhuvvan",
+                "leidde bargguhuvvan",
+                "leigga bargguhuvvan",
+                "leimmet bargguhuvvan",
+                "leiddet bargguhuvvan",
+                "ledje bargguhuvvan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean bargguhuvvame, -min",
+                "leat bargguhuvvame, -min",
+                "lea bargguhuvvame, -min",
+                "letne bargguhuvvame, -min",
+                "leahppi bargguhuvvame, -min",
+                "leaba bargguhuvvame, -min",
+                "leat bargguhuvvame, -min",
+                "lehpet bargguhuvvame, -min",
+                "leat bargguhuvvame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen bargguhuvvame, -min",
+                "ledjet bargguhuvvame, -min",
+                "lei bargguhuvvame, -min",
+                "leimme bargguhuvvame, -min",
+                "leidde bargguhuvvame, -min",
+                "leigga bargguhuvvame, -min",
+                "leimmet bargguhuvvame, -min",
+                "leiddet bargguhuvvame, -min",
+                "ledje bargguhuvvame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "bargguhuvašin",
+                "bargguhuvašit",
+                "bargguhuvašii",
+                "bargguhuvašeimme",
+                "bargguhuvašeidde",
+                "bargguhuvašeigga",
+                "bargguhuvašeimmet",
+                "bargguhuvašeiddet",
+                "bargguhuvašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in bargguhuvaše",
+                "it bargguhuvaše",
+                "ii bargguhuvaše",
+                "ean bargguhuvaše",
+                "eahppi bargguhuvaše",
+                "eaba bargguhuvaše",
+                "eat bargguhuvaše",
+                "ehpet bargguhuvaše",
+                "eai bargguhuvaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "bargguhuvažan",
+                "bargguhuvažat",
+                "bargguhuvaš",
+                "bargguhuvažetne",
+                "bargguhuvažeahppi",
+                "bargguhuvažeaba",
+                "bargguhuvažit, -žat",
+                "bargguhuvažehpet",
+                "bargguhuvažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in bargguhuvaš",
+                "it bargguhuvaš",
+                "ii bargguhuvaš",
+                "ean bargguhuvaš",
+                "eahppi bargguhuvaš",
+                "eaba bargguhuvaš",
+                "eat bargguhuvaš",
+                "ehpet bargguhuvaš",
+                "eai bargguhuvaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "bargguhuvvon",
+                "bargguhuva",
+                "bargguhuvvos",
+                "bargguhuvvu",
+                "bargguhuvvi",
+                "bargguhuvvoska",
+                "bargguhuvvot",
+                "bargguhuvvet, bargguhuvvit",
+                "bargguhuvvoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon bargguhuva",
+                "ale bargguhuva",
+                "allos bargguhuva",
+                "allu bargguhuva",
+                "alli bargguhuva",
+                "alloska bargguhuva",
+                "allot, allut bargguhuva",
+                "allet, allit bargguhuva",
+                "alloset bargguhuva"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Bargguhuvvat",
+    "valid": 1
+}

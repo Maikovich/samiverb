@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čálihit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čálihan",
+                "čálihat",
+                "čáliha",
+                "čálihetne",
+                "čáliheahppi",
+                "čáliheaba",
+                "čálihit, -hat",
+                "čálihehpet",
+                "čálihit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čálit",
+                "it čálit",
+                "ii čálit",
+                "ean čálit",
+                "eahppi čálit",
+                "eaba čálit",
+                "eat čálit",
+                "ehpet čálit",
+                "eai čálit"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čálihin",
+                "čálihit",
+                "čálihii",
+                "čáliheimme",
+                "čáliheidde",
+                "čáliheigga",
+                "čáliheimmet",
+                "čáliheiddet",
+                "čálihedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čálihan",
+                "it čálihan",
+                "ii čálihan",
+                "ean čálihan",
+                "eahppi čálihan",
+                "eaba čálihan",
+                "eat čálihan",
+                "ehpet čálihan",
+                "eai čálihan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čálihan",
+                "leat čálihan",
+                "lea čálihan",
+                "letne čálihan",
+                "leahppi čálihan",
+                "leaba čálihan",
+                "leat čálihan",
+                "lehpet čálihan",
+                "leat čálihan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čálihan",
+                "ledjet čálihan",
+                "lei čálihan",
+                "leimme čálihan",
+                "leidde čálihan",
+                "leigga čálihan",
+                "leimmet čálihan",
+                "leiddet čálihan",
+                "ledje čálihan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čáliheame, -men",
+                "leat čáliheame, -men",
+                "lea čáliheame, -men",
+                "letne čáliheame, -men",
+                "leahppi čáliheame, -men",
+                "leaba čáliheame, -men",
+                "leat čáliheame, -men",
+                "lehpet čáliheame, -men",
+                "leat čáliheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čáliheame, -men",
+                "ledjet čáliheame, -men",
+                "lei čáliheame, -men",
+                "leimme čáliheame, -men",
+                "leidde čáliheame, -men",
+                "leigga čáliheame, -men",
+                "leimmet čáliheame, -men",
+                "leiddet čáliheame, -men",
+                "ledje čáliheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čálihivččen",
+                "čálihivččet",
+                "čálihivččii",
+                "čálihivččiime",
+                "čálihivččiide",
+                "čálihivččiiga",
+                "čálihivččiimet",
+                "čálihivččiidet",
+                "čálihivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čálihivčče",
+                "it čálihivčče",
+                "ii čálihivčče",
+                "ean čálihivčče",
+                "eahppi čálihivčče",
+                "eaba čálihivčče",
+                "eat čálihivčče",
+                "ehpet čálihivčče",
+                "eai čálihivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čáliheaččan",
+                "čáliheaččat",
+                "čáliheaš, -heš, -heažžá",
+                "čálihežže",
+                "čáliheažžabeahtti",
+                "čáliheažžaba",
+                "čáliheažžat",
+                "čáliheažžabehtet",
+                "čálihežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čáliheaš, -heš, -heažžá",
+                "it čáliheaš, -heš, -heažžá",
+                "ii čáliheaš, -heš, -heažžá",
+                "ean čáliheaš, -heš, -heažžá",
+                "eahppi čáliheaš, -heš, -heažžá",
+                "eaba čáliheaš, -heš, -heažžá",
+                "eat čáliheaš, -heš, -heažžá",
+                "ehpet čáliheaš, -heš, -heažžá",
+                "eai čáliheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čálihehkon",
+                "čálit",
+                "čálihehkos, čálihus",
+                "čáliheadnu",
+                "čáliheahkki",
+                "čálihehkoska",
+                "čálihehkot, čáliheahkkut, čálihetnot, čáliheadnot",
+                "čálihehket",
+                "čálihehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čálit",
+                "ale čálit",
+                "allos čálit",
+                "allu čálit",
+                "alli čálit",
+                "alloska čálit",
+                "allot, allut čálit",
+                "allet, allit čálit",
+                "alloset čálit"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čálihit",
+    "valid": 1
+}

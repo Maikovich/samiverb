@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gillet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gillen",
+                "gillet",
+                "gille",
+                "gillejetne",
+                "gillebeahtti",
+                "gilleba",
+                "gillet",
+                "gillebehtet",
+                "gillejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gille",
+                "it gille",
+                "ii gille",
+                "ean gille",
+                "eahppi gille",
+                "eaba gille",
+                "eat gille",
+                "ehpet gille",
+                "eai gille"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gillejin",
+                "gillejit",
+                "gillii",
+                "gilliime",
+                "gilliide",
+                "gilliiga",
+                "gilliimet",
+                "gilliidet",
+                "gillejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gillen",
+                "it gillen",
+                "ii gillen",
+                "ean gillen",
+                "eahppi gillen",
+                "eaba gillen",
+                "eat gillen",
+                "ehpet gillen",
+                "eai gillen"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gillen",
+                "leat gillen",
+                "lea gillen",
+                "letne gillen",
+                "leahppi gillen",
+                "leaba gillen",
+                "leat gillen",
+                "lehpet gillen",
+                "leat gillen"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gillen",
+                "ledjet gillen",
+                "lei gillen",
+                "leimme gillen",
+                "leidde gillen",
+                "leigga gillen",
+                "leimmet gillen",
+                "leiddet gillen",
+                "ledje gillen"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gilleme, -min",
+                "leat gilleme, -min",
+                "lea gilleme, -min",
+                "letne gilleme, -min",
+                "leahppi gilleme, -min",
+                "leaba gilleme, -min",
+                "leat gilleme, -min",
+                "lehpet gilleme, -min",
+                "leat gilleme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gilleme, -min",
+                "ledjet gilleme, -min",
+                "lei gilleme, -min",
+                "leimme gilleme, -min",
+                "leidde gilleme, -min",
+                "leigga gilleme, -min",
+                "leimmet gilleme, -min",
+                "leiddet gilleme, -min",
+                "ledje gilleme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gillešin",
+                "gillešit",
+                "gillešii",
+                "gillešeimme",
+                "gillešeidde",
+                "gillešeigga",
+                "gillešeimmet",
+                "gillešeiddet",
+                "gillešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gilleše",
+                "it gilleše",
+                "ii gilleše",
+                "ean gilleše",
+                "eahppi gilleše",
+                "eaba gilleše",
+                "eat gilleše",
+                "ehpet gilleše",
+                "eai gilleše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gilležan",
+                "gilležat",
+                "gilleš",
+                "gilležetne",
+                "gilležeahppi",
+                "gilležeaba",
+                "gilležit, -žat",
+                "gilležehpet",
+                "gilležit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gilleš",
+                "it gilleš",
+                "ii gilleš",
+                "ean gilleš",
+                "eahppi gilleš",
+                "eaba gilleš",
+                "eat gilleš",
+                "ehpet gilleš",
+                "eai gilleš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gillejehkon",
+                "gille",
+                "gillejehkos",
+                "gillejeadnu",
+                "gillejeahkki",
+                "gillejehkoska",
+                "gillejeahkkut, gillejeadnot, gillejehkot, gillejetnot",
+                "gillejeahkkit",
+                "gillejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gille",
+                "ale gille",
+                "allos gille",
+                "allu gille",
+                "alli gille",
+                "alloska gille",
+                "allot, allut gille",
+                "allet, allit gille",
+                "alloset gille"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gillet",
+    "valid": 1
+}

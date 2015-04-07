@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "moivašuvvat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "moivašuvan",
+                "moivašuvat",
+                "moivašuvvá",
+                "moivašuvve",
+                "moivašuvvabeahtti",
+                "moivašuvvaba",
+                "moivašuvvat",
+                "moivašuvvabehtet",
+                "moivašuvvet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in moivašuva",
+                "it moivašuva",
+                "ii moivašuva",
+                "ean moivašuva",
+                "eahppi moivašuva",
+                "eaba moivašuva",
+                "eat moivašuva",
+                "ehpet moivašuva",
+                "eai moivašuva"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "moivašuvven",
+                "moivašuvvet",
+                "moivašuvai",
+                "moivašuvaime",
+                "moivašuvaide",
+                "moivašuvaiga",
+                "moivašuvaimet",
+                "moivašuvaidet",
+                "moivašuvve"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in moivašuvvan",
+                "it moivašuvvan",
+                "ii moivašuvvan",
+                "ean moivašuvvan",
+                "eahppi moivašuvvan",
+                "eaba moivašuvvan",
+                "eat moivašuvvan",
+                "ehpet moivašuvvan",
+                "eai moivašuvvan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean moivašuvvan",
+                "leat moivašuvvan",
+                "lea moivašuvvan",
+                "letne moivašuvvan",
+                "leahppi moivašuvvan",
+                "leaba moivašuvvan",
+                "leat moivašuvvan",
+                "lehpet moivašuvvan",
+                "leat moivašuvvan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen moivašuvvan",
+                "ledjet moivašuvvan",
+                "lei moivašuvvan",
+                "leimme moivašuvvan",
+                "leidde moivašuvvan",
+                "leigga moivašuvvan",
+                "leimmet moivašuvvan",
+                "leiddet moivašuvvan",
+                "ledje moivašuvvan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean moivašuvvame, -min",
+                "leat moivašuvvame, -min",
+                "lea moivašuvvame, -min",
+                "letne moivašuvvame, -min",
+                "leahppi moivašuvvame, -min",
+                "leaba moivašuvvame, -min",
+                "leat moivašuvvame, -min",
+                "lehpet moivašuvvame, -min",
+                "leat moivašuvvame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen moivašuvvame, -min",
+                "ledjet moivašuvvame, -min",
+                "lei moivašuvvame, -min",
+                "leimme moivašuvvame, -min",
+                "leidde moivašuvvame, -min",
+                "leigga moivašuvvame, -min",
+                "leimmet moivašuvvame, -min",
+                "leiddet moivašuvvame, -min",
+                "ledje moivašuvvame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "moivašuvašin",
+                "moivašuvašit",
+                "moivašuvašii",
+                "moivašuvašeimme",
+                "moivašuvašeidde",
+                "moivašuvašeigga",
+                "moivašuvašeimmet",
+                "moivašuvašeiddet",
+                "moivašuvašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in moivašuvaše",
+                "it moivašuvaše",
+                "ii moivašuvaše",
+                "ean moivašuvaše",
+                "eahppi moivašuvaše",
+                "eaba moivašuvaše",
+                "eat moivašuvaše",
+                "ehpet moivašuvaše",
+                "eai moivašuvaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "moivašuvažan",
+                "moivašuvažat",
+                "moivašuvaš",
+                "moivašuvažetne",
+                "moivašuvažeahppi",
+                "moivašuvažeaba",
+                "moivašuvažit, -žat",
+                "moivašuvažehpet",
+                "moivašuvažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in moivašuvaš",
+                "it moivašuvaš",
+                "ii moivašuvaš",
+                "ean moivašuvaš",
+                "eahppi moivašuvaš",
+                "eaba moivašuvaš",
+                "eat moivašuvaš",
+                "ehpet moivašuvaš",
+                "eai moivašuvaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "moivašuvvon",
+                "moivašuva",
+                "moivašuvvos",
+                "moivašuvvu",
+                "moivašuvvi",
+                "moivašuvvoska",
+                "moivašuvvot",
+                "moivašuvvet, moivašuvvit",
+                "moivašuvvoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon moivašuva",
+                "ale moivašuva",
+                "allos moivašuva",
+                "allu moivašuva",
+                "alli moivašuva",
+                "alloska moivašuva",
+                "allot, allut moivašuva",
+                "allet, allit moivašuva",
+                "alloset moivašuva"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Moivašuvvat",
+    "valid": 1
+}

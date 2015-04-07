@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "váivvidit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "váivvidan",
+                "váivvidat",
+                "váivvida",
+                "váivvidetne",
+                "váivvideahppi",
+                "váivvideaba",
+                "váivvidit, -dat",
+                "váivvidehpet",
+                "váivvidit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in váivvit",
+                "it váivvit",
+                "ii váivvit",
+                "ean váivvit",
+                "eahppi váivvit",
+                "eaba váivvit",
+                "eat váivvit",
+                "ehpet váivvit",
+                "eai váivvit"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "váivvidin",
+                "váivvidit",
+                "váivvidii",
+                "váivvideimme",
+                "váivvideidde",
+                "váivvideigga",
+                "váivvideimmet",
+                "váivvideiddet",
+                "váivvidedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in váivvidan",
+                "it váivvidan",
+                "ii váivvidan",
+                "ean váivvidan",
+                "eahppi váivvidan",
+                "eaba váivvidan",
+                "eat váivvidan",
+                "ehpet váivvidan",
+                "eai váivvidan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean váivvidan",
+                "leat váivvidan",
+                "lea váivvidan",
+                "letne váivvidan",
+                "leahppi váivvidan",
+                "leaba váivvidan",
+                "leat váivvidan",
+                "lehpet váivvidan",
+                "leat váivvidan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen váivvidan",
+                "ledjet váivvidan",
+                "lei váivvidan",
+                "leimme váivvidan",
+                "leidde váivvidan",
+                "leigga váivvidan",
+                "leimmet váivvidan",
+                "leiddet váivvidan",
+                "ledje váivvidan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean váivvideame, -men",
+                "leat váivvideame, -men",
+                "lea váivvideame, -men",
+                "letne váivvideame, -men",
+                "leahppi váivvideame, -men",
+                "leaba váivvideame, -men",
+                "leat váivvideame, -men",
+                "lehpet váivvideame, -men",
+                "leat váivvideame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen váivvideame, -men",
+                "ledjet váivvideame, -men",
+                "lei váivvideame, -men",
+                "leimme váivvideame, -men",
+                "leidde váivvideame, -men",
+                "leigga váivvideame, -men",
+                "leimmet váivvideame, -men",
+                "leiddet váivvideame, -men",
+                "ledje váivvideame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "váivvidivččen",
+                "váivvidivččet",
+                "váivvidivččii",
+                "váivvidivččiime",
+                "váivvidivččiide",
+                "váivvidivččiiga",
+                "váivvidivččiimet",
+                "váivvidivččiidet",
+                "váivvidivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in váivvidivčče",
+                "it váivvidivčče",
+                "ii váivvidivčče",
+                "ean váivvidivčče",
+                "eahppi váivvidivčče",
+                "eaba váivvidivčče",
+                "eat váivvidivčče",
+                "ehpet váivvidivčče",
+                "eai váivvidivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "váivvideaččan",
+                "váivvideaččat",
+                "váivvideaš, -deš, -deažžá",
+                "váivvidežže",
+                "váivvideažžabeahtti",
+                "váivvideažžaba",
+                "váivvideažžat",
+                "váivvideažžabehtet",
+                "váivvidežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in váivvideaš, -deš, -deažžá",
+                "it váivvideaš, -deš, -deažžá",
+                "ii váivvideaš, -deš, -deažžá",
+                "ean váivvideaš, -deš, -deažžá",
+                "eahppi váivvideaš, -deš, -deažžá",
+                "eaba váivvideaš, -deš, -deažžá",
+                "eat váivvideaš, -deš, -deažžá",
+                "ehpet váivvideaš, -deš, -deažžá",
+                "eai váivvideaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "váivvidehkon",
+                "váivvit",
+                "váivvidehkos, váivvidus",
+                "váivvideadnu",
+                "váivvideahkki",
+                "váivvidehkoska",
+                "váivvidehkot, váivvideahkkut, váivvidetnot, váivvideadnot",
+                "váivvidehket",
+                "váivvidehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon váivvit",
+                "ale váivvit",
+                "allos váivvit",
+                "allu váivvit",
+                "alli váivvit",
+                "alloska váivvit",
+                "allot, allut váivvit",
+                "allet, allit váivvit",
+                "alloset váivvit"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Váivvidit",
+    "valid": 1
+}

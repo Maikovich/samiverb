@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gorbmestit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gorbmestan",
+                "gorbmestat",
+                "gorbmesta",
+                "gorbmestetne",
+                "gorbmesteahppi",
+                "gorbmesteaba",
+                "gorbmestit, -tat",
+                "gorbmestehpet",
+                "gorbmestit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gorbmes",
+                "it gorbmes",
+                "ii gorbmes",
+                "ean gorbmes",
+                "eahppi gorbmes",
+                "eaba gorbmes",
+                "eat gorbmes",
+                "ehpet gorbmes",
+                "eai gorbmes"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gorbmestin",
+                "gorbmestit",
+                "gorbmestii",
+                "gorbmesteimme",
+                "gorbmesteidde",
+                "gorbmesteigga",
+                "gorbmesteimmet",
+                "gorbmesteiddet",
+                "gorbmestedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gorbmestan",
+                "it gorbmestan",
+                "ii gorbmestan",
+                "ean gorbmestan",
+                "eahppi gorbmestan",
+                "eaba gorbmestan",
+                "eat gorbmestan",
+                "ehpet gorbmestan",
+                "eai gorbmestan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gorbmestan",
+                "leat gorbmestan",
+                "lea gorbmestan",
+                "letne gorbmestan",
+                "leahppi gorbmestan",
+                "leaba gorbmestan",
+                "leat gorbmestan",
+                "lehpet gorbmestan",
+                "leat gorbmestan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gorbmestan",
+                "ledjet gorbmestan",
+                "lei gorbmestan",
+                "leimme gorbmestan",
+                "leidde gorbmestan",
+                "leigga gorbmestan",
+                "leimmet gorbmestan",
+                "leiddet gorbmestan",
+                "ledje gorbmestan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gorbmesteame, -men",
+                "leat gorbmesteame, -men",
+                "lea gorbmesteame, -men",
+                "letne gorbmesteame, -men",
+                "leahppi gorbmesteame, -men",
+                "leaba gorbmesteame, -men",
+                "leat gorbmesteame, -men",
+                "lehpet gorbmesteame, -men",
+                "leat gorbmesteame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gorbmesteame, -men",
+                "ledjet gorbmesteame, -men",
+                "lei gorbmesteame, -men",
+                "leimme gorbmesteame, -men",
+                "leidde gorbmesteame, -men",
+                "leigga gorbmesteame, -men",
+                "leimmet gorbmesteame, -men",
+                "leiddet gorbmesteame, -men",
+                "ledje gorbmesteame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gorbmestivččen",
+                "gorbmestivččet",
+                "gorbmestivččii",
+                "gorbmestivččiime",
+                "gorbmestivččiide",
+                "gorbmestivččiiga",
+                "gorbmestivččiimet",
+                "gorbmestivččiidet",
+                "gorbmestivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gorbmestivčče",
+                "it gorbmestivčče",
+                "ii gorbmestivčče",
+                "ean gorbmestivčče",
+                "eahppi gorbmestivčče",
+                "eaba gorbmestivčče",
+                "eat gorbmestivčče",
+                "ehpet gorbmestivčče",
+                "eai gorbmestivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gorbmesteaččan",
+                "gorbmesteaččat",
+                "gorbmesteaš, -teš, -teažžá",
+                "gorbmestežže",
+                "gorbmesteažžabeahtti",
+                "gorbmesteažžaba",
+                "gorbmesteažžat",
+                "gorbmesteažžabehtet",
+                "gorbmestežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gorbmesteaš, -teš, -teažžá",
+                "it gorbmesteaš, -teš, -teažžá",
+                "ii gorbmesteaš, -teš, -teažžá",
+                "ean gorbmesteaš, -teš, -teažžá",
+                "eahppi gorbmesteaš, -teš, -teažžá",
+                "eaba gorbmesteaš, -teš, -teažžá",
+                "eat gorbmesteaš, -teš, -teažžá",
+                "ehpet gorbmesteaš, -teš, -teažžá",
+                "eai gorbmesteaš, -teš, -teažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gorbmestehkon",
+                "gorbmes",
+                "gorbmestehkos, gorbmestus",
+                "gorbmesteadnu",
+                "gorbmesteahkki",
+                "gorbmestehkoska",
+                "gorbmestehkot, gorbmesteahkkut, gorbmestetnot, gorbmesteadnot",
+                "gorbmestehket",
+                "gorbmestehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gorbmes",
+                "ale gorbmes",
+                "allos gorbmes",
+                "allu gorbmes",
+                "alli gorbmes",
+                "alloska gorbmes",
+                "allot, allut gorbmes",
+                "allet, allit gorbmes",
+                "alloset gorbmes"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gorbmestit",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "boaldit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "boalddán",
+                "boalddát",
+                "boaldá",
+                "bolde",
+                "boaldibeahtti",
+                "boaldiba",
+                "boaldit",
+                "boaldibehtet",
+                "boldet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in boaldde",
+                "it boaldde",
+                "ii boaldde",
+                "ean boaldde",
+                "eahppi boaldde",
+                "eaba boaldde",
+                "eat boaldde",
+                "ehpet boaldde",
+                "eai boaldde"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "bolden",
+                "boldet",
+                "bolddii",
+                "bolddiime",
+                "bolddiide",
+                "bolddiiga",
+                "bolddiimet",
+                "bolddiidet",
+                "bolde"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in boaldán",
+                "it boaldán",
+                "ii boaldán",
+                "ean boaldán",
+                "eahppi boaldán",
+                "eaba boaldán",
+                "eat boaldán",
+                "ehpet boaldán",
+                "eai boaldán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean boaldán",
+                "leat boaldán",
+                "lea boaldán",
+                "letne boaldán",
+                "leahppi boaldán",
+                "leaba boaldán",
+                "leat boaldán",
+                "lehpet boaldán",
+                "leat boaldán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen boaldán",
+                "ledjet boaldán",
+                "lei boaldán",
+                "leimme boaldán",
+                "leidde boaldán",
+                "leigga boaldán",
+                "leimmet boaldán",
+                "leiddet boaldán",
+                "ledje boaldán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean boaldime, -min",
+                "leat boaldime, -min",
+                "lea boaldime, -min",
+                "letne boaldime, -min",
+                "leahppi boaldime, -min",
+                "leaba boaldime, -min",
+                "leat boaldime, -min",
+                "lehpet boaldime, -min",
+                "leat boaldime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen boaldime, -min",
+                "ledjet boaldime, -min",
+                "lei boaldime, -min",
+                "leimme boaldime, -min",
+                "leidde boaldime, -min",
+                "leigga boaldime, -min",
+                "leimmet boaldime, -min",
+                "leiddet boaldime, -min",
+                "ledje boaldime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "boalddášin",
+                "boalddášit",
+                "boalddášii",
+                "boalddášeimme",
+                "boalddášeidde",
+                "boalddášeigga",
+                "boalddášeimmet",
+                "boalddášeiddet",
+                "boalddášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in boalddáše",
+                "it boalddáše",
+                "ii boalddáše",
+                "ean boalddáše",
+                "eahppi boalddáše",
+                "eaba boalddáše",
+                "eat boalddáše",
+                "ehpet boalddáše",
+                "eai boalddáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "bolddežan",
+                "bolddežat",
+                "bolddeš",
+                "bolddežetne",
+                "bolddežeahppi",
+                "bolddežeaba",
+                "bolddežit, -žat",
+                "bolddežehpet",
+                "bolddežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in bolddeš",
+                "it bolddeš",
+                "ii bolddeš",
+                "ean bolddeš",
+                "eahppi bolddeš",
+                "eaba bolddeš",
+                "eat bolddeš",
+                "ehpet bolddeš",
+                "eai bolddeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "boldon",
+                "boaldde",
+                "boldos",
+                "boaldu",
+                "boaldi",
+                "boldoska",
+                "boldot, boaldot",
+                "boldet, boaldet",
+                "boldoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon boaldde",
+                "ale boaldde",
+                "allos boaldde",
+                "allu boaldde",
+                "alli boaldde",
+                "alloska boaldde",
+                "allot, allut boaldde",
+                "allet, allit boaldde",
+                "alloset boaldde"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Boaldit",
+    "valid": 1
+}

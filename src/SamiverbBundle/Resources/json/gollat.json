@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gollat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "golan",
+                "golat",
+                "gollá",
+                "golle",
+                "gollabeahtti",
+                "gollaba",
+                "gollat",
+                "gollabehtet",
+                "gollet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gola",
+                "it gola",
+                "ii gola",
+                "ean gola",
+                "eahppi gola",
+                "eaba gola",
+                "eat gola",
+                "ehpet gola",
+                "eai gola"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gollen",
+                "gollet",
+                "golai",
+                "golaime",
+                "golaide",
+                "golaiga",
+                "golaimet",
+                "golaidet",
+                "golle"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gollan",
+                "it gollan",
+                "ii gollan",
+                "ean gollan",
+                "eahppi gollan",
+                "eaba gollan",
+                "eat gollan",
+                "ehpet gollan",
+                "eai gollan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gollan",
+                "leat gollan",
+                "lea gollan",
+                "letne gollan",
+                "leahppi gollan",
+                "leaba gollan",
+                "leat gollan",
+                "lehpet gollan",
+                "leat gollan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gollan",
+                "ledjet gollan",
+                "lei gollan",
+                "leimme gollan",
+                "leidde gollan",
+                "leigga gollan",
+                "leimmet gollan",
+                "leiddet gollan",
+                "ledje gollan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gollame, -min",
+                "leat gollame, -min",
+                "lea gollame, -min",
+                "letne gollame, -min",
+                "leahppi gollame, -min",
+                "leaba gollame, -min",
+                "leat gollame, -min",
+                "lehpet gollame, -min",
+                "leat gollame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gollame, -min",
+                "ledjet gollame, -min",
+                "lei gollame, -min",
+                "leimme gollame, -min",
+                "leidde gollame, -min",
+                "leigga gollame, -min",
+                "leimmet gollame, -min",
+                "leiddet gollame, -min",
+                "ledje gollame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "golašin",
+                "golašit",
+                "golašii",
+                "golašeimme",
+                "golašeidde",
+                "golašeigga",
+                "golašeimmet",
+                "golašeiddet",
+                "golašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in golaše",
+                "it golaše",
+                "ii golaše",
+                "ean golaše",
+                "eahppi golaše",
+                "eaba golaše",
+                "eat golaše",
+                "ehpet golaše",
+                "eai golaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "golažan",
+                "golažat",
+                "golaš",
+                "golažetne",
+                "golažeahppi",
+                "golažeaba",
+                "golažit, -žat",
+                "golažehpet",
+                "golažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in golaš",
+                "it golaš",
+                "ii golaš",
+                "ean golaš",
+                "eahppi golaš",
+                "eaba golaš",
+                "eat golaš",
+                "ehpet golaš",
+                "eai golaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gollon",
+                "gola",
+                "gollos",
+                "gollu",
+                "golli",
+                "golloska",
+                "gollot",
+                "gollet, gollit",
+                "golloset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gola",
+                "ale gola",
+                "allos gola",
+                "allu gola",
+                "alli gola",
+                "alloska gola",
+                "allot, allut gola",
+                "allet, allit gola",
+                "alloset gola"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gollat",
+    "valid": 1
+}

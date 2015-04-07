@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "mátkkoštit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "mátkkoštan",
+                "mátkkoštat",
+                "mátkkošta",
+                "mátkkoštetne",
+                "mátkkošteahppi",
+                "mátkkošteaba",
+                "mátkkoštit, -tat",
+                "mátkkoštehpet",
+                "mátkkoštit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in mátkkoš",
+                "it mátkkoš",
+                "ii mátkkoš",
+                "ean mátkkoš",
+                "eahppi mátkkoš",
+                "eaba mátkkoš",
+                "eat mátkkoš",
+                "ehpet mátkkoš",
+                "eai mátkkoš"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "mátkkoštin",
+                "mátkkoštit",
+                "mátkkoštii",
+                "mátkkošteimme",
+                "mátkkošteidde",
+                "mátkkošteigga",
+                "mátkkošteimmet",
+                "mátkkošteiddet",
+                "mátkkoštedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in mátkkoštan",
+                "it mátkkoštan",
+                "ii mátkkoštan",
+                "ean mátkkoštan",
+                "eahppi mátkkoštan",
+                "eaba mátkkoštan",
+                "eat mátkkoštan",
+                "ehpet mátkkoštan",
+                "eai mátkkoštan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean mátkkoštan",
+                "leat mátkkoštan",
+                "lea mátkkoštan",
+                "letne mátkkoštan",
+                "leahppi mátkkoštan",
+                "leaba mátkkoštan",
+                "leat mátkkoštan",
+                "lehpet mátkkoštan",
+                "leat mátkkoštan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen mátkkoštan",
+                "ledjet mátkkoštan",
+                "lei mátkkoštan",
+                "leimme mátkkoštan",
+                "leidde mátkkoštan",
+                "leigga mátkkoštan",
+                "leimmet mátkkoštan",
+                "leiddet mátkkoštan",
+                "ledje mátkkoštan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean mátkkošteame, -men",
+                "leat mátkkošteame, -men",
+                "lea mátkkošteame, -men",
+                "letne mátkkošteame, -men",
+                "leahppi mátkkošteame, -men",
+                "leaba mátkkošteame, -men",
+                "leat mátkkošteame, -men",
+                "lehpet mátkkošteame, -men",
+                "leat mátkkošteame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen mátkkošteame, -men",
+                "ledjet mátkkošteame, -men",
+                "lei mátkkošteame, -men",
+                "leimme mátkkošteame, -men",
+                "leidde mátkkošteame, -men",
+                "leigga mátkkošteame, -men",
+                "leimmet mátkkošteame, -men",
+                "leiddet mátkkošteame, -men",
+                "ledje mátkkošteame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "mátkkoštivččen",
+                "mátkkoštivččet",
+                "mátkkoštivččii",
+                "mátkkoštivččiime",
+                "mátkkoštivččiide",
+                "mátkkoštivččiiga",
+                "mátkkoštivččiimet",
+                "mátkkoštivččiidet",
+                "mátkkoštivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in mátkkoštivčče",
+                "it mátkkoštivčče",
+                "ii mátkkoštivčče",
+                "ean mátkkoštivčče",
+                "eahppi mátkkoštivčče",
+                "eaba mátkkoštivčče",
+                "eat mátkkoštivčče",
+                "ehpet mátkkoštivčče",
+                "eai mátkkoštivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "mátkkošteaččan",
+                "mátkkošteaččat",
+                "mátkkošteaš, -teš, -teažžá",
+                "mátkkoštežže",
+                "mátkkošteažžabeahtti",
+                "mátkkošteažžaba",
+                "mátkkošteažžat",
+                "mátkkošteažžabehtet",
+                "mátkkoštežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in mátkkošteaš, -teš, -teažžá",
+                "it mátkkošteaš, -teš, -teažžá",
+                "ii mátkkošteaš, -teš, -teažžá",
+                "ean mátkkošteaš, -teš, -teažžá",
+                "eahppi mátkkošteaš, -teš, -teažžá",
+                "eaba mátkkošteaš, -teš, -teažžá",
+                "eat mátkkošteaš, -teš, -teažžá",
+                "ehpet mátkkošteaš, -teš, -teažžá",
+                "eai mátkkošteaš, -teš, -teažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "mátkkoštehkon",
+                "mátkkoš",
+                "mátkkoštehkos, mátkkoštus",
+                "mátkkošteadnu",
+                "mátkkošteahkki",
+                "mátkkoštehkoska",
+                "mátkkoštehkot, mátkkošteahkkut, mátkkoštetnot, mátkkošteadnot",
+                "mátkkoštehket",
+                "mátkkoštehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon mátkkoš",
+                "ale mátkkoš",
+                "allos mátkkoš",
+                "allu mátkkoš",
+                "alli mátkkoš",
+                "alloska mátkkoš",
+                "allot, allut mátkkoš",
+                "allet, allit mátkkoš",
+                "alloset mátkkoš"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Mátkkoštit",
+    "valid": 1
+}

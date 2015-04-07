@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "finadit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "finadan",
+                "finadat",
+                "finada",
+                "finadetne",
+                "finadeahppi",
+                "finadeaba",
+                "finadit, -dat",
+                "finadehpet",
+                "finadit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in finat",
+                "it finat",
+                "ii finat",
+                "ean finat",
+                "eahppi finat",
+                "eaba finat",
+                "eat finat",
+                "ehpet finat",
+                "eai finat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "finadin",
+                "finadit",
+                "finadii",
+                "finadeimme",
+                "finadeidde",
+                "finadeigga",
+                "finadeimmet",
+                "finadeiddet",
+                "finadedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in finadan",
+                "it finadan",
+                "ii finadan",
+                "ean finadan",
+                "eahppi finadan",
+                "eaba finadan",
+                "eat finadan",
+                "ehpet finadan",
+                "eai finadan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean finadan",
+                "leat finadan",
+                "lea finadan",
+                "letne finadan",
+                "leahppi finadan",
+                "leaba finadan",
+                "leat finadan",
+                "lehpet finadan",
+                "leat finadan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen finadan",
+                "ledjet finadan",
+                "lei finadan",
+                "leimme finadan",
+                "leidde finadan",
+                "leigga finadan",
+                "leimmet finadan",
+                "leiddet finadan",
+                "ledje finadan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean finadeame, -men",
+                "leat finadeame, -men",
+                "lea finadeame, -men",
+                "letne finadeame, -men",
+                "leahppi finadeame, -men",
+                "leaba finadeame, -men",
+                "leat finadeame, -men",
+                "lehpet finadeame, -men",
+                "leat finadeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen finadeame, -men",
+                "ledjet finadeame, -men",
+                "lei finadeame, -men",
+                "leimme finadeame, -men",
+                "leidde finadeame, -men",
+                "leigga finadeame, -men",
+                "leimmet finadeame, -men",
+                "leiddet finadeame, -men",
+                "ledje finadeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "finadivččen",
+                "finadivččet",
+                "finadivččii",
+                "finadivččiime",
+                "finadivččiide",
+                "finadivččiiga",
+                "finadivččiimet",
+                "finadivččiidet",
+                "finadivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in finadivčče",
+                "it finadivčče",
+                "ii finadivčče",
+                "ean finadivčče",
+                "eahppi finadivčče",
+                "eaba finadivčče",
+                "eat finadivčče",
+                "ehpet finadivčče",
+                "eai finadivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "finadeaččan",
+                "finadeaččat",
+                "finadeaš, -deš, -deažžá",
+                "finadežže",
+                "finadeažžabeahtti",
+                "finadeažžaba",
+                "finadeažžat",
+                "finadeažžabehtet",
+                "finadežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in finadeaš, -deš, -deažžá",
+                "it finadeaš, -deš, -deažžá",
+                "ii finadeaš, -deš, -deažžá",
+                "ean finadeaš, -deš, -deažžá",
+                "eahppi finadeaš, -deš, -deažžá",
+                "eaba finadeaš, -deš, -deažžá",
+                "eat finadeaš, -deš, -deažžá",
+                "ehpet finadeaš, -deš, -deažžá",
+                "eai finadeaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "finadehkon",
+                "finat",
+                "finadehkos, finadus",
+                "finadeadnu",
+                "finadeahkki",
+                "finadehkoska",
+                "finadehkot, finadeahkkut, finadetnot, finadeadnot",
+                "finadehket",
+                "finadehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon finat",
+                "ale finat",
+                "allos finat",
+                "allu finat",
+                "alli finat",
+                "alloska finat",
+                "allot, allut finat",
+                "allet, allit finat",
+                "alloset finat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Finadit",
+    "valid": 1
+}

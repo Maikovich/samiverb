@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "ohcalit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "ohcalan",
+                "ohcalat",
+                "ohcala",
+                "ohcaletne",
+                "ohcaleahppi",
+                "ohcaleaba",
+                "ohcalit, -lat",
+                "ohcalehpet",
+                "ohcalit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in ohcal",
+                "it ohcal",
+                "ii ohcal",
+                "ean ohcal",
+                "eahppi ohcal",
+                "eaba ohcal",
+                "eat ohcal",
+                "ehpet ohcal",
+                "eai ohcal"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ohcalin",
+                "ohcalit",
+                "ohcalii",
+                "ohcaleimme",
+                "ohcaleidde",
+                "ohcaleigga",
+                "ohcaleimmet",
+                "ohcaleiddet",
+                "ohcaledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ohcalan",
+                "it ohcalan",
+                "ii ohcalan",
+                "ean ohcalan",
+                "eahppi ohcalan",
+                "eaba ohcalan",
+                "eat ohcalan",
+                "ehpet ohcalan",
+                "eai ohcalan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ohcalan",
+                "leat ohcalan",
+                "lea ohcalan",
+                "letne ohcalan",
+                "leahppi ohcalan",
+                "leaba ohcalan",
+                "leat ohcalan",
+                "lehpet ohcalan",
+                "leat ohcalan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ohcalan",
+                "ledjet ohcalan",
+                "lei ohcalan",
+                "leimme ohcalan",
+                "leidde ohcalan",
+                "leigga ohcalan",
+                "leimmet ohcalan",
+                "leiddet ohcalan",
+                "ledje ohcalan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean ohcaleame, -men",
+                "leat ohcaleame, -men",
+                "lea ohcaleame, -men",
+                "letne ohcaleame, -men",
+                "leahppi ohcaleame, -men",
+                "leaba ohcaleame, -men",
+                "leat ohcaleame, -men",
+                "lehpet ohcaleame, -men",
+                "leat ohcaleame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen ohcaleame, -men",
+                "ledjet ohcaleame, -men",
+                "lei ohcaleame, -men",
+                "leimme ohcaleame, -men",
+                "leidde ohcaleame, -men",
+                "leigga ohcaleame, -men",
+                "leimmet ohcaleame, -men",
+                "leiddet ohcaleame, -men",
+                "ledje ohcaleame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "ohcalivččen",
+                "ohcalivččet",
+                "ohcalivččii",
+                "ohcalivččiime",
+                "ohcalivččiide",
+                "ohcalivččiiga",
+                "ohcalivččiimet",
+                "ohcalivččiidet",
+                "ohcalivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in ohcalivčče",
+                "it ohcalivčče",
+                "ii ohcalivčče",
+                "ean ohcalivčče",
+                "eahppi ohcalivčče",
+                "eaba ohcalivčče",
+                "eat ohcalivčče",
+                "ehpet ohcalivčče",
+                "eai ohcalivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "ohcaleaččan",
+                "ohcaleaččat",
+                "ohcaleaš, -leš, -leažžá",
+                "ohcaležže",
+                "ohcaleažžabeahtti",
+                "ohcaleažžaba",
+                "ohcaleažžat",
+                "ohcaleažžabehtet",
+                "ohcaležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in ohcaleaš, -leš, -leažžá",
+                "it ohcaleaš, -leš, -leažžá",
+                "ii ohcaleaš, -leš, -leažžá",
+                "ean ohcaleaš, -leš, -leažžá",
+                "eahppi ohcaleaš, -leš, -leažžá",
+                "eaba ohcaleaš, -leš, -leažžá",
+                "eat ohcaleaš, -leš, -leažžá",
+                "ehpet ohcaleaš, -leš, -leažžá",
+                "eai ohcaleaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "ohcalehkon",
+                "ohcal",
+                "ohcalehkos, ohcalus",
+                "ohcaleadnu",
+                "ohcaleahkki",
+                "ohcalehkoska",
+                "ohcalehkot, ohcaleahkkut, ohcaletnot, ohcaleadnot",
+                "ohcalehket",
+                "ohcalehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon ohcal",
+                "ale ohcal",
+                "allos ohcal",
+                "allu ohcal",
+                "alli ohcal",
+                "alloska ohcal",
+                "allot, allut ohcal",
+                "allet, allit ohcal",
+                "alloset ohcal"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Ohcalit",
+    "valid": 1
+}

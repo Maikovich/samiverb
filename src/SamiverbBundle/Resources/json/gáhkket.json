@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gáhkket",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gáhkken",
+                "gáhkket",
+                "gáhkke",
+                "gáhkkejetne",
+                "gáhkkebeahtti",
+                "gáhkkeba",
+                "gáhkket",
+                "gáhkkebehtet",
+                "gáhkkejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gáhkke",
+                "it gáhkke",
+                "ii gáhkke",
+                "ean gáhkke",
+                "eahppi gáhkke",
+                "eaba gáhkke",
+                "eat gáhkke",
+                "ehpet gáhkke",
+                "eai gáhkke"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gáhkkejin",
+                "gáhkkejit",
+                "gáhkkii",
+                "gáhkkiime",
+                "gáhkkiide",
+                "gáhkkiiga",
+                "gáhkkiimet",
+                "gáhkkiidet",
+                "gáhkkejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gáhkken",
+                "it gáhkken",
+                "ii gáhkken",
+                "ean gáhkken",
+                "eahppi gáhkken",
+                "eaba gáhkken",
+                "eat gáhkken",
+                "ehpet gáhkken",
+                "eai gáhkken"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gáhkken",
+                "leat gáhkken",
+                "lea gáhkken",
+                "letne gáhkken",
+                "leahppi gáhkken",
+                "leaba gáhkken",
+                "leat gáhkken",
+                "lehpet gáhkken",
+                "leat gáhkken"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gáhkken",
+                "ledjet gáhkken",
+                "lei gáhkken",
+                "leimme gáhkken",
+                "leidde gáhkken",
+                "leigga gáhkken",
+                "leimmet gáhkken",
+                "leiddet gáhkken",
+                "ledje gáhkken"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gáhkkeme, -min",
+                "leat gáhkkeme, -min",
+                "lea gáhkkeme, -min",
+                "letne gáhkkeme, -min",
+                "leahppi gáhkkeme, -min",
+                "leaba gáhkkeme, -min",
+                "leat gáhkkeme, -min",
+                "lehpet gáhkkeme, -min",
+                "leat gáhkkeme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gáhkkeme, -min",
+                "ledjet gáhkkeme, -min",
+                "lei gáhkkeme, -min",
+                "leimme gáhkkeme, -min",
+                "leidde gáhkkeme, -min",
+                "leigga gáhkkeme, -min",
+                "leimmet gáhkkeme, -min",
+                "leiddet gáhkkeme, -min",
+                "ledje gáhkkeme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gáhkkešin",
+                "gáhkkešit",
+                "gáhkkešii",
+                "gáhkkešeimme",
+                "gáhkkešeidde",
+                "gáhkkešeigga",
+                "gáhkkešeimmet",
+                "gáhkkešeiddet",
+                "gáhkkešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gáhkkeše",
+                "it gáhkkeše",
+                "ii gáhkkeše",
+                "ean gáhkkeše",
+                "eahppi gáhkkeše",
+                "eaba gáhkkeše",
+                "eat gáhkkeše",
+                "ehpet gáhkkeše",
+                "eai gáhkkeše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gáhkkežan",
+                "gáhkkežat",
+                "gáhkkeš",
+                "gáhkkežetne",
+                "gáhkkežeahppi",
+                "gáhkkežeaba",
+                "gáhkkežit, -žat",
+                "gáhkkežehpet",
+                "gáhkkežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gáhkkeš",
+                "it gáhkkeš",
+                "ii gáhkkeš",
+                "ean gáhkkeš",
+                "eahppi gáhkkeš",
+                "eaba gáhkkeš",
+                "eat gáhkkeš",
+                "ehpet gáhkkeš",
+                "eai gáhkkeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gáhkkejehkon",
+                "gáhkke",
+                "gáhkkejehkos",
+                "gáhkkejeadnu",
+                "gáhkkejeahkki",
+                "gáhkkejehkoska",
+                "gáhkkejeahkkut, gáhkkejeadnot, gáhkkejehkot, gáhkkejetnot",
+                "gáhkkejeahkkit",
+                "gáhkkejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gáhkke",
+                "ale gáhkke",
+                "allos gáhkke",
+                "allu gáhkke",
+                "alli gáhkke",
+                "alloska gáhkke",
+                "allot, allut gáhkke",
+                "allet, allit gáhkke",
+                "alloset gáhkke"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gáhkket",
+    "valid": 1
+}

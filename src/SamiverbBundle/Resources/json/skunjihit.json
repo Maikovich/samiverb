@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "skunjihit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "skunjihan",
+                "skunjihat",
+                "skunjiha",
+                "skunjihetne",
+                "skunjiheahppi",
+                "skunjiheaba",
+                "skunjihit, -hat",
+                "skunjihehpet",
+                "skunjihit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in skunjit",
+                "it skunjit",
+                "ii skunjit",
+                "ean skunjit",
+                "eahppi skunjit",
+                "eaba skunjit",
+                "eat skunjit",
+                "ehpet skunjit",
+                "eai skunjit"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "skunjihin",
+                "skunjihit",
+                "skunjihii",
+                "skunjiheimme",
+                "skunjiheidde",
+                "skunjiheigga",
+                "skunjiheimmet",
+                "skunjiheiddet",
+                "skunjihedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in skunjihan",
+                "it skunjihan",
+                "ii skunjihan",
+                "ean skunjihan",
+                "eahppi skunjihan",
+                "eaba skunjihan",
+                "eat skunjihan",
+                "ehpet skunjihan",
+                "eai skunjihan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean skunjihan",
+                "leat skunjihan",
+                "lea skunjihan",
+                "letne skunjihan",
+                "leahppi skunjihan",
+                "leaba skunjihan",
+                "leat skunjihan",
+                "lehpet skunjihan",
+                "leat skunjihan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen skunjihan",
+                "ledjet skunjihan",
+                "lei skunjihan",
+                "leimme skunjihan",
+                "leidde skunjihan",
+                "leigga skunjihan",
+                "leimmet skunjihan",
+                "leiddet skunjihan",
+                "ledje skunjihan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean skunjiheame, -men",
+                "leat skunjiheame, -men",
+                "lea skunjiheame, -men",
+                "letne skunjiheame, -men",
+                "leahppi skunjiheame, -men",
+                "leaba skunjiheame, -men",
+                "leat skunjiheame, -men",
+                "lehpet skunjiheame, -men",
+                "leat skunjiheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen skunjiheame, -men",
+                "ledjet skunjiheame, -men",
+                "lei skunjiheame, -men",
+                "leimme skunjiheame, -men",
+                "leidde skunjiheame, -men",
+                "leigga skunjiheame, -men",
+                "leimmet skunjiheame, -men",
+                "leiddet skunjiheame, -men",
+                "ledje skunjiheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "skunjihivččen",
+                "skunjihivččet",
+                "skunjihivččii",
+                "skunjihivččiime",
+                "skunjihivččiide",
+                "skunjihivččiiga",
+                "skunjihivččiimet",
+                "skunjihivččiidet",
+                "skunjihivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in skunjihivčče",
+                "it skunjihivčče",
+                "ii skunjihivčče",
+                "ean skunjihivčče",
+                "eahppi skunjihivčče",
+                "eaba skunjihivčče",
+                "eat skunjihivčče",
+                "ehpet skunjihivčče",
+                "eai skunjihivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "skunjiheaččan",
+                "skunjiheaččat",
+                "skunjiheaš, -heš, -heažžá",
+                "skunjihežže",
+                "skunjiheažžabeahtti",
+                "skunjiheažžaba",
+                "skunjiheažžat",
+                "skunjiheažžabehtet",
+                "skunjihežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in skunjiheaš, -heš, -heažžá",
+                "it skunjiheaš, -heš, -heažžá",
+                "ii skunjiheaš, -heš, -heažžá",
+                "ean skunjiheaš, -heš, -heažžá",
+                "eahppi skunjiheaš, -heš, -heažžá",
+                "eaba skunjiheaš, -heš, -heažžá",
+                "eat skunjiheaš, -heš, -heažžá",
+                "ehpet skunjiheaš, -heš, -heažžá",
+                "eai skunjiheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "skunjihehkon",
+                "skunjit",
+                "skunjihehkos, skunjihus",
+                "skunjiheadnu",
+                "skunjiheahkki",
+                "skunjihehkoska",
+                "skunjihehkot, skunjiheahkkut, skunjihetnot, skunjiheadnot",
+                "skunjihehket",
+                "skunjihehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon skunjit",
+                "ale skunjit",
+                "allos skunjit",
+                "allu skunjit",
+                "alli skunjit",
+                "alloska skunjit",
+                "allot, allut skunjit",
+                "allet, allit skunjit",
+                "alloset skunjit"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Skunjihit",
+    "valid": 1
+}

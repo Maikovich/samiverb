@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "nagodit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "nagodan",
+                "nagodat",
+                "nagoda",
+                "nagodetne",
+                "nagodeahppi",
+                "nagodeaba",
+                "nagodit, -dat",
+                "nagodehpet",
+                "nagodit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in nagot",
+                "it nagot",
+                "ii nagot",
+                "ean nagot",
+                "eahppi nagot",
+                "eaba nagot",
+                "eat nagot",
+                "ehpet nagot",
+                "eai nagot"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "nagodin",
+                "nagodit",
+                "nagodii",
+                "nagodeimme",
+                "nagodeidde",
+                "nagodeigga",
+                "nagodeimmet",
+                "nagodeiddet",
+                "nagodedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in nagodan",
+                "it nagodan",
+                "ii nagodan",
+                "ean nagodan",
+                "eahppi nagodan",
+                "eaba nagodan",
+                "eat nagodan",
+                "ehpet nagodan",
+                "eai nagodan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean nagodan",
+                "leat nagodan",
+                "lea nagodan",
+                "letne nagodan",
+                "leahppi nagodan",
+                "leaba nagodan",
+                "leat nagodan",
+                "lehpet nagodan",
+                "leat nagodan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen nagodan",
+                "ledjet nagodan",
+                "lei nagodan",
+                "leimme nagodan",
+                "leidde nagodan",
+                "leigga nagodan",
+                "leimmet nagodan",
+                "leiddet nagodan",
+                "ledje nagodan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean nagodeame, -men",
+                "leat nagodeame, -men",
+                "lea nagodeame, -men",
+                "letne nagodeame, -men",
+                "leahppi nagodeame, -men",
+                "leaba nagodeame, -men",
+                "leat nagodeame, -men",
+                "lehpet nagodeame, -men",
+                "leat nagodeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen nagodeame, -men",
+                "ledjet nagodeame, -men",
+                "lei nagodeame, -men",
+                "leimme nagodeame, -men",
+                "leidde nagodeame, -men",
+                "leigga nagodeame, -men",
+                "leimmet nagodeame, -men",
+                "leiddet nagodeame, -men",
+                "ledje nagodeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "nagodivččen",
+                "nagodivččet",
+                "nagodivččii",
+                "nagodivččiime",
+                "nagodivččiide",
+                "nagodivččiiga",
+                "nagodivččiimet",
+                "nagodivččiidet",
+                "nagodivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in nagodivčče",
+                "it nagodivčče",
+                "ii nagodivčče",
+                "ean nagodivčče",
+                "eahppi nagodivčče",
+                "eaba nagodivčče",
+                "eat nagodivčče",
+                "ehpet nagodivčče",
+                "eai nagodivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "nagodeaččan",
+                "nagodeaččat",
+                "nagodeaš, -deš, -deažžá",
+                "nagodežže",
+                "nagodeažžabeahtti",
+                "nagodeažžaba",
+                "nagodeažžat",
+                "nagodeažžabehtet",
+                "nagodežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in nagodeaš, -deš, -deažžá",
+                "it nagodeaš, -deš, -deažžá",
+                "ii nagodeaš, -deš, -deažžá",
+                "ean nagodeaš, -deš, -deažžá",
+                "eahppi nagodeaš, -deš, -deažžá",
+                "eaba nagodeaš, -deš, -deažžá",
+                "eat nagodeaš, -deš, -deažžá",
+                "ehpet nagodeaš, -deš, -deažžá",
+                "eai nagodeaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "nagodehkon",
+                "nagot",
+                "nagodehkos, nagodus",
+                "nagodeadnu",
+                "nagodeahkki",
+                "nagodehkoska",
+                "nagodehkot, nagodeahkkut, nagodetnot, nagodeadnot",
+                "nagodehket",
+                "nagodehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon nagot",
+                "ale nagot",
+                "allos nagot",
+                "allu nagot",
+                "alli nagot",
+                "alloska nagot",
+                "allot, allut nagot",
+                "allet, allit nagot",
+                "alloset nagot"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Nagodit",
+    "valid": 1
+}

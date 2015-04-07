@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "festet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "festen",
+                "festet",
+                "feste",
+                "festejetne",
+                "festebeahtti",
+                "festeba",
+                "festet",
+                "festebehtet",
+                "festejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in feste",
+                "it feste",
+                "ii feste",
+                "ean feste",
+                "eahppi feste",
+                "eaba feste",
+                "eat feste",
+                "ehpet feste",
+                "eai feste"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "festejin",
+                "festejit",
+                "festii",
+                "festiime",
+                "festiide",
+                "festiiga",
+                "festiimet",
+                "festiidet",
+                "festejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in festen",
+                "it festen",
+                "ii festen",
+                "ean festen",
+                "eahppi festen",
+                "eaba festen",
+                "eat festen",
+                "ehpet festen",
+                "eai festen"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean festen",
+                "leat festen",
+                "lea festen",
+                "letne festen",
+                "leahppi festen",
+                "leaba festen",
+                "leat festen",
+                "lehpet festen",
+                "leat festen"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen festen",
+                "ledjet festen",
+                "lei festen",
+                "leimme festen",
+                "leidde festen",
+                "leigga festen",
+                "leimmet festen",
+                "leiddet festen",
+                "ledje festen"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean festeme, -min",
+                "leat festeme, -min",
+                "lea festeme, -min",
+                "letne festeme, -min",
+                "leahppi festeme, -min",
+                "leaba festeme, -min",
+                "leat festeme, -min",
+                "lehpet festeme, -min",
+                "leat festeme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen festeme, -min",
+                "ledjet festeme, -min",
+                "lei festeme, -min",
+                "leimme festeme, -min",
+                "leidde festeme, -min",
+                "leigga festeme, -min",
+                "leimmet festeme, -min",
+                "leiddet festeme, -min",
+                "ledje festeme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "festešin",
+                "festešit",
+                "festešii",
+                "festešeimme",
+                "festešeidde",
+                "festešeigga",
+                "festešeimmet",
+                "festešeiddet",
+                "festešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in festeše",
+                "it festeše",
+                "ii festeše",
+                "ean festeše",
+                "eahppi festeše",
+                "eaba festeše",
+                "eat festeše",
+                "ehpet festeše",
+                "eai festeše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "festežan",
+                "festežat",
+                "festeš",
+                "festežetne",
+                "festežeahppi",
+                "festežeaba",
+                "festežit, -žat",
+                "festežehpet",
+                "festežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in festeš",
+                "it festeš",
+                "ii festeš",
+                "ean festeš",
+                "eahppi festeš",
+                "eaba festeš",
+                "eat festeš",
+                "ehpet festeš",
+                "eai festeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "festejehkon",
+                "feste",
+                "festejehkos",
+                "festejeadnu",
+                "festejeahkki",
+                "festejehkoska",
+                "festejeahkkut, festejeadnot, festejehkot, festejetnot",
+                "festejeahkkit",
+                "festejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon feste",
+                "ale feste",
+                "allos feste",
+                "allu feste",
+                "alli feste",
+                "alloska feste",
+                "allot, allut feste",
+                "allet, allit feste",
+                "alloset feste"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Festet",
+    "valid": 1
+}

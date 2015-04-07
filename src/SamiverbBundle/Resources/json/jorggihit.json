@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "jorggihit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "jorggihan",
+                "jorggihat",
+                "jorggiha",
+                "jorggihetne",
+                "jorggiheahppi",
+                "jorggiheaba",
+                "jorggihit, -hat",
+                "jorggihehpet",
+                "jorggihit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in jorggit",
+                "it jorggit",
+                "ii jorggit",
+                "ean jorggit",
+                "eahppi jorggit",
+                "eaba jorggit",
+                "eat jorggit",
+                "ehpet jorggit",
+                "eai jorggit"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "jorggihin",
+                "jorggihit",
+                "jorggihii",
+                "jorggiheimme",
+                "jorggiheidde",
+                "jorggiheigga",
+                "jorggiheimmet",
+                "jorggiheiddet",
+                "jorggihedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in jorggihan",
+                "it jorggihan",
+                "ii jorggihan",
+                "ean jorggihan",
+                "eahppi jorggihan",
+                "eaba jorggihan",
+                "eat jorggihan",
+                "ehpet jorggihan",
+                "eai jorggihan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean jorggihan",
+                "leat jorggihan",
+                "lea jorggihan",
+                "letne jorggihan",
+                "leahppi jorggihan",
+                "leaba jorggihan",
+                "leat jorggihan",
+                "lehpet jorggihan",
+                "leat jorggihan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen jorggihan",
+                "ledjet jorggihan",
+                "lei jorggihan",
+                "leimme jorggihan",
+                "leidde jorggihan",
+                "leigga jorggihan",
+                "leimmet jorggihan",
+                "leiddet jorggihan",
+                "ledje jorggihan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean jorggiheame, -men",
+                "leat jorggiheame, -men",
+                "lea jorggiheame, -men",
+                "letne jorggiheame, -men",
+                "leahppi jorggiheame, -men",
+                "leaba jorggiheame, -men",
+                "leat jorggiheame, -men",
+                "lehpet jorggiheame, -men",
+                "leat jorggiheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen jorggiheame, -men",
+                "ledjet jorggiheame, -men",
+                "lei jorggiheame, -men",
+                "leimme jorggiheame, -men",
+                "leidde jorggiheame, -men",
+                "leigga jorggiheame, -men",
+                "leimmet jorggiheame, -men",
+                "leiddet jorggiheame, -men",
+                "ledje jorggiheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "jorggihivččen",
+                "jorggihivččet",
+                "jorggihivččii",
+                "jorggihivččiime",
+                "jorggihivččiide",
+                "jorggihivččiiga",
+                "jorggihivččiimet",
+                "jorggihivččiidet",
+                "jorggihivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in jorggihivčče",
+                "it jorggihivčče",
+                "ii jorggihivčče",
+                "ean jorggihivčče",
+                "eahppi jorggihivčče",
+                "eaba jorggihivčče",
+                "eat jorggihivčče",
+                "ehpet jorggihivčče",
+                "eai jorggihivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "jorggiheaččan",
+                "jorggiheaččat",
+                "jorggiheaš, -heš, -heažžá",
+                "jorggihežže",
+                "jorggiheažžabeahtti",
+                "jorggiheažžaba",
+                "jorggiheažžat",
+                "jorggiheažžabehtet",
+                "jorggihežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in jorggiheaš, -heš, -heažžá",
+                "it jorggiheaš, -heš, -heažžá",
+                "ii jorggiheaš, -heš, -heažžá",
+                "ean jorggiheaš, -heš, -heažžá",
+                "eahppi jorggiheaš, -heš, -heažžá",
+                "eaba jorggiheaš, -heš, -heažžá",
+                "eat jorggiheaš, -heš, -heažžá",
+                "ehpet jorggiheaš, -heš, -heažžá",
+                "eai jorggiheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "jorggihehkon",
+                "jorggit",
+                "jorggihehkos, jorggihus",
+                "jorggiheadnu",
+                "jorggiheahkki",
+                "jorggihehkoska",
+                "jorggihehkot, jorggiheahkkut, jorggihetnot, jorggiheadnot",
+                "jorggihehket",
+                "jorggihehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon jorggit",
+                "ale jorggit",
+                "allos jorggit",
+                "allu jorggit",
+                "alli jorggit",
+                "alloska jorggit",
+                "allot, allut jorggit",
+                "allet, allit jorggit",
+                "alloset jorggit"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Jorggihit",
+    "valid": 1
+}

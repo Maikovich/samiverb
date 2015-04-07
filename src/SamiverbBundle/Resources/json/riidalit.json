@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "riidalit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "riidalan",
+                "riidalat",
+                "riidala",
+                "riidaletne",
+                "riidaleahppi",
+                "riidaleaba",
+                "riidalit, -lat",
+                "riidalehpet",
+                "riidalit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in riidal",
+                "it riidal",
+                "ii riidal",
+                "ean riidal",
+                "eahppi riidal",
+                "eaba riidal",
+                "eat riidal",
+                "ehpet riidal",
+                "eai riidal"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "riidalin",
+                "riidalit",
+                "riidalii",
+                "riidaleimme",
+                "riidaleidde",
+                "riidaleigga",
+                "riidaleimmet",
+                "riidaleiddet",
+                "riidaledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in riidalan",
+                "it riidalan",
+                "ii riidalan",
+                "ean riidalan",
+                "eahppi riidalan",
+                "eaba riidalan",
+                "eat riidalan",
+                "ehpet riidalan",
+                "eai riidalan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean riidalan",
+                "leat riidalan",
+                "lea riidalan",
+                "letne riidalan",
+                "leahppi riidalan",
+                "leaba riidalan",
+                "leat riidalan",
+                "lehpet riidalan",
+                "leat riidalan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen riidalan",
+                "ledjet riidalan",
+                "lei riidalan",
+                "leimme riidalan",
+                "leidde riidalan",
+                "leigga riidalan",
+                "leimmet riidalan",
+                "leiddet riidalan",
+                "ledje riidalan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean riidaleame, -men",
+                "leat riidaleame, -men",
+                "lea riidaleame, -men",
+                "letne riidaleame, -men",
+                "leahppi riidaleame, -men",
+                "leaba riidaleame, -men",
+                "leat riidaleame, -men",
+                "lehpet riidaleame, -men",
+                "leat riidaleame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen riidaleame, -men",
+                "ledjet riidaleame, -men",
+                "lei riidaleame, -men",
+                "leimme riidaleame, -men",
+                "leidde riidaleame, -men",
+                "leigga riidaleame, -men",
+                "leimmet riidaleame, -men",
+                "leiddet riidaleame, -men",
+                "ledje riidaleame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "riidalivččen",
+                "riidalivččet",
+                "riidalivččii",
+                "riidalivččiime",
+                "riidalivččiide",
+                "riidalivččiiga",
+                "riidalivččiimet",
+                "riidalivččiidet",
+                "riidalivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in riidalivčče",
+                "it riidalivčče",
+                "ii riidalivčče",
+                "ean riidalivčče",
+                "eahppi riidalivčče",
+                "eaba riidalivčče",
+                "eat riidalivčče",
+                "ehpet riidalivčče",
+                "eai riidalivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "riidaleaččan",
+                "riidaleaččat",
+                "riidaleaš, -leš, -leažžá",
+                "riidaležže",
+                "riidaleažžabeahtti",
+                "riidaleažžaba",
+                "riidaleažžat",
+                "riidaleažžabehtet",
+                "riidaležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in riidaleaš, -leš, -leažžá",
+                "it riidaleaš, -leš, -leažžá",
+                "ii riidaleaš, -leš, -leažžá",
+                "ean riidaleaš, -leš, -leažžá",
+                "eahppi riidaleaš, -leš, -leažžá",
+                "eaba riidaleaš, -leš, -leažžá",
+                "eat riidaleaš, -leš, -leažžá",
+                "ehpet riidaleaš, -leš, -leažžá",
+                "eai riidaleaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "riidalehkon",
+                "riidal",
+                "riidalehkos, riidalus",
+                "riidaleadnu",
+                "riidaleahkki",
+                "riidalehkoska",
+                "riidalehkot, riidaleahkkut, riidaletnot, riidaleadnot",
+                "riidalehket",
+                "riidalehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon riidal",
+                "ale riidal",
+                "allos riidal",
+                "allu riidal",
+                "alli riidal",
+                "alloska riidal",
+                "allot, allut riidal",
+                "allet, allit riidal",
+                "alloset riidal"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Riidalit",
+    "valid": 1
+}

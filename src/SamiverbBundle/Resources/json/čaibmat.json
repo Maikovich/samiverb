@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čaibmat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čaimman",
+                "čaimmat",
+                "čaibmá",
+                "čaibme",
+                "čaibmabeahtti",
+                "čaibmaba",
+                "čaibmat",
+                "čaibmabehtet",
+                "čaibmet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čaimma",
+                "it čaimma",
+                "ii čaimma",
+                "ean čaimma",
+                "eahppi čaimma",
+                "eaba čaimma",
+                "eat čaimma",
+                "ehpet čaimma",
+                "eai čaimma"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čaibmen",
+                "čaibmet",
+                "čaimmai",
+                "čaimmaime",
+                "čaimmaide",
+                "čaimmaiga",
+                "čaimmaimet",
+                "čaimmaidet",
+                "čaibme"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čaibman",
+                "it čaibman",
+                "ii čaibman",
+                "ean čaibman",
+                "eahppi čaibman",
+                "eaba čaibman",
+                "eat čaibman",
+                "ehpet čaibman",
+                "eai čaibman"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čaibman",
+                "leat čaibman",
+                "lea čaibman",
+                "letne čaibman",
+                "leahppi čaibman",
+                "leaba čaibman",
+                "leat čaibman",
+                "lehpet čaibman",
+                "leat čaibman"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čaibman",
+                "ledjet čaibman",
+                "lei čaibman",
+                "leimme čaibman",
+                "leidde čaibman",
+                "leigga čaibman",
+                "leimmet čaibman",
+                "leiddet čaibman",
+                "ledje čaibman"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čaibmame, -min",
+                "leat čaibmame, -min",
+                "lea čaibmame, -min",
+                "letne čaibmame, -min",
+                "leahppi čaibmame, -min",
+                "leaba čaibmame, -min",
+                "leat čaibmame, -min",
+                "lehpet čaibmame, -min",
+                "leat čaibmame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čaibmame, -min",
+                "ledjet čaibmame, -min",
+                "lei čaibmame, -min",
+                "leimme čaibmame, -min",
+                "leidde čaibmame, -min",
+                "leigga čaibmame, -min",
+                "leimmet čaibmame, -min",
+                "leiddet čaibmame, -min",
+                "ledje čaibmame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čaimmašin",
+                "čaimmašit",
+                "čaimmašii",
+                "čaimmašeimme",
+                "čaimmašeidde",
+                "čaimmašeigga",
+                "čaimmašeimmet",
+                "čaimmašeiddet",
+                "čaimmašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čaimmaše",
+                "it čaimmaše",
+                "ii čaimmaše",
+                "ean čaimmaše",
+                "eahppi čaimmaše",
+                "eaba čaimmaše",
+                "eat čaimmaše",
+                "ehpet čaimmaše",
+                "eai čaimmaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čaimmažan",
+                "čaimmažat",
+                "čaimmaš",
+                "čaimmažetne",
+                "čaimmažeahppi",
+                "čaimmažeaba",
+                "čaimmažit, -žat",
+                "čaimmažehpet",
+                "čaimmažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čaimmaš",
+                "it čaimmaš",
+                "ii čaimmaš",
+                "ean čaimmaš",
+                "eahppi čaimmaš",
+                "eaba čaimmaš",
+                "eat čaimmaš",
+                "ehpet čaimmaš",
+                "eai čaimmaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čaibmon",
+                "čaimma",
+                "čaibmos",
+                "čaibmu",
+                "čaibmi",
+                "čaibmoska",
+                "čaibmot",
+                "čaibmet, čaibmit",
+                "čaibmoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čaimma",
+                "ale čaimma",
+                "allos čaimma",
+                "allu čaimma",
+                "alli čaimma",
+                "alloska čaimma",
+                "allot, allut čaimma",
+                "allet, allit čaimma",
+                "alloset čaimma"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čaibmat",
+    "valid": 1
+}

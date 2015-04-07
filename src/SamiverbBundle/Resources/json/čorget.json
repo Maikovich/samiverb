@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čorget",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čorgen",
+                "čorget",
+                "čorge",
+                "čorgejetne",
+                "čorgebeahtti",
+                "čorgeba",
+                "čorget",
+                "čorgebehtet",
+                "čorgejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čorge",
+                "it čorge",
+                "ii čorge",
+                "ean čorge",
+                "eahppi čorge",
+                "eaba čorge",
+                "eat čorge",
+                "ehpet čorge",
+                "eai čorge"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čorgejin",
+                "čorgejit",
+                "čorgii",
+                "čorgiime",
+                "čorgiide",
+                "čorgiiga",
+                "čorgiimet",
+                "čorgiidet",
+                "čorgejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čorgen",
+                "it čorgen",
+                "ii čorgen",
+                "ean čorgen",
+                "eahppi čorgen",
+                "eaba čorgen",
+                "eat čorgen",
+                "ehpet čorgen",
+                "eai čorgen"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čorgen",
+                "leat čorgen",
+                "lea čorgen",
+                "letne čorgen",
+                "leahppi čorgen",
+                "leaba čorgen",
+                "leat čorgen",
+                "lehpet čorgen",
+                "leat čorgen"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čorgen",
+                "ledjet čorgen",
+                "lei čorgen",
+                "leimme čorgen",
+                "leidde čorgen",
+                "leigga čorgen",
+                "leimmet čorgen",
+                "leiddet čorgen",
+                "ledje čorgen"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čorgeme, -min",
+                "leat čorgeme, -min",
+                "lea čorgeme, -min",
+                "letne čorgeme, -min",
+                "leahppi čorgeme, -min",
+                "leaba čorgeme, -min",
+                "leat čorgeme, -min",
+                "lehpet čorgeme, -min",
+                "leat čorgeme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čorgeme, -min",
+                "ledjet čorgeme, -min",
+                "lei čorgeme, -min",
+                "leimme čorgeme, -min",
+                "leidde čorgeme, -min",
+                "leigga čorgeme, -min",
+                "leimmet čorgeme, -min",
+                "leiddet čorgeme, -min",
+                "ledje čorgeme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čorgešin",
+                "čorgešit",
+                "čorgešii",
+                "čorgešeimme",
+                "čorgešeidde",
+                "čorgešeigga",
+                "čorgešeimmet",
+                "čorgešeiddet",
+                "čorgešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čorgeše",
+                "it čorgeše",
+                "ii čorgeše",
+                "ean čorgeše",
+                "eahppi čorgeše",
+                "eaba čorgeše",
+                "eat čorgeše",
+                "ehpet čorgeše",
+                "eai čorgeše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čorgežan",
+                "čorgežat",
+                "čorgeš",
+                "čorgežetne",
+                "čorgežeahppi",
+                "čorgežeaba",
+                "čorgežit, -žat",
+                "čorgežehpet",
+                "čorgežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čorgeš",
+                "it čorgeš",
+                "ii čorgeš",
+                "ean čorgeš",
+                "eahppi čorgeš",
+                "eaba čorgeš",
+                "eat čorgeš",
+                "ehpet čorgeš",
+                "eai čorgeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čorgejehkon",
+                "čorge",
+                "čorgejehkos",
+                "čorgejeadnu",
+                "čorgejeahkki",
+                "čorgejehkoska",
+                "čorgejeahkkut, čorgejeadnot, čorgejehkot, čorgejetnot",
+                "čorgejeahkkit",
+                "čorgejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čorge",
+                "ale čorge",
+                "allos čorge",
+                "allu čorge",
+                "alli čorge",
+                "alloska čorge",
+                "allot, allut čorge",
+                "allet, allit čorge",
+                "alloset čorge"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čorget",
+    "valid": 1
+}

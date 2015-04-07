@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "viehkalit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "viehkalan",
+                "viehkalat",
+                "viehkala",
+                "viehkaletne",
+                "viehkaleahppi",
+                "viehkaleaba",
+                "viehkalit, -lat",
+                "viehkalehpet",
+                "viehkalit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in viehkal",
+                "it viehkal",
+                "ii viehkal",
+                "ean viehkal",
+                "eahppi viehkal",
+                "eaba viehkal",
+                "eat viehkal",
+                "ehpet viehkal",
+                "eai viehkal"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "viehkalin",
+                "viehkalit",
+                "viehkalii",
+                "viehkaleimme",
+                "viehkaleidde",
+                "viehkaleigga",
+                "viehkaleimmet",
+                "viehkaleiddet",
+                "viehkaledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in viehkalan",
+                "it viehkalan",
+                "ii viehkalan",
+                "ean viehkalan",
+                "eahppi viehkalan",
+                "eaba viehkalan",
+                "eat viehkalan",
+                "ehpet viehkalan",
+                "eai viehkalan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean viehkalan",
+                "leat viehkalan",
+                "lea viehkalan",
+                "letne viehkalan",
+                "leahppi viehkalan",
+                "leaba viehkalan",
+                "leat viehkalan",
+                "lehpet viehkalan",
+                "leat viehkalan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen viehkalan",
+                "ledjet viehkalan",
+                "lei viehkalan",
+                "leimme viehkalan",
+                "leidde viehkalan",
+                "leigga viehkalan",
+                "leimmet viehkalan",
+                "leiddet viehkalan",
+                "ledje viehkalan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean viehkaleame, -men",
+                "leat viehkaleame, -men",
+                "lea viehkaleame, -men",
+                "letne viehkaleame, -men",
+                "leahppi viehkaleame, -men",
+                "leaba viehkaleame, -men",
+                "leat viehkaleame, -men",
+                "lehpet viehkaleame, -men",
+                "leat viehkaleame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen viehkaleame, -men",
+                "ledjet viehkaleame, -men",
+                "lei viehkaleame, -men",
+                "leimme viehkaleame, -men",
+                "leidde viehkaleame, -men",
+                "leigga viehkaleame, -men",
+                "leimmet viehkaleame, -men",
+                "leiddet viehkaleame, -men",
+                "ledje viehkaleame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "viehkalivččen",
+                "viehkalivččet",
+                "viehkalivččii",
+                "viehkalivččiime",
+                "viehkalivččiide",
+                "viehkalivččiiga",
+                "viehkalivččiimet",
+                "viehkalivččiidet",
+                "viehkalivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in viehkalivčče",
+                "it viehkalivčče",
+                "ii viehkalivčče",
+                "ean viehkalivčče",
+                "eahppi viehkalivčče",
+                "eaba viehkalivčče",
+                "eat viehkalivčče",
+                "ehpet viehkalivčče",
+                "eai viehkalivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "viehkaleaččan",
+                "viehkaleaččat",
+                "viehkaleaš, -leš, -leažžá",
+                "viehkaležže",
+                "viehkaleažžabeahtti",
+                "viehkaleažžaba",
+                "viehkaleažžat",
+                "viehkaleažžabehtet",
+                "viehkaležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in viehkaleaš, -leš, -leažžá",
+                "it viehkaleaš, -leš, -leažžá",
+                "ii viehkaleaš, -leš, -leažžá",
+                "ean viehkaleaš, -leš, -leažžá",
+                "eahppi viehkaleaš, -leš, -leažžá",
+                "eaba viehkaleaš, -leš, -leažžá",
+                "eat viehkaleaš, -leš, -leažžá",
+                "ehpet viehkaleaš, -leš, -leažžá",
+                "eai viehkaleaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "viehkalehkon",
+                "viehkal",
+                "viehkalehkos, viehkalus",
+                "viehkaleadnu",
+                "viehkaleahkki",
+                "viehkalehkoska",
+                "viehkalehkot, viehkaleahkkut, viehkaletnot, viehkaleadnot",
+                "viehkalehket",
+                "viehkalehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon viehkal",
+                "ale viehkal",
+                "allos viehkal",
+                "allu viehkal",
+                "alli viehkal",
+                "alloska viehkal",
+                "allot, allut viehkal",
+                "allet, allit viehkal",
+                "alloset viehkal"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Viehkalit",
+    "valid": 1
+}

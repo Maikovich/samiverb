@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "veadjit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "veaján",
+                "veaját",
+                "veadjá",
+                "vedje",
+                "veadjibeahtti",
+                "veadjiba",
+                "veadjit",
+                "veadjibehtet",
+                "vedjet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in veaje",
+                "it veaje",
+                "ii veaje",
+                "ean veaje",
+                "eahppi veaje",
+                "eaba veaje",
+                "eat veaje",
+                "ehpet veaje",
+                "eai veaje"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "vedjen",
+                "vedjet",
+                "vejii",
+                "vejiime",
+                "vejiide",
+                "vejiiga",
+                "vejiimet",
+                "vejiidet",
+                "vedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in veadján",
+                "it veadján",
+                "ii veadján",
+                "ean veadján",
+                "eahppi veadján",
+                "eaba veadján",
+                "eat veadján",
+                "ehpet veadján",
+                "eai veadján"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean veadján",
+                "leat veadján",
+                "lea veadján",
+                "letne veadján",
+                "leahppi veadján",
+                "leaba veadján",
+                "leat veadján",
+                "lehpet veadján",
+                "leat veadján"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen veadján",
+                "ledjet veadján",
+                "lei veadján",
+                "leimme veadján",
+                "leidde veadján",
+                "leigga veadján",
+                "leimmet veadján",
+                "leiddet veadján",
+                "ledje veadján"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean veadjime, -min",
+                "leat veadjime, -min",
+                "lea veadjime, -min",
+                "letne veadjime, -min",
+                "leahppi veadjime, -min",
+                "leaba veadjime, -min",
+                "leat veadjime, -min",
+                "lehpet veadjime, -min",
+                "leat veadjime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen veadjime, -min",
+                "ledjet veadjime, -min",
+                "lei veadjime, -min",
+                "leimme veadjime, -min",
+                "leidde veadjime, -min",
+                "leigga veadjime, -min",
+                "leimmet veadjime, -min",
+                "leiddet veadjime, -min",
+                "ledje veadjime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "veajášin",
+                "veajášit",
+                "veajášii",
+                "veajášeimme",
+                "veajášeidde",
+                "veajášeigga",
+                "veajášeimmet",
+                "veajášeiddet",
+                "veajášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in veajáše",
+                "it veajáše",
+                "ii veajáše",
+                "ean veajáše",
+                "eahppi veajáše",
+                "eaba veajáše",
+                "eat veajáše",
+                "ehpet veajáše",
+                "eai veajáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "veježan",
+                "veježat",
+                "veješ",
+                "veježetne",
+                "veježeahppi",
+                "veježeaba",
+                "veježit, -žat",
+                "veježehpet",
+                "veježit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in veješ",
+                "it veješ",
+                "ii veješ",
+                "ean veješ",
+                "eahppi veješ",
+                "eaba veješ",
+                "eat veješ",
+                "ehpet veješ",
+                "eai veješ"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "vedjon",
+                "veaje",
+                "vedjos",
+                "veaddju",
+                "veaddji",
+                "vedjoska",
+                "vedjot, veaddjot",
+                "vedjet, veaddjet",
+                "vedjoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon veaje",
+                "ale veaje",
+                "allos veaje",
+                "allu veaje",
+                "alli veaje",
+                "alloska veaje",
+                "allot, allut veaje",
+                "allet, allit veaje",
+                "alloset veaje"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Veadjit",
+    "valid": 1
+}

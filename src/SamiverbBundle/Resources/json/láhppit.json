@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "láhppit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "láhpán",
+                "láhpát",
+                "láhppá",
+                "láhppe",
+                "láhppibeahtti",
+                "láhppiba",
+                "láhppit",
+                "láhppibehtet",
+                "láhppet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in láhpe",
+                "it láhpe",
+                "ii láhpe",
+                "ean láhpe",
+                "eahppi láhpe",
+                "eaba láhpe",
+                "eat láhpe",
+                "ehpet láhpe",
+                "eai láhpe"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "láhppen",
+                "láhppet",
+                "láhpii",
+                "láhpiime",
+                "láhpiide",
+                "láhpiiga",
+                "láhpiimet",
+                "láhpiidet",
+                "láhppe"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in láhppán",
+                "it láhppán",
+                "ii láhppán",
+                "ean láhppán",
+                "eahppi láhppán",
+                "eaba láhppán",
+                "eat láhppán",
+                "ehpet láhppán",
+                "eai láhppán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean láhppán",
+                "leat láhppán",
+                "lea láhppán",
+                "letne láhppán",
+                "leahppi láhppán",
+                "leaba láhppán",
+                "leat láhppán",
+                "lehpet láhppán",
+                "leat láhppán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen láhppán",
+                "ledjet láhppán",
+                "lei láhppán",
+                "leimme láhppán",
+                "leidde láhppán",
+                "leigga láhppán",
+                "leimmet láhppán",
+                "leiddet láhppán",
+                "ledje láhppán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean láhppime, -min",
+                "leat láhppime, -min",
+                "lea láhppime, -min",
+                "letne láhppime, -min",
+                "leahppi láhppime, -min",
+                "leaba láhppime, -min",
+                "leat láhppime, -min",
+                "lehpet láhppime, -min",
+                "leat láhppime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen láhppime, -min",
+                "ledjet láhppime, -min",
+                "lei láhppime, -min",
+                "leimme láhppime, -min",
+                "leidde láhppime, -min",
+                "leigga láhppime, -min",
+                "leimmet láhppime, -min",
+                "leiddet láhppime, -min",
+                "ledje láhppime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "láhpášin",
+                "láhpášit",
+                "láhpášii",
+                "láhpášeimme",
+                "láhpášeidde",
+                "láhpášeigga",
+                "láhpášeimmet",
+                "láhpášeiddet",
+                "láhpášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in láhpáše",
+                "it láhpáše",
+                "ii láhpáše",
+                "ean láhpáše",
+                "eahppi láhpáše",
+                "eaba láhpáše",
+                "eat láhpáše",
+                "ehpet láhpáše",
+                "eai láhpáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "láhpežan",
+                "láhpežat",
+                "láhpeš",
+                "láhpežetne",
+                "láhpežeahppi",
+                "láhpežeaba",
+                "láhpežit, -žat",
+                "láhpežehpet",
+                "láhpežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in láhpeš",
+                "it láhpeš",
+                "ii láhpeš",
+                "ean láhpeš",
+                "eahppi láhpeš",
+                "eaba láhpeš",
+                "eat láhpeš",
+                "ehpet láhpeš",
+                "eai láhpeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "láhppon",
+                "láhpe",
+                "láhppos",
+                "láhppu",
+                "láhppi",
+                "láhpposka",
+                "láhppot",
+                "láhppet",
+                "láhpposet"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon láhpe",
+                "ale láhpe",
+                "allos láhpe",
+                "allu láhpe",
+                "alli láhpe",
+                "alloska láhpe",
+                "allot, allut láhpe",
+                "allet, allit láhpe",
+                "alloset láhpe"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Láhppit",
+    "valid": 1
+}

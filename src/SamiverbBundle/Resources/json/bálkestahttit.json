@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "bálkestahttit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "bálkestahtán",
+                "bálkestahtát",
+                "bálkestahttá",
+                "bálkestahtte",
+                "bálkestahttibeahtti",
+                "bálkestahttiba",
+                "bálkestahttit",
+                "bálkestahttibehtet",
+                "bálkestahttet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in bálkestahte",
+                "it bálkestahte",
+                "ii bálkestahte",
+                "ean bálkestahte",
+                "eahppi bálkestahte",
+                "eaba bálkestahte",
+                "eat bálkestahte",
+                "ehpet bálkestahte",
+                "eai bálkestahte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "bálkestahtten",
+                "bálkestahttet",
+                "bálkestahtii",
+                "bálkestahtiime",
+                "bálkestahtiide",
+                "bálkestahtiiga",
+                "bálkestahtiimet",
+                "bálkestahtiidet",
+                "bálkestahtte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in bálkestahttán",
+                "it bálkestahttán",
+                "ii bálkestahttán",
+                "ean bálkestahttán",
+                "eahppi bálkestahttán",
+                "eaba bálkestahttán",
+                "eat bálkestahttán",
+                "ehpet bálkestahttán",
+                "eai bálkestahttán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean bálkestahttán",
+                "leat bálkestahttán",
+                "lea bálkestahttán",
+                "letne bálkestahttán",
+                "leahppi bálkestahttán",
+                "leaba bálkestahttán",
+                "leat bálkestahttán",
+                "lehpet bálkestahttán",
+                "leat bálkestahttán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen bálkestahttán",
+                "ledjet bálkestahttán",
+                "lei bálkestahttán",
+                "leimme bálkestahttán",
+                "leidde bálkestahttán",
+                "leigga bálkestahttán",
+                "leimmet bálkestahttán",
+                "leiddet bálkestahttán",
+                "ledje bálkestahttán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean bálkestahttime, -min",
+                "leat bálkestahttime, -min",
+                "lea bálkestahttime, -min",
+                "letne bálkestahttime, -min",
+                "leahppi bálkestahttime, -min",
+                "leaba bálkestahttime, -min",
+                "leat bálkestahttime, -min",
+                "lehpet bálkestahttime, -min",
+                "leat bálkestahttime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen bálkestahttime, -min",
+                "ledjet bálkestahttime, -min",
+                "lei bálkestahttime, -min",
+                "leimme bálkestahttime, -min",
+                "leidde bálkestahttime, -min",
+                "leigga bálkestahttime, -min",
+                "leimmet bálkestahttime, -min",
+                "leiddet bálkestahttime, -min",
+                "ledje bálkestahttime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "bálkestahtášin",
+                "bálkestahtášit",
+                "bálkestahtášii",
+                "bálkestahtášeimme",
+                "bálkestahtášeidde",
+                "bálkestahtášeigga",
+                "bálkestahtášeimmet",
+                "bálkestahtášeiddet",
+                "bálkestahtášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in bálkestahtáše",
+                "it bálkestahtáše",
+                "ii bálkestahtáše",
+                "ean bálkestahtáše",
+                "eahppi bálkestahtáše",
+                "eaba bálkestahtáše",
+                "eat bálkestahtáše",
+                "ehpet bálkestahtáše",
+                "eai bálkestahtáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "bálkestahtežan",
+                "bálkestahtežat",
+                "bálkestahteš",
+                "bálkestahtežetne",
+                "bálkestahtežeahppi",
+                "bálkestahtežeaba",
+                "bálkestahtežit, -žat",
+                "bálkestahtežehpet",
+                "bálkestahtežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in bálkestahteš",
+                "it bálkestahteš",
+                "ii bálkestahteš",
+                "ean bálkestahteš",
+                "eahppi bálkestahteš",
+                "eaba bálkestahteš",
+                "eat bálkestahteš",
+                "ehpet bálkestahteš",
+                "eai bálkestahteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "bálkestahtton",
+                "bálkestahte",
+                "bálkestahttos",
+                "bálkestahttu",
+                "bálkestahtti",
+                "bálkestahttoska",
+                "bálkestahttot",
+                "bálkestahttet",
+                "bálkestahttoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon bálkestahte",
+                "ale bálkestahte",
+                "allos bálkestahte",
+                "allu bálkestahte",
+                "alli bálkestahte",
+                "alloska bálkestahte",
+                "allot, allut bálkestahte",
+                "allet, allit bálkestahte",
+                "alloset bálkestahte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Bálkestahttit",
+    "valid": 1
+}

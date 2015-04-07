@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "fakŋalahttit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "fakŋalahtán",
+                "fakŋalahtát",
+                "fakŋalahttá",
+                "fakŋalahtte",
+                "fakŋalahttibeahtti",
+                "fakŋalahttiba",
+                "fakŋalahttit",
+                "fakŋalahttibehtet",
+                "fakŋalahttet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in fakŋalahte",
+                "it fakŋalahte",
+                "ii fakŋalahte",
+                "ean fakŋalahte",
+                "eahppi fakŋalahte",
+                "eaba fakŋalahte",
+                "eat fakŋalahte",
+                "ehpet fakŋalahte",
+                "eai fakŋalahte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "fakŋalahtten",
+                "fakŋalahttet",
+                "fakŋalahtii",
+                "fakŋalahtiime",
+                "fakŋalahtiide",
+                "fakŋalahtiiga",
+                "fakŋalahtiimet",
+                "fakŋalahtiidet",
+                "fakŋalahtte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in fakŋalahttán",
+                "it fakŋalahttán",
+                "ii fakŋalahttán",
+                "ean fakŋalahttán",
+                "eahppi fakŋalahttán",
+                "eaba fakŋalahttán",
+                "eat fakŋalahttán",
+                "ehpet fakŋalahttán",
+                "eai fakŋalahttán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean fakŋalahttán",
+                "leat fakŋalahttán",
+                "lea fakŋalahttán",
+                "letne fakŋalahttán",
+                "leahppi fakŋalahttán",
+                "leaba fakŋalahttán",
+                "leat fakŋalahttán",
+                "lehpet fakŋalahttán",
+                "leat fakŋalahttán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen fakŋalahttán",
+                "ledjet fakŋalahttán",
+                "lei fakŋalahttán",
+                "leimme fakŋalahttán",
+                "leidde fakŋalahttán",
+                "leigga fakŋalahttán",
+                "leimmet fakŋalahttán",
+                "leiddet fakŋalahttán",
+                "ledje fakŋalahttán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean fakŋalahttime, -min",
+                "leat fakŋalahttime, -min",
+                "lea fakŋalahttime, -min",
+                "letne fakŋalahttime, -min",
+                "leahppi fakŋalahttime, -min",
+                "leaba fakŋalahttime, -min",
+                "leat fakŋalahttime, -min",
+                "lehpet fakŋalahttime, -min",
+                "leat fakŋalahttime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen fakŋalahttime, -min",
+                "ledjet fakŋalahttime, -min",
+                "lei fakŋalahttime, -min",
+                "leimme fakŋalahttime, -min",
+                "leidde fakŋalahttime, -min",
+                "leigga fakŋalahttime, -min",
+                "leimmet fakŋalahttime, -min",
+                "leiddet fakŋalahttime, -min",
+                "ledje fakŋalahttime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "fakŋalahtášin",
+                "fakŋalahtášit",
+                "fakŋalahtášii",
+                "fakŋalahtášeimme",
+                "fakŋalahtášeidde",
+                "fakŋalahtášeigga",
+                "fakŋalahtášeimmet",
+                "fakŋalahtášeiddet",
+                "fakŋalahtášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in fakŋalahtáše",
+                "it fakŋalahtáše",
+                "ii fakŋalahtáše",
+                "ean fakŋalahtáše",
+                "eahppi fakŋalahtáše",
+                "eaba fakŋalahtáše",
+                "eat fakŋalahtáše",
+                "ehpet fakŋalahtáše",
+                "eai fakŋalahtáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "fakŋalahtežan",
+                "fakŋalahtežat",
+                "fakŋalahteš",
+                "fakŋalahtežetne",
+                "fakŋalahtežeahppi",
+                "fakŋalahtežeaba",
+                "fakŋalahtežit, -žat",
+                "fakŋalahtežehpet",
+                "fakŋalahtežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in fakŋalahteš",
+                "it fakŋalahteš",
+                "ii fakŋalahteš",
+                "ean fakŋalahteš",
+                "eahppi fakŋalahteš",
+                "eaba fakŋalahteš",
+                "eat fakŋalahteš",
+                "ehpet fakŋalahteš",
+                "eai fakŋalahteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "fakŋalahtton",
+                "fakŋalahte",
+                "fakŋalahttos",
+                "fakŋalahttu",
+                "fakŋalahtti",
+                "fakŋalahttoska",
+                "fakŋalahttot",
+                "fakŋalahttet",
+                "fakŋalahttoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon fakŋalahte",
+                "ale fakŋalahte",
+                "allos fakŋalahte",
+                "allu fakŋalahte",
+                "alli fakŋalahte",
+                "alloska fakŋalahte",
+                "allot, allut fakŋalahte",
+                "allet, allit fakŋalahte",
+                "alloset fakŋalahte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Fakŋalahttit",
+    "valid": 1
+}

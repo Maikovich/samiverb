@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "láikošit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "láikošan",
+                "láikošat",
+                "láikoša",
+                "láikošetne",
+                "láikošeahppi",
+                "láikošeaba",
+                "láikošit, -šat",
+                "láikošehpet",
+                "láikošit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in láikoš",
+                "it láikoš",
+                "ii láikoš",
+                "ean láikoš",
+                "eahppi láikoš",
+                "eaba láikoš",
+                "eat láikoš",
+                "ehpet láikoš",
+                "eai láikoš"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "láikošin",
+                "láikošit",
+                "láikošii",
+                "láikošeimme",
+                "láikošeidde",
+                "láikošeigga",
+                "láikošeimmet",
+                "láikošeiddet",
+                "láikošedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in láikošan",
+                "it láikošan",
+                "ii láikošan",
+                "ean láikošan",
+                "eahppi láikošan",
+                "eaba láikošan",
+                "eat láikošan",
+                "ehpet láikošan",
+                "eai láikošan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean láikošan",
+                "leat láikošan",
+                "lea láikošan",
+                "letne láikošan",
+                "leahppi láikošan",
+                "leaba láikošan",
+                "leat láikošan",
+                "lehpet láikošan",
+                "leat láikošan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen láikošan",
+                "ledjet láikošan",
+                "lei láikošan",
+                "leimme láikošan",
+                "leidde láikošan",
+                "leigga láikošan",
+                "leimmet láikošan",
+                "leiddet láikošan",
+                "ledje láikošan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean láikošeame, -men",
+                "leat láikošeame, -men",
+                "lea láikošeame, -men",
+                "letne láikošeame, -men",
+                "leahppi láikošeame, -men",
+                "leaba láikošeame, -men",
+                "leat láikošeame, -men",
+                "lehpet láikošeame, -men",
+                "leat láikošeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen láikošeame, -men",
+                "ledjet láikošeame, -men",
+                "lei láikošeame, -men",
+                "leimme láikošeame, -men",
+                "leidde láikošeame, -men",
+                "leigga láikošeame, -men",
+                "leimmet láikošeame, -men",
+                "leiddet láikošeame, -men",
+                "ledje láikošeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "láikošivččen",
+                "láikošivččet",
+                "láikošivččii",
+                "láikošivččiime",
+                "láikošivččiide",
+                "láikošivččiiga",
+                "láikošivččiimet",
+                "láikošivččiidet",
+                "láikošivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in láikošivčče",
+                "it láikošivčče",
+                "ii láikošivčče",
+                "ean láikošivčče",
+                "eahppi láikošivčče",
+                "eaba láikošivčče",
+                "eat láikošivčče",
+                "ehpet láikošivčče",
+                "eai láikošivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "láikošeaččan",
+                "láikošeaččat",
+                "láikošeaš, -šeš, -šeažžá",
+                "láikošežže",
+                "láikošeažžabeahtti",
+                "láikošeažžaba",
+                "láikošeažžat",
+                "láikošeažžabehtet",
+                "láikošežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in láikošeaš, -šeš, -šeažžá",
+                "it láikošeaš, -šeš, -šeažžá",
+                "ii láikošeaš, -šeš, -šeažžá",
+                "ean láikošeaš, -šeš, -šeažžá",
+                "eahppi láikošeaš, -šeš, -šeažžá",
+                "eaba láikošeaš, -šeš, -šeažžá",
+                "eat láikošeaš, -šeš, -šeažžá",
+                "ehpet láikošeaš, -šeš, -šeažžá",
+                "eai láikošeaš, -šeš, -šeažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "láikošehkon",
+                "láikoš",
+                "láikošehkos, láikošus",
+                "láikošeadnu",
+                "láikošeahkki",
+                "láikošehkoska",
+                "láikošehkot, láikošeahkkut, láikošetnot, láikošeadnot",
+                "láikošehket",
+                "láikošehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon láikoš",
+                "ale láikoš",
+                "allos láikoš",
+                "allu láikoš",
+                "alli láikoš",
+                "alloska láikoš",
+                "allot, allut láikoš",
+                "allet, allit láikoš",
+                "alloset láikoš"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Láikošit",
+    "valid": 1
+}

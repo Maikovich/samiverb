@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čielgat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čielggan",
+                "čielggat",
+                "čielgá",
+                "čilge",
+                "čielgabeahtti",
+                "čielgaba",
+                "čielgat",
+                "čielgabehtet",
+                "čilget"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čielgga",
+                "it čielgga",
+                "ii čielgga",
+                "ean čielgga",
+                "eahppi čielgga",
+                "eaba čielgga",
+                "eat čielgga",
+                "ehpet čielgga",
+                "eai čielgga"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čilgen",
+                "čilget",
+                "čielggai",
+                "čielggaime",
+                "čielggaide",
+                "čielggaiga",
+                "čielggaimet",
+                "čielggaidet",
+                "čilge"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čielgan",
+                "it čielgan",
+                "ii čielgan",
+                "ean čielgan",
+                "eahppi čielgan",
+                "eaba čielgan",
+                "eat čielgan",
+                "ehpet čielgan",
+                "eai čielgan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čielgan",
+                "leat čielgan",
+                "lea čielgan",
+                "letne čielgan",
+                "leahppi čielgan",
+                "leaba čielgan",
+                "leat čielgan",
+                "lehpet čielgan",
+                "leat čielgan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čielgan",
+                "ledjet čielgan",
+                "lei čielgan",
+                "leimme čielgan",
+                "leidde čielgan",
+                "leigga čielgan",
+                "leimmet čielgan",
+                "leiddet čielgan",
+                "ledje čielgan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čielgame, -min",
+                "leat čielgame, -min",
+                "lea čielgame, -min",
+                "letne čielgame, -min",
+                "leahppi čielgame, -min",
+                "leaba čielgame, -min",
+                "leat čielgame, -min",
+                "lehpet čielgame, -min",
+                "leat čielgame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čielgame, -min",
+                "ledjet čielgame, -min",
+                "lei čielgame, -min",
+                "leimme čielgame, -min",
+                "leidde čielgame, -min",
+                "leigga čielgame, -min",
+                "leimmet čielgame, -min",
+                "leiddet čielgame, -min",
+                "ledje čielgame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čielggašin",
+                "čielggašit",
+                "čielggašii",
+                "čielggašeimme",
+                "čielggašeidde",
+                "čielggašeigga",
+                "čielggašeimmet",
+                "čielggašeiddet",
+                "čielggašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čielggaše",
+                "it čielggaše",
+                "ii čielggaše",
+                "ean čielggaše",
+                "eahppi čielggaše",
+                "eaba čielggaše",
+                "eat čielggaše",
+                "ehpet čielggaše",
+                "eai čielggaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čielggažan",
+                "čielggažat",
+                "čielggaš",
+                "čielggažetne",
+                "čielggažeahppi",
+                "čielggažeaba",
+                "čielggažit, -žat",
+                "čielggažehpet",
+                "čielggažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čielggaš",
+                "it čielggaš",
+                "ii čielggaš",
+                "ean čielggaš",
+                "eahppi čielggaš",
+                "eaba čielggaš",
+                "eat čielggaš",
+                "ehpet čielggaš",
+                "eai čielggaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čilgon",
+                "čielgga",
+                "čilgos",
+                "čielgu",
+                "čielgi",
+                "čilgoska",
+                "čilgot, čielgot",
+                "čilget, čielgit",
+                "čilgoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čielgga",
+                "ale čielgga",
+                "allos čielgga",
+                "allu čielgga",
+                "alli čielgga",
+                "alloska čielgga",
+                "allot, allut čielgga",
+                "allet, allit čielgga",
+                "alloset čielgga"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čielgat",
+    "valid": 1
+}

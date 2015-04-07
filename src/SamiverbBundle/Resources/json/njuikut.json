@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "njuikut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "njuikkun",
+                "njuikkut",
+                "njuiku",
+                "njuiko",
+                "njuikubeahtti",
+                "njuikuba",
+                "njuikut",
+                "njuikubehtet",
+                "njuikot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in njuikko",
+                "it njuikko",
+                "ii njuikko",
+                "ean njuikko",
+                "eahppi njuikko",
+                "eaba njuikko",
+                "eat njuikko",
+                "ehpet njuikko",
+                "eai njuikko"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "njuikon",
+                "njuikot",
+                "njuikkui",
+                "njuikkuime",
+                "njuikkuide",
+                "njuikkuiga",
+                "njuikkuimet",
+                "njuikkuidet",
+                "njuiko"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in njuikon",
+                "it njuikon",
+                "ii njuikon",
+                "ean njuikon",
+                "eahppi njuikon",
+                "eaba njuikon",
+                "eat njuikon",
+                "ehpet njuikon",
+                "eai njuikon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean njuikon",
+                "leat njuikon",
+                "lea njuikon",
+                "letne njuikon",
+                "leahppi njuikon",
+                "leaba njuikon",
+                "leat njuikon",
+                "lehpet njuikon",
+                "leat njuikon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen njuikon",
+                "ledjet njuikon",
+                "lei njuikon",
+                "leimme njuikon",
+                "leidde njuikon",
+                "leigga njuikon",
+                "leimmet njuikon",
+                "leiddet njuikon",
+                "ledje njuikon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean njuikume, -min",
+                "leat njuikume, -min",
+                "lea njuikume, -min",
+                "letne njuikume, -min",
+                "leahppi njuikume, -min",
+                "leaba njuikume, -min",
+                "leat njuikume, -min",
+                "lehpet njuikume, -min",
+                "leat njuikume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen njuikume, -min",
+                "ledjet njuikume, -min",
+                "lei njuikume, -min",
+                "leimme njuikume, -min",
+                "leidde njuikume, -min",
+                "leigga njuikume, -min",
+                "leimmet njuikume, -min",
+                "leiddet njuikume, -min",
+                "ledje njuikume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "njuikkošin",
+                "njuikkošit",
+                "njuikkošii",
+                "njuikkošeimme",
+                "njuikkošeidde",
+                "njuikkošeigga",
+                "njuikkošeimmet",
+                "njuikkošeiddet",
+                "njuikkošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in njuikkoše",
+                "it njuikkoše",
+                "ii njuikkoše",
+                "ean njuikkoše",
+                "eahppi njuikkoše",
+                "eaba njuikkoše",
+                "eat njuikkoše",
+                "ehpet njuikkoše",
+                "eai njuikkoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "njuikkožan",
+                "njuikkožat",
+                "njuikkoš",
+                "njuikkožetne",
+                "njuikkožeahppi",
+                "njuikkožeaba",
+                "njuikkožit, -žat",
+                "njuikkožehpet",
+                "njuikkožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in njuikkoš",
+                "it njuikkoš",
+                "ii njuikkoš",
+                "ean njuikkoš",
+                "eahppi njuikkoš",
+                "eaba njuikkoš",
+                "eat njuikkoš",
+                "ehpet njuikkoš",
+                "eai njuikkoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "njuikon",
+                "njuikko",
+                "njuikos",
+                "njuiku",
+                "njuiku",
+                "njuikoska",
+                "njuikot",
+                "njuikot",
+                "njuikoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon njuikko",
+                "ale njuikko",
+                "allos njuikko",
+                "allu njuikko",
+                "alli njuikko",
+                "alloska njuikko",
+                "allot, allut njuikko",
+                "allet, allit njuikko",
+                "alloset njuikko"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Njuikut",
+    "valid": 1
+}

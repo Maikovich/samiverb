@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "dubmehallat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "dubmehalan",
+                "dubmehalat",
+                "dubmehallá",
+                "dubmehalle",
+                "dubmehallabeahtti",
+                "dubmehallaba",
+                "dubmehallat",
+                "dubmehallabehtet",
+                "dubmehallet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in dubmehala",
+                "it dubmehala",
+                "ii dubmehala",
+                "ean dubmehala",
+                "eahppi dubmehala",
+                "eaba dubmehala",
+                "eat dubmehala",
+                "ehpet dubmehala",
+                "eai dubmehala"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "dubmehallen",
+                "dubmehallet",
+                "dubmehalai",
+                "dubmehalaime",
+                "dubmehalaide",
+                "dubmehalaiga",
+                "dubmehalaimet",
+                "dubmehalaidet",
+                "dubmehalle"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in dubmehallan",
+                "it dubmehallan",
+                "ii dubmehallan",
+                "ean dubmehallan",
+                "eahppi dubmehallan",
+                "eaba dubmehallan",
+                "eat dubmehallan",
+                "ehpet dubmehallan",
+                "eai dubmehallan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean dubmehallan",
+                "leat dubmehallan",
+                "lea dubmehallan",
+                "letne dubmehallan",
+                "leahppi dubmehallan",
+                "leaba dubmehallan",
+                "leat dubmehallan",
+                "lehpet dubmehallan",
+                "leat dubmehallan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen dubmehallan",
+                "ledjet dubmehallan",
+                "lei dubmehallan",
+                "leimme dubmehallan",
+                "leidde dubmehallan",
+                "leigga dubmehallan",
+                "leimmet dubmehallan",
+                "leiddet dubmehallan",
+                "ledje dubmehallan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean dubmehallame, -min",
+                "leat dubmehallame, -min",
+                "lea dubmehallame, -min",
+                "letne dubmehallame, -min",
+                "leahppi dubmehallame, -min",
+                "leaba dubmehallame, -min",
+                "leat dubmehallame, -min",
+                "lehpet dubmehallame, -min",
+                "leat dubmehallame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen dubmehallame, -min",
+                "ledjet dubmehallame, -min",
+                "lei dubmehallame, -min",
+                "leimme dubmehallame, -min",
+                "leidde dubmehallame, -min",
+                "leigga dubmehallame, -min",
+                "leimmet dubmehallame, -min",
+                "leiddet dubmehallame, -min",
+                "ledje dubmehallame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "dubmehalašin",
+                "dubmehalašit",
+                "dubmehalašii",
+                "dubmehalašeimme",
+                "dubmehalašeidde",
+                "dubmehalašeigga",
+                "dubmehalašeimmet",
+                "dubmehalašeiddet",
+                "dubmehalašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in dubmehalaše",
+                "it dubmehalaše",
+                "ii dubmehalaše",
+                "ean dubmehalaše",
+                "eahppi dubmehalaše",
+                "eaba dubmehalaše",
+                "eat dubmehalaše",
+                "ehpet dubmehalaše",
+                "eai dubmehalaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "dubmehalažan",
+                "dubmehalažat",
+                "dubmehalaš",
+                "dubmehalažetne",
+                "dubmehalažeahppi",
+                "dubmehalažeaba",
+                "dubmehalažit, -žat",
+                "dubmehalažehpet",
+                "dubmehalažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in dubmehalaš",
+                "it dubmehalaš",
+                "ii dubmehalaš",
+                "ean dubmehalaš",
+                "eahppi dubmehalaš",
+                "eaba dubmehalaš",
+                "eat dubmehalaš",
+                "ehpet dubmehalaš",
+                "eai dubmehalaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "dubmehallon",
+                "dubmehala",
+                "dubmehallos",
+                "dubmehallu",
+                "dubmehalli",
+                "dubmehalloska",
+                "dubmehallot",
+                "dubmehallet, dubmehallit",
+                "dubmehalloset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon dubmehala",
+                "ale dubmehala",
+                "allos dubmehala",
+                "allu dubmehala",
+                "alli dubmehala",
+                "alloska dubmehala",
+                "allot, allut dubmehala",
+                "allet, allit dubmehala",
+                "alloset dubmehala"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Dubmehallat",
+    "valid": 1
+}

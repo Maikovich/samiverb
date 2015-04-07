@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "bovdet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "bovden",
+                "bovdet",
+                "bovde",
+                "bovdejetne",
+                "bovdebeahtti",
+                "bovdeba",
+                "bovdet",
+                "bovdebehtet",
+                "bovdejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in bovde",
+                "it bovde",
+                "ii bovde",
+                "ean bovde",
+                "eahppi bovde",
+                "eaba bovde",
+                "eat bovde",
+                "ehpet bovde",
+                "eai bovde"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "bovdejin",
+                "bovdejit",
+                "bovdii",
+                "bovdiime",
+                "bovdiide",
+                "bovdiiga",
+                "bovdiimet",
+                "bovdiidet",
+                "bovdejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in bovden",
+                "it bovden",
+                "ii bovden",
+                "ean bovden",
+                "eahppi bovden",
+                "eaba bovden",
+                "eat bovden",
+                "ehpet bovden",
+                "eai bovden"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean bovden",
+                "leat bovden",
+                "lea bovden",
+                "letne bovden",
+                "leahppi bovden",
+                "leaba bovden",
+                "leat bovden",
+                "lehpet bovden",
+                "leat bovden"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen bovden",
+                "ledjet bovden",
+                "lei bovden",
+                "leimme bovden",
+                "leidde bovden",
+                "leigga bovden",
+                "leimmet bovden",
+                "leiddet bovden",
+                "ledje bovden"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean bovdeme, -min",
+                "leat bovdeme, -min",
+                "lea bovdeme, -min",
+                "letne bovdeme, -min",
+                "leahppi bovdeme, -min",
+                "leaba bovdeme, -min",
+                "leat bovdeme, -min",
+                "lehpet bovdeme, -min",
+                "leat bovdeme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen bovdeme, -min",
+                "ledjet bovdeme, -min",
+                "lei bovdeme, -min",
+                "leimme bovdeme, -min",
+                "leidde bovdeme, -min",
+                "leigga bovdeme, -min",
+                "leimmet bovdeme, -min",
+                "leiddet bovdeme, -min",
+                "ledje bovdeme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "bovdešin",
+                "bovdešit",
+                "bovdešii",
+                "bovdešeimme",
+                "bovdešeidde",
+                "bovdešeigga",
+                "bovdešeimmet",
+                "bovdešeiddet",
+                "bovdešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in bovdeše",
+                "it bovdeše",
+                "ii bovdeše",
+                "ean bovdeše",
+                "eahppi bovdeše",
+                "eaba bovdeše",
+                "eat bovdeše",
+                "ehpet bovdeše",
+                "eai bovdeše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "bovdežan",
+                "bovdežat",
+                "bovdeš",
+                "bovdežetne",
+                "bovdežeahppi",
+                "bovdežeaba",
+                "bovdežit, -žat",
+                "bovdežehpet",
+                "bovdežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in bovdeš",
+                "it bovdeš",
+                "ii bovdeš",
+                "ean bovdeš",
+                "eahppi bovdeš",
+                "eaba bovdeš",
+                "eat bovdeš",
+                "ehpet bovdeš",
+                "eai bovdeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "bovdejehkon",
+                "bovde",
+                "bovdejehkos",
+                "bovdejeadnu",
+                "bovdejeahkki",
+                "bovdejehkoska",
+                "bovdejeahkkut, bovdejeadnot, bovdejehkot, bovdejetnot",
+                "bovdejeahkkit",
+                "bovdejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon bovde",
+                "ale bovde",
+                "allos bovde",
+                "allu bovde",
+                "alli bovde",
+                "alloska bovde",
+                "allot, allut bovde",
+                "allet, allit bovde",
+                "alloset bovde"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Bovdet",
+    "valid": 1
+}

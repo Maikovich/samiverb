@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "dumssagit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "dumssagan",
+                "dumssagat",
+                "dumssaga",
+                "dumssagetne",
+                "dumssageahppi",
+                "dumssageaba",
+                "dumssagit, -gat",
+                "dumssagehpet",
+                "dumssagit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in dumssat",
+                "it dumssat",
+                "ii dumssat",
+                "ean dumssat",
+                "eahppi dumssat",
+                "eaba dumssat",
+                "eat dumssat",
+                "ehpet dumssat",
+                "eai dumssat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "dumssagin",
+                "dumssagit",
+                "dumssagii",
+                "dumssageimme",
+                "dumssageidde",
+                "dumssageigga",
+                "dumssageimmet",
+                "dumssageiddet",
+                "dumssagedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in dumssagan",
+                "it dumssagan",
+                "ii dumssagan",
+                "ean dumssagan",
+                "eahppi dumssagan",
+                "eaba dumssagan",
+                "eat dumssagan",
+                "ehpet dumssagan",
+                "eai dumssagan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean dumssagan",
+                "leat dumssagan",
+                "lea dumssagan",
+                "letne dumssagan",
+                "leahppi dumssagan",
+                "leaba dumssagan",
+                "leat dumssagan",
+                "lehpet dumssagan",
+                "leat dumssagan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen dumssagan",
+                "ledjet dumssagan",
+                "lei dumssagan",
+                "leimme dumssagan",
+                "leidde dumssagan",
+                "leigga dumssagan",
+                "leimmet dumssagan",
+                "leiddet dumssagan",
+                "ledje dumssagan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean dumssageame, -men",
+                "leat dumssageame, -men",
+                "lea dumssageame, -men",
+                "letne dumssageame, -men",
+                "leahppi dumssageame, -men",
+                "leaba dumssageame, -men",
+                "leat dumssageame, -men",
+                "lehpet dumssageame, -men",
+                "leat dumssageame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen dumssageame, -men",
+                "ledjet dumssageame, -men",
+                "lei dumssageame, -men",
+                "leimme dumssageame, -men",
+                "leidde dumssageame, -men",
+                "leigga dumssageame, -men",
+                "leimmet dumssageame, -men",
+                "leiddet dumssageame, -men",
+                "ledje dumssageame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "dumssagivččen",
+                "dumssagivččet",
+                "dumssagivččii",
+                "dumssagivččiime",
+                "dumssagivččiide",
+                "dumssagivččiiga",
+                "dumssagivččiimet",
+                "dumssagivččiidet",
+                "dumssagivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in dumssagivčče",
+                "it dumssagivčče",
+                "ii dumssagivčče",
+                "ean dumssagivčče",
+                "eahppi dumssagivčče",
+                "eaba dumssagivčče",
+                "eat dumssagivčče",
+                "ehpet dumssagivčče",
+                "eai dumssagivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "dumssageaččan",
+                "dumssageaččat",
+                "dumssageaš, -geš, -geažžá",
+                "dumssagežže",
+                "dumssageažžabeahtti",
+                "dumssageažžaba",
+                "dumssageažžat",
+                "dumssageažžabehtet",
+                "dumssagežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in dumssageaš, -geš, -geažžá",
+                "it dumssageaš, -geš, -geažžá",
+                "ii dumssageaš, -geš, -geažžá",
+                "ean dumssageaš, -geš, -geažžá",
+                "eahppi dumssageaš, -geš, -geažžá",
+                "eaba dumssageaš, -geš, -geažžá",
+                "eat dumssageaš, -geš, -geažžá",
+                "ehpet dumssageaš, -geš, -geažžá",
+                "eai dumssageaš, -geš, -geažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "dumssagehkon",
+                "dumssat",
+                "dumssagehkos, dumssagus",
+                "dumssageadnu",
+                "dumssageahkki",
+                "dumssagehkoska",
+                "dumssagehkot, dumssageahkkut, dumssagetnot, dumssageadnot",
+                "dumssagehket",
+                "dumssagehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon dumssat",
+                "ale dumssat",
+                "allos dumssat",
+                "allu dumssat",
+                "alli dumssat",
+                "alloska dumssat",
+                "allot, allut dumssat",
+                "allet, allit dumssat",
+                "alloset dumssat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Dumssagit",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "dieđihit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "dieđihan",
+                "dieđihat",
+                "dieđiha",
+                "dieđihetne",
+                "dieđiheahppi",
+                "dieđiheaba",
+                "dieđihit, -hat",
+                "dieđihehpet",
+                "dieđihit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in dieđit",
+                "it dieđit",
+                "ii dieđit",
+                "ean dieđit",
+                "eahppi dieđit",
+                "eaba dieđit",
+                "eat dieđit",
+                "ehpet dieđit",
+                "eai dieđit"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "dieđihin",
+                "dieđihit",
+                "dieđihii",
+                "dieđiheimme",
+                "dieđiheidde",
+                "dieđiheigga",
+                "dieđiheimmet",
+                "dieđiheiddet",
+                "dieđihedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in dieđihan",
+                "it dieđihan",
+                "ii dieđihan",
+                "ean dieđihan",
+                "eahppi dieđihan",
+                "eaba dieđihan",
+                "eat dieđihan",
+                "ehpet dieđihan",
+                "eai dieđihan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean dieđihan",
+                "leat dieđihan",
+                "lea dieđihan",
+                "letne dieđihan",
+                "leahppi dieđihan",
+                "leaba dieđihan",
+                "leat dieđihan",
+                "lehpet dieđihan",
+                "leat dieđihan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen dieđihan",
+                "ledjet dieđihan",
+                "lei dieđihan",
+                "leimme dieđihan",
+                "leidde dieđihan",
+                "leigga dieđihan",
+                "leimmet dieđihan",
+                "leiddet dieđihan",
+                "ledje dieđihan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean dieđiheame, -men",
+                "leat dieđiheame, -men",
+                "lea dieđiheame, -men",
+                "letne dieđiheame, -men",
+                "leahppi dieđiheame, -men",
+                "leaba dieđiheame, -men",
+                "leat dieđiheame, -men",
+                "lehpet dieđiheame, -men",
+                "leat dieđiheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen dieđiheame, -men",
+                "ledjet dieđiheame, -men",
+                "lei dieđiheame, -men",
+                "leimme dieđiheame, -men",
+                "leidde dieđiheame, -men",
+                "leigga dieđiheame, -men",
+                "leimmet dieđiheame, -men",
+                "leiddet dieđiheame, -men",
+                "ledje dieđiheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "dieđihivččen",
+                "dieđihivččet",
+                "dieđihivččii",
+                "dieđihivččiime",
+                "dieđihivččiide",
+                "dieđihivččiiga",
+                "dieđihivččiimet",
+                "dieđihivččiidet",
+                "dieđihivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in dieđihivčče",
+                "it dieđihivčče",
+                "ii dieđihivčče",
+                "ean dieđihivčče",
+                "eahppi dieđihivčče",
+                "eaba dieđihivčče",
+                "eat dieđihivčče",
+                "ehpet dieđihivčče",
+                "eai dieđihivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "dieđiheaččan",
+                "dieđiheaččat",
+                "dieđiheaš, -heš, -heažžá",
+                "dieđihežže",
+                "dieđiheažžabeahtti",
+                "dieđiheažžaba",
+                "dieđiheažžat",
+                "dieđiheažžabehtet",
+                "dieđihežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in dieđiheaš, -heš, -heažžá",
+                "it dieđiheaš, -heš, -heažžá",
+                "ii dieđiheaš, -heš, -heažžá",
+                "ean dieđiheaš, -heš, -heažžá",
+                "eahppi dieđiheaš, -heš, -heažžá",
+                "eaba dieđiheaš, -heš, -heažžá",
+                "eat dieđiheaš, -heš, -heažžá",
+                "ehpet dieđiheaš, -heš, -heažžá",
+                "eai dieđiheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "dieđihehkon",
+                "dieđit",
+                "dieđihehkos, dieđihus",
+                "dieđiheadnu",
+                "dieđiheahkki",
+                "dieđihehkoska",
+                "dieđihehkot, dieđiheahkkut, dieđihetnot, dieđiheadnot",
+                "dieđihehket",
+                "dieđihehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon dieđit",
+                "ale dieđit",
+                "allos dieđit",
+                "allu dieđit",
+                "alli dieđit",
+                "alloska dieđit",
+                "allot, allut dieđit",
+                "allet, allit dieđit",
+                "alloset dieđit"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Dieđihit",
+    "valid": 1
+}

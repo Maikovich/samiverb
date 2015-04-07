@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "vuolgit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "vuolggán",
+                "vuolggát",
+                "vuolgá",
+                "vulge",
+                "vuolgibeahtti",
+                "vuolgiba",
+                "vuolgit",
+                "vuolgibehtet",
+                "vulget"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in vuolgge",
+                "it vuolgge",
+                "ii vuolgge",
+                "ean vuolgge",
+                "eahppi vuolgge",
+                "eaba vuolgge",
+                "eat vuolgge",
+                "ehpet vuolgge",
+                "eai vuolgge"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "vulgen",
+                "vulget",
+                "vulggii",
+                "vulggiime",
+                "vulggiide",
+                "vulggiiga",
+                "vulggiimet",
+                "vulggiidet",
+                "vulge"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in vuolgán",
+                "it vuolgán",
+                "ii vuolgán",
+                "ean vuolgán",
+                "eahppi vuolgán",
+                "eaba vuolgán",
+                "eat vuolgán",
+                "ehpet vuolgán",
+                "eai vuolgán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean vuolgán",
+                "leat vuolgán",
+                "lea vuolgán",
+                "letne vuolgán",
+                "leahppi vuolgán",
+                "leaba vuolgán",
+                "leat vuolgán",
+                "lehpet vuolgán",
+                "leat vuolgán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen vuolgán",
+                "ledjet vuolgán",
+                "lei vuolgán",
+                "leimme vuolgán",
+                "leidde vuolgán",
+                "leigga vuolgán",
+                "leimmet vuolgán",
+                "leiddet vuolgán",
+                "ledje vuolgán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean vuolgime, -min",
+                "leat vuolgime, -min",
+                "lea vuolgime, -min",
+                "letne vuolgime, -min",
+                "leahppi vuolgime, -min",
+                "leaba vuolgime, -min",
+                "leat vuolgime, -min",
+                "lehpet vuolgime, -min",
+                "leat vuolgime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen vuolgime, -min",
+                "ledjet vuolgime, -min",
+                "lei vuolgime, -min",
+                "leimme vuolgime, -min",
+                "leidde vuolgime, -min",
+                "leigga vuolgime, -min",
+                "leimmet vuolgime, -min",
+                "leiddet vuolgime, -min",
+                "ledje vuolgime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "vuolggášin",
+                "vuolggášit",
+                "vuolggášii",
+                "vuolggášeimme",
+                "vuolggášeidde",
+                "vuolggášeigga",
+                "vuolggášeimmet",
+                "vuolggášeiddet",
+                "vuolggášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in vuolggáše",
+                "it vuolggáše",
+                "ii vuolggáše",
+                "ean vuolggáše",
+                "eahppi vuolggáše",
+                "eaba vuolggáše",
+                "eat vuolggáše",
+                "ehpet vuolggáše",
+                "eai vuolggáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "vulggežan",
+                "vulggežat",
+                "vulggeš",
+                "vulggežetne",
+                "vulggežeahppi",
+                "vulggežeaba",
+                "vulggežit, -žat",
+                "vulggežehpet",
+                "vulggežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in vulggeš",
+                "it vulggeš",
+                "ii vulggeš",
+                "ean vulggeš",
+                "eahppi vulggeš",
+                "eaba vulggeš",
+                "eat vulggeš",
+                "ehpet vulggeš",
+                "eai vulggeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "vulgon",
+                "vuolgge",
+                "vulgos",
+                "vuolgu",
+                "vuolgi",
+                "vulgoska",
+                "vulgot, vuolgot",
+                "vulget, vuolget",
+                "vulgoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon vuolgge",
+                "ale vuolgge",
+                "allos vuolgge",
+                "allu vuolgge",
+                "alli vuolgge",
+                "alloska vuolgge",
+                "allot, allut vuolgge",
+                "allet, allit vuolgge",
+                "alloset vuolgge"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Vuolgit",
+    "valid": 1
+}

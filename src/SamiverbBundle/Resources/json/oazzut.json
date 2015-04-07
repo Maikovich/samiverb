@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "oazzut", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "oaccun", 
+        "oaccut", 
+        "oazzu", 
+        "ozzo", 
+        "oazzubeahtti", 
+        "oazzuba", 
+        "oazzut", 
+        "oazzubehtet", 
+        "ozzot"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in oacco", 
+        "it oacco", 
+        "ii oacco", 
+        "ean oacco", 
+        "eahppi oacco", 
+        "eaba oacco", 
+        "eat oacco", 
+        "ehpet oacco", 
+        "eai oacco"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "ozzon", 
+        "ozzot", 
+        "oaccui", 
+        "oaccuime", 
+        "oaccuide", 
+        "oaccuiga", 
+        "oaccuimet", 
+        "oaccuidet", 
+        "ozzo"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in ozzon", 
+        "it ozzon", 
+        "ii ozzon", 
+        "ean ozzon", 
+        "eahppi ozzon", 
+        "eaba ozzon", 
+        "eat ozzon", 
+        "ehpet ozzon", 
+        "eai ozzon"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean ozzon", 
+        "leat ozzon", 
+        "lea ozzon", 
+        "letne ozzon", 
+        "leahppi ozzon", 
+        "leaba ozzon", 
+        "leat ozzon", 
+        "lehpet ozzon", 
+        "leat ozzon"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen ozzon", 
+        "ledjet ozzon", 
+        "lei ozzon", 
+        "leimme ozzon", 
+        "leidde ozzon", 
+        "leigga ozzon", 
+        "leimmet ozzon", 
+        "leiddet ozzon", 
+        "ledje ozzon"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean oazzume, -min", 
+        "leat oazzume, -min", 
+        "lea oazzume, -min", 
+        "letne oazzume, -min", 
+        "leahppi oazzume, -min", 
+        "leaba oazzume, -min", 
+        "leat oazzume, -min", 
+        "lehpet oazzume, -min", 
+        "leat oazzume, -min"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen oazzume, -min", 
+        "ledjet oazzume, -min", 
+        "lei oazzume, -min", 
+        "leimme oazzume, -min", 
+        "leidde oazzume, -min", 
+        "leigga oazzume, -min", 
+        "leimmet oazzume, -min", 
+        "leiddet oazzume, -min", 
+        "ledje oazzume, -min"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "occošin", 
+        "occošit", 
+        "occošii", 
+        "occošeimme", 
+        "occošeidde", 
+        "occošeigga", 
+        "occošeimmet", 
+        "occošeiddet", 
+        "occošedje"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in occoše", 
+        "it occoše", 
+        "ii occoše", 
+        "ean occoše", 
+        "eahppi occoše", 
+        "eaba occoše", 
+        "eat occoše", 
+        "ehpet occoše", 
+        "eai occoše"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "occožan", 
+        "occožat", 
+        "occoš", 
+        "occožetne", 
+        "occožeahppi", 
+        "occožeaba", 
+        "occožit, -žat", 
+        "occožehpet", 
+        "occožit"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in occoš", 
+        "it occoš", 
+        "ii occoš", 
+        "ean occoš", 
+        "eahppi occoš", 
+        "eaba occoš", 
+        "eat occoš", 
+        "ehpet occoš", 
+        "eai occoš"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "ozzon", 
+        "oacco", 
+        "ozzos", 
+        "oazzu", 
+        "oazzu", 
+        "ozzoska", 
+        "ozzot, oazzot", 
+        "ozzot, oazzot", 
+        "ozzoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon oacco", 
+        "ale oacco", 
+        "allos oacco", 
+        "allu oacco", 
+        "alli oacco", 
+        "alloska oacco", 
+        "allot, allut oacco", 
+        "allet, allit oacco", 
+        "alloset oacco"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Oazzut"
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "soahpat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "soaban",
+                "soabat",
+                "soahpá",
+                "sohpe",
+                "soahpabeahtti",
+                "soahpaba",
+                "soahpat",
+                "soahpabehtet",
+                "sohpet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in soaba",
+                "it soaba",
+                "ii soaba",
+                "ean soaba",
+                "eahppi soaba",
+                "eaba soaba",
+                "eat soaba",
+                "ehpet soaba",
+                "eai soaba"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "sohpen",
+                "sohpet",
+                "soabai",
+                "soabaime",
+                "soabaide",
+                "soabaiga",
+                "soabaimet",
+                "soabaidet",
+                "sohpe"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in soahpan",
+                "it soahpan",
+                "ii soahpan",
+                "ean soahpan",
+                "eahppi soahpan",
+                "eaba soahpan",
+                "eat soahpan",
+                "ehpet soahpan",
+                "eai soahpan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean soahpan",
+                "leat soahpan",
+                "lea soahpan",
+                "letne soahpan",
+                "leahppi soahpan",
+                "leaba soahpan",
+                "leat soahpan",
+                "lehpet soahpan",
+                "leat soahpan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen soahpan",
+                "ledjet soahpan",
+                "lei soahpan",
+                "leimme soahpan",
+                "leidde soahpan",
+                "leigga soahpan",
+                "leimmet soahpan",
+                "leiddet soahpan",
+                "ledje soahpan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean soahpame, -min",
+                "leat soahpame, -min",
+                "lea soahpame, -min",
+                "letne soahpame, -min",
+                "leahppi soahpame, -min",
+                "leaba soahpame, -min",
+                "leat soahpame, -min",
+                "lehpet soahpame, -min",
+                "leat soahpame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen soahpame, -min",
+                "ledjet soahpame, -min",
+                "lei soahpame, -min",
+                "leimme soahpame, -min",
+                "leidde soahpame, -min",
+                "leigga soahpame, -min",
+                "leimmet soahpame, -min",
+                "leiddet soahpame, -min",
+                "ledje soahpame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "soabašin",
+                "soabašit",
+                "soabašii",
+                "soabašeimme",
+                "soabašeidde",
+                "soabašeigga",
+                "soabašeimmet",
+                "soabašeiddet",
+                "soabašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in soabaše",
+                "it soabaše",
+                "ii soabaše",
+                "ean soabaše",
+                "eahppi soabaše",
+                "eaba soabaše",
+                "eat soabaše",
+                "ehpet soabaše",
+                "eai soabaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "soabažan",
+                "soabažat",
+                "soabaš",
+                "soabažetne",
+                "soabažeahppi",
+                "soabažeaba",
+                "soabažit, -žat",
+                "soabažehpet",
+                "soabažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in soabaš",
+                "it soabaš",
+                "ii soabaš",
+                "ean soabaš",
+                "eahppi soabaš",
+                "eaba soabaš",
+                "eat soabaš",
+                "ehpet soabaš",
+                "eai soabaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "sohpon",
+                "soaba",
+                "sohpos",
+                "soahppu",
+                "soahppi",
+                "sohposka",
+                "sohpot, soahppot",
+                "sohpet, soahppit",
+                "sohposet"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon soaba",
+                "ale soaba",
+                "allos soaba",
+                "allu soaba",
+                "alli soaba",
+                "alloska soaba",
+                "allot, allut soaba",
+                "allet, allit soaba",
+                "alloset soaba"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Soahpat",
+    "valid": 1
+}

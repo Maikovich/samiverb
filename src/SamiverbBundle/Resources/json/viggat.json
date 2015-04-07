@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "viggat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "vikkan",
+                "vikkat",
+                "viggá",
+                "vigge",
+                "viggabeahtti",
+                "viggaba",
+                "viggat",
+                "viggabehtet",
+                "vigget"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in vikka",
+                "it vikka",
+                "ii vikka",
+                "ean vikka",
+                "eahppi vikka",
+                "eaba vikka",
+                "eat vikka",
+                "ehpet vikka",
+                "eai vikka"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "viggen",
+                "vigget",
+                "vikkai",
+                "vikkaime",
+                "vikkaide",
+                "vikkaiga",
+                "vikkaimet",
+                "vikkaidet",
+                "vigge"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in viggan",
+                "it viggan",
+                "ii viggan",
+                "ean viggan",
+                "eahppi viggan",
+                "eaba viggan",
+                "eat viggan",
+                "ehpet viggan",
+                "eai viggan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean viggan",
+                "leat viggan",
+                "lea viggan",
+                "letne viggan",
+                "leahppi viggan",
+                "leaba viggan",
+                "leat viggan",
+                "lehpet viggan",
+                "leat viggan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen viggan",
+                "ledjet viggan",
+                "lei viggan",
+                "leimme viggan",
+                "leidde viggan",
+                "leigga viggan",
+                "leimmet viggan",
+                "leiddet viggan",
+                "ledje viggan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean viggame, -min",
+                "leat viggame, -min",
+                "lea viggame, -min",
+                "letne viggame, -min",
+                "leahppi viggame, -min",
+                "leaba viggame, -min",
+                "leat viggame, -min",
+                "lehpet viggame, -min",
+                "leat viggame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen viggame, -min",
+                "ledjet viggame, -min",
+                "lei viggame, -min",
+                "leimme viggame, -min",
+                "leidde viggame, -min",
+                "leigga viggame, -min",
+                "leimmet viggame, -min",
+                "leiddet viggame, -min",
+                "ledje viggame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "vikkašin",
+                "vikkašit",
+                "vikkašii",
+                "vikkašeimme",
+                "vikkašeidde",
+                "vikkašeigga",
+                "vikkašeimmet",
+                "vikkašeiddet",
+                "vikkašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in vikkaše",
+                "it vikkaše",
+                "ii vikkaše",
+                "ean vikkaše",
+                "eahppi vikkaše",
+                "eaba vikkaše",
+                "eat vikkaše",
+                "ehpet vikkaše",
+                "eai vikkaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "vikkažan",
+                "vikkažat",
+                "vikkaš",
+                "vikkažetne",
+                "vikkažeahppi",
+                "vikkažeaba",
+                "vikkažit, -žat",
+                "vikkažehpet",
+                "vikkažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in vikkaš",
+                "it vikkaš",
+                "ii vikkaš",
+                "ean vikkaš",
+                "eahppi vikkaš",
+                "eaba vikkaš",
+                "eat vikkaš",
+                "ehpet vikkaš",
+                "eai vikkaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "viggon",
+                "vikka",
+                "viggos",
+                "viggu",
+                "viggi",
+                "viggoska",
+                "viggot",
+                "vigget, viggit",
+                "viggoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon vikka",
+                "ale vikka",
+                "allos vikka",
+                "allu vikka",
+                "alli vikka",
+                "alloska vikka",
+                "allot, allut vikka",
+                "allet, allit vikka",
+                "alloset vikka"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Viggat",
+    "valid": 1
+}

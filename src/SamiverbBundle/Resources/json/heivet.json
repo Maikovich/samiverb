@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "heivet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "heiven",
+                "heivet",
+                "heive",
+                "heivejetne",
+                "heivebeahtti",
+                "heiveba",
+                "heivet",
+                "heivebehtet",
+                "heivejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in heive",
+                "it heive",
+                "ii heive",
+                "ean heive",
+                "eahppi heive",
+                "eaba heive",
+                "eat heive",
+                "ehpet heive",
+                "eai heive"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "heivejin",
+                "heivejit",
+                "heivii",
+                "heiviime",
+                "heiviide",
+                "heiviiga",
+                "heiviimet",
+                "heiviidet",
+                "heivejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in heiven",
+                "it heiven",
+                "ii heiven",
+                "ean heiven",
+                "eahppi heiven",
+                "eaba heiven",
+                "eat heiven",
+                "ehpet heiven",
+                "eai heiven"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean heiven",
+                "leat heiven",
+                "lea heiven",
+                "letne heiven",
+                "leahppi heiven",
+                "leaba heiven",
+                "leat heiven",
+                "lehpet heiven",
+                "leat heiven"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen heiven",
+                "ledjet heiven",
+                "lei heiven",
+                "leimme heiven",
+                "leidde heiven",
+                "leigga heiven",
+                "leimmet heiven",
+                "leiddet heiven",
+                "ledje heiven"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean heiveme, -min",
+                "leat heiveme, -min",
+                "lea heiveme, -min",
+                "letne heiveme, -min",
+                "leahppi heiveme, -min",
+                "leaba heiveme, -min",
+                "leat heiveme, -min",
+                "lehpet heiveme, -min",
+                "leat heiveme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen heiveme, -min",
+                "ledjet heiveme, -min",
+                "lei heiveme, -min",
+                "leimme heiveme, -min",
+                "leidde heiveme, -min",
+                "leigga heiveme, -min",
+                "leimmet heiveme, -min",
+                "leiddet heiveme, -min",
+                "ledje heiveme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "heivešin",
+                "heivešit",
+                "heivešii",
+                "heivešeimme",
+                "heivešeidde",
+                "heivešeigga",
+                "heivešeimmet",
+                "heivešeiddet",
+                "heivešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in heiveše",
+                "it heiveše",
+                "ii heiveše",
+                "ean heiveše",
+                "eahppi heiveše",
+                "eaba heiveše",
+                "eat heiveše",
+                "ehpet heiveše",
+                "eai heiveše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "heivežan",
+                "heivežat",
+                "heiveš",
+                "heivežetne",
+                "heivežeahppi",
+                "heivežeaba",
+                "heivežit, -žat",
+                "heivežehpet",
+                "heivežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in heiveš",
+                "it heiveš",
+                "ii heiveš",
+                "ean heiveš",
+                "eahppi heiveš",
+                "eaba heiveš",
+                "eat heiveš",
+                "ehpet heiveš",
+                "eai heiveš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "heivejehkon",
+                "heive",
+                "heivejehkos",
+                "heivejeadnu",
+                "heivejeahkki",
+                "heivejehkoska",
+                "heivejeahkkut, heivejeadnot, heivejehkot, heivejetnot",
+                "heivejeahkkit",
+                "heivejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon heive",
+                "ale heive",
+                "allos heive",
+                "allu heive",
+                "alli heive",
+                "alloska heive",
+                "allot, allut heive",
+                "allet, allit heive",
+                "alloset heive"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Heivet",
+    "valid": 1
+}

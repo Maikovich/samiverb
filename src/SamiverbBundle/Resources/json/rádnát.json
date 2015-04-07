@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "rádnát",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "rádnán",
+                "rádnát",
+                "rádná",
+                "rádnájetne",
+                "rádnábeahtti",
+                "rádnába",
+                "rádnát",
+                "rádnábehtet",
+                "rádnájit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in rádná",
+                "it rádná",
+                "ii rádná",
+                "ean rádná",
+                "eahppi rádná",
+                "eaba rádná",
+                "eat rádná",
+                "ehpet rádná",
+                "eai rádná"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "rádnájin",
+                "rádnájit",
+                "rádnái",
+                "rádnáime",
+                "rádnáide",
+                "rádnáiga",
+                "rádnáimet",
+                "rádnáidet",
+                "rádnájedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in rádnán",
+                "it rádnán",
+                "ii rádnán",
+                "ean rádnán",
+                "eahppi rádnán",
+                "eaba rádnán",
+                "eat rádnán",
+                "ehpet rádnán",
+                "eai rádnán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean rádnán",
+                "leat rádnán",
+                "lea rádnán",
+                "letne rádnán",
+                "leahppi rádnán",
+                "leaba rádnán",
+                "leat rádnán",
+                "lehpet rádnán",
+                "leat rádnán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen rádnán",
+                "ledjet rádnán",
+                "lei rádnán",
+                "leimme rádnán",
+                "leidde rádnán",
+                "leigga rádnán",
+                "leimmet rádnán",
+                "leiddet rádnán",
+                "ledje rádnán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean rádnáme, -min",
+                "leat rádnáme, -min",
+                "lea rádnáme, -min",
+                "letne rádnáme, -min",
+                "leahppi rádnáme, -min",
+                "leaba rádnáme, -min",
+                "leat rádnáme, -min",
+                "lehpet rádnáme, -min",
+                "leat rádnáme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen rádnáme, -min",
+                "ledjet rádnáme, -min",
+                "lei rádnáme, -min",
+                "leimme rádnáme, -min",
+                "leidde rádnáme, -min",
+                "leigga rádnáme, -min",
+                "leimmet rádnáme, -min",
+                "leiddet rádnáme, -min",
+                "ledje rádnáme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "rádnášin",
+                "rádnášit",
+                "rádnášii",
+                "rádnášeimme",
+                "rádnášeidde",
+                "rádnášeigga",
+                "rádnášeimmet",
+                "rádnášeiddet",
+                "rádnášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in rádnáše",
+                "it rádnáše",
+                "ii rádnáše",
+                "ean rádnáše",
+                "eahppi rádnáše",
+                "eaba rádnáše",
+                "eat rádnáše",
+                "ehpet rádnáše",
+                "eai rádnáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "rádnážan",
+                "rádnážat",
+                "rádnáš",
+                "rádnážetne",
+                "rádnážeahppi",
+                "rádnážeaba",
+                "rádnážit, -žat",
+                "rádnážehpet",
+                "rádnážit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in rádnáš",
+                "it rádnáš",
+                "ii rádnáš",
+                "ean rádnáš",
+                "eahppi rádnáš",
+                "eaba rádnáš",
+                "eat rádnáš",
+                "ehpet rádnáš",
+                "eai rádnáš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "rádnájehkon",
+                "rádná",
+                "rádnájehkos",
+                "rádnájeadnu",
+                "rádnájeahkki",
+                "rádnájehkoska",
+                "rádnájeahkkut, rádnájeadnot, rádnájehkot, rádnájetnot",
+                "rádnájeahkkit",
+                "rádnájehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon rádná",
+                "ale rádná",
+                "allos rádná",
+                "allu rádná",
+                "alli rádná",
+                "alloska rádná",
+                "allot, allut rádná",
+                "allet, allit rádná",
+                "alloset rádná"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Rádnát",
+    "valid": 1
+}

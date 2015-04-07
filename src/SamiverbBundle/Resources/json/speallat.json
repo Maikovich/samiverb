@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "speallat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "spealan",
+                "spealat",
+                "speallá",
+                "spelle",
+                "speallabeahtti",
+                "speallaba",
+                "speallat",
+                "speallabehtet",
+                "spellet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in speala",
+                "it speala",
+                "ii speala",
+                "ean speala",
+                "eahppi speala",
+                "eaba speala",
+                "eat speala",
+                "ehpet speala",
+                "eai speala"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "spellen",
+                "spellet",
+                "spealai",
+                "spealaime",
+                "spealaide",
+                "spealaiga",
+                "spealaimet",
+                "spealaidet",
+                "spelle"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in speallan",
+                "it speallan",
+                "ii speallan",
+                "ean speallan",
+                "eahppi speallan",
+                "eaba speallan",
+                "eat speallan",
+                "ehpet speallan",
+                "eai speallan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean speallan",
+                "leat speallan",
+                "lea speallan",
+                "letne speallan",
+                "leahppi speallan",
+                "leaba speallan",
+                "leat speallan",
+                "lehpet speallan",
+                "leat speallan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen speallan",
+                "ledjet speallan",
+                "lei speallan",
+                "leimme speallan",
+                "leidde speallan",
+                "leigga speallan",
+                "leimmet speallan",
+                "leiddet speallan",
+                "ledje speallan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean speallame, -min",
+                "leat speallame, -min",
+                "lea speallame, -min",
+                "letne speallame, -min",
+                "leahppi speallame, -min",
+                "leaba speallame, -min",
+                "leat speallame, -min",
+                "lehpet speallame, -min",
+                "leat speallame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen speallame, -min",
+                "ledjet speallame, -min",
+                "lei speallame, -min",
+                "leimme speallame, -min",
+                "leidde speallame, -min",
+                "leigga speallame, -min",
+                "leimmet speallame, -min",
+                "leiddet speallame, -min",
+                "ledje speallame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "spealašin",
+                "spealašit",
+                "spealašii",
+                "spealašeimme",
+                "spealašeidde",
+                "spealašeigga",
+                "spealašeimmet",
+                "spealašeiddet",
+                "spealašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in spealaše",
+                "it spealaše",
+                "ii spealaše",
+                "ean spealaše",
+                "eahppi spealaše",
+                "eaba spealaše",
+                "eat spealaše",
+                "ehpet spealaše",
+                "eai spealaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "spealažan",
+                "spealažat",
+                "spealaš",
+                "spealažetne",
+                "spealažeahppi",
+                "spealažeaba",
+                "spealažit, -žat",
+                "spealažehpet",
+                "spealažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in spealaš",
+                "it spealaš",
+                "ii spealaš",
+                "ean spealaš",
+                "eahppi spealaš",
+                "eaba spealaš",
+                "eat spealaš",
+                "ehpet spealaš",
+                "eai spealaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "spellon",
+                "speala",
+                "spellos",
+                "speallu",
+                "spealli",
+                "spelloska",
+                "spellot, speallot",
+                "spellet, speallit",
+                "spelloset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon speala",
+                "ale speala",
+                "allos speala",
+                "allu speala",
+                "alli speala",
+                "alloska speala",
+                "allot, allut speala",
+                "allet, allit speala",
+                "alloset speala"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Speallat",
+    "valid": 1
+}

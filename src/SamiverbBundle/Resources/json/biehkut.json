@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "biehkut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "biegun",
+                "biegut",
+                "biehku",
+                "bihko",
+                "biehkubeahtti",
+                "biehkuba",
+                "biehkut",
+                "biehkubehtet",
+                "bihkot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in biego",
+                "it biego",
+                "ii biego",
+                "ean biego",
+                "eahppi biego",
+                "eaba biego",
+                "eat biego",
+                "ehpet biego",
+                "eai biego"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "bihkon",
+                "bihkot",
+                "biegui",
+                "bieguime",
+                "bieguide",
+                "bieguiga",
+                "bieguimet",
+                "bieguidet",
+                "bihko"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in bihkon",
+                "it bihkon",
+                "ii bihkon",
+                "ean bihkon",
+                "eahppi bihkon",
+                "eaba bihkon",
+                "eat bihkon",
+                "ehpet bihkon",
+                "eai bihkon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean bihkon",
+                "leat bihkon",
+                "lea bihkon",
+                "letne bihkon",
+                "leahppi bihkon",
+                "leaba bihkon",
+                "leat bihkon",
+                "lehpet bihkon",
+                "leat bihkon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen bihkon",
+                "ledjet bihkon",
+                "lei bihkon",
+                "leimme bihkon",
+                "leidde bihkon",
+                "leigga bihkon",
+                "leimmet bihkon",
+                "leiddet bihkon",
+                "ledje bihkon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean biehkume, -min",
+                "leat biehkume, -min",
+                "lea biehkume, -min",
+                "letne biehkume, -min",
+                "leahppi biehkume, -min",
+                "leaba biehkume, -min",
+                "leat biehkume, -min",
+                "lehpet biehkume, -min",
+                "leat biehkume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen biehkume, -min",
+                "ledjet biehkume, -min",
+                "lei biehkume, -min",
+                "leimme biehkume, -min",
+                "leidde biehkume, -min",
+                "leigga biehkume, -min",
+                "leimmet biehkume, -min",
+                "leiddet biehkume, -min",
+                "ledje biehkume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "bigošin",
+                "bigošit",
+                "bigošii",
+                "bigošeimme",
+                "bigošeidde",
+                "bigošeigga",
+                "bigošeimmet",
+                "bigošeiddet",
+                "bigošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in bigoše",
+                "it bigoše",
+                "ii bigoše",
+                "ean bigoše",
+                "eahppi bigoše",
+                "eaba bigoše",
+                "eat bigoše",
+                "ehpet bigoše",
+                "eai bigoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "bigožan",
+                "bigožat",
+                "bigoš",
+                "bigožetne",
+                "bigožeahppi",
+                "bigožeaba",
+                "bigožit, -žat",
+                "bigožehpet",
+                "bigožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in bigoš",
+                "it bigoš",
+                "ii bigoš",
+                "ean bigoš",
+                "eahppi bigoš",
+                "eaba bigoš",
+                "eat bigoš",
+                "ehpet bigoš",
+                "eai bigoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "bihkon",
+                "biego",
+                "bihkos",
+                "biehkku",
+                "biehkku",
+                "bihkoska",
+                "bihkot, biehkkot",
+                "bihkot, biehkkot",
+                "bihkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon biego",
+                "ale biego",
+                "allos biego",
+                "allu biego",
+                "alli biego",
+                "alloska biego",
+                "allot, allut biego",
+                "allet, allit biego",
+                "alloset biego"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Biehkut",
+    "valid": 1
+}

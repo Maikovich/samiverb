@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "geavahit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "geavahan",
+                "geavahat",
+                "geavaha",
+                "geavahetne",
+                "geavaheahppi",
+                "geavaheaba",
+                "geavahit, -hat",
+                "geavahehpet",
+                "geavahit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in geavat",
+                "it geavat",
+                "ii geavat",
+                "ean geavat",
+                "eahppi geavat",
+                "eaba geavat",
+                "eat geavat",
+                "ehpet geavat",
+                "eai geavat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "geavahin",
+                "geavahit",
+                "geavahii",
+                "geavaheimme",
+                "geavaheidde",
+                "geavaheigga",
+                "geavaheimmet",
+                "geavaheiddet",
+                "geavahedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in geavahan",
+                "it geavahan",
+                "ii geavahan",
+                "ean geavahan",
+                "eahppi geavahan",
+                "eaba geavahan",
+                "eat geavahan",
+                "ehpet geavahan",
+                "eai geavahan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean geavahan",
+                "leat geavahan",
+                "lea geavahan",
+                "letne geavahan",
+                "leahppi geavahan",
+                "leaba geavahan",
+                "leat geavahan",
+                "lehpet geavahan",
+                "leat geavahan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen geavahan",
+                "ledjet geavahan",
+                "lei geavahan",
+                "leimme geavahan",
+                "leidde geavahan",
+                "leigga geavahan",
+                "leimmet geavahan",
+                "leiddet geavahan",
+                "ledje geavahan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean geavaheame, -men",
+                "leat geavaheame, -men",
+                "lea geavaheame, -men",
+                "letne geavaheame, -men",
+                "leahppi geavaheame, -men",
+                "leaba geavaheame, -men",
+                "leat geavaheame, -men",
+                "lehpet geavaheame, -men",
+                "leat geavaheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen geavaheame, -men",
+                "ledjet geavaheame, -men",
+                "lei geavaheame, -men",
+                "leimme geavaheame, -men",
+                "leidde geavaheame, -men",
+                "leigga geavaheame, -men",
+                "leimmet geavaheame, -men",
+                "leiddet geavaheame, -men",
+                "ledje geavaheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "geavahivččen",
+                "geavahivččet",
+                "geavahivččii",
+                "geavahivččiime",
+                "geavahivččiide",
+                "geavahivččiiga",
+                "geavahivččiimet",
+                "geavahivččiidet",
+                "geavahivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in geavahivčče",
+                "it geavahivčče",
+                "ii geavahivčče",
+                "ean geavahivčče",
+                "eahppi geavahivčče",
+                "eaba geavahivčče",
+                "eat geavahivčče",
+                "ehpet geavahivčče",
+                "eai geavahivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "geavaheaččan",
+                "geavaheaččat",
+                "geavaheaš, -heš, -heažžá",
+                "geavahežže",
+                "geavaheažžabeahtti",
+                "geavaheažžaba",
+                "geavaheažžat",
+                "geavaheažžabehtet",
+                "geavahežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in geavaheaš, -heš, -heažžá",
+                "it geavaheaš, -heš, -heažžá",
+                "ii geavaheaš, -heš, -heažžá",
+                "ean geavaheaš, -heš, -heažžá",
+                "eahppi geavaheaš, -heš, -heažžá",
+                "eaba geavaheaš, -heš, -heažžá",
+                "eat geavaheaš, -heš, -heažžá",
+                "ehpet geavaheaš, -heš, -heažžá",
+                "eai geavaheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "geavahehkon",
+                "geavat",
+                "geavahehkos, geavahus",
+                "geavaheadnu",
+                "geavaheahkki",
+                "geavahehkoska",
+                "geavahehkot, geavaheahkkut, geavahetnot, geavaheadnot",
+                "geavahehket",
+                "geavahehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon geavat",
+                "ale geavat",
+                "allos geavat",
+                "allu geavat",
+                "alli geavat",
+                "alloska geavat",
+                "allot, allut geavat",
+                "allet, allit geavat",
+                "alloset geavat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Geavahit",
+    "valid": 1
+}

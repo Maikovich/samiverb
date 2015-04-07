@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "vazzit", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "vaccán", 
+        "vaccát", 
+        "vazzá", 
+        "vazze", 
+        "vazzibeahtti", 
+        "vazziba", 
+        "vazzit", 
+        "vazzibehtet", 
+        "vazzet"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in vacce", 
+        "it vacce", 
+        "ii vacce", 
+        "ean vacce", 
+        "eahppi vacce", 
+        "eaba vacce", 
+        "eat vacce", 
+        "ehpet vacce", 
+        "eai vacce"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "vazzen", 
+        "vazzet", 
+        "vaccii", 
+        "vacciime", 
+        "vacciide", 
+        "vacciiga", 
+        "vacciimet", 
+        "vacciidet", 
+        "vazze"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in vazzán", 
+        "it vazzán", 
+        "ii vazzán", 
+        "ean vazzán", 
+        "eahppi vazzán", 
+        "eaba vazzán", 
+        "eat vazzán", 
+        "ehpet vazzán", 
+        "eai vazzán"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean vazzán", 
+        "leat vazzán", 
+        "lea vazzán", 
+        "letne vazzán", 
+        "leahppi vazzán", 
+        "leaba vazzán", 
+        "leat vazzán", 
+        "lehpet vazzán", 
+        "leat vazzán"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen vazzán", 
+        "ledjet vazzán", 
+        "lei vazzán", 
+        "leimme vazzán", 
+        "leidde vazzán", 
+        "leigga vazzán", 
+        "leimmet vazzán", 
+        "leiddet vazzán", 
+        "ledje vazzán"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean vazzime, -min", 
+        "leat vazzime, -min", 
+        "lea vazzime, -min", 
+        "letne vazzime, -min", 
+        "leahppi vazzime, -min", 
+        "leaba vazzime, -min", 
+        "leat vazzime, -min", 
+        "lehpet vazzime, -min", 
+        "leat vazzime, -min"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen vazzime, -min", 
+        "ledjet vazzime, -min", 
+        "lei vazzime, -min", 
+        "leimme vazzime, -min", 
+        "leidde vazzime, -min", 
+        "leigga vazzime, -min", 
+        "leimmet vazzime, -min", 
+        "leiddet vazzime, -min", 
+        "ledje vazzime, -min"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "vaccášin", 
+        "vaccášit", 
+        "vaccášii", 
+        "vaccášeimme", 
+        "vaccášeidde", 
+        "vaccášeigga", 
+        "vaccášeimmet", 
+        "vaccášeiddet", 
+        "vaccášedje"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in vaccáše", 
+        "it vaccáše", 
+        "ii vaccáše", 
+        "ean vaccáše", 
+        "eahppi vaccáše", 
+        "eaba vaccáše", 
+        "eat vaccáše", 
+        "ehpet vaccáše", 
+        "eai vaccáše"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "vaccežan", 
+        "vaccežat", 
+        "vacceš", 
+        "vaccežetne", 
+        "vaccežeahppi", 
+        "vaccežeaba", 
+        "vaccežit, -žat", 
+        "vaccežehpet", 
+        "vaccežit"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in vacceš", 
+        "it vacceš", 
+        "ii vacceš", 
+        "ean vacceš", 
+        "eahppi vacceš", 
+        "eaba vacceš", 
+        "eat vacceš", 
+        "ehpet vacceš", 
+        "eai vacceš"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "vazzon", 
+        "vacce", 
+        "vazzos", 
+        "vazzu", 
+        "vazzi", 
+        "vazzoska", 
+        "vazzot", 
+        "vazzet", 
+        "vazzoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon vacce", 
+        "ale vacce", 
+        "allos vacce", 
+        "allu vacce", 
+        "alli vacce", 
+        "alloska vacce", 
+        "allot, allut vacce", 
+        "allet, allit vacce", 
+        "alloset vacce"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Vazzit"
+}

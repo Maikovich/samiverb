@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "ráhkistit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "ráhkistan",
+                "ráhkistat",
+                "ráhkista",
+                "ráhkistetne",
+                "ráhkisteahppi",
+                "ráhkisteaba",
+                "ráhkistit, -tat",
+                "ráhkistehpet",
+                "ráhkistit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in ráhkis",
+                "it ráhkis",
+                "ii ráhkis",
+                "ean ráhkis",
+                "eahppi ráhkis",
+                "eaba ráhkis",
+                "eat ráhkis",
+                "ehpet ráhkis",
+                "eai ráhkis"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ráhkistin",
+                "ráhkistit",
+                "ráhkistii",
+                "ráhkisteimme",
+                "ráhkisteidde",
+                "ráhkisteigga",
+                "ráhkisteimmet",
+                "ráhkisteiddet",
+                "ráhkistedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ráhkistan",
+                "it ráhkistan",
+                "ii ráhkistan",
+                "ean ráhkistan",
+                "eahppi ráhkistan",
+                "eaba ráhkistan",
+                "eat ráhkistan",
+                "ehpet ráhkistan",
+                "eai ráhkistan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ráhkistan",
+                "leat ráhkistan",
+                "lea ráhkistan",
+                "letne ráhkistan",
+                "leahppi ráhkistan",
+                "leaba ráhkistan",
+                "leat ráhkistan",
+                "lehpet ráhkistan",
+                "leat ráhkistan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ráhkistan",
+                "ledjet ráhkistan",
+                "lei ráhkistan",
+                "leimme ráhkistan",
+                "leidde ráhkistan",
+                "leigga ráhkistan",
+                "leimmet ráhkistan",
+                "leiddet ráhkistan",
+                "ledje ráhkistan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean ráhkisteame, -men",
+                "leat ráhkisteame, -men",
+                "lea ráhkisteame, -men",
+                "letne ráhkisteame, -men",
+                "leahppi ráhkisteame, -men",
+                "leaba ráhkisteame, -men",
+                "leat ráhkisteame, -men",
+                "lehpet ráhkisteame, -men",
+                "leat ráhkisteame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen ráhkisteame, -men",
+                "ledjet ráhkisteame, -men",
+                "lei ráhkisteame, -men",
+                "leimme ráhkisteame, -men",
+                "leidde ráhkisteame, -men",
+                "leigga ráhkisteame, -men",
+                "leimmet ráhkisteame, -men",
+                "leiddet ráhkisteame, -men",
+                "ledje ráhkisteame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "ráhkistivččen",
+                "ráhkistivččet",
+                "ráhkistivččii",
+                "ráhkistivččiime",
+                "ráhkistivččiide",
+                "ráhkistivččiiga",
+                "ráhkistivččiimet",
+                "ráhkistivččiidet",
+                "ráhkistivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in ráhkistivčče",
+                "it ráhkistivčče",
+                "ii ráhkistivčče",
+                "ean ráhkistivčče",
+                "eahppi ráhkistivčče",
+                "eaba ráhkistivčče",
+                "eat ráhkistivčče",
+                "ehpet ráhkistivčče",
+                "eai ráhkistivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "ráhkisteaččan",
+                "ráhkisteaččat",
+                "ráhkisteaš, -teš, -teažžá",
+                "ráhkistežže",
+                "ráhkisteažžabeahtti",
+                "ráhkisteažžaba",
+                "ráhkisteažžat",
+                "ráhkisteažžabehtet",
+                "ráhkistežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in ráhkisteaš, -teš, -teažžá",
+                "it ráhkisteaš, -teš, -teažžá",
+                "ii ráhkisteaš, -teš, -teažžá",
+                "ean ráhkisteaš, -teš, -teažžá",
+                "eahppi ráhkisteaš, -teš, -teažžá",
+                "eaba ráhkisteaš, -teš, -teažžá",
+                "eat ráhkisteaš, -teš, -teažžá",
+                "ehpet ráhkisteaš, -teš, -teažžá",
+                "eai ráhkisteaš, -teš, -teažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "ráhkistehkon",
+                "ráhkis",
+                "ráhkistehkos, ráhkistus",
+                "ráhkisteadnu",
+                "ráhkisteahkki",
+                "ráhkistehkoska",
+                "ráhkistehkot, ráhkisteahkkut, ráhkistetnot, ráhkisteadnot",
+                "ráhkistehket",
+                "ráhkistehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon ráhkis",
+                "ale ráhkis",
+                "allos ráhkis",
+                "allu ráhkis",
+                "alli ráhkis",
+                "alloska ráhkis",
+                "allot, allut ráhkis",
+                "allet, allit ráhkis",
+                "alloset ráhkis"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Ráhkistit",
+    "valid": 1
+}

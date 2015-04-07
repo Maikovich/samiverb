@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "iskat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "iskkan",
+                "iskkat",
+                "iská",
+                "iske",
+                "iskabeahtti",
+                "iskaba",
+                "iskat",
+                "iskabehtet",
+                "isket"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in iskka",
+                "it iskka",
+                "ii iskka",
+                "ean iskka",
+                "eahppi iskka",
+                "eaba iskka",
+                "eat iskka",
+                "ehpet iskka",
+                "eai iskka"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "isken",
+                "isket",
+                "iskkai",
+                "iskkaime",
+                "iskkaide",
+                "iskkaiga",
+                "iskkaimet",
+                "iskkaidet",
+                "iske"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in iskan",
+                "it iskan",
+                "ii iskan",
+                "ean iskan",
+                "eahppi iskan",
+                "eaba iskan",
+                "eat iskan",
+                "ehpet iskan",
+                "eai iskan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean iskan",
+                "leat iskan",
+                "lea iskan",
+                "letne iskan",
+                "leahppi iskan",
+                "leaba iskan",
+                "leat iskan",
+                "lehpet iskan",
+                "leat iskan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen iskan",
+                "ledjet iskan",
+                "lei iskan",
+                "leimme iskan",
+                "leidde iskan",
+                "leigga iskan",
+                "leimmet iskan",
+                "leiddet iskan",
+                "ledje iskan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean iskame, -min",
+                "leat iskame, -min",
+                "lea iskame, -min",
+                "letne iskame, -min",
+                "leahppi iskame, -min",
+                "leaba iskame, -min",
+                "leat iskame, -min",
+                "lehpet iskame, -min",
+                "leat iskame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen iskame, -min",
+                "ledjet iskame, -min",
+                "lei iskame, -min",
+                "leimme iskame, -min",
+                "leidde iskame, -min",
+                "leigga iskame, -min",
+                "leimmet iskame, -min",
+                "leiddet iskame, -min",
+                "ledje iskame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "iskkašin",
+                "iskkašit",
+                "iskkašii",
+                "iskkašeimme",
+                "iskkašeidde",
+                "iskkašeigga",
+                "iskkašeimmet",
+                "iskkašeiddet",
+                "iskkašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in iskkaše",
+                "it iskkaše",
+                "ii iskkaše",
+                "ean iskkaše",
+                "eahppi iskkaše",
+                "eaba iskkaše",
+                "eat iskkaše",
+                "ehpet iskkaše",
+                "eai iskkaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "iskkažan",
+                "iskkažat",
+                "iskkaš",
+                "iskkažetne",
+                "iskkažeahppi",
+                "iskkažeaba",
+                "iskkažit, -žat",
+                "iskkažehpet",
+                "iskkažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in iskkaš",
+                "it iskkaš",
+                "ii iskkaš",
+                "ean iskkaš",
+                "eahppi iskkaš",
+                "eaba iskkaš",
+                "eat iskkaš",
+                "ehpet iskkaš",
+                "eai iskkaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "iskon",
+                "iskka",
+                "iskos",
+                "isku",
+                "iski",
+                "iskoska",
+                "iskot",
+                "isket, iskit",
+                "iskoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon iskka",
+                "ale iskka",
+                "allos iskka",
+                "allu iskka",
+                "alli iskka",
+                "alloska iskka",
+                "allot, allut iskka",
+                "allet, allit iskka",
+                "alloset iskka"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Iskat",
+    "valid": 1
+}

@@ -1,0 +1,39 @@
+{% extends "SamiverbBundle::admin/admin.html.twig" %}
+
+{% block content %}
+
+  <div class="adminpanel admintable container">
+
+    <table id="threatTable" class=" table table-hover">
+      <tr>
+        <th class="col-xs-1">#</th>
+        <th class="col-xs-2">Remote address</th>
+        <th class="col-xs-2">Forwarded for</th>
+        <th class="col-xs-2">Date</th>
+        <th class="col-xs-offset-3 col-xs-1">Block</th>
+        <th class="col-xs-1">Delete</th>
+      </tr>
+      {% for attack in attacks %}
+        <tr>
+          <td class="col-xs-1">{{ attack.id }}</td>
+          <td class="col-xs-2">{{ attack.remoteAddress }}</td>
+          <td class="col-xs-2">{{ attack.httpXForwardedFor }}</td>
+          <td class="col-xs-2">{{ attack.date | date('Y-m-d H:i:s') }}</td>
+          <td class="col-xs-offset-2 col-xs-1">
+            <form action="{{ path('_admin_threat_block', {'id': attack.id }) }}">
+              <button type="submit" class="btn btn-sm btn-primary" disabled>Block</button>
+            </form>
+          </td>
+          <td class="col-xs-1">
+            <form action="{{ path('_admin_threat_delete', {'id': attack.id }) }}">
+              <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+            </form>
+          </td>
+        </tr>
+
+      {% endfor %}
+    </table>
+
+  </div>
+
+{% endblock %}

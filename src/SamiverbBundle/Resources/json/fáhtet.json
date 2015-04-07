@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "fáhtet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "fáhten",
+                "fáhtet",
+                "fáhte",
+                "fáhtejetne",
+                "fáhtebeahtti",
+                "fáhteba",
+                "fáhtet",
+                "fáhtebehtet",
+                "fáhtejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in fáhte",
+                "it fáhte",
+                "ii fáhte",
+                "ean fáhte",
+                "eahppi fáhte",
+                "eaba fáhte",
+                "eat fáhte",
+                "ehpet fáhte",
+                "eai fáhte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "fáhtejin",
+                "fáhtejit",
+                "fáhtii",
+                "fáhtiime",
+                "fáhtiide",
+                "fáhtiiga",
+                "fáhtiimet",
+                "fáhtiidet",
+                "fáhtejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in fáhten",
+                "it fáhten",
+                "ii fáhten",
+                "ean fáhten",
+                "eahppi fáhten",
+                "eaba fáhten",
+                "eat fáhten",
+                "ehpet fáhten",
+                "eai fáhten"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean fáhten",
+                "leat fáhten",
+                "lea fáhten",
+                "letne fáhten",
+                "leahppi fáhten",
+                "leaba fáhten",
+                "leat fáhten",
+                "lehpet fáhten",
+                "leat fáhten"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen fáhten",
+                "ledjet fáhten",
+                "lei fáhten",
+                "leimme fáhten",
+                "leidde fáhten",
+                "leigga fáhten",
+                "leimmet fáhten",
+                "leiddet fáhten",
+                "ledje fáhten"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean fáhteme, -min",
+                "leat fáhteme, -min",
+                "lea fáhteme, -min",
+                "letne fáhteme, -min",
+                "leahppi fáhteme, -min",
+                "leaba fáhteme, -min",
+                "leat fáhteme, -min",
+                "lehpet fáhteme, -min",
+                "leat fáhteme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen fáhteme, -min",
+                "ledjet fáhteme, -min",
+                "lei fáhteme, -min",
+                "leimme fáhteme, -min",
+                "leidde fáhteme, -min",
+                "leigga fáhteme, -min",
+                "leimmet fáhteme, -min",
+                "leiddet fáhteme, -min",
+                "ledje fáhteme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "fáhtešin",
+                "fáhtešit",
+                "fáhtešii",
+                "fáhtešeimme",
+                "fáhtešeidde",
+                "fáhtešeigga",
+                "fáhtešeimmet",
+                "fáhtešeiddet",
+                "fáhtešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in fáhteše",
+                "it fáhteše",
+                "ii fáhteše",
+                "ean fáhteše",
+                "eahppi fáhteše",
+                "eaba fáhteše",
+                "eat fáhteše",
+                "ehpet fáhteše",
+                "eai fáhteše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "fáhtežan",
+                "fáhtežat",
+                "fáhteš",
+                "fáhtežetne",
+                "fáhtežeahppi",
+                "fáhtežeaba",
+                "fáhtežit, -žat",
+                "fáhtežehpet",
+                "fáhtežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in fáhteš",
+                "it fáhteš",
+                "ii fáhteš",
+                "ean fáhteš",
+                "eahppi fáhteš",
+                "eaba fáhteš",
+                "eat fáhteš",
+                "ehpet fáhteš",
+                "eai fáhteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "fáhtejehkon",
+                "fáhte",
+                "fáhtejehkos",
+                "fáhtejeadnu",
+                "fáhtejeahkki",
+                "fáhtejehkoska",
+                "fáhtejeahkkut, fáhtejeadnot, fáhtejehkot, fáhtejetnot",
+                "fáhtejeahkkit",
+                "fáhtejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon fáhte",
+                "ale fáhte",
+                "allos fáhte",
+                "allu fáhte",
+                "alli fáhte",
+                "alloska fáhte",
+                "allot, allut fáhte",
+                "allet, allit fáhte",
+                "alloset fáhte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Fáhtet",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "goarjut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "goarjjun",
+                "goarjjut",
+                "goarju",
+                "gorjo",
+                "goarjubeahtti",
+                "goarjuba",
+                "goarjut",
+                "goarjubehtet",
+                "gorjot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in goarjjo",
+                "it goarjjo",
+                "ii goarjjo",
+                "ean goarjjo",
+                "eahppi goarjjo",
+                "eaba goarjjo",
+                "eat goarjjo",
+                "ehpet goarjjo",
+                "eai goarjjo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gorjon",
+                "gorjot",
+                "goarjjui",
+                "goarjjuime",
+                "goarjjuide",
+                "goarjjuiga",
+                "goarjjuimet",
+                "goarjjuidet",
+                "gorjo"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gorjon",
+                "it gorjon",
+                "ii gorjon",
+                "ean gorjon",
+                "eahppi gorjon",
+                "eaba gorjon",
+                "eat gorjon",
+                "ehpet gorjon",
+                "eai gorjon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gorjon",
+                "leat gorjon",
+                "lea gorjon",
+                "letne gorjon",
+                "leahppi gorjon",
+                "leaba gorjon",
+                "leat gorjon",
+                "lehpet gorjon",
+                "leat gorjon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gorjon",
+                "ledjet gorjon",
+                "lei gorjon",
+                "leimme gorjon",
+                "leidde gorjon",
+                "leigga gorjon",
+                "leimmet gorjon",
+                "leiddet gorjon",
+                "ledje gorjon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean goarjume, -min",
+                "leat goarjume, -min",
+                "lea goarjume, -min",
+                "letne goarjume, -min",
+                "leahppi goarjume, -min",
+                "leaba goarjume, -min",
+                "leat goarjume, -min",
+                "lehpet goarjume, -min",
+                "leat goarjume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen goarjume, -min",
+                "ledjet goarjume, -min",
+                "lei goarjume, -min",
+                "leimme goarjume, -min",
+                "leidde goarjume, -min",
+                "leigga goarjume, -min",
+                "leimmet goarjume, -min",
+                "leiddet goarjume, -min",
+                "ledje goarjume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gorjjošin",
+                "gorjjošit",
+                "gorjjošii",
+                "gorjjošeimme",
+                "gorjjošeidde",
+                "gorjjošeigga",
+                "gorjjošeimmet",
+                "gorjjošeiddet",
+                "gorjjošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gorjjoše",
+                "it gorjjoše",
+                "ii gorjjoše",
+                "ean gorjjoše",
+                "eahppi gorjjoše",
+                "eaba gorjjoše",
+                "eat gorjjoše",
+                "ehpet gorjjoše",
+                "eai gorjjoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gorjjožan",
+                "gorjjožat",
+                "gorjjoš",
+                "gorjjožetne",
+                "gorjjožeahppi",
+                "gorjjožeaba",
+                "gorjjožit, -žat",
+                "gorjjožehpet",
+                "gorjjožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gorjjoš",
+                "it gorjjoš",
+                "ii gorjjoš",
+                "ean gorjjoš",
+                "eahppi gorjjoš",
+                "eaba gorjjoš",
+                "eat gorjjoš",
+                "ehpet gorjjoš",
+                "eai gorjjoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gorjon",
+                "goarjjo",
+                "gorjos",
+                "goarju",
+                "goarju",
+                "gorjoska",
+                "gorjot, goarjot",
+                "gorjot, goarjot",
+                "gorjoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon goarjjo",
+                "ale goarjjo",
+                "allos goarjjo",
+                "allu goarjjo",
+                "alli goarjjo",
+                "alloska goarjjo",
+                "allot, allut goarjjo",
+                "allet, allit goarjjo",
+                "alloset goarjjo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Goarjut",
+    "valid": 1
+}

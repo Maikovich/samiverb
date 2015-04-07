@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "váibat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "váibban",
+                "váibbat",
+                "váibá",
+                "váibe",
+                "váibabeahtti",
+                "váibaba",
+                "váibat",
+                "váibabehtet",
+                "váibet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in váibba",
+                "it váibba",
+                "ii váibba",
+                "ean váibba",
+                "eahppi váibba",
+                "eaba váibba",
+                "eat váibba",
+                "ehpet váibba",
+                "eai váibba"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "váiben",
+                "váibet",
+                "váibbai",
+                "váibbaime",
+                "váibbaide",
+                "váibbaiga",
+                "váibbaimet",
+                "váibbaidet",
+                "váibe"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in váiban",
+                "it váiban",
+                "ii váiban",
+                "ean váiban",
+                "eahppi váiban",
+                "eaba váiban",
+                "eat váiban",
+                "ehpet váiban",
+                "eai váiban"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean váiban",
+                "leat váiban",
+                "lea váiban",
+                "letne váiban",
+                "leahppi váiban",
+                "leaba váiban",
+                "leat váiban",
+                "lehpet váiban",
+                "leat váiban"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen váiban",
+                "ledjet váiban",
+                "lei váiban",
+                "leimme váiban",
+                "leidde váiban",
+                "leigga váiban",
+                "leimmet váiban",
+                "leiddet váiban",
+                "ledje váiban"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean váibame, -min",
+                "leat váibame, -min",
+                "lea váibame, -min",
+                "letne váibame, -min",
+                "leahppi váibame, -min",
+                "leaba váibame, -min",
+                "leat váibame, -min",
+                "lehpet váibame, -min",
+                "leat váibame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen váibame, -min",
+                "ledjet váibame, -min",
+                "lei váibame, -min",
+                "leimme váibame, -min",
+                "leidde váibame, -min",
+                "leigga váibame, -min",
+                "leimmet váibame, -min",
+                "leiddet váibame, -min",
+                "ledje váibame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "váibbašin",
+                "váibbašit",
+                "váibbašii",
+                "váibbašeimme",
+                "váibbašeidde",
+                "váibbašeigga",
+                "váibbašeimmet",
+                "váibbašeiddet",
+                "váibbašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in váibbaše",
+                "it váibbaše",
+                "ii váibbaše",
+                "ean váibbaše",
+                "eahppi váibbaše",
+                "eaba váibbaše",
+                "eat váibbaše",
+                "ehpet váibbaše",
+                "eai váibbaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "váibbažan",
+                "váibbažat",
+                "váibbaš",
+                "váibbažetne",
+                "váibbažeahppi",
+                "váibbažeaba",
+                "váibbažit, -žat",
+                "váibbažehpet",
+                "váibbažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in váibbaš",
+                "it váibbaš",
+                "ii váibbaš",
+                "ean váibbaš",
+                "eahppi váibbaš",
+                "eaba váibbaš",
+                "eat váibbaš",
+                "ehpet váibbaš",
+                "eai váibbaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "váibon",
+                "váibba",
+                "váibos",
+                "váibu",
+                "váibi",
+                "váiboska",
+                "váibot",
+                "váibet, váibit",
+                "váiboset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon váibba",
+                "ale váibba",
+                "allos váibba",
+                "allu váibba",
+                "alli váibba",
+                "alloska váibba",
+                "allot, allut váibba",
+                "allet, allit váibba",
+                "alloset váibba"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Váibat",
+    "valid": 1
+}

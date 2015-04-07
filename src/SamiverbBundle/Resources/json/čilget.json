@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čilget",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čilgen",
+                "čilget",
+                "čilge",
+                "čilgejetne",
+                "čilgebeahtti",
+                "čilgeba",
+                "čilget",
+                "čilgebehtet",
+                "čilgejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čilge",
+                "it čilge",
+                "ii čilge",
+                "ean čilge",
+                "eahppi čilge",
+                "eaba čilge",
+                "eat čilge",
+                "ehpet čilge",
+                "eai čilge"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čilgejin",
+                "čilgejit",
+                "čilgii",
+                "čilgiime",
+                "čilgiide",
+                "čilgiiga",
+                "čilgiimet",
+                "čilgiidet",
+                "čilgejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čilgen",
+                "it čilgen",
+                "ii čilgen",
+                "ean čilgen",
+                "eahppi čilgen",
+                "eaba čilgen",
+                "eat čilgen",
+                "ehpet čilgen",
+                "eai čilgen"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čilgen",
+                "leat čilgen",
+                "lea čilgen",
+                "letne čilgen",
+                "leahppi čilgen",
+                "leaba čilgen",
+                "leat čilgen",
+                "lehpet čilgen",
+                "leat čilgen"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čilgen",
+                "ledjet čilgen",
+                "lei čilgen",
+                "leimme čilgen",
+                "leidde čilgen",
+                "leigga čilgen",
+                "leimmet čilgen",
+                "leiddet čilgen",
+                "ledje čilgen"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čilgeme, -min",
+                "leat čilgeme, -min",
+                "lea čilgeme, -min",
+                "letne čilgeme, -min",
+                "leahppi čilgeme, -min",
+                "leaba čilgeme, -min",
+                "leat čilgeme, -min",
+                "lehpet čilgeme, -min",
+                "leat čilgeme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čilgeme, -min",
+                "ledjet čilgeme, -min",
+                "lei čilgeme, -min",
+                "leimme čilgeme, -min",
+                "leidde čilgeme, -min",
+                "leigga čilgeme, -min",
+                "leimmet čilgeme, -min",
+                "leiddet čilgeme, -min",
+                "ledje čilgeme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čilgešin",
+                "čilgešit",
+                "čilgešii",
+                "čilgešeimme",
+                "čilgešeidde",
+                "čilgešeigga",
+                "čilgešeimmet",
+                "čilgešeiddet",
+                "čilgešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čilgeše",
+                "it čilgeše",
+                "ii čilgeše",
+                "ean čilgeše",
+                "eahppi čilgeše",
+                "eaba čilgeše",
+                "eat čilgeše",
+                "ehpet čilgeše",
+                "eai čilgeše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čilgežan",
+                "čilgežat",
+                "čilgeš",
+                "čilgežetne",
+                "čilgežeahppi",
+                "čilgežeaba",
+                "čilgežit, -žat",
+                "čilgežehpet",
+                "čilgežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čilgeš",
+                "it čilgeš",
+                "ii čilgeš",
+                "ean čilgeš",
+                "eahppi čilgeš",
+                "eaba čilgeš",
+                "eat čilgeš",
+                "ehpet čilgeš",
+                "eai čilgeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čilgejehkon",
+                "čilge",
+                "čilgejehkos",
+                "čilgejeadnu",
+                "čilgejeahkki",
+                "čilgejehkoska",
+                "čilgejeahkkut, čilgejeadnot, čilgejehkot, čilgejetnot",
+                "čilgejeahkkit",
+                "čilgejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čilge",
+                "ale čilge",
+                "allos čilge",
+                "allu čilge",
+                "alli čilge",
+                "alloska čilge",
+                "allot, allut čilge",
+                "allet, allit čilge",
+                "alloset čilge"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čilget",
+    "valid": 1
+}

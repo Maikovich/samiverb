@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "luddet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "ludden",
+                "luddet",
+                "ludde",
+                "luddejetne",
+                "luddebeahtti",
+                "luddeba",
+                "luddet",
+                "luddebehtet",
+                "luddejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in ludde",
+                "it ludde",
+                "ii ludde",
+                "ean ludde",
+                "eahppi ludde",
+                "eaba ludde",
+                "eat ludde",
+                "ehpet ludde",
+                "eai ludde"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "luddejin",
+                "luddejit",
+                "luddii",
+                "luddiime",
+                "luddiide",
+                "luddiiga",
+                "luddiimet",
+                "luddiidet",
+                "luddejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ludden",
+                "it ludden",
+                "ii ludden",
+                "ean ludden",
+                "eahppi ludden",
+                "eaba ludden",
+                "eat ludden",
+                "ehpet ludden",
+                "eai ludden"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ludden",
+                "leat ludden",
+                "lea ludden",
+                "letne ludden",
+                "leahppi ludden",
+                "leaba ludden",
+                "leat ludden",
+                "lehpet ludden",
+                "leat ludden"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ludden",
+                "ledjet ludden",
+                "lei ludden",
+                "leimme ludden",
+                "leidde ludden",
+                "leigga ludden",
+                "leimmet ludden",
+                "leiddet ludden",
+                "ledje ludden"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean luddeme, -min",
+                "leat luddeme, -min",
+                "lea luddeme, -min",
+                "letne luddeme, -min",
+                "leahppi luddeme, -min",
+                "leaba luddeme, -min",
+                "leat luddeme, -min",
+                "lehpet luddeme, -min",
+                "leat luddeme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen luddeme, -min",
+                "ledjet luddeme, -min",
+                "lei luddeme, -min",
+                "leimme luddeme, -min",
+                "leidde luddeme, -min",
+                "leigga luddeme, -min",
+                "leimmet luddeme, -min",
+                "leiddet luddeme, -min",
+                "ledje luddeme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "luddešin",
+                "luddešit",
+                "luddešii",
+                "luddešeimme",
+                "luddešeidde",
+                "luddešeigga",
+                "luddešeimmet",
+                "luddešeiddet",
+                "luddešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in luddeše",
+                "it luddeše",
+                "ii luddeše",
+                "ean luddeše",
+                "eahppi luddeše",
+                "eaba luddeše",
+                "eat luddeše",
+                "ehpet luddeše",
+                "eai luddeše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "luddežan",
+                "luddežat",
+                "luddeš",
+                "luddežetne",
+                "luddežeahppi",
+                "luddežeaba",
+                "luddežit, -žat",
+                "luddežehpet",
+                "luddežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in luddeš",
+                "it luddeš",
+                "ii luddeš",
+                "ean luddeš",
+                "eahppi luddeš",
+                "eaba luddeš",
+                "eat luddeš",
+                "ehpet luddeš",
+                "eai luddeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "luddejehkon",
+                "ludde",
+                "luddejehkos",
+                "luddejeadnu",
+                "luddejeahkki",
+                "luddejehkoska",
+                "luddejeahkkut, luddejeadnot, luddejehkot, luddejetnot",
+                "luddejeahkkit",
+                "luddejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon ludde",
+                "ale ludde",
+                "allos ludde",
+                "allu ludde",
+                "alli ludde",
+                "alloska ludde",
+                "allot, allut ludde",
+                "allet, allit ludde",
+                "alloset ludde"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Luddet",
+    "valid": 1
+}

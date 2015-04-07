@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "muddet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "mudden",
+                "muddet",
+                "mudde",
+                "muddejetne",
+                "muddebeahtti",
+                "muddeba",
+                "muddet",
+                "muddebehtet",
+                "muddejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in mudde",
+                "it mudde",
+                "ii mudde",
+                "ean mudde",
+                "eahppi mudde",
+                "eaba mudde",
+                "eat mudde",
+                "ehpet mudde",
+                "eai mudde"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "muddejin",
+                "muddejit",
+                "muddii",
+                "muddiime",
+                "muddiide",
+                "muddiiga",
+                "muddiimet",
+                "muddiidet",
+                "muddejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in mudden",
+                "it mudden",
+                "ii mudden",
+                "ean mudden",
+                "eahppi mudden",
+                "eaba mudden",
+                "eat mudden",
+                "ehpet mudden",
+                "eai mudden"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean mudden",
+                "leat mudden",
+                "lea mudden",
+                "letne mudden",
+                "leahppi mudden",
+                "leaba mudden",
+                "leat mudden",
+                "lehpet mudden",
+                "leat mudden"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen mudden",
+                "ledjet mudden",
+                "lei mudden",
+                "leimme mudden",
+                "leidde mudden",
+                "leigga mudden",
+                "leimmet mudden",
+                "leiddet mudden",
+                "ledje mudden"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean muddeme, -min",
+                "leat muddeme, -min",
+                "lea muddeme, -min",
+                "letne muddeme, -min",
+                "leahppi muddeme, -min",
+                "leaba muddeme, -min",
+                "leat muddeme, -min",
+                "lehpet muddeme, -min",
+                "leat muddeme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen muddeme, -min",
+                "ledjet muddeme, -min",
+                "lei muddeme, -min",
+                "leimme muddeme, -min",
+                "leidde muddeme, -min",
+                "leigga muddeme, -min",
+                "leimmet muddeme, -min",
+                "leiddet muddeme, -min",
+                "ledje muddeme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "muddešin",
+                "muddešit",
+                "muddešii",
+                "muddešeimme",
+                "muddešeidde",
+                "muddešeigga",
+                "muddešeimmet",
+                "muddešeiddet",
+                "muddešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in muddeše",
+                "it muddeše",
+                "ii muddeše",
+                "ean muddeše",
+                "eahppi muddeše",
+                "eaba muddeše",
+                "eat muddeše",
+                "ehpet muddeše",
+                "eai muddeše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "muddežan",
+                "muddežat",
+                "muddeš",
+                "muddežetne",
+                "muddežeahppi",
+                "muddežeaba",
+                "muddežit, -žat",
+                "muddežehpet",
+                "muddežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in muddeš",
+                "it muddeš",
+                "ii muddeš",
+                "ean muddeš",
+                "eahppi muddeš",
+                "eaba muddeš",
+                "eat muddeš",
+                "ehpet muddeš",
+                "eai muddeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "muddejehkon",
+                "mudde",
+                "muddejehkos",
+                "muddejeadnu",
+                "muddejeahkki",
+                "muddejehkoska",
+                "muddejeahkkut, muddejeadnot, muddejehkot, muddejetnot",
+                "muddejeahkkit",
+                "muddejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon mudde",
+                "ale mudde",
+                "allos mudde",
+                "allu mudde",
+                "alli mudde",
+                "alloska mudde",
+                "allot, allut mudde",
+                "allet, allit mudde",
+                "alloset mudde"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Muddet",
+    "valid": 1
+}

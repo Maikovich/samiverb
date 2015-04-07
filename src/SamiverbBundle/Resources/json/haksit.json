@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "haksit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "havssán",
+                "havssát",
+                "haksá",
+                "hakse",
+                "haksibeahtti",
+                "haksiba",
+                "haksit",
+                "haksibehtet",
+                "hakset"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in havsse",
+                "it havsse",
+                "ii havsse",
+                "ean havsse",
+                "eahppi havsse",
+                "eaba havsse",
+                "eat havsse",
+                "ehpet havsse",
+                "eai havsse"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "haksen",
+                "hakset",
+                "havssii",
+                "havssiime",
+                "havssiide",
+                "havssiiga",
+                "havssiimet",
+                "havssiidet",
+                "hakse"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in haksán",
+                "it haksán",
+                "ii haksán",
+                "ean haksán",
+                "eahppi haksán",
+                "eaba haksán",
+                "eat haksán",
+                "ehpet haksán",
+                "eai haksán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean haksán",
+                "leat haksán",
+                "lea haksán",
+                "letne haksán",
+                "leahppi haksán",
+                "leaba haksán",
+                "leat haksán",
+                "lehpet haksán",
+                "leat haksán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen haksán",
+                "ledjet haksán",
+                "lei haksán",
+                "leimme haksán",
+                "leidde haksán",
+                "leigga haksán",
+                "leimmet haksán",
+                "leiddet haksán",
+                "ledje haksán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean haksime, -min",
+                "leat haksime, -min",
+                "lea haksime, -min",
+                "letne haksime, -min",
+                "leahppi haksime, -min",
+                "leaba haksime, -min",
+                "leat haksime, -min",
+                "lehpet haksime, -min",
+                "leat haksime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen haksime, -min",
+                "ledjet haksime, -min",
+                "lei haksime, -min",
+                "leimme haksime, -min",
+                "leidde haksime, -min",
+                "leigga haksime, -min",
+                "leimmet haksime, -min",
+                "leiddet haksime, -min",
+                "ledje haksime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "havssášin",
+                "havssášit",
+                "havssášii",
+                "havssášeimme",
+                "havssášeidde",
+                "havssášeigga",
+                "havssášeimmet",
+                "havssášeiddet",
+                "havssášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in havssáše",
+                "it havssáše",
+                "ii havssáše",
+                "ean havssáše",
+                "eahppi havssáše",
+                "eaba havssáše",
+                "eat havssáše",
+                "ehpet havssáše",
+                "eai havssáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "havssežan",
+                "havssežat",
+                "havsseš",
+                "havssežetne",
+                "havssežeahppi",
+                "havssežeaba",
+                "havssežit, -žat",
+                "havssežehpet",
+                "havssežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in havsseš",
+                "it havsseš",
+                "ii havsseš",
+                "ean havsseš",
+                "eahppi havsseš",
+                "eaba havsseš",
+                "eat havsseš",
+                "ehpet havsseš",
+                "eai havsseš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "hakson",
+                "havsse",
+                "haksos",
+                "haksu",
+                "haksi",
+                "haksoska",
+                "haksot",
+                "hakset",
+                "haksoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon havsse",
+                "ale havsse",
+                "allos havsse",
+                "allu havsse",
+                "alli havsse",
+                "alloska havsse",
+                "allot, allut havsse",
+                "allet, allit havsse",
+                "alloset havsse"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Haksit",
+    "valid": 1
+}

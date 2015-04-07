@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "girdit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "girddán",
+                "girddát",
+                "girdá",
+                "girde",
+                "girdibeahtti",
+                "girdiba",
+                "girdit",
+                "girdibehtet",
+                "girdet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in girdde",
+                "it girdde",
+                "ii girdde",
+                "ean girdde",
+                "eahppi girdde",
+                "eaba girdde",
+                "eat girdde",
+                "ehpet girdde",
+                "eai girdde"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "girden",
+                "girdet",
+                "girddii",
+                "girddiime",
+                "girddiide",
+                "girddiiga",
+                "girddiimet",
+                "girddiidet",
+                "girde"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in girdán",
+                "it girdán",
+                "ii girdán",
+                "ean girdán",
+                "eahppi girdán",
+                "eaba girdán",
+                "eat girdán",
+                "ehpet girdán",
+                "eai girdán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean girdán",
+                "leat girdán",
+                "lea girdán",
+                "letne girdán",
+                "leahppi girdán",
+                "leaba girdán",
+                "leat girdán",
+                "lehpet girdán",
+                "leat girdán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen girdán",
+                "ledjet girdán",
+                "lei girdán",
+                "leimme girdán",
+                "leidde girdán",
+                "leigga girdán",
+                "leimmet girdán",
+                "leiddet girdán",
+                "ledje girdán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean girdime, -min",
+                "leat girdime, -min",
+                "lea girdime, -min",
+                "letne girdime, -min",
+                "leahppi girdime, -min",
+                "leaba girdime, -min",
+                "leat girdime, -min",
+                "lehpet girdime, -min",
+                "leat girdime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen girdime, -min",
+                "ledjet girdime, -min",
+                "lei girdime, -min",
+                "leimme girdime, -min",
+                "leidde girdime, -min",
+                "leigga girdime, -min",
+                "leimmet girdime, -min",
+                "leiddet girdime, -min",
+                "ledje girdime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "girddášin",
+                "girddášit",
+                "girddášii",
+                "girddášeimme",
+                "girddášeidde",
+                "girddášeigga",
+                "girddášeimmet",
+                "girddášeiddet",
+                "girddášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in girddáše",
+                "it girddáše",
+                "ii girddáše",
+                "ean girddáše",
+                "eahppi girddáše",
+                "eaba girddáše",
+                "eat girddáše",
+                "ehpet girddáše",
+                "eai girddáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "girddežan",
+                "girddežat",
+                "girddeš",
+                "girddežetne",
+                "girddežeahppi",
+                "girddežeaba",
+                "girddežit, -žat",
+                "girddežehpet",
+                "girddežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in girddeš",
+                "it girddeš",
+                "ii girddeš",
+                "ean girddeš",
+                "eahppi girddeš",
+                "eaba girddeš",
+                "eat girddeš",
+                "ehpet girddeš",
+                "eai girddeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "girdon",
+                "girdde",
+                "girdos",
+                "girdu",
+                "girdi",
+                "girdoska",
+                "girdot",
+                "girdet",
+                "girdoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon girdde",
+                "ale girdde",
+                "allos girdde",
+                "allu girdde",
+                "alli girdde",
+                "alloska girdde",
+                "allot, allut girdde",
+                "allet, allit girdde",
+                "alloset girdde"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Girdit",
+    "valid": 1
+}

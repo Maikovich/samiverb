@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "oađđát",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "oađđán",
+                "oađđát",
+                "oađđá",
+                "oađđájetne",
+                "oađđábeahtti",
+                "oađđába",
+                "oađđát",
+                "oađđábehtet",
+                "oađđájit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in oađđá",
+                "it oađđá",
+                "ii oađđá",
+                "ean oađđá",
+                "eahppi oađđá",
+                "eaba oađđá",
+                "eat oađđá",
+                "ehpet oađđá",
+                "eai oađđá"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "oađđájin",
+                "oađđájit",
+                "oađđái",
+                "oađđáime",
+                "oađđáide",
+                "oađđáiga",
+                "oađđáimet",
+                "oađđáidet",
+                "oađđájedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in oađđán",
+                "it oađđán",
+                "ii oađđán",
+                "ean oađđán",
+                "eahppi oađđán",
+                "eaba oađđán",
+                "eat oađđán",
+                "ehpet oađđán",
+                "eai oađđán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean oađđán",
+                "leat oađđán",
+                "lea oađđán",
+                "letne oađđán",
+                "leahppi oađđán",
+                "leaba oađđán",
+                "leat oađđán",
+                "lehpet oađđán",
+                "leat oađđán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen oađđán",
+                "ledjet oađđán",
+                "lei oađđán",
+                "leimme oađđán",
+                "leidde oađđán",
+                "leigga oađđán",
+                "leimmet oađđán",
+                "leiddet oađđán",
+                "ledje oađđán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean oađđáme, -min",
+                "leat oađđáme, -min",
+                "lea oađđáme, -min",
+                "letne oađđáme, -min",
+                "leahppi oađđáme, -min",
+                "leaba oađđáme, -min",
+                "leat oađđáme, -min",
+                "lehpet oađđáme, -min",
+                "leat oađđáme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen oađđáme, -min",
+                "ledjet oađđáme, -min",
+                "lei oađđáme, -min",
+                "leimme oađđáme, -min",
+                "leidde oađđáme, -min",
+                "leigga oađđáme, -min",
+                "leimmet oađđáme, -min",
+                "leiddet oađđáme, -min",
+                "ledje oađđáme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "oađđášin",
+                "oađđášit",
+                "oađđášii",
+                "oađđášeimme",
+                "oađđášeidde",
+                "oađđášeigga",
+                "oađđášeimmet",
+                "oađđášeiddet",
+                "oađđášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in oađđáše",
+                "it oađđáše",
+                "ii oađđáše",
+                "ean oađđáše",
+                "eahppi oađđáše",
+                "eaba oađđáše",
+                "eat oađđáše",
+                "ehpet oađđáše",
+                "eai oađđáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "oađđážan",
+                "oađđážat",
+                "oađđáš",
+                "oađđážetne",
+                "oađđážeahppi",
+                "oađđážeaba",
+                "oađđážit, -žat",
+                "oađđážehpet",
+                "oađđážit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in oađđáš",
+                "it oađđáš",
+                "ii oađđáš",
+                "ean oađđáš",
+                "eahppi oađđáš",
+                "eaba oađđáš",
+                "eat oađđáš",
+                "ehpet oađđáš",
+                "eai oađđáš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "oađđájehkon",
+                "oađđá",
+                "oađđájehkos",
+                "oađđájeadnu",
+                "oađđájeahkki",
+                "oađđájehkoska",
+                "oađđájeahkkut, oađđájeadnot, oađđájehkot, oađđájetnot",
+                "oađđájeahkkit",
+                "oađđájehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon oađđá",
+                "ale oađđá",
+                "allos oađđá",
+                "allu oađđá",
+                "alli oađđá",
+                "alloska oađđá",
+                "allot, allut oađđá",
+                "allet, allit oađđá",
+                "alloset oađđá"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Oađđát",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "biggehaddat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "biggehattan",
+                "biggehattat",
+                "biggehaddá",
+                "biggehadde",
+                "biggehaddabeahtti",
+                "biggehaddaba",
+                "biggehaddat",
+                "biggehaddabehtet",
+                "biggehaddet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in biggehatta",
+                "it biggehatta",
+                "ii biggehatta",
+                "ean biggehatta",
+                "eahppi biggehatta",
+                "eaba biggehatta",
+                "eat biggehatta",
+                "ehpet biggehatta",
+                "eai biggehatta"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "biggehadden",
+                "biggehaddet",
+                "biggehattai",
+                "biggehattaime",
+                "biggehattaide",
+                "biggehattaiga",
+                "biggehattaimet",
+                "biggehattaidet",
+                "biggehadde"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in biggehaddan",
+                "it biggehaddan",
+                "ii biggehaddan",
+                "ean biggehaddan",
+                "eahppi biggehaddan",
+                "eaba biggehaddan",
+                "eat biggehaddan",
+                "ehpet biggehaddan",
+                "eai biggehaddan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean biggehaddan",
+                "leat biggehaddan",
+                "lea biggehaddan",
+                "letne biggehaddan",
+                "leahppi biggehaddan",
+                "leaba biggehaddan",
+                "leat biggehaddan",
+                "lehpet biggehaddan",
+                "leat biggehaddan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen biggehaddan",
+                "ledjet biggehaddan",
+                "lei biggehaddan",
+                "leimme biggehaddan",
+                "leidde biggehaddan",
+                "leigga biggehaddan",
+                "leimmet biggehaddan",
+                "leiddet biggehaddan",
+                "ledje biggehaddan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean biggehaddame, -min",
+                "leat biggehaddame, -min",
+                "lea biggehaddame, -min",
+                "letne biggehaddame, -min",
+                "leahppi biggehaddame, -min",
+                "leaba biggehaddame, -min",
+                "leat biggehaddame, -min",
+                "lehpet biggehaddame, -min",
+                "leat biggehaddame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen biggehaddame, -min",
+                "ledjet biggehaddame, -min",
+                "lei biggehaddame, -min",
+                "leimme biggehaddame, -min",
+                "leidde biggehaddame, -min",
+                "leigga biggehaddame, -min",
+                "leimmet biggehaddame, -min",
+                "leiddet biggehaddame, -min",
+                "ledje biggehaddame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "biggehattašin",
+                "biggehattašit",
+                "biggehattašii",
+                "biggehattašeimme",
+                "biggehattašeidde",
+                "biggehattašeigga",
+                "biggehattašeimmet",
+                "biggehattašeiddet",
+                "biggehattašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in biggehattaše",
+                "it biggehattaše",
+                "ii biggehattaše",
+                "ean biggehattaše",
+                "eahppi biggehattaše",
+                "eaba biggehattaše",
+                "eat biggehattaše",
+                "ehpet biggehattaše",
+                "eai biggehattaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "biggehattažan",
+                "biggehattažat",
+                "biggehattaš",
+                "biggehattažetne",
+                "biggehattažeahppi",
+                "biggehattažeaba",
+                "biggehattažit, -žat",
+                "biggehattažehpet",
+                "biggehattažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in biggehattaš",
+                "it biggehattaš",
+                "ii biggehattaš",
+                "ean biggehattaš",
+                "eahppi biggehattaš",
+                "eaba biggehattaš",
+                "eat biggehattaš",
+                "ehpet biggehattaš",
+                "eai biggehattaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "biggehaddon",
+                "biggehatta",
+                "biggehaddos",
+                "biggehaddu",
+                "biggehaddi",
+                "biggehaddoska",
+                "biggehaddot",
+                "biggehaddet, biggehaddit",
+                "biggehaddoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon biggehatta",
+                "ale biggehatta",
+                "allos biggehatta",
+                "allu biggehatta",
+                "alli biggehatta",
+                "alloska biggehatta",
+                "allot, allut biggehatta",
+                "allet, allit biggehatta",
+                "alloset biggehatta"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Biggehaddat",
+    "valid": 1
+}

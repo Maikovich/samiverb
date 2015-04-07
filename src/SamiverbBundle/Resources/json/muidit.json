@@ -1,0 +1,217 @@
+{
+  "check": 0, 
+  "name": "muidit", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "muiddán", 
+        "muiddát", 
+        "muidá", 
+        "muide", 
+        "muidibeahtti", 
+        "muidiba", 
+        "muidit", 
+        "muidibehtet", 
+        "muidet"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in muidde", 
+        "it muidde", 
+        "ii muidde", 
+        "ean muidde", 
+        "eahppi muidde", 
+        "eaba muidde", 
+        "eat muidde", 
+        "ehpet muidde", 
+        "eai muidde"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "muiden", 
+        "muidet", 
+        "muiddii", 
+        "muiddiime", 
+        "muiddiide", 
+        "muiddiiga", 
+        "muiddiimet", 
+        "muiddiidet", 
+        "muide"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in muidán", 
+        "it muidán", 
+        "ii muidán", 
+        "ean muidán", 
+        "eahppi muidán", 
+        "eaba muidán", 
+        "eat muidán", 
+        "ehpet muidán", 
+        "eai muidán"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean muidán", 
+        "leat muidán", 
+        "lea muidán", 
+        "letne muidán", 
+        "leahppi muidán", 
+        "leaba muidán", 
+        "leat muidán", 
+        "lehpet muidán", 
+        "leat muidán"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen muidán", 
+        "ledjet muidán", 
+        "lei muidán", 
+        "leimme muidán", 
+        "leidde muidán", 
+        "leigga muidán", 
+        "leimmet muidán", 
+        "leiddet muidán", 
+        "ledje muidán"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean muidime, -min", 
+        "leat muidime, -min", 
+        "lea muidime, -min", 
+        "letne muidime, -min", 
+        "leahppi muidime, -min", 
+        "leaba muidime, -min", 
+        "leat muidime, -min", 
+        "lehpet muidime, -min", 
+        "leat muidime, -min"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen muidime, -min", 
+        "ledjet muidime, -min", 
+        "lei muidime, -min", 
+        "leimme muidime, -min", 
+        "leidde muidime, -min", 
+        "leigga muidime, -min", 
+        "leimmet muidime, -min", 
+        "leiddet muidime, -min", 
+        "ledje muidime, -min"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "muiddášin", 
+        "muiddášit", 
+        "muiddášii", 
+        "muiddášeimme", 
+        "muiddášeidde", 
+        "muiddášeigga", 
+        "muiddášeimmet", 
+        "muiddášeiddet", 
+        "muiddášedje"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in muiddáše", 
+        "it muiddáše", 
+        "ii muiddáše", 
+        "ean muiddáše", 
+        "eahppi muiddáše", 
+        "eaba muiddáše", 
+        "eat muiddáše", 
+        "ehpet muiddáše", 
+        "eai muiddáše"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "muiddežan", 
+        "muiddežat", 
+        "muiddeš", 
+        "muiddežetne", 
+        "muiddežeahppi", 
+        "muiddežeaba", 
+        "muiddežit, -žat", 
+        "muiddežehpet", 
+        "muiddežit"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in muiddeš", 
+        "it muiddeš", 
+        "ii muiddeš", 
+        "ean muiddeš", 
+        "eahppi muiddeš", 
+        "eaba muiddeš", 
+        "eat muiddeš", 
+        "ehpet muiddeš", 
+        "eai muiddeš"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "muidon", 
+        "muidde", 
+        "muidos", 
+        "muidu", 
+        "muidi", 
+        "muidoska", 
+        "muidot", 
+        "muidet", 
+        "muidoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon muidde", 
+        "ale muidde", 
+        "allos muidde", 
+        "allu muidde", 
+        "alli muidde", 
+        "alloska muidde", 
+        "allot, allut muidde", 
+        "allet, allit muidde", 
+        "alloset muidde"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "value": "Muidit"
+}

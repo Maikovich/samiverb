@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "debulit", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "debulan", 
+        "debulat", 
+        "debula", 
+        "debuletne", 
+        "debuleahppi", 
+        "debuleaba", 
+        "debulit, -lat", 
+        "debulehpet", 
+        "debulit"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in debul", 
+        "it debul", 
+        "ii debul", 
+        "ean debul", 
+        "eahppi debul", 
+        "eaba debul", 
+        "eat debul", 
+        "ehpet debul", 
+        "eai debul"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "debulin", 
+        "debulit", 
+        "debulii", 
+        "debuleimme", 
+        "debuleidde", 
+        "debuleigga", 
+        "debuleimmet", 
+        "debuleiddet", 
+        "debuledje"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in debulan", 
+        "it debulan", 
+        "ii debulan", 
+        "ean debulan", 
+        "eahppi debulan", 
+        "eaba debulan", 
+        "eat debulan", 
+        "ehpet debulan", 
+        "eai debulan"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean debulan", 
+        "leat debulan", 
+        "lea debulan", 
+        "letne debulan", 
+        "leahppi debulan", 
+        "leaba debulan", 
+        "leat debulan", 
+        "lehpet debulan", 
+        "leat debulan"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen debulan", 
+        "ledjet debulan", 
+        "lei debulan", 
+        "leimme debulan", 
+        "leidde debulan", 
+        "leigga debulan", 
+        "leimmet debulan", 
+        "leiddet debulan", 
+        "ledje debulan"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean debuleame, -men", 
+        "leat debuleame, -men", 
+        "lea debuleame, -men", 
+        "letne debuleame, -men", 
+        "leahppi debuleame, -men", 
+        "leaba debuleame, -men", 
+        "leat debuleame, -men", 
+        "lehpet debuleame, -men", 
+        "leat debuleame, -men"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen debuleame, -men", 
+        "ledjet debuleame, -men", 
+        "lei debuleame, -men", 
+        "leimme debuleame, -men", 
+        "leidde debuleame, -men", 
+        "leigga debuleame, -men", 
+        "leimmet debuleame, -men", 
+        "leiddet debuleame, -men", 
+        "ledje debuleame, -men"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "debulivččen", 
+        "debulivččet", 
+        "debulivččii", 
+        "debulivččiime", 
+        "debulivččiide", 
+        "debulivččiiga", 
+        "debulivččiimet", 
+        "debulivččiidet", 
+        "debulivčče"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in debulivčče", 
+        "it debulivčče", 
+        "ii debulivčče", 
+        "ean debulivčče", 
+        "eahppi debulivčče", 
+        "eaba debulivčče", 
+        "eat debulivčče", 
+        "ehpet debulivčče", 
+        "eai debulivčče"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "debuleaččan", 
+        "debuleaččat", 
+        "debuleaš, -leš, -leažžá", 
+        "debuležže", 
+        "debuleažžabeahtti", 
+        "debuleažžaba", 
+        "debuleažžat", 
+        "debuleažžabehtet", 
+        "debuležžet"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in debuleaš, -leš, -leažžá", 
+        "it debuleaš, -leš, -leažžá", 
+        "ii debuleaš, -leš, -leažžá", 
+        "ean debuleaš, -leš, -leažžá", 
+        "eahppi debuleaš, -leš, -leažžá", 
+        "eaba debuleaš, -leš, -leažžá", 
+        "eat debuleaš, -leš, -leažžá", 
+        "ehpet debuleaš, -leš, -leažžá", 
+        "eai debuleaš, -leš, -leažžá"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "debulehkon", 
+        "debul", 
+        "debulehkos, debulus", 
+        "debuleadnu", 
+        "debuleahkki", 
+        "debulehkoska", 
+        "debulehkot, debuleahkkut, debuletnot, debuleadnot", 
+        "debulehket", 
+        "debulehkoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon debul", 
+        "ale debul", 
+        "allos debul", 
+        "allu debul", 
+        "alli debul", 
+        "alloska debul", 
+        "allot, allut debul", 
+        "allet, allit debul", 
+        "alloset debul"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Debulit"
+}

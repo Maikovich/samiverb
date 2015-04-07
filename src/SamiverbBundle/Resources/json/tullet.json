@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "tullet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "tullen",
+                "tullet",
+                "tulle",
+                "tullejetne",
+                "tullebeahtti",
+                "tulleba",
+                "tullet",
+                "tullebehtet",
+                "tullejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in tulle",
+                "it tulle",
+                "ii tulle",
+                "ean tulle",
+                "eahppi tulle",
+                "eaba tulle",
+                "eat tulle",
+                "ehpet tulle",
+                "eai tulle"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "tullejin",
+                "tullejit",
+                "tullii",
+                "tulliime",
+                "tulliide",
+                "tulliiga",
+                "tulliimet",
+                "tulliidet",
+                "tullejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in tullen",
+                "it tullen",
+                "ii tullen",
+                "ean tullen",
+                "eahppi tullen",
+                "eaba tullen",
+                "eat tullen",
+                "ehpet tullen",
+                "eai tullen"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean tullen",
+                "leat tullen",
+                "lea tullen",
+                "letne tullen",
+                "leahppi tullen",
+                "leaba tullen",
+                "leat tullen",
+                "lehpet tullen",
+                "leat tullen"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen tullen",
+                "ledjet tullen",
+                "lei tullen",
+                "leimme tullen",
+                "leidde tullen",
+                "leigga tullen",
+                "leimmet tullen",
+                "leiddet tullen",
+                "ledje tullen"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean tulleme, -min",
+                "leat tulleme, -min",
+                "lea tulleme, -min",
+                "letne tulleme, -min",
+                "leahppi tulleme, -min",
+                "leaba tulleme, -min",
+                "leat tulleme, -min",
+                "lehpet tulleme, -min",
+                "leat tulleme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen tulleme, -min",
+                "ledjet tulleme, -min",
+                "lei tulleme, -min",
+                "leimme tulleme, -min",
+                "leidde tulleme, -min",
+                "leigga tulleme, -min",
+                "leimmet tulleme, -min",
+                "leiddet tulleme, -min",
+                "ledje tulleme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "tullešin",
+                "tullešit",
+                "tullešii",
+                "tullešeimme",
+                "tullešeidde",
+                "tullešeigga",
+                "tullešeimmet",
+                "tullešeiddet",
+                "tullešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in tulleše",
+                "it tulleše",
+                "ii tulleše",
+                "ean tulleše",
+                "eahppi tulleše",
+                "eaba tulleše",
+                "eat tulleše",
+                "ehpet tulleše",
+                "eai tulleše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "tulležan",
+                "tulležat",
+                "tulleš",
+                "tulležetne",
+                "tulležeahppi",
+                "tulležeaba",
+                "tulležit, -žat",
+                "tulležehpet",
+                "tulležit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in tulleš",
+                "it tulleš",
+                "ii tulleš",
+                "ean tulleš",
+                "eahppi tulleš",
+                "eaba tulleš",
+                "eat tulleš",
+                "ehpet tulleš",
+                "eai tulleš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "tullejehkon",
+                "tulle",
+                "tullejehkos",
+                "tullejeadnu",
+                "tullejeahkki",
+                "tullejehkoska",
+                "tullejeahkkut, tullejeadnot, tullejehkot, tullejetnot",
+                "tullejeahkkit",
+                "tullejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon tulle",
+                "ale tulle",
+                "allos tulle",
+                "allu tulle",
+                "alli tulle",
+                "alloska tulle",
+                "allot, allut tulle",
+                "allet, allit tulle",
+                "alloset tulle"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Tullet",
+    "valid": 1
+}

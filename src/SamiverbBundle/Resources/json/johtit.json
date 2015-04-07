@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "johtit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "jođán",
+                "jođát",
+                "johtá",
+                "johte",
+                "johtibeahtti",
+                "johtiba",
+                "johtit",
+                "johtibehtet",
+                "johtet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in jođe",
+                "it jođe",
+                "ii jođe",
+                "ean jođe",
+                "eahppi jođe",
+                "eaba jođe",
+                "eat jođe",
+                "ehpet jođe",
+                "eai jođe"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "johten",
+                "johtet",
+                "jođii",
+                "jođiime",
+                "jođiide",
+                "jođiiga",
+                "jođiimet",
+                "jođiidet",
+                "johte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in johtán",
+                "it johtán",
+                "ii johtán",
+                "ean johtán",
+                "eahppi johtán",
+                "eaba johtán",
+                "eat johtán",
+                "ehpet johtán",
+                "eai johtán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean johtán",
+                "leat johtán",
+                "lea johtán",
+                "letne johtán",
+                "leahppi johtán",
+                "leaba johtán",
+                "leat johtán",
+                "lehpet johtán",
+                "leat johtán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen johtán",
+                "ledjet johtán",
+                "lei johtán",
+                "leimme johtán",
+                "leidde johtán",
+                "leigga johtán",
+                "leimmet johtán",
+                "leiddet johtán",
+                "ledje johtán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean johtime, -min",
+                "leat johtime, -min",
+                "lea johtime, -min",
+                "letne johtime, -min",
+                "leahppi johtime, -min",
+                "leaba johtime, -min",
+                "leat johtime, -min",
+                "lehpet johtime, -min",
+                "leat johtime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen johtime, -min",
+                "ledjet johtime, -min",
+                "lei johtime, -min",
+                "leimme johtime, -min",
+                "leidde johtime, -min",
+                "leigga johtime, -min",
+                "leimmet johtime, -min",
+                "leiddet johtime, -min",
+                "ledje johtime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "jođášin",
+                "jođášit",
+                "jođášii",
+                "jođášeimme",
+                "jođášeidde",
+                "jođášeigga",
+                "jođášeimmet",
+                "jođášeiddet",
+                "jođášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in jođáše",
+                "it jođáše",
+                "ii jođáše",
+                "ean jođáše",
+                "eahppi jođáše",
+                "eaba jođáše",
+                "eat jođáše",
+                "ehpet jođáše",
+                "eai jođáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "jođežan",
+                "jođežat",
+                "jođeš",
+                "jođežetne",
+                "jođežeahppi",
+                "jođežeaba",
+                "jođežit, -žat",
+                "jođežehpet",
+                "jođežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in jođeš",
+                "it jođeš",
+                "ii jođeš",
+                "ean jođeš",
+                "eahppi jođeš",
+                "eaba jođeš",
+                "eat jođeš",
+                "ehpet jođeš",
+                "eai jođeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "johton",
+                "jođe",
+                "johtos",
+                "johttu",
+                "johtti",
+                "johtoska",
+                "johtot, johttot",
+                "johtet, johttet",
+                "johtoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon jođe",
+                "ale jođe",
+                "allos jođe",
+                "allu jođe",
+                "alli jođe",
+                "alloska jođe",
+                "allot, allut jođe",
+                "allet, allit jođe",
+                "alloset jođe"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Johtit",
+    "valid": 1
+}

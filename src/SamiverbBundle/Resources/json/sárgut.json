@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "sárgut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "sárggun",
+                "sárggut",
+                "sárgu",
+                "sárgo",
+                "sárgubeahtti",
+                "sárguba",
+                "sárgut",
+                "sárgubehtet",
+                "sárgot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in sárggo",
+                "it sárggo",
+                "ii sárggo",
+                "ean sárggo",
+                "eahppi sárggo",
+                "eaba sárggo",
+                "eat sárggo",
+                "ehpet sárggo",
+                "eai sárggo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "sárgon",
+                "sárgot",
+                "sárggui",
+                "sárgguime",
+                "sárgguide",
+                "sárgguiga",
+                "sárgguimet",
+                "sárgguidet",
+                "sárgo"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in sárgon",
+                "it sárgon",
+                "ii sárgon",
+                "ean sárgon",
+                "eahppi sárgon",
+                "eaba sárgon",
+                "eat sárgon",
+                "ehpet sárgon",
+                "eai sárgon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean sárgon",
+                "leat sárgon",
+                "lea sárgon",
+                "letne sárgon",
+                "leahppi sárgon",
+                "leaba sárgon",
+                "leat sárgon",
+                "lehpet sárgon",
+                "leat sárgon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen sárgon",
+                "ledjet sárgon",
+                "lei sárgon",
+                "leimme sárgon",
+                "leidde sárgon",
+                "leigga sárgon",
+                "leimmet sárgon",
+                "leiddet sárgon",
+                "ledje sárgon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean sárgume, -min",
+                "leat sárgume, -min",
+                "lea sárgume, -min",
+                "letne sárgume, -min",
+                "leahppi sárgume, -min",
+                "leaba sárgume, -min",
+                "leat sárgume, -min",
+                "lehpet sárgume, -min",
+                "leat sárgume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen sárgume, -min",
+                "ledjet sárgume, -min",
+                "lei sárgume, -min",
+                "leimme sárgume, -min",
+                "leidde sárgume, -min",
+                "leigga sárgume, -min",
+                "leimmet sárgume, -min",
+                "leiddet sárgume, -min",
+                "ledje sárgume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "sárggošin",
+                "sárggošit",
+                "sárggošii",
+                "sárggošeimme",
+                "sárggošeidde",
+                "sárggošeigga",
+                "sárggošeimmet",
+                "sárggošeiddet",
+                "sárggošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in sárggoše",
+                "it sárggoše",
+                "ii sárggoše",
+                "ean sárggoše",
+                "eahppi sárggoše",
+                "eaba sárggoše",
+                "eat sárggoše",
+                "ehpet sárggoše",
+                "eai sárggoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "sárggožan",
+                "sárggožat",
+                "sárggoš",
+                "sárggožetne",
+                "sárggožeahppi",
+                "sárggožeaba",
+                "sárggožit, -žat",
+                "sárggožehpet",
+                "sárggožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in sárggoš",
+                "it sárggoš",
+                "ii sárggoš",
+                "ean sárggoš",
+                "eahppi sárggoš",
+                "eaba sárggoš",
+                "eat sárggoš",
+                "ehpet sárggoš",
+                "eai sárggoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "sárgon",
+                "sárggo",
+                "sárgos",
+                "sárgu",
+                "sárgu",
+                "sárgoska",
+                "sárgot",
+                "sárgot",
+                "sárgoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon sárggo",
+                "ale sárggo",
+                "allos sárggo",
+                "allu sárggo",
+                "alli sárggo",
+                "alloska sárggo",
+                "allot, allut sárggo",
+                "allet, allit sárggo",
+                "alloset sárggo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Sárgut",
+    "valid": 1
+}

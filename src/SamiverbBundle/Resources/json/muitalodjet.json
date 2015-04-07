@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "muitalodjet", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "muitalodjen", 
+        "muitalodjet", 
+        "muitalodje", 
+        "muitalodjejetne", 
+        "muitalodjebeahtti", 
+        "muitalodjeba", 
+        "muitalodjet", 
+        "muitalodjebehtet", 
+        "muitalodjejit"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in muitalodje", 
+        "it muitalodje", 
+        "ii muitalodje", 
+        "ean muitalodje", 
+        "eahppi muitalodje", 
+        "eaba muitalodje", 
+        "eat muitalodje", 
+        "ehpet muitalodje", 
+        "eai muitalodje"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "muitalodjejin", 
+        "muitalodjejit", 
+        "muitalodjii", 
+        "muitalodjiime", 
+        "muitalodjiide", 
+        "muitalodjiiga", 
+        "muitalodjiimet", 
+        "muitalodjiidet", 
+        "muitalodjejedje"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in muitalodjen", 
+        "it muitalodjen", 
+        "ii muitalodjen", 
+        "ean muitalodjen", 
+        "eahppi muitalodjen", 
+        "eaba muitalodjen", 
+        "eat muitalodjen", 
+        "ehpet muitalodjen", 
+        "eai muitalodjen"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean muitalodjen", 
+        "leat muitalodjen", 
+        "lea muitalodjen", 
+        "letne muitalodjen", 
+        "leahppi muitalodjen", 
+        "leaba muitalodjen", 
+        "leat muitalodjen", 
+        "lehpet muitalodjen", 
+        "leat muitalodjen"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen muitalodjen", 
+        "ledjet muitalodjen", 
+        "lei muitalodjen", 
+        "leimme muitalodjen", 
+        "leidde muitalodjen", 
+        "leigga muitalodjen", 
+        "leimmet muitalodjen", 
+        "leiddet muitalodjen", 
+        "ledje muitalodjen"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean muitalodjeme, -min", 
+        "leat muitalodjeme, -min", 
+        "lea muitalodjeme, -min", 
+        "letne muitalodjeme, -min", 
+        "leahppi muitalodjeme, -min", 
+        "leaba muitalodjeme, -min", 
+        "leat muitalodjeme, -min", 
+        "lehpet muitalodjeme, -min", 
+        "leat muitalodjeme, -min"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen muitalodjeme, -min", 
+        "ledjet muitalodjeme, -min", 
+        "lei muitalodjeme, -min", 
+        "leimme muitalodjeme, -min", 
+        "leidde muitalodjeme, -min", 
+        "leigga muitalodjeme, -min", 
+        "leimmet muitalodjeme, -min", 
+        "leiddet muitalodjeme, -min", 
+        "ledje muitalodjeme, -min"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "muitalodješin", 
+        "muitalodješit", 
+        "muitalodješii", 
+        "muitalodješeimme", 
+        "muitalodješeidde", 
+        "muitalodješeigga", 
+        "muitalodješeimmet", 
+        "muitalodješeiddet", 
+        "muitalodješedje"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in muitalodješe", 
+        "it muitalodješe", 
+        "ii muitalodješe", 
+        "ean muitalodješe", 
+        "eahppi muitalodješe", 
+        "eaba muitalodješe", 
+        "eat muitalodješe", 
+        "ehpet muitalodješe", 
+        "eai muitalodješe"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "muitalodježan", 
+        "muitalodježat", 
+        "muitalodješ", 
+        "muitalodježetne", 
+        "muitalodježeahppi", 
+        "muitalodježeaba", 
+        "muitalodježit, -žat", 
+        "muitalodježehpet", 
+        "muitalodježit"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in muitalodješ", 
+        "it muitalodješ", 
+        "ii muitalodješ", 
+        "ean muitalodješ", 
+        "eahppi muitalodješ", 
+        "eaba muitalodješ", 
+        "eat muitalodješ", 
+        "ehpet muitalodješ", 
+        "eai muitalodješ"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "muitalodjejehkon", 
+        "muitalodje", 
+        "muitalodjejehkos", 
+        "muitalodjejeadnu", 
+        "muitalodjejeahkki", 
+        "muitalodjejehkoska", 
+        "muitalodjejeahkkut, muitalodjejeadnot, muitalodjejehkot, muitalodjejetnot", 
+        "muitalodjejeahkkit", 
+        "muitalodjejehkoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon muitalodje", 
+        "ale muitalodje", 
+        "allos muitalodje", 
+        "allu muitalodje", 
+        "alli muitalodje", 
+        "alloska muitalodje", 
+        "allot, allut muitalodje", 
+        "allet, allit muitalodje", 
+        "alloset muitalodje"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Muitalodjet"
+}

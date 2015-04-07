@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "bajásšaddat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "bajásšattan",
+                "bajásšattat",
+                "bajásšaddá",
+                "bajásšadde",
+                "bajásšaddabeahtti",
+                "bajásšaddaba",
+                "bajásšaddat",
+                "bajásšaddabehtet",
+                "bajásšaddet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in bajásšatta",
+                "it bajásšatta",
+                "ii bajásšatta",
+                "ean bajásšatta",
+                "eahppi bajásšatta",
+                "eaba bajásšatta",
+                "eat bajásšatta",
+                "ehpet bajásšatta",
+                "eai bajásšatta"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "bajásšadden",
+                "bajásšaddet",
+                "bajásšattai",
+                "bajásšattaime",
+                "bajásšattaide",
+                "bajásšattaiga",
+                "bajásšattaimet",
+                "bajásšattaidet",
+                "bajásšadde"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in bajásšaddan",
+                "it bajásšaddan",
+                "ii bajásšaddan",
+                "ean bajásšaddan",
+                "eahppi bajásšaddan",
+                "eaba bajásšaddan",
+                "eat bajásšaddan",
+                "ehpet bajásšaddan",
+                "eai bajásšaddan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean bajásšaddan",
+                "leat bajásšaddan",
+                "lea bajásšaddan",
+                "letne bajásšaddan",
+                "leahppi bajásšaddan",
+                "leaba bajásšaddan",
+                "leat bajásšaddan",
+                "lehpet bajásšaddan",
+                "leat bajásšaddan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen bajásšaddan",
+                "ledjet bajásšaddan",
+                "lei bajásšaddan",
+                "leimme bajásšaddan",
+                "leidde bajásšaddan",
+                "leigga bajásšaddan",
+                "leimmet bajásšaddan",
+                "leiddet bajásšaddan",
+                "ledje bajásšaddan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean bajásšaddame, -min",
+                "leat bajásšaddame, -min",
+                "lea bajásšaddame, -min",
+                "letne bajásšaddame, -min",
+                "leahppi bajásšaddame, -min",
+                "leaba bajásšaddame, -min",
+                "leat bajásšaddame, -min",
+                "lehpet bajásšaddame, -min",
+                "leat bajásšaddame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen bajásšaddame, -min",
+                "ledjet bajásšaddame, -min",
+                "lei bajásšaddame, -min",
+                "leimme bajásšaddame, -min",
+                "leidde bajásšaddame, -min",
+                "leigga bajásšaddame, -min",
+                "leimmet bajásšaddame, -min",
+                "leiddet bajásšaddame, -min",
+                "ledje bajásšaddame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "bajásšattašin",
+                "bajásšattašit",
+                "bajásšattašii",
+                "bajásšattašeimme",
+                "bajásšattašeidde",
+                "bajásšattašeigga",
+                "bajásšattašeimmet",
+                "bajásšattašeiddet",
+                "bajásšattašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in bajásšattaše",
+                "it bajásšattaše",
+                "ii bajásšattaše",
+                "ean bajásšattaše",
+                "eahppi bajásšattaše",
+                "eaba bajásšattaše",
+                "eat bajásšattaše",
+                "ehpet bajásšattaše",
+                "eai bajásšattaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "bajásšattažan",
+                "bajásšattažat",
+                "bajásšattaš",
+                "bajásšattažetne",
+                "bajásšattažeahppi",
+                "bajásšattažeaba",
+                "bajásšattažit, -žat",
+                "bajásšattažehpet",
+                "bajásšattažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in bajásšattaš",
+                "it bajásšattaš",
+                "ii bajásšattaš",
+                "ean bajásšattaš",
+                "eahppi bajásšattaš",
+                "eaba bajásšattaš",
+                "eat bajásšattaš",
+                "ehpet bajásšattaš",
+                "eai bajásšattaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "bajásšaddon",
+                "bajásšatta",
+                "bajásšaddos",
+                "bajásšaddu",
+                "bajásšaddi",
+                "bajásšaddoska",
+                "bajásšaddot",
+                "bajásšaddet, bajásšaddit",
+                "bajásšaddoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon bajásšatta",
+                "ale bajásšatta",
+                "allos bajásšatta",
+                "allu bajásšatta",
+                "alli bajásšatta",
+                "alloska bajásšatta",
+                "allot, allut bajásšatta",
+                "allet, allit bajásšatta",
+                "alloset bajásšatta"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Bajásšaddat",
+    "valid": 1
+}

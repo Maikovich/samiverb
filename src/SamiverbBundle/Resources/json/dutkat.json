@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "dutkat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "dutkkan",
+                "dutkkat",
+                "dutká",
+                "dutke",
+                "dutkabeahtti",
+                "dutkaba",
+                "dutkat",
+                "dutkabehtet",
+                "dutket"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in dutkka",
+                "it dutkka",
+                "ii dutkka",
+                "ean dutkka",
+                "eahppi dutkka",
+                "eaba dutkka",
+                "eat dutkka",
+                "ehpet dutkka",
+                "eai dutkka"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "dutken",
+                "dutket",
+                "dutkkai",
+                "dutkkaime",
+                "dutkkaide",
+                "dutkkaiga",
+                "dutkkaimet",
+                "dutkkaidet",
+                "dutke"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in dutkan",
+                "it dutkan",
+                "ii dutkan",
+                "ean dutkan",
+                "eahppi dutkan",
+                "eaba dutkan",
+                "eat dutkan",
+                "ehpet dutkan",
+                "eai dutkan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean dutkan",
+                "leat dutkan",
+                "lea dutkan",
+                "letne dutkan",
+                "leahppi dutkan",
+                "leaba dutkan",
+                "leat dutkan",
+                "lehpet dutkan",
+                "leat dutkan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen dutkan",
+                "ledjet dutkan",
+                "lei dutkan",
+                "leimme dutkan",
+                "leidde dutkan",
+                "leigga dutkan",
+                "leimmet dutkan",
+                "leiddet dutkan",
+                "ledje dutkan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean dutkame, -min",
+                "leat dutkame, -min",
+                "lea dutkame, -min",
+                "letne dutkame, -min",
+                "leahppi dutkame, -min",
+                "leaba dutkame, -min",
+                "leat dutkame, -min",
+                "lehpet dutkame, -min",
+                "leat dutkame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen dutkame, -min",
+                "ledjet dutkame, -min",
+                "lei dutkame, -min",
+                "leimme dutkame, -min",
+                "leidde dutkame, -min",
+                "leigga dutkame, -min",
+                "leimmet dutkame, -min",
+                "leiddet dutkame, -min",
+                "ledje dutkame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "dutkkašin",
+                "dutkkašit",
+                "dutkkašii",
+                "dutkkašeimme",
+                "dutkkašeidde",
+                "dutkkašeigga",
+                "dutkkašeimmet",
+                "dutkkašeiddet",
+                "dutkkašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in dutkkaše",
+                "it dutkkaše",
+                "ii dutkkaše",
+                "ean dutkkaše",
+                "eahppi dutkkaše",
+                "eaba dutkkaše",
+                "eat dutkkaše",
+                "ehpet dutkkaše",
+                "eai dutkkaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "dutkkažan",
+                "dutkkažat",
+                "dutkkaš",
+                "dutkkažetne",
+                "dutkkažeahppi",
+                "dutkkažeaba",
+                "dutkkažit, -žat",
+                "dutkkažehpet",
+                "dutkkažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in dutkkaš",
+                "it dutkkaš",
+                "ii dutkkaš",
+                "ean dutkkaš",
+                "eahppi dutkkaš",
+                "eaba dutkkaš",
+                "eat dutkkaš",
+                "ehpet dutkkaš",
+                "eai dutkkaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "dutkon",
+                "dutkka",
+                "dutkos",
+                "dutku",
+                "dutki",
+                "dutkoska",
+                "dutkot",
+                "dutket, dutkit",
+                "dutkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon dutkka",
+                "ale dutkka",
+                "allos dutkka",
+                "allu dutkka",
+                "alli dutkka",
+                "alloska dutkka",
+                "allot, allut dutkka",
+                "allet, allit dutkka",
+                "alloset dutkka"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Dutkat",
+    "valid": 1
+}

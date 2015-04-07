@@ -1,0 +1,42 @@
+{% extends "SamiverbBundle::admin/admin.html.twig" %}
+
+{% block content %}
+
+  <div class="adminpanel admintable container">
+
+    <table id="requestTable" class="table table-hover" ng-controller="ValidateRequestController">
+      <tr>
+        <th class="col-xs-1">#</th>
+        <th class="col-xs-2">Verb</th>
+        <th class="col-xs-2">Email</th>
+        <th class="col-xs-1">Mode</th>
+        <th class="col-xs-2">Date</th>
+        <th class="col-xs-offset-1 col-xs-1">Validate</th>
+        <th class="col-xs-1">Delete</th>
+      </tr>
+      {% for request in requests %}
+        <tr {% if request.mode == 2 %}class="warning"{% endif %}>
+          <td class="col-xs-1">{{ request.id }}</td>
+          <td class="col-xs-2">{{ request.verb }}</td>
+          <td class="col-xs-2">{{ request.email }}</td>
+          <td class="col-xs-1">{{ request.mode }}</td>
+          <td class="col-xs-2">{{ request.date | date('Y-m-d H:i:s') }}</td>
+          <td class="col-xs-offset-2 col-xs-1">
+            <form action="{{ path('_admin_request_validate', {'id': request.id }) }}">
+              <button type="submit" class="btn btn-sm btn-primary" {% if request.mode == 2 %}disabled{% endif %}>Validate</button>
+            </form>
+          </td>
+          <td class="col-xs-1">
+            <button type="submit" id="deleteRequest{{request.id}}" class="btn btn-sm btn-warning" ng-click="secondTry({{request.id}}, '{{ path('_admin_request_delete', {'id': request.id}) }}')">Delete</button>
+          </td>
+        </tr>
+
+      {% endfor %}
+    </table>
+
+  </div>
+{% endblock %}
+
+{% block javascript %}
+  <script src="{{ asset('bundles/samiverb/js/controllers/validaterequest.js') }}"></script>
+{% endblock %}

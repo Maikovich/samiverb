@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "hárbmat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "hárpman",
+                "hárpmat",
+                "hárbmá",
+                "hárbme",
+                "hárbmabeahtti",
+                "hárbmaba",
+                "hárbmat",
+                "hárbmabehtet",
+                "hárbmet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in hárpma",
+                "it hárpma",
+                "ii hárpma",
+                "ean hárpma",
+                "eahppi hárpma",
+                "eaba hárpma",
+                "eat hárpma",
+                "ehpet hárpma",
+                "eai hárpma"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "hárbmen",
+                "hárbmet",
+                "hárpmai",
+                "hárpmaime",
+                "hárpmaide",
+                "hárpmaiga",
+                "hárpmaimet",
+                "hárpmaidet",
+                "hárbme"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in hárbman",
+                "it hárbman",
+                "ii hárbman",
+                "ean hárbman",
+                "eahppi hárbman",
+                "eaba hárbman",
+                "eat hárbman",
+                "ehpet hárbman",
+                "eai hárbman"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean hárbman",
+                "leat hárbman",
+                "lea hárbman",
+                "letne hárbman",
+                "leahppi hárbman",
+                "leaba hárbman",
+                "leat hárbman",
+                "lehpet hárbman",
+                "leat hárbman"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen hárbman",
+                "ledjet hárbman",
+                "lei hárbman",
+                "leimme hárbman",
+                "leidde hárbman",
+                "leigga hárbman",
+                "leimmet hárbman",
+                "leiddet hárbman",
+                "ledje hárbman"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean hárbmame, -min",
+                "leat hárbmame, -min",
+                "lea hárbmame, -min",
+                "letne hárbmame, -min",
+                "leahppi hárbmame, -min",
+                "leaba hárbmame, -min",
+                "leat hárbmame, -min",
+                "lehpet hárbmame, -min",
+                "leat hárbmame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen hárbmame, -min",
+                "ledjet hárbmame, -min",
+                "lei hárbmame, -min",
+                "leimme hárbmame, -min",
+                "leidde hárbmame, -min",
+                "leigga hárbmame, -min",
+                "leimmet hárbmame, -min",
+                "leiddet hárbmame, -min",
+                "ledje hárbmame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "hárpmašin",
+                "hárpmašit",
+                "hárpmašii",
+                "hárpmašeimme",
+                "hárpmašeidde",
+                "hárpmašeigga",
+                "hárpmašeimmet",
+                "hárpmašeiddet",
+                "hárpmašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in hárpmaše",
+                "it hárpmaše",
+                "ii hárpmaše",
+                "ean hárpmaše",
+                "eahppi hárpmaše",
+                "eaba hárpmaše",
+                "eat hárpmaše",
+                "ehpet hárpmaše",
+                "eai hárpmaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "hárpmažan",
+                "hárpmažat",
+                "hárpmaš",
+                "hárpmažetne",
+                "hárpmažeahppi",
+                "hárpmažeaba",
+                "hárpmažit, -žat",
+                "hárpmažehpet",
+                "hárpmažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in hárpmaš",
+                "it hárpmaš",
+                "ii hárpmaš",
+                "ean hárpmaš",
+                "eahppi hárpmaš",
+                "eaba hárpmaš",
+                "eat hárpmaš",
+                "ehpet hárpmaš",
+                "eai hárpmaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "hárbmon",
+                "hárpma",
+                "hárbmos",
+                "hárbmu",
+                "hárbmi",
+                "hárbmoska",
+                "hárbmot",
+                "hárbmet, hárbmit",
+                "hárbmoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon hárpma",
+                "ale hárpma",
+                "allos hárpma",
+                "allu hárpma",
+                "alli hárpma",
+                "alloska hárpma",
+                "allot, allut hárpma",
+                "allet, allit hárpma",
+                "alloset hárpma"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Hárbmat",
+    "valid": 1
+}

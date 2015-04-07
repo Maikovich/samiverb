@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "boazohuvvat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "boazohuvan",
+                "boazohuvat",
+                "boazohuvvá",
+                "boazohuvve",
+                "boazohuvvabeahtti",
+                "boazohuvvaba",
+                "boazohuvvat",
+                "boazohuvvabehtet",
+                "boazohuvvet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in boazohuva",
+                "it boazohuva",
+                "ii boazohuva",
+                "ean boazohuva",
+                "eahppi boazohuva",
+                "eaba boazohuva",
+                "eat boazohuva",
+                "ehpet boazohuva",
+                "eai boazohuva"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "boazohuvven",
+                "boazohuvvet",
+                "boazohuvai",
+                "boazohuvaime",
+                "boazohuvaide",
+                "boazohuvaiga",
+                "boazohuvaimet",
+                "boazohuvaidet",
+                "boazohuvve"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in boazohuvvan",
+                "it boazohuvvan",
+                "ii boazohuvvan",
+                "ean boazohuvvan",
+                "eahppi boazohuvvan",
+                "eaba boazohuvvan",
+                "eat boazohuvvan",
+                "ehpet boazohuvvan",
+                "eai boazohuvvan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean boazohuvvan",
+                "leat boazohuvvan",
+                "lea boazohuvvan",
+                "letne boazohuvvan",
+                "leahppi boazohuvvan",
+                "leaba boazohuvvan",
+                "leat boazohuvvan",
+                "lehpet boazohuvvan",
+                "leat boazohuvvan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen boazohuvvan",
+                "ledjet boazohuvvan",
+                "lei boazohuvvan",
+                "leimme boazohuvvan",
+                "leidde boazohuvvan",
+                "leigga boazohuvvan",
+                "leimmet boazohuvvan",
+                "leiddet boazohuvvan",
+                "ledje boazohuvvan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean boazohuvvame, -min",
+                "leat boazohuvvame, -min",
+                "lea boazohuvvame, -min",
+                "letne boazohuvvame, -min",
+                "leahppi boazohuvvame, -min",
+                "leaba boazohuvvame, -min",
+                "leat boazohuvvame, -min",
+                "lehpet boazohuvvame, -min",
+                "leat boazohuvvame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen boazohuvvame, -min",
+                "ledjet boazohuvvame, -min",
+                "lei boazohuvvame, -min",
+                "leimme boazohuvvame, -min",
+                "leidde boazohuvvame, -min",
+                "leigga boazohuvvame, -min",
+                "leimmet boazohuvvame, -min",
+                "leiddet boazohuvvame, -min",
+                "ledje boazohuvvame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "boazohuvašin",
+                "boazohuvašit",
+                "boazohuvašii",
+                "boazohuvašeimme",
+                "boazohuvašeidde",
+                "boazohuvašeigga",
+                "boazohuvašeimmet",
+                "boazohuvašeiddet",
+                "boazohuvašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in boazohuvaše",
+                "it boazohuvaše",
+                "ii boazohuvaše",
+                "ean boazohuvaše",
+                "eahppi boazohuvaše",
+                "eaba boazohuvaše",
+                "eat boazohuvaše",
+                "ehpet boazohuvaše",
+                "eai boazohuvaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "boazohuvažan",
+                "boazohuvažat",
+                "boazohuvaš",
+                "boazohuvažetne",
+                "boazohuvažeahppi",
+                "boazohuvažeaba",
+                "boazohuvažit, -žat",
+                "boazohuvažehpet",
+                "boazohuvažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in boazohuvaš",
+                "it boazohuvaš",
+                "ii boazohuvaš",
+                "ean boazohuvaš",
+                "eahppi boazohuvaš",
+                "eaba boazohuvaš",
+                "eat boazohuvaš",
+                "ehpet boazohuvaš",
+                "eai boazohuvaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "boazohuvvon",
+                "boazohuva",
+                "boazohuvvos",
+                "boazohuvvu",
+                "boazohuvvi",
+                "boazohuvvoska",
+                "boazohuvvot",
+                "boazohuvvet, boazohuvvit",
+                "boazohuvvoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon boazohuva",
+                "ale boazohuva",
+                "allos boazohuva",
+                "allu boazohuva",
+                "alli boazohuva",
+                "alloska boazohuva",
+                "allot, allut boazohuva",
+                "allet, allit boazohuva",
+                "alloset boazohuva"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Boazohuvvat",
+    "valid": 1
+}

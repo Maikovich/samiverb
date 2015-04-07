@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "birguhit", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "birguhan", 
+        "birguhat", 
+        "birguha", 
+        "birguhetne", 
+        "birguheahppi", 
+        "birguheaba", 
+        "birguhit, -hat", 
+        "birguhehpet", 
+        "birguhit"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in birgut", 
+        "it birgut", 
+        "ii birgut", 
+        "ean birgut", 
+        "eahppi birgut", 
+        "eaba birgut", 
+        "eat birgut", 
+        "ehpet birgut", 
+        "eai birgut"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "birguhin", 
+        "birguhit", 
+        "birguhii", 
+        "birguheimme", 
+        "birguheidde", 
+        "birguheigga", 
+        "birguheimmet", 
+        "birguheiddet", 
+        "birguhedje"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in birguhan", 
+        "it birguhan", 
+        "ii birguhan", 
+        "ean birguhan", 
+        "eahppi birguhan", 
+        "eaba birguhan", 
+        "eat birguhan", 
+        "ehpet birguhan", 
+        "eai birguhan"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean birguhan", 
+        "leat birguhan", 
+        "lea birguhan", 
+        "letne birguhan", 
+        "leahppi birguhan", 
+        "leaba birguhan", 
+        "leat birguhan", 
+        "lehpet birguhan", 
+        "leat birguhan"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen birguhan", 
+        "ledjet birguhan", 
+        "lei birguhan", 
+        "leimme birguhan", 
+        "leidde birguhan", 
+        "leigga birguhan", 
+        "leimmet birguhan", 
+        "leiddet birguhan", 
+        "ledje birguhan"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean birguheame, -men", 
+        "leat birguheame, -men", 
+        "lea birguheame, -men", 
+        "letne birguheame, -men", 
+        "leahppi birguheame, -men", 
+        "leaba birguheame, -men", 
+        "leat birguheame, -men", 
+        "lehpet birguheame, -men", 
+        "leat birguheame, -men"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen birguheame, -men", 
+        "ledjet birguheame, -men", 
+        "lei birguheame, -men", 
+        "leimme birguheame, -men", 
+        "leidde birguheame, -men", 
+        "leigga birguheame, -men", 
+        "leimmet birguheame, -men", 
+        "leiddet birguheame, -men", 
+        "ledje birguheame, -men"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "birguhivččen", 
+        "birguhivččet", 
+        "birguhivččii", 
+        "birguhivččiime", 
+        "birguhivččiide", 
+        "birguhivččiiga", 
+        "birguhivččiimet", 
+        "birguhivččiidet", 
+        "birguhivčče"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in birguhivčče", 
+        "it birguhivčče", 
+        "ii birguhivčče", 
+        "ean birguhivčče", 
+        "eahppi birguhivčče", 
+        "eaba birguhivčče", 
+        "eat birguhivčče", 
+        "ehpet birguhivčče", 
+        "eai birguhivčče"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "birguheaččan", 
+        "birguheaččat", 
+        "birguheaš, -heš, -heažžá", 
+        "birguhežže", 
+        "birguheažžabeahtti", 
+        "birguheažžaba", 
+        "birguheažžat", 
+        "birguheažžabehtet", 
+        "birguhežžet"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in birguheaš, -heš, -heažžá", 
+        "it birguheaš, -heš, -heažžá", 
+        "ii birguheaš, -heš, -heažžá", 
+        "ean birguheaš, -heš, -heažžá", 
+        "eahppi birguheaš, -heš, -heažžá", 
+        "eaba birguheaš, -heš, -heažžá", 
+        "eat birguheaš, -heš, -heažžá", 
+        "ehpet birguheaš, -heš, -heažžá", 
+        "eai birguheaš, -heš, -heažžá"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "birguhehkon", 
+        "birgut", 
+        "birguhehkos, birguhus", 
+        "birguheadnu", 
+        "birguheahkki", 
+        "birguhehkoska", 
+        "birguhehkot, birguheahkkut, birguhetnot, birguheadnot", 
+        "birguhehket", 
+        "birguhehkoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon birgut", 
+        "ale birgut", 
+        "allos birgut", 
+        "allu birgut", 
+        "alli birgut", 
+        "alloska birgut", 
+        "allot, allut birgut", 
+        "allet, allit birgut", 
+        "alloset birgut"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Birguhit"
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "vajáldahttit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "vajáldahtán",
+                "vajáldahtát",
+                "vajáldahttá",
+                "vajáldahtte",
+                "vajáldahttibeahtti",
+                "vajáldahttiba",
+                "vajáldahttit",
+                "vajáldahttibehtet",
+                "vajáldahttet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in vajáldahte",
+                "it vajáldahte",
+                "ii vajáldahte",
+                "ean vajáldahte",
+                "eahppi vajáldahte",
+                "eaba vajáldahte",
+                "eat vajáldahte",
+                "ehpet vajáldahte",
+                "eai vajáldahte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "vajáldahtten",
+                "vajáldahttet",
+                "vajáldahtii",
+                "vajáldahtiime",
+                "vajáldahtiide",
+                "vajáldahtiiga",
+                "vajáldahtiimet",
+                "vajáldahtiidet",
+                "vajáldahtte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in vajáldahttán",
+                "it vajáldahttán",
+                "ii vajáldahttán",
+                "ean vajáldahttán",
+                "eahppi vajáldahttán",
+                "eaba vajáldahttán",
+                "eat vajáldahttán",
+                "ehpet vajáldahttán",
+                "eai vajáldahttán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean vajáldahttán",
+                "leat vajáldahttán",
+                "lea vajáldahttán",
+                "letne vajáldahttán",
+                "leahppi vajáldahttán",
+                "leaba vajáldahttán",
+                "leat vajáldahttán",
+                "lehpet vajáldahttán",
+                "leat vajáldahttán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen vajáldahttán",
+                "ledjet vajáldahttán",
+                "lei vajáldahttán",
+                "leimme vajáldahttán",
+                "leidde vajáldahttán",
+                "leigga vajáldahttán",
+                "leimmet vajáldahttán",
+                "leiddet vajáldahttán",
+                "ledje vajáldahttán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean vajáldahttime, -min",
+                "leat vajáldahttime, -min",
+                "lea vajáldahttime, -min",
+                "letne vajáldahttime, -min",
+                "leahppi vajáldahttime, -min",
+                "leaba vajáldahttime, -min",
+                "leat vajáldahttime, -min",
+                "lehpet vajáldahttime, -min",
+                "leat vajáldahttime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen vajáldahttime, -min",
+                "ledjet vajáldahttime, -min",
+                "lei vajáldahttime, -min",
+                "leimme vajáldahttime, -min",
+                "leidde vajáldahttime, -min",
+                "leigga vajáldahttime, -min",
+                "leimmet vajáldahttime, -min",
+                "leiddet vajáldahttime, -min",
+                "ledje vajáldahttime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "vajáldahtášin",
+                "vajáldahtášit",
+                "vajáldahtášii",
+                "vajáldahtášeimme",
+                "vajáldahtášeidde",
+                "vajáldahtášeigga",
+                "vajáldahtášeimmet",
+                "vajáldahtášeiddet",
+                "vajáldahtášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in vajáldahtáše",
+                "it vajáldahtáše",
+                "ii vajáldahtáše",
+                "ean vajáldahtáše",
+                "eahppi vajáldahtáše",
+                "eaba vajáldahtáše",
+                "eat vajáldahtáše",
+                "ehpet vajáldahtáše",
+                "eai vajáldahtáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "vajáldahtežan",
+                "vajáldahtežat",
+                "vajáldahteš",
+                "vajáldahtežetne",
+                "vajáldahtežeahppi",
+                "vajáldahtežeaba",
+                "vajáldahtežit, -žat",
+                "vajáldahtežehpet",
+                "vajáldahtežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in vajáldahteš",
+                "it vajáldahteš",
+                "ii vajáldahteš",
+                "ean vajáldahteš",
+                "eahppi vajáldahteš",
+                "eaba vajáldahteš",
+                "eat vajáldahteš",
+                "ehpet vajáldahteš",
+                "eai vajáldahteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "vajáldahtton",
+                "vajáldahte",
+                "vajáldahttos",
+                "vajáldahttu",
+                "vajáldahtti",
+                "vajáldahttoska",
+                "vajáldahttot",
+                "vajáldahttet",
+                "vajáldahttoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon vajáldahte",
+                "ale vajáldahte",
+                "allos vajáldahte",
+                "allu vajáldahte",
+                "alli vajáldahte",
+                "alloska vajáldahte",
+                "allot, allut vajáldahte",
+                "allet, allit vajáldahte",
+                "alloset vajáldahte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Vajáldahttit",
+    "valid": 1
+}

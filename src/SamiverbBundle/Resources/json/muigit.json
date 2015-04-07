@@ -1,0 +1,217 @@
+{
+  "check": 0, 
+  "name": "muigit", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "muiggán", 
+        "muiggát", 
+        "muigá", 
+        "muige", 
+        "muigibeahtti", 
+        "muigiba", 
+        "muigit", 
+        "muigibehtet", 
+        "muiget"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in muigge", 
+        "it muigge", 
+        "ii muigge", 
+        "ean muigge", 
+        "eahppi muigge", 
+        "eaba muigge", 
+        "eat muigge", 
+        "ehpet muigge", 
+        "eai muigge"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "muigen", 
+        "muiget", 
+        "muiggii", 
+        "muiggiime", 
+        "muiggiide", 
+        "muiggiiga", 
+        "muiggiimet", 
+        "muiggiidet", 
+        "muige"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in muigán", 
+        "it muigán", 
+        "ii muigán", 
+        "ean muigán", 
+        "eahppi muigán", 
+        "eaba muigán", 
+        "eat muigán", 
+        "ehpet muigán", 
+        "eai muigán"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean muigán", 
+        "leat muigán", 
+        "lea muigán", 
+        "letne muigán", 
+        "leahppi muigán", 
+        "leaba muigán", 
+        "leat muigán", 
+        "lehpet muigán", 
+        "leat muigán"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen muigán", 
+        "ledjet muigán", 
+        "lei muigán", 
+        "leimme muigán", 
+        "leidde muigán", 
+        "leigga muigán", 
+        "leimmet muigán", 
+        "leiddet muigán", 
+        "ledje muigán"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean muigime, -min", 
+        "leat muigime, -min", 
+        "lea muigime, -min", 
+        "letne muigime, -min", 
+        "leahppi muigime, -min", 
+        "leaba muigime, -min", 
+        "leat muigime, -min", 
+        "lehpet muigime, -min", 
+        "leat muigime, -min"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen muigime, -min", 
+        "ledjet muigime, -min", 
+        "lei muigime, -min", 
+        "leimme muigime, -min", 
+        "leidde muigime, -min", 
+        "leigga muigime, -min", 
+        "leimmet muigime, -min", 
+        "leiddet muigime, -min", 
+        "ledje muigime, -min"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "muiggášin", 
+        "muiggášit", 
+        "muiggášii", 
+        "muiggášeimme", 
+        "muiggášeidde", 
+        "muiggášeigga", 
+        "muiggášeimmet", 
+        "muiggášeiddet", 
+        "muiggášedje"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in muiggáše", 
+        "it muiggáše", 
+        "ii muiggáše", 
+        "ean muiggáše", 
+        "eahppi muiggáše", 
+        "eaba muiggáše", 
+        "eat muiggáše", 
+        "ehpet muiggáše", 
+        "eai muiggáše"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "muiggežan", 
+        "muiggežat", 
+        "muiggeš", 
+        "muiggežetne", 
+        "muiggežeahppi", 
+        "muiggežeaba", 
+        "muiggežit, -žat", 
+        "muiggežehpet", 
+        "muiggežit"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in muiggeš", 
+        "it muiggeš", 
+        "ii muiggeš", 
+        "ean muiggeš", 
+        "eahppi muiggeš", 
+        "eaba muiggeš", 
+        "eat muiggeš", 
+        "ehpet muiggeš", 
+        "eai muiggeš"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "muigon", 
+        "muigge", 
+        "muigos", 
+        "muigu", 
+        "muigi", 
+        "muigoska", 
+        "muigot", 
+        "muiget", 
+        "muigoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon muigge", 
+        "ale muigge", 
+        "allos muigge", 
+        "allu muigge", 
+        "alli muigge", 
+        "alloska muigge", 
+        "allot, allut muigge", 
+        "allet, allit muigge", 
+        "alloset muigge"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "value": "Muigit"
+}

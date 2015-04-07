@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "suvrut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "suvrrun",
+                "suvrrut",
+                "suvru",
+                "suvro",
+                "suvrubeahtti",
+                "suvruba",
+                "suvrut",
+                "suvrubehtet",
+                "suvrot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in suvrro",
+                "it suvrro",
+                "ii suvrro",
+                "ean suvrro",
+                "eahppi suvrro",
+                "eaba suvrro",
+                "eat suvrro",
+                "ehpet suvrro",
+                "eai suvrro"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "suvron",
+                "suvrot",
+                "suvrrui",
+                "suvrruime",
+                "suvrruide",
+                "suvrruiga",
+                "suvrruimet",
+                "suvrruidet",
+                "suvro"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in suvron",
+                "it suvron",
+                "ii suvron",
+                "ean suvron",
+                "eahppi suvron",
+                "eaba suvron",
+                "eat suvron",
+                "ehpet suvron",
+                "eai suvron"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean suvron",
+                "leat suvron",
+                "lea suvron",
+                "letne suvron",
+                "leahppi suvron",
+                "leaba suvron",
+                "leat suvron",
+                "lehpet suvron",
+                "leat suvron"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen suvron",
+                "ledjet suvron",
+                "lei suvron",
+                "leimme suvron",
+                "leidde suvron",
+                "leigga suvron",
+                "leimmet suvron",
+                "leiddet suvron",
+                "ledje suvron"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean suvrume, -min",
+                "leat suvrume, -min",
+                "lea suvrume, -min",
+                "letne suvrume, -min",
+                "leahppi suvrume, -min",
+                "leaba suvrume, -min",
+                "leat suvrume, -min",
+                "lehpet suvrume, -min",
+                "leat suvrume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen suvrume, -min",
+                "ledjet suvrume, -min",
+                "lei suvrume, -min",
+                "leimme suvrume, -min",
+                "leidde suvrume, -min",
+                "leigga suvrume, -min",
+                "leimmet suvrume, -min",
+                "leiddet suvrume, -min",
+                "ledje suvrume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "suvrrošin",
+                "suvrrošit",
+                "suvrrošii",
+                "suvrrošeimme",
+                "suvrrošeidde",
+                "suvrrošeigga",
+                "suvrrošeimmet",
+                "suvrrošeiddet",
+                "suvrrošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in suvrroše",
+                "it suvrroše",
+                "ii suvrroše",
+                "ean suvrroše",
+                "eahppi suvrroše",
+                "eaba suvrroše",
+                "eat suvrroše",
+                "ehpet suvrroše",
+                "eai suvrroše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "suvrrožan",
+                "suvrrožat",
+                "suvrroš",
+                "suvrrožetne",
+                "suvrrožeahppi",
+                "suvrrožeaba",
+                "suvrrožit, -žat",
+                "suvrrožehpet",
+                "suvrrožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in suvrroš",
+                "it suvrroš",
+                "ii suvrroš",
+                "ean suvrroš",
+                "eahppi suvrroš",
+                "eaba suvrroš",
+                "eat suvrroš",
+                "ehpet suvrroš",
+                "eai suvrroš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "suvron",
+                "suvrro",
+                "suvros",
+                "suvru",
+                "suvru",
+                "suvroska",
+                "suvrot",
+                "suvrot",
+                "suvroset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon suvrro",
+                "ale suvrro",
+                "allos suvrro",
+                "allu suvrro",
+                "alli suvrro",
+                "alloska suvrro",
+                "allot, allut suvrro",
+                "allet, allit suvrro",
+                "alloset suvrro"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Suvrut",
+    "valid": 1
+}

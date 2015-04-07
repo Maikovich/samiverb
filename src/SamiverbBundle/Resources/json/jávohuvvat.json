@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "jávohuvvat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "jávohuvan",
+                "jávohuvat",
+                "jávohuvvá",
+                "jávohuvve",
+                "jávohuvvabeahtti",
+                "jávohuvvaba",
+                "jávohuvvat",
+                "jávohuvvabehtet",
+                "jávohuvvet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in jávohuva",
+                "it jávohuva",
+                "ii jávohuva",
+                "ean jávohuva",
+                "eahppi jávohuva",
+                "eaba jávohuva",
+                "eat jávohuva",
+                "ehpet jávohuva",
+                "eai jávohuva"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "jávohuvven",
+                "jávohuvvet",
+                "jávohuvai",
+                "jávohuvaime",
+                "jávohuvaide",
+                "jávohuvaiga",
+                "jávohuvaimet",
+                "jávohuvaidet",
+                "jávohuvve"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in jávohuvvan",
+                "it jávohuvvan",
+                "ii jávohuvvan",
+                "ean jávohuvvan",
+                "eahppi jávohuvvan",
+                "eaba jávohuvvan",
+                "eat jávohuvvan",
+                "ehpet jávohuvvan",
+                "eai jávohuvvan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean jávohuvvan",
+                "leat jávohuvvan",
+                "lea jávohuvvan",
+                "letne jávohuvvan",
+                "leahppi jávohuvvan",
+                "leaba jávohuvvan",
+                "leat jávohuvvan",
+                "lehpet jávohuvvan",
+                "leat jávohuvvan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen jávohuvvan",
+                "ledjet jávohuvvan",
+                "lei jávohuvvan",
+                "leimme jávohuvvan",
+                "leidde jávohuvvan",
+                "leigga jávohuvvan",
+                "leimmet jávohuvvan",
+                "leiddet jávohuvvan",
+                "ledje jávohuvvan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean jávohuvvame, -min",
+                "leat jávohuvvame, -min",
+                "lea jávohuvvame, -min",
+                "letne jávohuvvame, -min",
+                "leahppi jávohuvvame, -min",
+                "leaba jávohuvvame, -min",
+                "leat jávohuvvame, -min",
+                "lehpet jávohuvvame, -min",
+                "leat jávohuvvame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen jávohuvvame, -min",
+                "ledjet jávohuvvame, -min",
+                "lei jávohuvvame, -min",
+                "leimme jávohuvvame, -min",
+                "leidde jávohuvvame, -min",
+                "leigga jávohuvvame, -min",
+                "leimmet jávohuvvame, -min",
+                "leiddet jávohuvvame, -min",
+                "ledje jávohuvvame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "jávohuvašin",
+                "jávohuvašit",
+                "jávohuvašii",
+                "jávohuvašeimme",
+                "jávohuvašeidde",
+                "jávohuvašeigga",
+                "jávohuvašeimmet",
+                "jávohuvašeiddet",
+                "jávohuvašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in jávohuvaše",
+                "it jávohuvaše",
+                "ii jávohuvaše",
+                "ean jávohuvaše",
+                "eahppi jávohuvaše",
+                "eaba jávohuvaše",
+                "eat jávohuvaše",
+                "ehpet jávohuvaše",
+                "eai jávohuvaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "jávohuvažan",
+                "jávohuvažat",
+                "jávohuvaš",
+                "jávohuvažetne",
+                "jávohuvažeahppi",
+                "jávohuvažeaba",
+                "jávohuvažit, -žat",
+                "jávohuvažehpet",
+                "jávohuvažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in jávohuvaš",
+                "it jávohuvaš",
+                "ii jávohuvaš",
+                "ean jávohuvaš",
+                "eahppi jávohuvaš",
+                "eaba jávohuvaš",
+                "eat jávohuvaš",
+                "ehpet jávohuvaš",
+                "eai jávohuvaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "jávohuvvon",
+                "jávohuva",
+                "jávohuvvos",
+                "jávohuvvu",
+                "jávohuvvi",
+                "jávohuvvoska",
+                "jávohuvvot",
+                "jávohuvvet, jávohuvvit",
+                "jávohuvvoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon jávohuva",
+                "ale jávohuva",
+                "allos jávohuva",
+                "allu jávohuva",
+                "alli jávohuva",
+                "alloska jávohuva",
+                "allot, allut jávohuva",
+                "allet, allit jávohuva",
+                "alloset jávohuva"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Jávohuvvat",
+    "valid": 1
+}

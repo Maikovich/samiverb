@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "ivdnet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "ivdnen",
+                "ivdnet",
+                "ivdne",
+                "ivdnejetne",
+                "ivdnebeahtti",
+                "ivdneba",
+                "ivdnet",
+                "ivdnebehtet",
+                "ivdnejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in ivdne",
+                "it ivdne",
+                "ii ivdne",
+                "ean ivdne",
+                "eahppi ivdne",
+                "eaba ivdne",
+                "eat ivdne",
+                "ehpet ivdne",
+                "eai ivdne"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ivdnejin",
+                "ivdnejit",
+                "ivdnii",
+                "ivdniime",
+                "ivdniide",
+                "ivdniiga",
+                "ivdniimet",
+                "ivdniidet",
+                "ivdnejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ivdnen",
+                "it ivdnen",
+                "ii ivdnen",
+                "ean ivdnen",
+                "eahppi ivdnen",
+                "eaba ivdnen",
+                "eat ivdnen",
+                "ehpet ivdnen",
+                "eai ivdnen"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ivdnen",
+                "leat ivdnen",
+                "lea ivdnen",
+                "letne ivdnen",
+                "leahppi ivdnen",
+                "leaba ivdnen",
+                "leat ivdnen",
+                "lehpet ivdnen",
+                "leat ivdnen"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ivdnen",
+                "ledjet ivdnen",
+                "lei ivdnen",
+                "leimme ivdnen",
+                "leidde ivdnen",
+                "leigga ivdnen",
+                "leimmet ivdnen",
+                "leiddet ivdnen",
+                "ledje ivdnen"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean ivdneme, -min",
+                "leat ivdneme, -min",
+                "lea ivdneme, -min",
+                "letne ivdneme, -min",
+                "leahppi ivdneme, -min",
+                "leaba ivdneme, -min",
+                "leat ivdneme, -min",
+                "lehpet ivdneme, -min",
+                "leat ivdneme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen ivdneme, -min",
+                "ledjet ivdneme, -min",
+                "lei ivdneme, -min",
+                "leimme ivdneme, -min",
+                "leidde ivdneme, -min",
+                "leigga ivdneme, -min",
+                "leimmet ivdneme, -min",
+                "leiddet ivdneme, -min",
+                "ledje ivdneme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "ivdnešin",
+                "ivdnešit",
+                "ivdnešii",
+                "ivdnešeimme",
+                "ivdnešeidde",
+                "ivdnešeigga",
+                "ivdnešeimmet",
+                "ivdnešeiddet",
+                "ivdnešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in ivdneše",
+                "it ivdneše",
+                "ii ivdneše",
+                "ean ivdneše",
+                "eahppi ivdneše",
+                "eaba ivdneše",
+                "eat ivdneše",
+                "ehpet ivdneše",
+                "eai ivdneše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "ivdnežan",
+                "ivdnežat",
+                "ivdneš",
+                "ivdnežetne",
+                "ivdnežeahppi",
+                "ivdnežeaba",
+                "ivdnežit, -žat",
+                "ivdnežehpet",
+                "ivdnežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in ivdneš",
+                "it ivdneš",
+                "ii ivdneš",
+                "ean ivdneš",
+                "eahppi ivdneš",
+                "eaba ivdneš",
+                "eat ivdneš",
+                "ehpet ivdneš",
+                "eai ivdneš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "ivdnejehkon",
+                "ivdne",
+                "ivdnejehkos",
+                "ivdnejeadnu",
+                "ivdnejeahkki",
+                "ivdnejehkoska",
+                "ivdnejeahkkut, ivdnejeadnot, ivdnejehkot, ivdnejetnot",
+                "ivdnejeahkkit",
+                "ivdnejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon ivdne",
+                "ale ivdne",
+                "allos ivdne",
+                "allu ivdne",
+                "alli ivdne",
+                "alloska ivdne",
+                "allot, allut ivdne",
+                "allet, allit ivdne",
+                "alloset ivdne"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Ivdnet",
+    "valid": 1
+}

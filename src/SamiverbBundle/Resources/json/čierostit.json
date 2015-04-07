@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čierostit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čierostan",
+                "čierostat",
+                "čierosta",
+                "čierostetne",
+                "čierosteahppi",
+                "čierosteaba",
+                "čierostit, -tat",
+                "čierostehpet",
+                "čierostit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čieros",
+                "it čieros",
+                "ii čieros",
+                "ean čieros",
+                "eahppi čieros",
+                "eaba čieros",
+                "eat čieros",
+                "ehpet čieros",
+                "eai čieros"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čierostin",
+                "čierostit",
+                "čierostii",
+                "čierosteimme",
+                "čierosteidde",
+                "čierosteigga",
+                "čierosteimmet",
+                "čierosteiddet",
+                "čierostedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čierostan",
+                "it čierostan",
+                "ii čierostan",
+                "ean čierostan",
+                "eahppi čierostan",
+                "eaba čierostan",
+                "eat čierostan",
+                "ehpet čierostan",
+                "eai čierostan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čierostan",
+                "leat čierostan",
+                "lea čierostan",
+                "letne čierostan",
+                "leahppi čierostan",
+                "leaba čierostan",
+                "leat čierostan",
+                "lehpet čierostan",
+                "leat čierostan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čierostan",
+                "ledjet čierostan",
+                "lei čierostan",
+                "leimme čierostan",
+                "leidde čierostan",
+                "leigga čierostan",
+                "leimmet čierostan",
+                "leiddet čierostan",
+                "ledje čierostan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čierosteame, -men",
+                "leat čierosteame, -men",
+                "lea čierosteame, -men",
+                "letne čierosteame, -men",
+                "leahppi čierosteame, -men",
+                "leaba čierosteame, -men",
+                "leat čierosteame, -men",
+                "lehpet čierosteame, -men",
+                "leat čierosteame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čierosteame, -men",
+                "ledjet čierosteame, -men",
+                "lei čierosteame, -men",
+                "leimme čierosteame, -men",
+                "leidde čierosteame, -men",
+                "leigga čierosteame, -men",
+                "leimmet čierosteame, -men",
+                "leiddet čierosteame, -men",
+                "ledje čierosteame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čierostivččen",
+                "čierostivččet",
+                "čierostivččii",
+                "čierostivččiime",
+                "čierostivččiide",
+                "čierostivččiiga",
+                "čierostivččiimet",
+                "čierostivččiidet",
+                "čierostivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čierostivčče",
+                "it čierostivčče",
+                "ii čierostivčče",
+                "ean čierostivčče",
+                "eahppi čierostivčče",
+                "eaba čierostivčče",
+                "eat čierostivčče",
+                "ehpet čierostivčče",
+                "eai čierostivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čierosteaččan",
+                "čierosteaččat",
+                "čierosteaš, -teš, -teažžá",
+                "čierostežže",
+                "čierosteažžabeahtti",
+                "čierosteažžaba",
+                "čierosteažžat",
+                "čierosteažžabehtet",
+                "čierostežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čierosteaš, -teš, -teažžá",
+                "it čierosteaš, -teš, -teažžá",
+                "ii čierosteaš, -teš, -teažžá",
+                "ean čierosteaš, -teš, -teažžá",
+                "eahppi čierosteaš, -teš, -teažžá",
+                "eaba čierosteaš, -teš, -teažžá",
+                "eat čierosteaš, -teš, -teažžá",
+                "ehpet čierosteaš, -teš, -teažžá",
+                "eai čierosteaš, -teš, -teažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čierostehkon",
+                "čieros",
+                "čierostehkos, čierostus",
+                "čierosteadnu",
+                "čierosteahkki",
+                "čierostehkoska",
+                "čierostehkot, čierosteahkkut, čierostetnot, čierosteadnot",
+                "čierostehket",
+                "čierostehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čieros",
+                "ale čieros",
+                "allos čieros",
+                "allu čieros",
+                "alli čieros",
+                "alloska čieros",
+                "allot, allut čieros",
+                "allet, allit čieros",
+                "alloset čieros"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čierostit",
+    "valid": 1
+}

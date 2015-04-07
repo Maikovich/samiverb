@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "dárkkistahttit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "dárkkistahtán",
+                "dárkkistahtát",
+                "dárkkistahttá",
+                "dárkkistahtte",
+                "dárkkistahttibeahtti",
+                "dárkkistahttiba",
+                "dárkkistahttit",
+                "dárkkistahttibehtet",
+                "dárkkistahttet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in dárkkistahte",
+                "it dárkkistahte",
+                "ii dárkkistahte",
+                "ean dárkkistahte",
+                "eahppi dárkkistahte",
+                "eaba dárkkistahte",
+                "eat dárkkistahte",
+                "ehpet dárkkistahte",
+                "eai dárkkistahte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "dárkkistahtten",
+                "dárkkistahttet",
+                "dárkkistahtii",
+                "dárkkistahtiime",
+                "dárkkistahtiide",
+                "dárkkistahtiiga",
+                "dárkkistahtiimet",
+                "dárkkistahtiidet",
+                "dárkkistahtte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in dárkkistahttán",
+                "it dárkkistahttán",
+                "ii dárkkistahttán",
+                "ean dárkkistahttán",
+                "eahppi dárkkistahttán",
+                "eaba dárkkistahttán",
+                "eat dárkkistahttán",
+                "ehpet dárkkistahttán",
+                "eai dárkkistahttán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean dárkkistahttán",
+                "leat dárkkistahttán",
+                "lea dárkkistahttán",
+                "letne dárkkistahttán",
+                "leahppi dárkkistahttán",
+                "leaba dárkkistahttán",
+                "leat dárkkistahttán",
+                "lehpet dárkkistahttán",
+                "leat dárkkistahttán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen dárkkistahttán",
+                "ledjet dárkkistahttán",
+                "lei dárkkistahttán",
+                "leimme dárkkistahttán",
+                "leidde dárkkistahttán",
+                "leigga dárkkistahttán",
+                "leimmet dárkkistahttán",
+                "leiddet dárkkistahttán",
+                "ledje dárkkistahttán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean dárkkistahttime, -min",
+                "leat dárkkistahttime, -min",
+                "lea dárkkistahttime, -min",
+                "letne dárkkistahttime, -min",
+                "leahppi dárkkistahttime, -min",
+                "leaba dárkkistahttime, -min",
+                "leat dárkkistahttime, -min",
+                "lehpet dárkkistahttime, -min",
+                "leat dárkkistahttime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen dárkkistahttime, -min",
+                "ledjet dárkkistahttime, -min",
+                "lei dárkkistahttime, -min",
+                "leimme dárkkistahttime, -min",
+                "leidde dárkkistahttime, -min",
+                "leigga dárkkistahttime, -min",
+                "leimmet dárkkistahttime, -min",
+                "leiddet dárkkistahttime, -min",
+                "ledje dárkkistahttime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "dárkkistahtášin",
+                "dárkkistahtášit",
+                "dárkkistahtášii",
+                "dárkkistahtášeimme",
+                "dárkkistahtášeidde",
+                "dárkkistahtášeigga",
+                "dárkkistahtášeimmet",
+                "dárkkistahtášeiddet",
+                "dárkkistahtášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in dárkkistahtáše",
+                "it dárkkistahtáše",
+                "ii dárkkistahtáše",
+                "ean dárkkistahtáše",
+                "eahppi dárkkistahtáše",
+                "eaba dárkkistahtáše",
+                "eat dárkkistahtáše",
+                "ehpet dárkkistahtáše",
+                "eai dárkkistahtáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "dárkkistahtežan",
+                "dárkkistahtežat",
+                "dárkkistahteš",
+                "dárkkistahtežetne",
+                "dárkkistahtežeahppi",
+                "dárkkistahtežeaba",
+                "dárkkistahtežit, -žat",
+                "dárkkistahtežehpet",
+                "dárkkistahtežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in dárkkistahteš",
+                "it dárkkistahteš",
+                "ii dárkkistahteš",
+                "ean dárkkistahteš",
+                "eahppi dárkkistahteš",
+                "eaba dárkkistahteš",
+                "eat dárkkistahteš",
+                "ehpet dárkkistahteš",
+                "eai dárkkistahteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "dárkkistahtton",
+                "dárkkistahte",
+                "dárkkistahttos",
+                "dárkkistahttu",
+                "dárkkistahtti",
+                "dárkkistahttoska",
+                "dárkkistahttot",
+                "dárkkistahttet",
+                "dárkkistahttoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon dárkkistahte",
+                "ale dárkkistahte",
+                "allos dárkkistahte",
+                "allu dárkkistahte",
+                "alli dárkkistahte",
+                "alloska dárkkistahte",
+                "allot, allut dárkkistahte",
+                "allet, allit dárkkistahte",
+                "alloset dárkkistahte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Dárkkistahttit",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "liikot",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "liikon",
+                "liikot",
+                "liiko",
+                "liikojetne",
+                "liikobeahtti",
+                "liikoba",
+                "liikot",
+                "liikobehtet",
+                "liikojit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in liiko",
+                "it liiko",
+                "ii liiko",
+                "ean liiko",
+                "eahppi liiko",
+                "eaba liiko",
+                "eat liiko",
+                "ehpet liiko",
+                "eai liiko"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "liikojin",
+                "liikojit",
+                "liikui",
+                "liikuime",
+                "liikuide",
+                "liikuiga",
+                "liikuimet",
+                "liikuidet",
+                "liikojedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in liikon",
+                "it liikon",
+                "ii liikon",
+                "ean liikon",
+                "eahppi liikon",
+                "eaba liikon",
+                "eat liikon",
+                "ehpet liikon",
+                "eai liikon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean liikon",
+                "leat liikon",
+                "lea liikon",
+                "letne liikon",
+                "leahppi liikon",
+                "leaba liikon",
+                "leat liikon",
+                "lehpet liikon",
+                "leat liikon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen liikon",
+                "ledjet liikon",
+                "lei liikon",
+                "leimme liikon",
+                "leidde liikon",
+                "leigga liikon",
+                "leimmet liikon",
+                "leiddet liikon",
+                "ledje liikon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean liikome, -min",
+                "leat liikome, -min",
+                "lea liikome, -min",
+                "letne liikome, -min",
+                "leahppi liikome, -min",
+                "leaba liikome, -min",
+                "leat liikome, -min",
+                "lehpet liikome, -min",
+                "leat liikome, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen liikome, -min",
+                "ledjet liikome, -min",
+                "lei liikome, -min",
+                "leimme liikome, -min",
+                "leidde liikome, -min",
+                "leigga liikome, -min",
+                "leimmet liikome, -min",
+                "leiddet liikome, -min",
+                "ledje liikome, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "liikošin",
+                "liikošit",
+                "liikošii",
+                "liikošeimme",
+                "liikošeidde",
+                "liikošeigga",
+                "liikošeimmet",
+                "liikošeiddet",
+                "liikošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in liikoše",
+                "it liikoše",
+                "ii liikoše",
+                "ean liikoše",
+                "eahppi liikoše",
+                "eaba liikoše",
+                "eat liikoše",
+                "ehpet liikoše",
+                "eai liikoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "liikožan",
+                "liikožat",
+                "liikoš",
+                "liikožetne",
+                "liikožeahppi",
+                "liikožeaba",
+                "liikožit, -žat",
+                "liikožehpet",
+                "liikožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in liikoš",
+                "it liikoš",
+                "ii liikoš",
+                "ean liikoš",
+                "eahppi liikoš",
+                "eaba liikoš",
+                "eat liikoš",
+                "ehpet liikoš",
+                "eai liikoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "liikojehkon",
+                "liiko",
+                "liikojehkos",
+                "liikojeadnu",
+                "liikojeahkki",
+                "liikojehkoska",
+                "liikojeahkkut, liikojeadnot, liikojehkot, liikojetnot",
+                "liikojeahkkit",
+                "liikojehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon liiko",
+                "ale liiko",
+                "allos liiko",
+                "allu liiko",
+                "alli liiko",
+                "alloska liiko",
+                "allot, allut liiko",
+                "allet, allit liiko",
+                "alloset liiko"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Liikot",
+    "valid": 1
+}

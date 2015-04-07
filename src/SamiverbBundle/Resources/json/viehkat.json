@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "viehkat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "viegan",
+                "viegat",
+                "viehká",
+                "vihke",
+                "viehkabeahtti",
+                "viehkaba",
+                "viehkat",
+                "viehkabehtet",
+                "vihket"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in viega",
+                "it viega",
+                "ii viega",
+                "ean viega",
+                "eahppi viega",
+                "eaba viega",
+                "eat viega",
+                "ehpet viega",
+                "eai viega"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "vihken",
+                "vihket",
+                "viegai",
+                "viegaime",
+                "viegaide",
+                "viegaiga",
+                "viegaimet",
+                "viegaidet",
+                "vihke"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in viehkan",
+                "it viehkan",
+                "ii viehkan",
+                "ean viehkan",
+                "eahppi viehkan",
+                "eaba viehkan",
+                "eat viehkan",
+                "ehpet viehkan",
+                "eai viehkan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean viehkan",
+                "leat viehkan",
+                "lea viehkan",
+                "letne viehkan",
+                "leahppi viehkan",
+                "leaba viehkan",
+                "leat viehkan",
+                "lehpet viehkan",
+                "leat viehkan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen viehkan",
+                "ledjet viehkan",
+                "lei viehkan",
+                "leimme viehkan",
+                "leidde viehkan",
+                "leigga viehkan",
+                "leimmet viehkan",
+                "leiddet viehkan",
+                "ledje viehkan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean viehkame, -min",
+                "leat viehkame, -min",
+                "lea viehkame, -min",
+                "letne viehkame, -min",
+                "leahppi viehkame, -min",
+                "leaba viehkame, -min",
+                "leat viehkame, -min",
+                "lehpet viehkame, -min",
+                "leat viehkame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen viehkame, -min",
+                "ledjet viehkame, -min",
+                "lei viehkame, -min",
+                "leimme viehkame, -min",
+                "leidde viehkame, -min",
+                "leigga viehkame, -min",
+                "leimmet viehkame, -min",
+                "leiddet viehkame, -min",
+                "ledje viehkame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "viegašin",
+                "viegašit",
+                "viegašii",
+                "viegašeimme",
+                "viegašeidde",
+                "viegašeigga",
+                "viegašeimmet",
+                "viegašeiddet",
+                "viegašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in viegaše",
+                "it viegaše",
+                "ii viegaše",
+                "ean viegaše",
+                "eahppi viegaše",
+                "eaba viegaše",
+                "eat viegaše",
+                "ehpet viegaše",
+                "eai viegaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "viegažan",
+                "viegažat",
+                "viegaš",
+                "viegažetne",
+                "viegažeahppi",
+                "viegažeaba",
+                "viegažit, -žat",
+                "viegažehpet",
+                "viegažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in viegaš",
+                "it viegaš",
+                "ii viegaš",
+                "ean viegaš",
+                "eahppi viegaš",
+                "eaba viegaš",
+                "eat viegaš",
+                "ehpet viegaš",
+                "eai viegaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "vihkon",
+                "viega",
+                "vihkos",
+                "viehkku",
+                "viehkki",
+                "vihkoska",
+                "vihkot, viehkkot",
+                "vihket, viehkkit",
+                "vihkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon viega",
+                "ale viega",
+                "allos viega",
+                "allu viega",
+                "alli viega",
+                "alloska viega",
+                "allot, allut viega",
+                "allet, allit viega",
+                "alloset viega"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Viehkat",
+    "valid": 1
+}

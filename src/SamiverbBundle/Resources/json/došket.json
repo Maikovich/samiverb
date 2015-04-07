@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "došket",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "došken",
+                "došket",
+                "doške",
+                "doškejetne",
+                "doškebeahtti",
+                "doškeba",
+                "došket",
+                "doškebehtet",
+                "doškejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in doške",
+                "it doške",
+                "ii doške",
+                "ean doške",
+                "eahppi doške",
+                "eaba doške",
+                "eat doške",
+                "ehpet doške",
+                "eai doške"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "doškejin",
+                "doškejit",
+                "doškii",
+                "doškiime",
+                "doškiide",
+                "doškiiga",
+                "doškiimet",
+                "doškiidet",
+                "doškejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in došken",
+                "it došken",
+                "ii došken",
+                "ean došken",
+                "eahppi došken",
+                "eaba došken",
+                "eat došken",
+                "ehpet došken",
+                "eai došken"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean došken",
+                "leat došken",
+                "lea došken",
+                "letne došken",
+                "leahppi došken",
+                "leaba došken",
+                "leat došken",
+                "lehpet došken",
+                "leat došken"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen došken",
+                "ledjet došken",
+                "lei došken",
+                "leimme došken",
+                "leidde došken",
+                "leigga došken",
+                "leimmet došken",
+                "leiddet došken",
+                "ledje došken"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean doškeme, -min",
+                "leat doškeme, -min",
+                "lea doškeme, -min",
+                "letne doškeme, -min",
+                "leahppi doškeme, -min",
+                "leaba doškeme, -min",
+                "leat doškeme, -min",
+                "lehpet doškeme, -min",
+                "leat doškeme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen doškeme, -min",
+                "ledjet doškeme, -min",
+                "lei doškeme, -min",
+                "leimme doškeme, -min",
+                "leidde doškeme, -min",
+                "leigga doškeme, -min",
+                "leimmet doškeme, -min",
+                "leiddet doškeme, -min",
+                "ledje doškeme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "doškešin",
+                "doškešit",
+                "doškešii",
+                "doškešeimme",
+                "doškešeidde",
+                "doškešeigga",
+                "doškešeimmet",
+                "doškešeiddet",
+                "doškešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in doškeše",
+                "it doškeše",
+                "ii doškeše",
+                "ean doškeše",
+                "eahppi doškeše",
+                "eaba doškeše",
+                "eat doškeše",
+                "ehpet doškeše",
+                "eai doškeše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "doškežan",
+                "doškežat",
+                "doškeš",
+                "doškežetne",
+                "doškežeahppi",
+                "doškežeaba",
+                "doškežit, -žat",
+                "doškežehpet",
+                "doškežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in doškeš",
+                "it doškeš",
+                "ii doškeš",
+                "ean doškeš",
+                "eahppi doškeš",
+                "eaba doškeš",
+                "eat doškeš",
+                "ehpet doškeš",
+                "eai doškeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "doškejehkon",
+                "doške",
+                "doškejehkos",
+                "doškejeadnu",
+                "doškejeahkki",
+                "doškejehkoska",
+                "doškejeahkkut, doškejeadnot, doškejehkot, doškejetnot",
+                "doškejeahkkit",
+                "doškejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon doške",
+                "ale doške",
+                "allos doške",
+                "allu doške",
+                "alli doške",
+                "alloska doške",
+                "allot, allut doške",
+                "allet, allit doške",
+                "alloset doške"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Došket",
+    "valid": 1
+}

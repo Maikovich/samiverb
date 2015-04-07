@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "billahuvvat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "billahuvan",
+                "billahuvat",
+                "billahuvvá",
+                "billahuvve",
+                "billahuvvabeahtti",
+                "billahuvvaba",
+                "billahuvvat",
+                "billahuvvabehtet",
+                "billahuvvet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in billahuva",
+                "it billahuva",
+                "ii billahuva",
+                "ean billahuva",
+                "eahppi billahuva",
+                "eaba billahuva",
+                "eat billahuva",
+                "ehpet billahuva",
+                "eai billahuva"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "billahuvven",
+                "billahuvvet",
+                "billahuvai",
+                "billahuvaime",
+                "billahuvaide",
+                "billahuvaiga",
+                "billahuvaimet",
+                "billahuvaidet",
+                "billahuvve"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in billahuvvan",
+                "it billahuvvan",
+                "ii billahuvvan",
+                "ean billahuvvan",
+                "eahppi billahuvvan",
+                "eaba billahuvvan",
+                "eat billahuvvan",
+                "ehpet billahuvvan",
+                "eai billahuvvan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean billahuvvan",
+                "leat billahuvvan",
+                "lea billahuvvan",
+                "letne billahuvvan",
+                "leahppi billahuvvan",
+                "leaba billahuvvan",
+                "leat billahuvvan",
+                "lehpet billahuvvan",
+                "leat billahuvvan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen billahuvvan",
+                "ledjet billahuvvan",
+                "lei billahuvvan",
+                "leimme billahuvvan",
+                "leidde billahuvvan",
+                "leigga billahuvvan",
+                "leimmet billahuvvan",
+                "leiddet billahuvvan",
+                "ledje billahuvvan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean billahuvvame, -min",
+                "leat billahuvvame, -min",
+                "lea billahuvvame, -min",
+                "letne billahuvvame, -min",
+                "leahppi billahuvvame, -min",
+                "leaba billahuvvame, -min",
+                "leat billahuvvame, -min",
+                "lehpet billahuvvame, -min",
+                "leat billahuvvame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen billahuvvame, -min",
+                "ledjet billahuvvame, -min",
+                "lei billahuvvame, -min",
+                "leimme billahuvvame, -min",
+                "leidde billahuvvame, -min",
+                "leigga billahuvvame, -min",
+                "leimmet billahuvvame, -min",
+                "leiddet billahuvvame, -min",
+                "ledje billahuvvame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "billahuvašin",
+                "billahuvašit",
+                "billahuvašii",
+                "billahuvašeimme",
+                "billahuvašeidde",
+                "billahuvašeigga",
+                "billahuvašeimmet",
+                "billahuvašeiddet",
+                "billahuvašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in billahuvaše",
+                "it billahuvaše",
+                "ii billahuvaše",
+                "ean billahuvaše",
+                "eahppi billahuvaše",
+                "eaba billahuvaše",
+                "eat billahuvaše",
+                "ehpet billahuvaše",
+                "eai billahuvaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "billahuvažan",
+                "billahuvažat",
+                "billahuvaš",
+                "billahuvažetne",
+                "billahuvažeahppi",
+                "billahuvažeaba",
+                "billahuvažit, -žat",
+                "billahuvažehpet",
+                "billahuvažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in billahuvaš",
+                "it billahuvaš",
+                "ii billahuvaš",
+                "ean billahuvaš",
+                "eahppi billahuvaš",
+                "eaba billahuvaš",
+                "eat billahuvaš",
+                "ehpet billahuvaš",
+                "eai billahuvaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "billahuvvon",
+                "billahuva",
+                "billahuvvos",
+                "billahuvvu",
+                "billahuvvi",
+                "billahuvvoska",
+                "billahuvvot",
+                "billahuvvet, billahuvvit",
+                "billahuvvoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon billahuva",
+                "ale billahuva",
+                "allos billahuva",
+                "allu billahuva",
+                "alli billahuva",
+                "alloska billahuva",
+                "allot, allut billahuva",
+                "allet, allit billahuva",
+                "alloset billahuva"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Billahuvvat",
+    "valid": 1
+}

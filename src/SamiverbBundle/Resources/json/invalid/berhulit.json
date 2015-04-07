@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "berhulit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "berhulan",
+                "berhulat",
+                "berhula",
+                "berhuletne",
+                "berhuleahppi",
+                "berhuleaba",
+                "berhulit, -lat",
+                "berhulehpet",
+                "berhulit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in berhul",
+                "it berhul",
+                "ii berhul",
+                "ean berhul",
+                "eahppi berhul",
+                "eaba berhul",
+                "eat berhul",
+                "ehpet berhul",
+                "eai berhul"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "berhulin",
+                "berhulit",
+                "berhulii",
+                "berhuleimme",
+                "berhuleidde",
+                "berhuleigga",
+                "berhuleimmet",
+                "berhuleiddet",
+                "berhuledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in berhulan",
+                "it berhulan",
+                "ii berhulan",
+                "ean berhulan",
+                "eahppi berhulan",
+                "eaba berhulan",
+                "eat berhulan",
+                "ehpet berhulan",
+                "eai berhulan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean berhulan",
+                "leat berhulan",
+                "lea berhulan",
+                "letne berhulan",
+                "leahppi berhulan",
+                "leaba berhulan",
+                "leat berhulan",
+                "lehpet berhulan",
+                "leat berhulan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen berhulan",
+                "ledjet berhulan",
+                "lei berhulan",
+                "leimme berhulan",
+                "leidde berhulan",
+                "leigga berhulan",
+                "leimmet berhulan",
+                "leiddet berhulan",
+                "ledje berhulan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean berhuleame, -men",
+                "leat berhuleame, -men",
+                "lea berhuleame, -men",
+                "letne berhuleame, -men",
+                "leahppi berhuleame, -men",
+                "leaba berhuleame, -men",
+                "leat berhuleame, -men",
+                "lehpet berhuleame, -men",
+                "leat berhuleame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen berhuleame, -men",
+                "ledjet berhuleame, -men",
+                "lei berhuleame, -men",
+                "leimme berhuleame, -men",
+                "leidde berhuleame, -men",
+                "leigga berhuleame, -men",
+                "leimmet berhuleame, -men",
+                "leiddet berhuleame, -men",
+                "ledje berhuleame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "berhulivččen",
+                "berhulivččet",
+                "berhulivččii",
+                "berhulivččiime",
+                "berhulivččiide",
+                "berhulivččiiga",
+                "berhulivččiimet",
+                "berhulivččiidet",
+                "berhulivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in berhulivčče",
+                "it berhulivčče",
+                "ii berhulivčče",
+                "ean berhulivčče",
+                "eahppi berhulivčče",
+                "eaba berhulivčče",
+                "eat berhulivčče",
+                "ehpet berhulivčče",
+                "eai berhulivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "berhuleaččan",
+                "berhuleaččat",
+                "berhuleaš, -leš, -leažžá",
+                "berhuležže",
+                "berhuleažžabeahtti",
+                "berhuleažžaba",
+                "berhuleažžat",
+                "berhuleažžabehtet",
+                "berhuležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in berhuleaš, -leš, -leažžá",
+                "it berhuleaš, -leš, -leažžá",
+                "ii berhuleaš, -leš, -leažžá",
+                "ean berhuleaš, -leš, -leažžá",
+                "eahppi berhuleaš, -leš, -leažžá",
+                "eaba berhuleaš, -leš, -leažžá",
+                "eat berhuleaš, -leš, -leažžá",
+                "ehpet berhuleaš, -leš, -leažžá",
+                "eai berhuleaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "berhulehkon",
+                "berhul",
+                "berhulehkos, berhulus",
+                "berhuleadnu",
+                "berhuleahkki",
+                "berhulehkoska",
+                "berhulehkot, berhuleahkkut, berhuletnot, berhuleadnot",
+                "berhulehket",
+                "berhulehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon berhul",
+                "ale berhul",
+                "allos berhul",
+                "allu berhul",
+                "alli berhul",
+                "alloska berhul",
+                "allot, allut berhul",
+                "allet, allit berhul",
+                "alloset berhul"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "valid": 0,
+    "value": "Berhulit"
+}

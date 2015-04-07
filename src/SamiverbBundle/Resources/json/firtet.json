@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "firtet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "firten",
+                "firtet",
+                "firte",
+                "firtejetne",
+                "firtebeahtti",
+                "firteba",
+                "firtet",
+                "firtebehtet",
+                "firtejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in firte",
+                "it firte",
+                "ii firte",
+                "ean firte",
+                "eahppi firte",
+                "eaba firte",
+                "eat firte",
+                "ehpet firte",
+                "eai firte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "firtejin",
+                "firtejit",
+                "firtii",
+                "firtiime",
+                "firtiide",
+                "firtiiga",
+                "firtiimet",
+                "firtiidet",
+                "firtejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in firten",
+                "it firten",
+                "ii firten",
+                "ean firten",
+                "eahppi firten",
+                "eaba firten",
+                "eat firten",
+                "ehpet firten",
+                "eai firten"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean firten",
+                "leat firten",
+                "lea firten",
+                "letne firten",
+                "leahppi firten",
+                "leaba firten",
+                "leat firten",
+                "lehpet firten",
+                "leat firten"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen firten",
+                "ledjet firten",
+                "lei firten",
+                "leimme firten",
+                "leidde firten",
+                "leigga firten",
+                "leimmet firten",
+                "leiddet firten",
+                "ledje firten"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean firteme, -min",
+                "leat firteme, -min",
+                "lea firteme, -min",
+                "letne firteme, -min",
+                "leahppi firteme, -min",
+                "leaba firteme, -min",
+                "leat firteme, -min",
+                "lehpet firteme, -min",
+                "leat firteme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen firteme, -min",
+                "ledjet firteme, -min",
+                "lei firteme, -min",
+                "leimme firteme, -min",
+                "leidde firteme, -min",
+                "leigga firteme, -min",
+                "leimmet firteme, -min",
+                "leiddet firteme, -min",
+                "ledje firteme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "firtešin",
+                "firtešit",
+                "firtešii",
+                "firtešeimme",
+                "firtešeidde",
+                "firtešeigga",
+                "firtešeimmet",
+                "firtešeiddet",
+                "firtešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in firteše",
+                "it firteše",
+                "ii firteše",
+                "ean firteše",
+                "eahppi firteše",
+                "eaba firteše",
+                "eat firteše",
+                "ehpet firteše",
+                "eai firteše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "firtežan",
+                "firtežat",
+                "firteš",
+                "firtežetne",
+                "firtežeahppi",
+                "firtežeaba",
+                "firtežit, -žat",
+                "firtežehpet",
+                "firtežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in firteš",
+                "it firteš",
+                "ii firteš",
+                "ean firteš",
+                "eahppi firteš",
+                "eaba firteš",
+                "eat firteš",
+                "ehpet firteš",
+                "eai firteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "firtejehkon",
+                "firte",
+                "firtejehkos",
+                "firtejeadnu",
+                "firtejeahkki",
+                "firtejehkoska",
+                "firtejeahkkut, firtejeadnot, firtejehkot, firtejetnot",
+                "firtejeahkkit",
+                "firtejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon firte",
+                "ale firte",
+                "allos firte",
+                "allu firte",
+                "alli firte",
+                "alloska firte",
+                "allot, allut firte",
+                "allet, allit firte",
+                "alloset firte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Firtet",
+    "valid": 1
+}

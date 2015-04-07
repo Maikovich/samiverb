@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "važžit", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "vaččán", 
+        "vaččát", 
+        "važžá", 
+        "važže", 
+        "važžibeahtti", 
+        "važžiba", 
+        "važžit", 
+        "važžibehtet", 
+        "važžet"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in vačče", 
+        "it vačče", 
+        "ii vačče", 
+        "ean vačče", 
+        "eahppi vačče", 
+        "eaba vačče", 
+        "eat vačče", 
+        "ehpet vačče", 
+        "eai vačče"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "važžen", 
+        "važžet", 
+        "vaččii", 
+        "vaččiime", 
+        "vaččiide", 
+        "vaččiiga", 
+        "vaččiimet", 
+        "vaččiidet", 
+        "važže"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in važžán", 
+        "it važžán", 
+        "ii važžán", 
+        "ean važžán", 
+        "eahppi važžán", 
+        "eaba važžán", 
+        "eat važžán", 
+        "ehpet važžán", 
+        "eai važžán"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean važžán", 
+        "leat važžán", 
+        "lea važžán", 
+        "letne važžán", 
+        "leahppi važžán", 
+        "leaba važžán", 
+        "leat važžán", 
+        "lehpet važžán", 
+        "leat važžán"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen važžán", 
+        "ledjet važžán", 
+        "lei važžán", 
+        "leimme važžán", 
+        "leidde važžán", 
+        "leigga važžán", 
+        "leimmet važžán", 
+        "leiddet važžán", 
+        "ledje važžán"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean važžime, -min", 
+        "leat važžime, -min", 
+        "lea važžime, -min", 
+        "letne važžime, -min", 
+        "leahppi važžime, -min", 
+        "leaba važžime, -min", 
+        "leat važžime, -min", 
+        "lehpet važžime, -min", 
+        "leat važžime, -min"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen važžime, -min", 
+        "ledjet važžime, -min", 
+        "lei važžime, -min", 
+        "leimme važžime, -min", 
+        "leidde važžime, -min", 
+        "leigga važžime, -min", 
+        "leimmet važžime, -min", 
+        "leiddet važžime, -min", 
+        "ledje važžime, -min"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "vaččášin", 
+        "vaččášit", 
+        "vaččášii", 
+        "vaččášeimme", 
+        "vaččášeidde", 
+        "vaččášeigga", 
+        "vaččášeimmet", 
+        "vaččášeiddet", 
+        "vaččášedje"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in vaččáše", 
+        "it vaččáše", 
+        "ii vaččáše", 
+        "ean vaččáše", 
+        "eahppi vaččáše", 
+        "eaba vaččáše", 
+        "eat vaččáše", 
+        "ehpet vaččáše", 
+        "eai vaččáše"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "vaččežan", 
+        "vaččežat", 
+        "vaččeš", 
+        "vaččežetne", 
+        "vaččežeahppi", 
+        "vaččežeaba", 
+        "vaččežit, -žat", 
+        "vaččežehpet", 
+        "vaččežit"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in vaččeš", 
+        "it vaččeš", 
+        "ii vaččeš", 
+        "ean vaččeš", 
+        "eahppi vaččeš", 
+        "eaba vaččeš", 
+        "eat vaččeš", 
+        "ehpet vaččeš", 
+        "eai vaččeš"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "važžon", 
+        "vačče", 
+        "važžos", 
+        "važžu", 
+        "važži", 
+        "važžoska", 
+        "važžot", 
+        "važžet", 
+        "važžoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon vačče", 
+        "ale vačče", 
+        "allos vačče", 
+        "allu vačče", 
+        "alli vačče", 
+        "alloska vačče", 
+        "allot, allut vačče", 
+        "allet, allit vačče", 
+        "alloset vačče"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Važžit"
+}

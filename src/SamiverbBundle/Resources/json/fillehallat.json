@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "fillehallat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "fillehalan",
+                "fillehalat",
+                "fillehallá",
+                "fillehalle",
+                "fillehallabeahtti",
+                "fillehallaba",
+                "fillehallat",
+                "fillehallabehtet",
+                "fillehallet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in fillehala",
+                "it fillehala",
+                "ii fillehala",
+                "ean fillehala",
+                "eahppi fillehala",
+                "eaba fillehala",
+                "eat fillehala",
+                "ehpet fillehala",
+                "eai fillehala"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "fillehallen",
+                "fillehallet",
+                "fillehalai",
+                "fillehalaime",
+                "fillehalaide",
+                "fillehalaiga",
+                "fillehalaimet",
+                "fillehalaidet",
+                "fillehalle"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in fillehallan",
+                "it fillehallan",
+                "ii fillehallan",
+                "ean fillehallan",
+                "eahppi fillehallan",
+                "eaba fillehallan",
+                "eat fillehallan",
+                "ehpet fillehallan",
+                "eai fillehallan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean fillehallan",
+                "leat fillehallan",
+                "lea fillehallan",
+                "letne fillehallan",
+                "leahppi fillehallan",
+                "leaba fillehallan",
+                "leat fillehallan",
+                "lehpet fillehallan",
+                "leat fillehallan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen fillehallan",
+                "ledjet fillehallan",
+                "lei fillehallan",
+                "leimme fillehallan",
+                "leidde fillehallan",
+                "leigga fillehallan",
+                "leimmet fillehallan",
+                "leiddet fillehallan",
+                "ledje fillehallan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean fillehallame, -min",
+                "leat fillehallame, -min",
+                "lea fillehallame, -min",
+                "letne fillehallame, -min",
+                "leahppi fillehallame, -min",
+                "leaba fillehallame, -min",
+                "leat fillehallame, -min",
+                "lehpet fillehallame, -min",
+                "leat fillehallame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen fillehallame, -min",
+                "ledjet fillehallame, -min",
+                "lei fillehallame, -min",
+                "leimme fillehallame, -min",
+                "leidde fillehallame, -min",
+                "leigga fillehallame, -min",
+                "leimmet fillehallame, -min",
+                "leiddet fillehallame, -min",
+                "ledje fillehallame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "fillehalašin",
+                "fillehalašit",
+                "fillehalašii",
+                "fillehalašeimme",
+                "fillehalašeidde",
+                "fillehalašeigga",
+                "fillehalašeimmet",
+                "fillehalašeiddet",
+                "fillehalašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in fillehalaše",
+                "it fillehalaše",
+                "ii fillehalaše",
+                "ean fillehalaše",
+                "eahppi fillehalaše",
+                "eaba fillehalaše",
+                "eat fillehalaše",
+                "ehpet fillehalaše",
+                "eai fillehalaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "fillehalažan",
+                "fillehalažat",
+                "fillehalaš",
+                "fillehalažetne",
+                "fillehalažeahppi",
+                "fillehalažeaba",
+                "fillehalažit, -žat",
+                "fillehalažehpet",
+                "fillehalažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in fillehalaš",
+                "it fillehalaš",
+                "ii fillehalaš",
+                "ean fillehalaš",
+                "eahppi fillehalaš",
+                "eaba fillehalaš",
+                "eat fillehalaš",
+                "ehpet fillehalaš",
+                "eai fillehalaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "fillehallon",
+                "fillehala",
+                "fillehallos",
+                "fillehallu",
+                "fillehalli",
+                "fillehalloska",
+                "fillehallot",
+                "fillehallet, fillehallit",
+                "fillehalloset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon fillehala",
+                "ale fillehala",
+                "allos fillehala",
+                "allu fillehala",
+                "alli fillehala",
+                "alloska fillehala",
+                "allot, allut fillehala",
+                "allet, allit fillehala",
+                "alloset fillehala"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Fillehallat",
+    "valid": 1
+}

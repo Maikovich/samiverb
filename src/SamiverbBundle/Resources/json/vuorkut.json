@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "vuorkut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "vuorkkun",
+                "vuorkkut",
+                "vuorku",
+                "vurko",
+                "vuorkubeahtti",
+                "vuorkuba",
+                "vuorkut",
+                "vuorkubehtet",
+                "vurkot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in vuorkko",
+                "it vuorkko",
+                "ii vuorkko",
+                "ean vuorkko",
+                "eahppi vuorkko",
+                "eaba vuorkko",
+                "eat vuorkko",
+                "ehpet vuorkko",
+                "eai vuorkko"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "vurkon",
+                "vurkot",
+                "vuorkkui",
+                "vuorkkuime",
+                "vuorkkuide",
+                "vuorkkuiga",
+                "vuorkkuimet",
+                "vuorkkuidet",
+                "vurko"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in vurkon",
+                "it vurkon",
+                "ii vurkon",
+                "ean vurkon",
+                "eahppi vurkon",
+                "eaba vurkon",
+                "eat vurkon",
+                "ehpet vurkon",
+                "eai vurkon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean vurkon",
+                "leat vurkon",
+                "lea vurkon",
+                "letne vurkon",
+                "leahppi vurkon",
+                "leaba vurkon",
+                "leat vurkon",
+                "lehpet vurkon",
+                "leat vurkon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen vurkon",
+                "ledjet vurkon",
+                "lei vurkon",
+                "leimme vurkon",
+                "leidde vurkon",
+                "leigga vurkon",
+                "leimmet vurkon",
+                "leiddet vurkon",
+                "ledje vurkon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean vuorkume, -min",
+                "leat vuorkume, -min",
+                "lea vuorkume, -min",
+                "letne vuorkume, -min",
+                "leahppi vuorkume, -min",
+                "leaba vuorkume, -min",
+                "leat vuorkume, -min",
+                "lehpet vuorkume, -min",
+                "leat vuorkume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen vuorkume, -min",
+                "ledjet vuorkume, -min",
+                "lei vuorkume, -min",
+                "leimme vuorkume, -min",
+                "leidde vuorkume, -min",
+                "leigga vuorkume, -min",
+                "leimmet vuorkume, -min",
+                "leiddet vuorkume, -min",
+                "ledje vuorkume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "vurkkošin",
+                "vurkkošit",
+                "vurkkošii",
+                "vurkkošeimme",
+                "vurkkošeidde",
+                "vurkkošeigga",
+                "vurkkošeimmet",
+                "vurkkošeiddet",
+                "vurkkošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in vurkkoše",
+                "it vurkkoše",
+                "ii vurkkoše",
+                "ean vurkkoše",
+                "eahppi vurkkoše",
+                "eaba vurkkoše",
+                "eat vurkkoše",
+                "ehpet vurkkoše",
+                "eai vurkkoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "vurkkožan",
+                "vurkkožat",
+                "vurkkoš",
+                "vurkkožetne",
+                "vurkkožeahppi",
+                "vurkkožeaba",
+                "vurkkožit, -žat",
+                "vurkkožehpet",
+                "vurkkožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in vurkkoš",
+                "it vurkkoš",
+                "ii vurkkoš",
+                "ean vurkkoš",
+                "eahppi vurkkoš",
+                "eaba vurkkoš",
+                "eat vurkkoš",
+                "ehpet vurkkoš",
+                "eai vurkkoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "vurkon",
+                "vuorkko",
+                "vurkos",
+                "vuorku",
+                "vuorku",
+                "vurkoska",
+                "vurkot, vuorkot",
+                "vurkot, vuorkot",
+                "vurkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon vuorkko",
+                "ale vuorkko",
+                "allos vuorkko",
+                "allu vuorkko",
+                "alli vuorkko",
+                "alloska vuorkko",
+                "allot, allut vuorkko",
+                "allet, allit vuorkko",
+                "alloset vuorkko"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Vuorkut",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "muizalit", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "muizalan", 
+        "muizalat", 
+        "muizala", 
+        "muizaletne", 
+        "muizaleahppi", 
+        "muizaleaba", 
+        "muizalit, -lat", 
+        "muizalehpet", 
+        "muizalit"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in muizal", 
+        "it muizal", 
+        "ii muizal", 
+        "ean muizal", 
+        "eahppi muizal", 
+        "eaba muizal", 
+        "eat muizal", 
+        "ehpet muizal", 
+        "eai muizal"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "muizalin", 
+        "muizalit", 
+        "muizalii", 
+        "muizaleimme", 
+        "muizaleidde", 
+        "muizaleigga", 
+        "muizaleimmet", 
+        "muizaleiddet", 
+        "muizaledje"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in muizalan", 
+        "it muizalan", 
+        "ii muizalan", 
+        "ean muizalan", 
+        "eahppi muizalan", 
+        "eaba muizalan", 
+        "eat muizalan", 
+        "ehpet muizalan", 
+        "eai muizalan"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean muizalan", 
+        "leat muizalan", 
+        "lea muizalan", 
+        "letne muizalan", 
+        "leahppi muizalan", 
+        "leaba muizalan", 
+        "leat muizalan", 
+        "lehpet muizalan", 
+        "leat muizalan"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen muizalan", 
+        "ledjet muizalan", 
+        "lei muizalan", 
+        "leimme muizalan", 
+        "leidde muizalan", 
+        "leigga muizalan", 
+        "leimmet muizalan", 
+        "leiddet muizalan", 
+        "ledje muizalan"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean muizaleame, -men", 
+        "leat muizaleame, -men", 
+        "lea muizaleame, -men", 
+        "letne muizaleame, -men", 
+        "leahppi muizaleame, -men", 
+        "leaba muizaleame, -men", 
+        "leat muizaleame, -men", 
+        "lehpet muizaleame, -men", 
+        "leat muizaleame, -men"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen muizaleame, -men", 
+        "ledjet muizaleame, -men", 
+        "lei muizaleame, -men", 
+        "leimme muizaleame, -men", 
+        "leidde muizaleame, -men", 
+        "leigga muizaleame, -men", 
+        "leimmet muizaleame, -men", 
+        "leiddet muizaleame, -men", 
+        "ledje muizaleame, -men"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "muizalivččen", 
+        "muizalivččet", 
+        "muizalivččii", 
+        "muizalivččiime", 
+        "muizalivččiide", 
+        "muizalivččiiga", 
+        "muizalivččiimet", 
+        "muizalivččiidet", 
+        "muizalivčče"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in muizalivčče", 
+        "it muizalivčče", 
+        "ii muizalivčče", 
+        "ean muizalivčče", 
+        "eahppi muizalivčče", 
+        "eaba muizalivčče", 
+        "eat muizalivčče", 
+        "ehpet muizalivčče", 
+        "eai muizalivčče"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "muizaleaččan", 
+        "muizaleaččat", 
+        "muizaleaš, -leš, -leažžá", 
+        "muizaležže", 
+        "muizaleažžabeahtti", 
+        "muizaleažžaba", 
+        "muizaleažžat", 
+        "muizaleažžabehtet", 
+        "muizaležžet"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in muizaleaš, -leš, -leažžá", 
+        "it muizaleaš, -leš, -leažžá", 
+        "ii muizaleaš, -leš, -leažžá", 
+        "ean muizaleaš, -leš, -leažžá", 
+        "eahppi muizaleaš, -leš, -leažžá", 
+        "eaba muizaleaš, -leš, -leažžá", 
+        "eat muizaleaš, -leš, -leažžá", 
+        "ehpet muizaleaš, -leš, -leažžá", 
+        "eai muizaleaš, -leš, -leažžá"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "muizalehkon", 
+        "muizal", 
+        "muizalehkos, muizalus", 
+        "muizaleadnu", 
+        "muizaleahkki", 
+        "muizalehkoska", 
+        "muizalehkot, muizaleahkkut, muizaletnot, muizaleadnot", 
+        "muizalehket", 
+        "muizalehkoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon muizal", 
+        "ale muizal", 
+        "allos muizal", 
+        "allu muizal", 
+        "alli muizal", 
+        "alloska muizal", 
+        "allot, allut muizal", 
+        "allet, allit muizal", 
+        "alloset muizal"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Muizalit"
+}

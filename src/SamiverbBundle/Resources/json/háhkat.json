@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "háhkat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "hágan",
+                "hágat",
+                "háhká",
+                "háhke",
+                "háhkabeahtti",
+                "háhkaba",
+                "háhkat",
+                "háhkabehtet",
+                "háhket"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in hága",
+                "it hága",
+                "ii hága",
+                "ean hága",
+                "eahppi hága",
+                "eaba hága",
+                "eat hága",
+                "ehpet hága",
+                "eai hága"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "háhken",
+                "háhket",
+                "hágai",
+                "hágaime",
+                "hágaide",
+                "hágaiga",
+                "hágaimet",
+                "hágaidet",
+                "háhke"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in háhkan",
+                "it háhkan",
+                "ii háhkan",
+                "ean háhkan",
+                "eahppi háhkan",
+                "eaba háhkan",
+                "eat háhkan",
+                "ehpet háhkan",
+                "eai háhkan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean háhkan",
+                "leat háhkan",
+                "lea háhkan",
+                "letne háhkan",
+                "leahppi háhkan",
+                "leaba háhkan",
+                "leat háhkan",
+                "lehpet háhkan",
+                "leat háhkan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen háhkan",
+                "ledjet háhkan",
+                "lei háhkan",
+                "leimme háhkan",
+                "leidde háhkan",
+                "leigga háhkan",
+                "leimmet háhkan",
+                "leiddet háhkan",
+                "ledje háhkan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean háhkame, -min",
+                "leat háhkame, -min",
+                "lea háhkame, -min",
+                "letne háhkame, -min",
+                "leahppi háhkame, -min",
+                "leaba háhkame, -min",
+                "leat háhkame, -min",
+                "lehpet háhkame, -min",
+                "leat háhkame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen háhkame, -min",
+                "ledjet háhkame, -min",
+                "lei háhkame, -min",
+                "leimme háhkame, -min",
+                "leidde háhkame, -min",
+                "leigga háhkame, -min",
+                "leimmet háhkame, -min",
+                "leiddet háhkame, -min",
+                "ledje háhkame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "hágašin",
+                "hágašit",
+                "hágašii",
+                "hágašeimme",
+                "hágašeidde",
+                "hágašeigga",
+                "hágašeimmet",
+                "hágašeiddet",
+                "hágašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in hágaše",
+                "it hágaše",
+                "ii hágaše",
+                "ean hágaše",
+                "eahppi hágaše",
+                "eaba hágaše",
+                "eat hágaše",
+                "ehpet hágaše",
+                "eai hágaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "hágažan",
+                "hágažat",
+                "hágaš",
+                "hágažetne",
+                "hágažeahppi",
+                "hágažeaba",
+                "hágažit, -žat",
+                "hágažehpet",
+                "hágažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in hágaš",
+                "it hágaš",
+                "ii hágaš",
+                "ean hágaš",
+                "eahppi hágaš",
+                "eaba hágaš",
+                "eat hágaš",
+                "ehpet hágaš",
+                "eai hágaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "háhkon",
+                "hága",
+                "háhkos",
+                "háhkku",
+                "háhkki",
+                "háhkoska",
+                "háhkot, háhkkot",
+                "háhket, háhkkit",
+                "háhkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon hága",
+                "ale hága",
+                "allos hága",
+                "allu hága",
+                "alli hága",
+                "alloska hága",
+                "allot, allut hága",
+                "allet, allit hága",
+                "alloset hága"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Háhkat",
+    "valid": 1
+}

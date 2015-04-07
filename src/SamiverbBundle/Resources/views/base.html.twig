@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="Samiverb">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Samiverb - {% block title %}{% endblock %}</title>
+
+  <link id="linkApiRoot" href="/app_dev.php"/>
+
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="{{ asset('bundles/samiverb/css/bootstrap.css') }}" />
+  <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/themes/smoothness/jquery-ui.css" />
+
+  <script src="//use.edgefonts.net/pt-sans:n4,i4,n7,i7:all;lancelot.js"></script>
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+  <link rel="stylesheet" href="{{ asset('bundles/samiverb/css/main.css') }}" />
+  <link rel="stylesheet" href="{{ asset('bundles/samiverb/dist/ladda-themeless.min.css') }}">
+
+</head>
+<body>
+
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#"><span class="title">Samiverb</span></a>
+      </div>
+
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          {% spaceless %}
+          {% for page in ['home'] %}
+            {% set active = (activePage is defined and activePage == page) %}
+            <li {% if active %}class="active"{% endif %}>
+              <a class="text-capitalize" href="{{ path(page) }}">{{ page }} {% if active %}<span class="sr-only">(current)</span>{% endif %}</a>
+            </li>
+          {% endfor %}
+          {% endspaceless %}
+        </ul>
+        {% if is_granted('ROLE_ADMIN') %}
+          <form action="{{ path('logout') }}">
+            <button id="logoutButton" type="submit" class="btn btn-sm btn-default navbar-btn navbar-right">Sign out</button>  
+          </form>
+          <form action="{{ path('_admin_panel') }}">
+            <button id="adminButton" type="submit" class="btn btn-sm btn-primary navbar-btn navbar-right">Admin panel</button>  
+          </form>
+          <p id="signedInAs" class="navbar-text navbar-right">Signed in as {{ user }}</p> 
+        {% endif %}
+        {% block navbar_add %}{% endblock %}
+      </div><!-- /.navbar-collapse -->
+    </div><!-- /.container -->
+  </nav>
+
+  {% block tabs %}{% endblock %}
+
+  {% block content %}
+    <!-- content -->
+  {% endblock %}
+
+  <!-- JQuery (UI) and Bootstrap libraries !-->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+  <script src="{{ asset('bundles/samiverb/js/bootstrap.min.js') }}"></script>
+  <script src="{{ asset('bundles/samiverb/dist/spin.min.js') }}"></script>
+  <script src="{{ asset('bundles/samiverb/dist/ladda.min.js') }}"></script>
+  <script src="{{ asset('bundles/samiverb/js/main.js') }}"></script>
+
+  <script src="{{ asset('bundles/samiverb/js/jquery/smoothness.js') }}"></script>
+
+  <script src="{{ asset('bundles/samiverb/js/directives/main.js') }}"></script>
+  <script src="{{ asset('bundles/samiverb/js/services/verbtask.js') }}"></script>
+  <script src="{{ asset('bundles/samiverb/js/services/verbobject.js') }}"></script>
+  <script src="{{ asset('bundles/samiverb/js/controllers/output.js') }}"></script>
+  <script src="{{ asset('bundles/samiverb/js/controllers/validatemodal.js') }}"></script>
+  <script src="{{ asset('bundles/samiverb/js/controllers/verb.js') }}"></script>
+  
+  {% block javascript %}
+  {% endblock %}
+
+</body>
+</html>

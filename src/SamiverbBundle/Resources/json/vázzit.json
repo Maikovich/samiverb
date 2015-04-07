@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "vázzit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "váccán",
+                "váccát",
+                "vázzá",
+                "vázze",
+                "vázzibeahtti",
+                "vázziba",
+                "vázzit",
+                "vázzibehtet",
+                "vázzet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in vácce",
+                "it vácce",
+                "ii vácce",
+                "ean vácce",
+                "eahppi vácce",
+                "eaba vácce",
+                "eat vácce",
+                "ehpet vácce",
+                "eai vácce"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "vázzen",
+                "vázzet",
+                "váccii",
+                "vácciime",
+                "vácciide",
+                "vácciiga",
+                "vácciimet",
+                "vácciidet",
+                "vázze"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in vázzán",
+                "it vázzán",
+                "ii vázzán",
+                "ean vázzán",
+                "eahppi vázzán",
+                "eaba vázzán",
+                "eat vázzán",
+                "ehpet vázzán",
+                "eai vázzán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean vázzán",
+                "leat vázzán",
+                "lea vázzán",
+                "letne vázzán",
+                "leahppi vázzán",
+                "leaba vázzán",
+                "leat vázzán",
+                "lehpet vázzán",
+                "leat vázzán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen vázzán",
+                "ledjet vázzán",
+                "lei vázzán",
+                "leimme vázzán",
+                "leidde vázzán",
+                "leigga vázzán",
+                "leimmet vázzán",
+                "leiddet vázzán",
+                "ledje vázzán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean vázzime, -min",
+                "leat vázzime, -min",
+                "lea vázzime, -min",
+                "letne vázzime, -min",
+                "leahppi vázzime, -min",
+                "leaba vázzime, -min",
+                "leat vázzime, -min",
+                "lehpet vázzime, -min",
+                "leat vázzime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen vázzime, -min",
+                "ledjet vázzime, -min",
+                "lei vázzime, -min",
+                "leimme vázzime, -min",
+                "leidde vázzime, -min",
+                "leigga vázzime, -min",
+                "leimmet vázzime, -min",
+                "leiddet vázzime, -min",
+                "ledje vázzime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "váccášin",
+                "váccášit",
+                "váccášii",
+                "váccášeimme",
+                "váccášeidde",
+                "váccášeigga",
+                "váccášeimmet",
+                "váccášeiddet",
+                "váccášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in váccáše",
+                "it váccáše",
+                "ii váccáše",
+                "ean váccáše",
+                "eahppi váccáše",
+                "eaba váccáše",
+                "eat váccáše",
+                "ehpet váccáše",
+                "eai váccáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "váccežan",
+                "váccežat",
+                "vácceš",
+                "váccežetne",
+                "váccežeahppi",
+                "váccežeaba",
+                "váccežit, -žat",
+                "váccežehpet",
+                "váccežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in vácceš",
+                "it vácceš",
+                "ii vácceš",
+                "ean vácceš",
+                "eahppi vácceš",
+                "eaba vácceš",
+                "eat vácceš",
+                "ehpet vácceš",
+                "eai vácceš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "vázzon",
+                "vácce",
+                "vázzos",
+                "vázzu",
+                "vázzi",
+                "vázzoska",
+                "vázzot",
+                "vázzet",
+                "vázzoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon vácce",
+                "ale vácce",
+                "allos vácce",
+                "allu vácce",
+                "alli vácce",
+                "alloska vácce",
+                "allot, allut vácce",
+                "allet, allit vácce",
+                "alloset vácce"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Vázzit",
+    "valid": 1
+}

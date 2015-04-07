@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "fuomášit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "fuomášan",
+                "fuomášat",
+                "fuomáša",
+                "fuomášetne",
+                "fuomášeahppi",
+                "fuomášeaba",
+                "fuomášit, -šat",
+                "fuomášehpet",
+                "fuomášit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in fuomáš",
+                "it fuomáš",
+                "ii fuomáš",
+                "ean fuomáš",
+                "eahppi fuomáš",
+                "eaba fuomáš",
+                "eat fuomáš",
+                "ehpet fuomáš",
+                "eai fuomáš"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "fuomášin",
+                "fuomášit",
+                "fuomášii",
+                "fuomášeimme",
+                "fuomášeidde",
+                "fuomášeigga",
+                "fuomášeimmet",
+                "fuomášeiddet",
+                "fuomášedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in fuomášan",
+                "it fuomášan",
+                "ii fuomášan",
+                "ean fuomášan",
+                "eahppi fuomášan",
+                "eaba fuomášan",
+                "eat fuomášan",
+                "ehpet fuomášan",
+                "eai fuomášan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean fuomášan",
+                "leat fuomášan",
+                "lea fuomášan",
+                "letne fuomášan",
+                "leahppi fuomášan",
+                "leaba fuomášan",
+                "leat fuomášan",
+                "lehpet fuomášan",
+                "leat fuomášan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen fuomášan",
+                "ledjet fuomášan",
+                "lei fuomášan",
+                "leimme fuomášan",
+                "leidde fuomášan",
+                "leigga fuomášan",
+                "leimmet fuomášan",
+                "leiddet fuomášan",
+                "ledje fuomášan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean fuomášeame, -men",
+                "leat fuomášeame, -men",
+                "lea fuomášeame, -men",
+                "letne fuomášeame, -men",
+                "leahppi fuomášeame, -men",
+                "leaba fuomášeame, -men",
+                "leat fuomášeame, -men",
+                "lehpet fuomášeame, -men",
+                "leat fuomášeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen fuomášeame, -men",
+                "ledjet fuomášeame, -men",
+                "lei fuomášeame, -men",
+                "leimme fuomášeame, -men",
+                "leidde fuomášeame, -men",
+                "leigga fuomášeame, -men",
+                "leimmet fuomášeame, -men",
+                "leiddet fuomášeame, -men",
+                "ledje fuomášeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "fuomášivččen",
+                "fuomášivččet",
+                "fuomášivččii",
+                "fuomášivččiime",
+                "fuomášivččiide",
+                "fuomášivččiiga",
+                "fuomášivččiimet",
+                "fuomášivččiidet",
+                "fuomášivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in fuomášivčče",
+                "it fuomášivčče",
+                "ii fuomášivčče",
+                "ean fuomášivčče",
+                "eahppi fuomášivčče",
+                "eaba fuomášivčče",
+                "eat fuomášivčče",
+                "ehpet fuomášivčče",
+                "eai fuomášivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "fuomášeaččan",
+                "fuomášeaččat",
+                "fuomášeaš, -šeš, -šeažžá",
+                "fuomášežže",
+                "fuomášeažžabeahtti",
+                "fuomášeažžaba",
+                "fuomášeažžat",
+                "fuomášeažžabehtet",
+                "fuomášežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in fuomášeaš, -šeš, -šeažžá",
+                "it fuomášeaš, -šeš, -šeažžá",
+                "ii fuomášeaš, -šeš, -šeažžá",
+                "ean fuomášeaš, -šeš, -šeažžá",
+                "eahppi fuomášeaš, -šeš, -šeažžá",
+                "eaba fuomášeaš, -šeš, -šeažžá",
+                "eat fuomášeaš, -šeš, -šeažžá",
+                "ehpet fuomášeaš, -šeš, -šeažžá",
+                "eai fuomášeaš, -šeš, -šeažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "fuomášehkon",
+                "fuomáš",
+                "fuomášehkos, fuomášus",
+                "fuomášeadnu",
+                "fuomášeahkki",
+                "fuomášehkoska",
+                "fuomášehkot, fuomášeahkkut, fuomášetnot, fuomášeadnot",
+                "fuomášehket",
+                "fuomášehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon fuomáš",
+                "ale fuomáš",
+                "allos fuomáš",
+                "allu fuomáš",
+                "alli fuomáš",
+                "alloska fuomáš",
+                "allot, allut fuomáš",
+                "allet, allit fuomáš",
+                "alloset fuomáš"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Fuomášit",
+    "valid": 1
+}

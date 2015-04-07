@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "mubilit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "mubilan",
+                "mubilat",
+                "mubila",
+                "mubiletne",
+                "mubileahppi",
+                "mubileaba",
+                "mubilit, -lat",
+                "mubilehpet",
+                "mubilit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in mubil",
+                "it mubil",
+                "ii mubil",
+                "ean mubil",
+                "eahppi mubil",
+                "eaba mubil",
+                "eat mubil",
+                "ehpet mubil",
+                "eai mubil"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "mubilin",
+                "mubilit",
+                "mubilii",
+                "mubileimme",
+                "mubileidde",
+                "mubileigga",
+                "mubileimmet",
+                "mubileiddet",
+                "mubiledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in mubilan",
+                "it mubilan",
+                "ii mubilan",
+                "ean mubilan",
+                "eahppi mubilan",
+                "eaba mubilan",
+                "eat mubilan",
+                "ehpet mubilan",
+                "eai mubilan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean mubilan",
+                "leat mubilan",
+                "lea mubilan",
+                "letne mubilan",
+                "leahppi mubilan",
+                "leaba mubilan",
+                "leat mubilan",
+                "lehpet mubilan",
+                "leat mubilan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen mubilan",
+                "ledjet mubilan",
+                "lei mubilan",
+                "leimme mubilan",
+                "leidde mubilan",
+                "leigga mubilan",
+                "leimmet mubilan",
+                "leiddet mubilan",
+                "ledje mubilan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean mubileame, -men",
+                "leat mubileame, -men",
+                "lea mubileame, -men",
+                "letne mubileame, -men",
+                "leahppi mubileame, -men",
+                "leaba mubileame, -men",
+                "leat mubileame, -men",
+                "lehpet mubileame, -men",
+                "leat mubileame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen mubileame, -men",
+                "ledjet mubileame, -men",
+                "lei mubileame, -men",
+                "leimme mubileame, -men",
+                "leidde mubileame, -men",
+                "leigga mubileame, -men",
+                "leimmet mubileame, -men",
+                "leiddet mubileame, -men",
+                "ledje mubileame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "mubilivččen",
+                "mubilivččet",
+                "mubilivččii",
+                "mubilivččiime",
+                "mubilivččiide",
+                "mubilivččiiga",
+                "mubilivččiimet",
+                "mubilivččiidet",
+                "mubilivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in mubilivčče",
+                "it mubilivčče",
+                "ii mubilivčče",
+                "ean mubilivčče",
+                "eahppi mubilivčče",
+                "eaba mubilivčče",
+                "eat mubilivčče",
+                "ehpet mubilivčče",
+                "eai mubilivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "mubileaččan",
+                "mubileaččat",
+                "mubileaš, -leš, -leažžá",
+                "mubiležže",
+                "mubileažžabeahtti",
+                "mubileažžaba",
+                "mubileažžat",
+                "mubileažžabehtet",
+                "mubiležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in mubileaš, -leš, -leažžá",
+                "it mubileaš, -leš, -leažžá",
+                "ii mubileaš, -leš, -leažžá",
+                "ean mubileaš, -leš, -leažžá",
+                "eahppi mubileaš, -leš, -leažžá",
+                "eaba mubileaš, -leš, -leažžá",
+                "eat mubileaš, -leš, -leažžá",
+                "ehpet mubileaš, -leš, -leažžá",
+                "eai mubileaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "mubilehkon",
+                "mubil",
+                "mubilehkos, mubilus",
+                "mubileadnu",
+                "mubileahkki",
+                "mubilehkoska",
+                "mubilehkot, mubileahkkut, mubiletnot, mubileadnot",
+                "mubilehket",
+                "mubilehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon mubil",
+                "ale mubil",
+                "allos mubil",
+                "allu mubil",
+                "alli mubil",
+                "alloska mubil",
+                "allot, allut mubil",
+                "allet, allit mubil",
+                "alloset mubil"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "valid": 0,
+    "value": "Mubilit"
+}

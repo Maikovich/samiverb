@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "soaitit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "soaittán",
+                "soaittát",
+                "soaitá",
+                "soite",
+                "soaitibeahtti",
+                "soaitiba",
+                "soaitit",
+                "soaitibehtet",
+                "soitet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in soaitte",
+                "it soaitte",
+                "ii soaitte",
+                "ean soaitte",
+                "eahppi soaitte",
+                "eaba soaitte",
+                "eat soaitte",
+                "ehpet soaitte",
+                "eai soaitte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "soiten",
+                "soitet",
+                "soittii",
+                "soittiime",
+                "soittiide",
+                "soittiiga",
+                "soittiimet",
+                "soittiidet",
+                "soite"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in soaitán",
+                "it soaitán",
+                "ii soaitán",
+                "ean soaitán",
+                "eahppi soaitán",
+                "eaba soaitán",
+                "eat soaitán",
+                "ehpet soaitán",
+                "eai soaitán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean soaitán",
+                "leat soaitán",
+                "lea soaitán",
+                "letne soaitán",
+                "leahppi soaitán",
+                "leaba soaitán",
+                "leat soaitán",
+                "lehpet soaitán",
+                "leat soaitán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen soaitán",
+                "ledjet soaitán",
+                "lei soaitán",
+                "leimme soaitán",
+                "leidde soaitán",
+                "leigga soaitán",
+                "leimmet soaitán",
+                "leiddet soaitán",
+                "ledje soaitán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean soaitime, -min",
+                "leat soaitime, -min",
+                "lea soaitime, -min",
+                "letne soaitime, -min",
+                "leahppi soaitime, -min",
+                "leaba soaitime, -min",
+                "leat soaitime, -min",
+                "lehpet soaitime, -min",
+                "leat soaitime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen soaitime, -min",
+                "ledjet soaitime, -min",
+                "lei soaitime, -min",
+                "leimme soaitime, -min",
+                "leidde soaitime, -min",
+                "leigga soaitime, -min",
+                "leimmet soaitime, -min",
+                "leiddet soaitime, -min",
+                "ledje soaitime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "soaittášin",
+                "soaittášit",
+                "soaittášii",
+                "soaittášeimme",
+                "soaittášeidde",
+                "soaittášeigga",
+                "soaittášeimmet",
+                "soaittášeiddet",
+                "soaittášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in soaittáše",
+                "it soaittáše",
+                "ii soaittáše",
+                "ean soaittáše",
+                "eahppi soaittáše",
+                "eaba soaittáše",
+                "eat soaittáše",
+                "ehpet soaittáše",
+                "eai soaittáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "soittežan",
+                "soittežat",
+                "soitteš",
+                "soittežetne",
+                "soittežeahppi",
+                "soittežeaba",
+                "soittežit, -žat",
+                "soittežehpet",
+                "soittežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in soitteš",
+                "it soitteš",
+                "ii soitteš",
+                "ean soitteš",
+                "eahppi soitteš",
+                "eaba soitteš",
+                "eat soitteš",
+                "ehpet soitteš",
+                "eai soitteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "soiton",
+                "soaitte",
+                "soitos",
+                "soaitu",
+                "soaiti",
+                "soitoska",
+                "soitot, soaitot",
+                "soitet, soaitet",
+                "soitoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon soaitte",
+                "ale soaitte",
+                "allos soaitte",
+                "allu soaitte",
+                "alli soaitte",
+                "alloska soaitte",
+                "allot, allut soaitte",
+                "allet, allit soaitte",
+                "alloset soaitte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Soaitit",
+    "valid": 1
+}

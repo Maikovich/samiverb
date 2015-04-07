@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "luoddut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "luottun",
+                "luottut",
+                "luoddu",
+                "luddo",
+                "luoddubeahtti",
+                "luodduba",
+                "luoddut",
+                "luoddubehtet",
+                "luddot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in luotto",
+                "it luotto",
+                "ii luotto",
+                "ean luotto",
+                "eahppi luotto",
+                "eaba luotto",
+                "eat luotto",
+                "ehpet luotto",
+                "eai luotto"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "luddon",
+                "luddot",
+                "luottui",
+                "luottuime",
+                "luottuide",
+                "luottuiga",
+                "luottuimet",
+                "luottuidet",
+                "luddo"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in luddon",
+                "it luddon",
+                "ii luddon",
+                "ean luddon",
+                "eahppi luddon",
+                "eaba luddon",
+                "eat luddon",
+                "ehpet luddon",
+                "eai luddon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean luddon",
+                "leat luddon",
+                "lea luddon",
+                "letne luddon",
+                "leahppi luddon",
+                "leaba luddon",
+                "leat luddon",
+                "lehpet luddon",
+                "leat luddon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen luddon",
+                "ledjet luddon",
+                "lei luddon",
+                "leimme luddon",
+                "leidde luddon",
+                "leigga luddon",
+                "leimmet luddon",
+                "leiddet luddon",
+                "ledje luddon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean luoddume, -min",
+                "leat luoddume, -min",
+                "lea luoddume, -min",
+                "letne luoddume, -min",
+                "leahppi luoddume, -min",
+                "leaba luoddume, -min",
+                "leat luoddume, -min",
+                "lehpet luoddume, -min",
+                "leat luoddume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen luoddume, -min",
+                "ledjet luoddume, -min",
+                "lei luoddume, -min",
+                "leimme luoddume, -min",
+                "leidde luoddume, -min",
+                "leigga luoddume, -min",
+                "leimmet luoddume, -min",
+                "leiddet luoddume, -min",
+                "ledje luoddume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "luttošin",
+                "luttošit",
+                "luttošii",
+                "luttošeimme",
+                "luttošeidde",
+                "luttošeigga",
+                "luttošeimmet",
+                "luttošeiddet",
+                "luttošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in luttoše",
+                "it luttoše",
+                "ii luttoše",
+                "ean luttoše",
+                "eahppi luttoše",
+                "eaba luttoše",
+                "eat luttoše",
+                "ehpet luttoše",
+                "eai luttoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "luttožan",
+                "luttožat",
+                "luttoš",
+                "luttožetne",
+                "luttožeahppi",
+                "luttožeaba",
+                "luttožit, -žat",
+                "luttožehpet",
+                "luttožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in luttoš",
+                "it luttoš",
+                "ii luttoš",
+                "ean luttoš",
+                "eahppi luttoš",
+                "eaba luttoš",
+                "eat luttoš",
+                "ehpet luttoš",
+                "eai luttoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "luddon",
+                "luotto",
+                "luddos",
+                "luoddu",
+                "luoddu",
+                "luddoska",
+                "luddot, luoddot",
+                "luddot, luoddot",
+                "luddoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon luotto",
+                "ale luotto",
+                "allos luotto",
+                "allu luotto",
+                "alli luotto",
+                "alloska luotto",
+                "allot, allut luotto",
+                "allet, allit luotto",
+                "alloset luotto"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Luoddut",
+    "valid": 1
+}

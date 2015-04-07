@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "dolastaddat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "dolastattan",
+                "dolastattat",
+                "dolastaddá",
+                "dolastadde",
+                "dolastaddabeahtti",
+                "dolastaddaba",
+                "dolastaddat",
+                "dolastaddabehtet",
+                "dolastaddet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in dolastatta",
+                "it dolastatta",
+                "ii dolastatta",
+                "ean dolastatta",
+                "eahppi dolastatta",
+                "eaba dolastatta",
+                "eat dolastatta",
+                "ehpet dolastatta",
+                "eai dolastatta"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "dolastadden",
+                "dolastaddet",
+                "dolastattai",
+                "dolastattaime",
+                "dolastattaide",
+                "dolastattaiga",
+                "dolastattaimet",
+                "dolastattaidet",
+                "dolastadde"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in dolastaddan",
+                "it dolastaddan",
+                "ii dolastaddan",
+                "ean dolastaddan",
+                "eahppi dolastaddan",
+                "eaba dolastaddan",
+                "eat dolastaddan",
+                "ehpet dolastaddan",
+                "eai dolastaddan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean dolastaddan",
+                "leat dolastaddan",
+                "lea dolastaddan",
+                "letne dolastaddan",
+                "leahppi dolastaddan",
+                "leaba dolastaddan",
+                "leat dolastaddan",
+                "lehpet dolastaddan",
+                "leat dolastaddan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen dolastaddan",
+                "ledjet dolastaddan",
+                "lei dolastaddan",
+                "leimme dolastaddan",
+                "leidde dolastaddan",
+                "leigga dolastaddan",
+                "leimmet dolastaddan",
+                "leiddet dolastaddan",
+                "ledje dolastaddan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean dolastaddame, -min",
+                "leat dolastaddame, -min",
+                "lea dolastaddame, -min",
+                "letne dolastaddame, -min",
+                "leahppi dolastaddame, -min",
+                "leaba dolastaddame, -min",
+                "leat dolastaddame, -min",
+                "lehpet dolastaddame, -min",
+                "leat dolastaddame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen dolastaddame, -min",
+                "ledjet dolastaddame, -min",
+                "lei dolastaddame, -min",
+                "leimme dolastaddame, -min",
+                "leidde dolastaddame, -min",
+                "leigga dolastaddame, -min",
+                "leimmet dolastaddame, -min",
+                "leiddet dolastaddame, -min",
+                "ledje dolastaddame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "dolastattašin",
+                "dolastattašit",
+                "dolastattašii",
+                "dolastattašeimme",
+                "dolastattašeidde",
+                "dolastattašeigga",
+                "dolastattašeimmet",
+                "dolastattašeiddet",
+                "dolastattašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in dolastattaše",
+                "it dolastattaše",
+                "ii dolastattaše",
+                "ean dolastattaše",
+                "eahppi dolastattaše",
+                "eaba dolastattaše",
+                "eat dolastattaše",
+                "ehpet dolastattaše",
+                "eai dolastattaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "dolastattažan",
+                "dolastattažat",
+                "dolastattaš",
+                "dolastattažetne",
+                "dolastattažeahppi",
+                "dolastattažeaba",
+                "dolastattažit, -žat",
+                "dolastattažehpet",
+                "dolastattažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in dolastattaš",
+                "it dolastattaš",
+                "ii dolastattaš",
+                "ean dolastattaš",
+                "eahppi dolastattaš",
+                "eaba dolastattaš",
+                "eat dolastattaš",
+                "ehpet dolastattaš",
+                "eai dolastattaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "dolastaddon",
+                "dolastatta",
+                "dolastaddos",
+                "dolastaddu",
+                "dolastaddi",
+                "dolastaddoska",
+                "dolastaddot",
+                "dolastaddet, dolastaddit",
+                "dolastaddoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon dolastatta",
+                "ale dolastatta",
+                "allos dolastatta",
+                "allu dolastatta",
+                "alli dolastatta",
+                "alloska dolastatta",
+                "allot, allut dolastatta",
+                "allet, allit dolastatta",
+                "alloset dolastatta"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Dolastaddat",
+    "valid": 1
+}

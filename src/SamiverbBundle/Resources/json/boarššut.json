@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "boarššut", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "boaršun", 
+        "boaršut", 
+        "boarššu", 
+        "boarššo", 
+        "boarššubeahtti", 
+        "boarššuba", 
+        "boarššut", 
+        "boarššubehtet", 
+        "boarššot"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in boaršo", 
+        "it boaršo", 
+        "ii boaršo", 
+        "ean boaršo", 
+        "eahppi boaršo", 
+        "eaba boaršo", 
+        "eat boaršo", 
+        "ehpet boaršo", 
+        "eai boaršo"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "boarššon", 
+        "boarššot", 
+        "boaršui", 
+        "boaršuime", 
+        "boaršuide", 
+        "boaršuiga", 
+        "boaršuimet", 
+        "boaršuidet", 
+        "boarššo"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in boarššon", 
+        "it boarššon", 
+        "ii boarššon", 
+        "ean boarššon", 
+        "eahppi boarššon", 
+        "eaba boarššon", 
+        "eat boarššon", 
+        "ehpet boarššon", 
+        "eai boarššon"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean boarššon", 
+        "leat boarššon", 
+        "lea boarššon", 
+        "letne boarššon", 
+        "leahppi boarššon", 
+        "leaba boarššon", 
+        "leat boarššon", 
+        "lehpet boarššon", 
+        "leat boarššon"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen boarššon", 
+        "ledjet boarššon", 
+        "lei boarššon", 
+        "leimme boarššon", 
+        "leidde boarššon", 
+        "leigga boarššon", 
+        "leimmet boarššon", 
+        "leiddet boarššon", 
+        "ledje boarššon"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean boarššume, -min", 
+        "leat boarššume, -min", 
+        "lea boarššume, -min", 
+        "letne boarššume, -min", 
+        "leahppi boarššume, -min", 
+        "leaba boarššume, -min", 
+        "leat boarššume, -min", 
+        "lehpet boarššume, -min", 
+        "leat boarššume, -min"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen boarššume, -min", 
+        "ledjet boarššume, -min", 
+        "lei boarššume, -min", 
+        "leimme boarššume, -min", 
+        "leidde boarššume, -min", 
+        "leigga boarššume, -min", 
+        "leimmet boarššume, -min", 
+        "leiddet boarššume, -min", 
+        "ledje boarššume, -min"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "boaršošin", 
+        "boaršošit", 
+        "boaršošii", 
+        "boaršošeimme", 
+        "boaršošeidde", 
+        "boaršošeigga", 
+        "boaršošeimmet", 
+        "boaršošeiddet", 
+        "boaršošedje"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in boaršoše", 
+        "it boaršoše", 
+        "ii boaršoše", 
+        "ean boaršoše", 
+        "eahppi boaršoše", 
+        "eaba boaršoše", 
+        "eat boaršoše", 
+        "ehpet boaršoše", 
+        "eai boaršoše"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "boaršožan", 
+        "boaršožat", 
+        "boaršoš", 
+        "boaršožetne", 
+        "boaršožeahppi", 
+        "boaršožeaba", 
+        "boaršožit, -žat", 
+        "boaršožehpet", 
+        "boaršožit"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in boaršoš", 
+        "it boaršoš", 
+        "ii boaršoš", 
+        "ean boaršoš", 
+        "eahppi boaršoš", 
+        "eaba boaršoš", 
+        "eat boaršoš", 
+        "ehpet boaršoš", 
+        "eai boaršoš"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "boarššon", 
+        "boaršo", 
+        "boarššos", 
+        "boarššu", 
+        "boarššu", 
+        "boarššoska", 
+        "boarššot", 
+        "boarššot", 
+        "boarššoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon boaršo", 
+        "ale boaršo", 
+        "allos boaršo", 
+        "allu boaršo", 
+        "alli boaršo", 
+        "alloska boaršo", 
+        "allot, allut boaršo", 
+        "allet, allit boaršo", 
+        "alloset boaršo"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Boarššut"
+}

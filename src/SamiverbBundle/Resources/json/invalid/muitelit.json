@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "muitelit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "muitelan",
+                "muitelat",
+                "muitela",
+                "muiteletne",
+                "muiteleahppi",
+                "muiteleaba",
+                "muitelit, -lat",
+                "muitelehpet",
+                "muitelit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in muitel",
+                "it muitel",
+                "ii muitel",
+                "ean muitel",
+                "eahppi muitel",
+                "eaba muitel",
+                "eat muitel",
+                "ehpet muitel",
+                "eai muitel"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "muitelin",
+                "muitelit",
+                "muitelii",
+                "muiteleimme",
+                "muiteleidde",
+                "muiteleigga",
+                "muiteleimmet",
+                "muiteleiddet",
+                "muiteledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in muitelan",
+                "it muitelan",
+                "ii muitelan",
+                "ean muitelan",
+                "eahppi muitelan",
+                "eaba muitelan",
+                "eat muitelan",
+                "ehpet muitelan",
+                "eai muitelan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean muitelan",
+                "leat muitelan",
+                "lea muitelan",
+                "letne muitelan",
+                "leahppi muitelan",
+                "leaba muitelan",
+                "leat muitelan",
+                "lehpet muitelan",
+                "leat muitelan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen muitelan",
+                "ledjet muitelan",
+                "lei muitelan",
+                "leimme muitelan",
+                "leidde muitelan",
+                "leigga muitelan",
+                "leimmet muitelan",
+                "leiddet muitelan",
+                "ledje muitelan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean muiteleame, -men",
+                "leat muiteleame, -men",
+                "lea muiteleame, -men",
+                "letne muiteleame, -men",
+                "leahppi muiteleame, -men",
+                "leaba muiteleame, -men",
+                "leat muiteleame, -men",
+                "lehpet muiteleame, -men",
+                "leat muiteleame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen muiteleame, -men",
+                "ledjet muiteleame, -men",
+                "lei muiteleame, -men",
+                "leimme muiteleame, -men",
+                "leidde muiteleame, -men",
+                "leigga muiteleame, -men",
+                "leimmet muiteleame, -men",
+                "leiddet muiteleame, -men",
+                "ledje muiteleame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "muitelivččen",
+                "muitelivččet",
+                "muitelivččii",
+                "muitelivččiime",
+                "muitelivččiide",
+                "muitelivččiiga",
+                "muitelivččiimet",
+                "muitelivččiidet",
+                "muitelivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in muitelivčče",
+                "it muitelivčče",
+                "ii muitelivčče",
+                "ean muitelivčče",
+                "eahppi muitelivčče",
+                "eaba muitelivčče",
+                "eat muitelivčče",
+                "ehpet muitelivčče",
+                "eai muitelivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "muiteleaččan",
+                "muiteleaččat",
+                "muiteleaš, -leš, -leažžá",
+                "muiteležže",
+                "muiteleažžabeahtti",
+                "muiteleažžaba",
+                "muiteleažžat",
+                "muiteleažžabehtet",
+                "muiteležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in muiteleaš, -leš, -leažžá",
+                "it muiteleaš, -leš, -leažžá",
+                "ii muiteleaš, -leš, -leažžá",
+                "ean muiteleaš, -leš, -leažžá",
+                "eahppi muiteleaš, -leš, -leažžá",
+                "eaba muiteleaš, -leš, -leažžá",
+                "eat muiteleaš, -leš, -leažžá",
+                "ehpet muiteleaš, -leš, -leažžá",
+                "eai muiteleaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "muitelehkon",
+                "muitel",
+                "muitelehkos, muitelus",
+                "muiteleadnu",
+                "muiteleahkki",
+                "muitelehkoska",
+                "muitelehkot, muiteleahkkut, muiteletnot, muiteleadnot",
+                "muitelehket",
+                "muitelehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon muitel",
+                "ale muitel",
+                "allos muitel",
+                "allu muitel",
+                "alli muitel",
+                "alloska muitel",
+                "allot, allut muitel",
+                "allet, allit muitel",
+                "alloset muitel"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "valid": 0,
+    "value": "Muitelit"
+}

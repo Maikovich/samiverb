@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "hásket",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "hásken",
+                "hásket",
+                "háske",
+                "háskejetne",
+                "háskebeahtti",
+                "háskeba",
+                "hásket",
+                "háskebehtet",
+                "háskejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in háske",
+                "it háske",
+                "ii háske",
+                "ean háske",
+                "eahppi háske",
+                "eaba háske",
+                "eat háske",
+                "ehpet háske",
+                "eai háske"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "háskejin",
+                "háskejit",
+                "háskii",
+                "háskiime",
+                "háskiide",
+                "háskiiga",
+                "háskiimet",
+                "háskiidet",
+                "háskejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in hásken",
+                "it hásken",
+                "ii hásken",
+                "ean hásken",
+                "eahppi hásken",
+                "eaba hásken",
+                "eat hásken",
+                "ehpet hásken",
+                "eai hásken"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean hásken",
+                "leat hásken",
+                "lea hásken",
+                "letne hásken",
+                "leahppi hásken",
+                "leaba hásken",
+                "leat hásken",
+                "lehpet hásken",
+                "leat hásken"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen hásken",
+                "ledjet hásken",
+                "lei hásken",
+                "leimme hásken",
+                "leidde hásken",
+                "leigga hásken",
+                "leimmet hásken",
+                "leiddet hásken",
+                "ledje hásken"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean háskeme, -min",
+                "leat háskeme, -min",
+                "lea háskeme, -min",
+                "letne háskeme, -min",
+                "leahppi háskeme, -min",
+                "leaba háskeme, -min",
+                "leat háskeme, -min",
+                "lehpet háskeme, -min",
+                "leat háskeme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen háskeme, -min",
+                "ledjet háskeme, -min",
+                "lei háskeme, -min",
+                "leimme háskeme, -min",
+                "leidde háskeme, -min",
+                "leigga háskeme, -min",
+                "leimmet háskeme, -min",
+                "leiddet háskeme, -min",
+                "ledje háskeme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "háskešin",
+                "háskešit",
+                "háskešii",
+                "háskešeimme",
+                "háskešeidde",
+                "háskešeigga",
+                "háskešeimmet",
+                "háskešeiddet",
+                "háskešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in háskeše",
+                "it háskeše",
+                "ii háskeše",
+                "ean háskeše",
+                "eahppi háskeše",
+                "eaba háskeše",
+                "eat háskeše",
+                "ehpet háskeše",
+                "eai háskeše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "háskežan",
+                "háskežat",
+                "háskeš",
+                "háskežetne",
+                "háskežeahppi",
+                "háskežeaba",
+                "háskežit, -žat",
+                "háskežehpet",
+                "háskežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in háskeš",
+                "it háskeš",
+                "ii háskeš",
+                "ean háskeš",
+                "eahppi háskeš",
+                "eaba háskeš",
+                "eat háskeš",
+                "ehpet háskeš",
+                "eai háskeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "háskejehkon",
+                "háske",
+                "háskejehkos",
+                "háskejeadnu",
+                "háskejeahkki",
+                "háskejehkoska",
+                "háskejeahkkut, háskejeadnot, háskejehkot, háskejetnot",
+                "háskejeahkkit",
+                "háskejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon háske",
+                "ale háske",
+                "allos háske",
+                "allu háske",
+                "alli háske",
+                "alloska háske",
+                "allot, allut háske",
+                "allet, allit háske",
+                "alloset háske"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Hásket",
+    "valid": 1
+}

@@ -1,0 +1,269 @@
+{
+    "count": 44,
+    "verbs": [
+        {
+            "name": "muitašit",
+            "valid": 0,
+            "timesAccessed": 92,
+            "lastAccessed": "2015-04-07 22:29:42"
+        },
+        {
+            "name": "muitahaddat",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-28 09:57:04"
+        },
+        {
+            "name": "fortet",
+            "valid": 0,
+            "timesAccessed": 68,
+            "lastAccessed": "2015-04-03 01:08:43"
+        },
+        {
+            "name": "muitasaddat",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-30 03:44:34"
+        },
+        {
+            "name": "muitasit",
+            "valid": 0,
+            "timesAccessed": 8,
+            "lastAccessed": "2015-03-30 05:33:56"
+        },
+        {
+            "name": "behdilit",
+            "valid": 0,
+            "timesAccessed": 2,
+            "lastAccessed": "2015-03-30 05:03:19"
+        },
+        {
+            "name": "berdihit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-30 07:15:25"
+        },
+        {
+            "name": "muitagaddat",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-30 07:15:25"
+        },
+        {
+            "name": "muitabaddat",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-30 07:15:25"
+        },
+        {
+            "name": "berguhit",
+            "valid": 0,
+            "timesAccessed": 3,
+            "lastAccessed": "2015-03-30 23:47:16"
+        },
+        {
+            "name": "huilit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-30 07:15:25"
+        },
+        {
+            "name": "berulit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-30 07:15:25"
+        },
+        {
+            "name": "muigalit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "burgihit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "bergihit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "várgulit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "bergulit",
+            "valid": 0,
+            "timesAccessed": 2,
+            "lastAccessed": "2015-03-31 07:04:04"
+        },
+        {
+            "name": "formmát",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "muidelit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "berluhit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "berzulit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "verzulit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "berdulit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "muitastit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "muibit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "mubilit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "mubidit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "muitaledjet",
+            "valid": 0,
+            "timesAccessed": 4,
+            "lastAccessed": "2015-04-07 18:45:32"
+        },
+        {
+            "name": "berhulit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "meggut",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "birgidit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "virgidit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "bergidit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "berjulit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "haliidit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "mehilit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "muitelit",
+            "valid": 0,
+            "timesAccessed": 2,
+            "lastAccessed": "2015-04-07 07:55:33"
+        },
+        {
+            "name": "muitet",
+            "valid": 0,
+            "timesAccessed": 3,
+            "lastAccessed": "2015-03-31 05:52:41"
+        },
+        {
+            "name": "halidit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:28"
+        },
+        {
+            "name": "hálidit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-03-31 00:48:29"
+        },
+        {
+            "name": "mehelit",
+            "valid": 0,
+            "timesAccessed": 2,
+            "lastAccessed": "2015-04-07 07:26:43"
+        },
+        {
+            "name": "medelit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-04-07 07:27:20"
+        },
+        {
+            "name": "meddelit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-04-07 08:04:10"
+        },
+        {
+            "name": "muidot",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-04-07 10:19:19"
+        }
+    ]
+}

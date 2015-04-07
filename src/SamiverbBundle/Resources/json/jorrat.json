@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "jorrat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "joran",
+                "jorat",
+                "jorrá",
+                "jorre",
+                "jorrabeahtti",
+                "jorraba",
+                "jorrat",
+                "jorrabehtet",
+                "jorret"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in jora",
+                "it jora",
+                "ii jora",
+                "ean jora",
+                "eahppi jora",
+                "eaba jora",
+                "eat jora",
+                "ehpet jora",
+                "eai jora"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "jorren",
+                "jorret",
+                "jorai",
+                "joraime",
+                "joraide",
+                "joraiga",
+                "joraimet",
+                "joraidet",
+                "jorre"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in jorran",
+                "it jorran",
+                "ii jorran",
+                "ean jorran",
+                "eahppi jorran",
+                "eaba jorran",
+                "eat jorran",
+                "ehpet jorran",
+                "eai jorran"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean jorran",
+                "leat jorran",
+                "lea jorran",
+                "letne jorran",
+                "leahppi jorran",
+                "leaba jorran",
+                "leat jorran",
+                "lehpet jorran",
+                "leat jorran"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen jorran",
+                "ledjet jorran",
+                "lei jorran",
+                "leimme jorran",
+                "leidde jorran",
+                "leigga jorran",
+                "leimmet jorran",
+                "leiddet jorran",
+                "ledje jorran"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean jorrame, -min",
+                "leat jorrame, -min",
+                "lea jorrame, -min",
+                "letne jorrame, -min",
+                "leahppi jorrame, -min",
+                "leaba jorrame, -min",
+                "leat jorrame, -min",
+                "lehpet jorrame, -min",
+                "leat jorrame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen jorrame, -min",
+                "ledjet jorrame, -min",
+                "lei jorrame, -min",
+                "leimme jorrame, -min",
+                "leidde jorrame, -min",
+                "leigga jorrame, -min",
+                "leimmet jorrame, -min",
+                "leiddet jorrame, -min",
+                "ledje jorrame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "jorašin",
+                "jorašit",
+                "jorašii",
+                "jorašeimme",
+                "jorašeidde",
+                "jorašeigga",
+                "jorašeimmet",
+                "jorašeiddet",
+                "jorašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in joraše",
+                "it joraše",
+                "ii joraše",
+                "ean joraše",
+                "eahppi joraše",
+                "eaba joraše",
+                "eat joraše",
+                "ehpet joraše",
+                "eai joraše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "joražan",
+                "joražat",
+                "joraš",
+                "joražetne",
+                "joražeahppi",
+                "joražeaba",
+                "joražit, -žat",
+                "joražehpet",
+                "joražit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in joraš",
+                "it joraš",
+                "ii joraš",
+                "ean joraš",
+                "eahppi joraš",
+                "eaba joraš",
+                "eat joraš",
+                "ehpet joraš",
+                "eai joraš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "jorron",
+                "jora",
+                "jorros",
+                "jorru",
+                "jorri",
+                "jorroska",
+                "jorrot",
+                "jorret, jorrit",
+                "jorroset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon jora",
+                "ale jora",
+                "allos jora",
+                "allu jora",
+                "alli jora",
+                "alloska jora",
+                "allot, allut jora",
+                "allet, allit jora",
+                "alloset jora"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Jorrat",
+    "valid": 1
+}

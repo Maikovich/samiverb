@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "huikit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "huikkán",
+                "huikkát",
+                "huiká",
+                "huike",
+                "huikibeahtti",
+                "huikiba",
+                "huikit",
+                "huikibehtet",
+                "huiket"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in huikke",
+                "it huikke",
+                "ii huikke",
+                "ean huikke",
+                "eahppi huikke",
+                "eaba huikke",
+                "eat huikke",
+                "ehpet huikke",
+                "eai huikke"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "huiken",
+                "huiket",
+                "huikkii",
+                "huikkiime",
+                "huikkiide",
+                "huikkiiga",
+                "huikkiimet",
+                "huikkiidet",
+                "huike"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in huikán",
+                "it huikán",
+                "ii huikán",
+                "ean huikán",
+                "eahppi huikán",
+                "eaba huikán",
+                "eat huikán",
+                "ehpet huikán",
+                "eai huikán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean huikán",
+                "leat huikán",
+                "lea huikán",
+                "letne huikán",
+                "leahppi huikán",
+                "leaba huikán",
+                "leat huikán",
+                "lehpet huikán",
+                "leat huikán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen huikán",
+                "ledjet huikán",
+                "lei huikán",
+                "leimme huikán",
+                "leidde huikán",
+                "leigga huikán",
+                "leimmet huikán",
+                "leiddet huikán",
+                "ledje huikán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean huikime, -min",
+                "leat huikime, -min",
+                "lea huikime, -min",
+                "letne huikime, -min",
+                "leahppi huikime, -min",
+                "leaba huikime, -min",
+                "leat huikime, -min",
+                "lehpet huikime, -min",
+                "leat huikime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen huikime, -min",
+                "ledjet huikime, -min",
+                "lei huikime, -min",
+                "leimme huikime, -min",
+                "leidde huikime, -min",
+                "leigga huikime, -min",
+                "leimmet huikime, -min",
+                "leiddet huikime, -min",
+                "ledje huikime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "huikkášin",
+                "huikkášit",
+                "huikkášii",
+                "huikkášeimme",
+                "huikkášeidde",
+                "huikkášeigga",
+                "huikkášeimmet",
+                "huikkášeiddet",
+                "huikkášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in huikkáše",
+                "it huikkáše",
+                "ii huikkáše",
+                "ean huikkáše",
+                "eahppi huikkáše",
+                "eaba huikkáše",
+                "eat huikkáše",
+                "ehpet huikkáše",
+                "eai huikkáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "huikkežan",
+                "huikkežat",
+                "huikkeš",
+                "huikkežetne",
+                "huikkežeahppi",
+                "huikkežeaba",
+                "huikkežit, -žat",
+                "huikkežehpet",
+                "huikkežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in huikkeš",
+                "it huikkeš",
+                "ii huikkeš",
+                "ean huikkeš",
+                "eahppi huikkeš",
+                "eaba huikkeš",
+                "eat huikkeš",
+                "ehpet huikkeš",
+                "eai huikkeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "huikon",
+                "huikke",
+                "huikos",
+                "huiku",
+                "huiki",
+                "huikoska",
+                "huikot",
+                "huiket",
+                "huikoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon huikke",
+                "ale huikke",
+                "allos huikke",
+                "allu huikke",
+                "alli huikke",
+                "alloska huikke",
+                "allot, allut huikke",
+                "allet, allit huikke",
+                "alloset huikke"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Huikit",
+    "valid": 1
+}

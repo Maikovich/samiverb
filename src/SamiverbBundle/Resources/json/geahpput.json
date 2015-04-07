@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "geahpput",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "geahpun",
+                "geahput",
+                "geahppu",
+                "gehppo",
+                "geahppubeahtti",
+                "geahppuba",
+                "geahpput",
+                "geahppubehtet",
+                "gehppot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in geahpo",
+                "it geahpo",
+                "ii geahpo",
+                "ean geahpo",
+                "eahppi geahpo",
+                "eaba geahpo",
+                "eat geahpo",
+                "ehpet geahpo",
+                "eai geahpo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gehppon",
+                "gehppot",
+                "geahpui",
+                "geahpuime",
+                "geahpuide",
+                "geahpuiga",
+                "geahpuimet",
+                "geahpuidet",
+                "gehppo"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gehppon",
+                "it gehppon",
+                "ii gehppon",
+                "ean gehppon",
+                "eahppi gehppon",
+                "eaba gehppon",
+                "eat gehppon",
+                "ehpet gehppon",
+                "eai gehppon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gehppon",
+                "leat gehppon",
+                "lea gehppon",
+                "letne gehppon",
+                "leahppi gehppon",
+                "leaba gehppon",
+                "leat gehppon",
+                "lehpet gehppon",
+                "leat gehppon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gehppon",
+                "ledjet gehppon",
+                "lei gehppon",
+                "leimme gehppon",
+                "leidde gehppon",
+                "leigga gehppon",
+                "leimmet gehppon",
+                "leiddet gehppon",
+                "ledje gehppon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean geahppume, -min",
+                "leat geahppume, -min",
+                "lea geahppume, -min",
+                "letne geahppume, -min",
+                "leahppi geahppume, -min",
+                "leaba geahppume, -min",
+                "leat geahppume, -min",
+                "lehpet geahppume, -min",
+                "leat geahppume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen geahppume, -min",
+                "ledjet geahppume, -min",
+                "lei geahppume, -min",
+                "leimme geahppume, -min",
+                "leidde geahppume, -min",
+                "leigga geahppume, -min",
+                "leimmet geahppume, -min",
+                "leiddet geahppume, -min",
+                "ledje geahppume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gehpošin",
+                "gehpošit",
+                "gehpošii",
+                "gehpošeimme",
+                "gehpošeidde",
+                "gehpošeigga",
+                "gehpošeimmet",
+                "gehpošeiddet",
+                "gehpošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gehpoše",
+                "it gehpoše",
+                "ii gehpoše",
+                "ean gehpoše",
+                "eahppi gehpoše",
+                "eaba gehpoše",
+                "eat gehpoše",
+                "ehpet gehpoše",
+                "eai gehpoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gehpožan",
+                "gehpožat",
+                "gehpoš",
+                "gehpožetne",
+                "gehpožeahppi",
+                "gehpožeaba",
+                "gehpožit, -žat",
+                "gehpožehpet",
+                "gehpožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gehpoš",
+                "it gehpoš",
+                "ii gehpoš",
+                "ean gehpoš",
+                "eahppi gehpoš",
+                "eaba gehpoš",
+                "eat gehpoš",
+                "ehpet gehpoš",
+                "eai gehpoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gehppon",
+                "geahpo",
+                "gehppos",
+                "geahppu",
+                "geahppu",
+                "gehpposka",
+                "gehppot, geahppot",
+                "gehppot, geahppot",
+                "gehpposet"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon geahpo",
+                "ale geahpo",
+                "allos geahpo",
+                "allu geahpo",
+                "alli geahpo",
+                "alloska geahpo",
+                "allot, allut geahpo",
+                "allet, allit geahpo",
+                "alloset geahpo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Geahpput",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "muitabaddat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "muitabattan",
+                "muitabattat",
+                "muitabaddá",
+                "muitabadde",
+                "muitabaddabeahtti",
+                "muitabaddaba",
+                "muitabaddat",
+                "muitabaddabehtet",
+                "muitabaddet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in muitabatta",
+                "it muitabatta",
+                "ii muitabatta",
+                "ean muitabatta",
+                "eahppi muitabatta",
+                "eaba muitabatta",
+                "eat muitabatta",
+                "ehpet muitabatta",
+                "eai muitabatta"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "muitabadden",
+                "muitabaddet",
+                "muitabattai",
+                "muitabattaime",
+                "muitabattaide",
+                "muitabattaiga",
+                "muitabattaimet",
+                "muitabattaidet",
+                "muitabadde"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in muitabaddan",
+                "it muitabaddan",
+                "ii muitabaddan",
+                "ean muitabaddan",
+                "eahppi muitabaddan",
+                "eaba muitabaddan",
+                "eat muitabaddan",
+                "ehpet muitabaddan",
+                "eai muitabaddan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean muitabaddan",
+                "leat muitabaddan",
+                "lea muitabaddan",
+                "letne muitabaddan",
+                "leahppi muitabaddan",
+                "leaba muitabaddan",
+                "leat muitabaddan",
+                "lehpet muitabaddan",
+                "leat muitabaddan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen muitabaddan",
+                "ledjet muitabaddan",
+                "lei muitabaddan",
+                "leimme muitabaddan",
+                "leidde muitabaddan",
+                "leigga muitabaddan",
+                "leimmet muitabaddan",
+                "leiddet muitabaddan",
+                "ledje muitabaddan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean muitabaddame, -min",
+                "leat muitabaddame, -min",
+                "lea muitabaddame, -min",
+                "letne muitabaddame, -min",
+                "leahppi muitabaddame, -min",
+                "leaba muitabaddame, -min",
+                "leat muitabaddame, -min",
+                "lehpet muitabaddame, -min",
+                "leat muitabaddame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen muitabaddame, -min",
+                "ledjet muitabaddame, -min",
+                "lei muitabaddame, -min",
+                "leimme muitabaddame, -min",
+                "leidde muitabaddame, -min",
+                "leigga muitabaddame, -min",
+                "leimmet muitabaddame, -min",
+                "leiddet muitabaddame, -min",
+                "ledje muitabaddame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "muitabattašin",
+                "muitabattašit",
+                "muitabattašii",
+                "muitabattašeimme",
+                "muitabattašeidde",
+                "muitabattašeigga",
+                "muitabattašeimmet",
+                "muitabattašeiddet",
+                "muitabattašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in muitabattaše",
+                "it muitabattaše",
+                "ii muitabattaše",
+                "ean muitabattaše",
+                "eahppi muitabattaše",
+                "eaba muitabattaše",
+                "eat muitabattaše",
+                "ehpet muitabattaše",
+                "eai muitabattaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "muitabattažan",
+                "muitabattažat",
+                "muitabattaš",
+                "muitabattažetne",
+                "muitabattažeahppi",
+                "muitabattažeaba",
+                "muitabattažit, -žat",
+                "muitabattažehpet",
+                "muitabattažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in muitabattaš",
+                "it muitabattaš",
+                "ii muitabattaš",
+                "ean muitabattaš",
+                "eahppi muitabattaš",
+                "eaba muitabattaš",
+                "eat muitabattaš",
+                "ehpet muitabattaš",
+                "eai muitabattaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "muitabaddon",
+                "muitabatta",
+                "muitabaddos",
+                "muitabaddu",
+                "muitabaddi",
+                "muitabaddoska",
+                "muitabaddot",
+                "muitabaddet, muitabaddit",
+                "muitabaddoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon muitabatta",
+                "ale muitabatta",
+                "allos muitabatta",
+                "allu muitabatta",
+                "alli muitabatta",
+                "alloska muitabatta",
+                "allot, allut muitabatta",
+                "allet, allit muitabatta",
+                "alloset muitabatta"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "valid": 0,
+    "value": "Muitabaddat"
+}

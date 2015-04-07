@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gávastit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gávastan",
+                "gávastat",
+                "gávasta",
+                "gávastetne",
+                "gávasteahppi",
+                "gávasteaba",
+                "gávastit, -tat",
+                "gávastehpet",
+                "gávastit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gávas",
+                "it gávas",
+                "ii gávas",
+                "ean gávas",
+                "eahppi gávas",
+                "eaba gávas",
+                "eat gávas",
+                "ehpet gávas",
+                "eai gávas"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gávastin",
+                "gávastit",
+                "gávastii",
+                "gávasteimme",
+                "gávasteidde",
+                "gávasteigga",
+                "gávasteimmet",
+                "gávasteiddet",
+                "gávastedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gávastan",
+                "it gávastan",
+                "ii gávastan",
+                "ean gávastan",
+                "eahppi gávastan",
+                "eaba gávastan",
+                "eat gávastan",
+                "ehpet gávastan",
+                "eai gávastan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gávastan",
+                "leat gávastan",
+                "lea gávastan",
+                "letne gávastan",
+                "leahppi gávastan",
+                "leaba gávastan",
+                "leat gávastan",
+                "lehpet gávastan",
+                "leat gávastan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gávastan",
+                "ledjet gávastan",
+                "lei gávastan",
+                "leimme gávastan",
+                "leidde gávastan",
+                "leigga gávastan",
+                "leimmet gávastan",
+                "leiddet gávastan",
+                "ledje gávastan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gávasteame, -men",
+                "leat gávasteame, -men",
+                "lea gávasteame, -men",
+                "letne gávasteame, -men",
+                "leahppi gávasteame, -men",
+                "leaba gávasteame, -men",
+                "leat gávasteame, -men",
+                "lehpet gávasteame, -men",
+                "leat gávasteame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gávasteame, -men",
+                "ledjet gávasteame, -men",
+                "lei gávasteame, -men",
+                "leimme gávasteame, -men",
+                "leidde gávasteame, -men",
+                "leigga gávasteame, -men",
+                "leimmet gávasteame, -men",
+                "leiddet gávasteame, -men",
+                "ledje gávasteame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gávastivččen",
+                "gávastivččet",
+                "gávastivččii",
+                "gávastivččiime",
+                "gávastivččiide",
+                "gávastivččiiga",
+                "gávastivččiimet",
+                "gávastivččiidet",
+                "gávastivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gávastivčče",
+                "it gávastivčče",
+                "ii gávastivčče",
+                "ean gávastivčče",
+                "eahppi gávastivčče",
+                "eaba gávastivčče",
+                "eat gávastivčče",
+                "ehpet gávastivčče",
+                "eai gávastivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gávasteaččan",
+                "gávasteaččat",
+                "gávasteaš, -teš, -teažžá",
+                "gávastežže",
+                "gávasteažžabeahtti",
+                "gávasteažžaba",
+                "gávasteažžat",
+                "gávasteažžabehtet",
+                "gávastežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gávasteaš, -teš, -teažžá",
+                "it gávasteaš, -teš, -teažžá",
+                "ii gávasteaš, -teš, -teažžá",
+                "ean gávasteaš, -teš, -teažžá",
+                "eahppi gávasteaš, -teš, -teažžá",
+                "eaba gávasteaš, -teš, -teažžá",
+                "eat gávasteaš, -teš, -teažžá",
+                "ehpet gávasteaš, -teš, -teažžá",
+                "eai gávasteaš, -teš, -teažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gávastehkon",
+                "gávas",
+                "gávastehkos, gávastus",
+                "gávasteadnu",
+                "gávasteahkki",
+                "gávastehkoska",
+                "gávastehkot, gávasteahkkut, gávastetnot, gávasteadnot",
+                "gávastehket",
+                "gávastehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gávas",
+                "ale gávas",
+                "allos gávas",
+                "allu gávas",
+                "alli gávas",
+                "alloska gávas",
+                "allot, allut gávas",
+                "allet, allit gávas",
+                "alloset gávas"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gávastit",
+    "valid": 1
+}

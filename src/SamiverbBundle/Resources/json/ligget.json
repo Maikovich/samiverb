@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "ligget",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "liggen",
+                "ligget",
+                "ligge",
+                "liggejetne",
+                "liggebeahtti",
+                "liggeba",
+                "ligget",
+                "liggebehtet",
+                "liggejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in ligge",
+                "it ligge",
+                "ii ligge",
+                "ean ligge",
+                "eahppi ligge",
+                "eaba ligge",
+                "eat ligge",
+                "ehpet ligge",
+                "eai ligge"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "liggejin",
+                "liggejit",
+                "liggii",
+                "liggiime",
+                "liggiide",
+                "liggiiga",
+                "liggiimet",
+                "liggiidet",
+                "liggejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in liggen",
+                "it liggen",
+                "ii liggen",
+                "ean liggen",
+                "eahppi liggen",
+                "eaba liggen",
+                "eat liggen",
+                "ehpet liggen",
+                "eai liggen"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean liggen",
+                "leat liggen",
+                "lea liggen",
+                "letne liggen",
+                "leahppi liggen",
+                "leaba liggen",
+                "leat liggen",
+                "lehpet liggen",
+                "leat liggen"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen liggen",
+                "ledjet liggen",
+                "lei liggen",
+                "leimme liggen",
+                "leidde liggen",
+                "leigga liggen",
+                "leimmet liggen",
+                "leiddet liggen",
+                "ledje liggen"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean liggeme, -min",
+                "leat liggeme, -min",
+                "lea liggeme, -min",
+                "letne liggeme, -min",
+                "leahppi liggeme, -min",
+                "leaba liggeme, -min",
+                "leat liggeme, -min",
+                "lehpet liggeme, -min",
+                "leat liggeme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen liggeme, -min",
+                "ledjet liggeme, -min",
+                "lei liggeme, -min",
+                "leimme liggeme, -min",
+                "leidde liggeme, -min",
+                "leigga liggeme, -min",
+                "leimmet liggeme, -min",
+                "leiddet liggeme, -min",
+                "ledje liggeme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "liggešin",
+                "liggešit",
+                "liggešii",
+                "liggešeimme",
+                "liggešeidde",
+                "liggešeigga",
+                "liggešeimmet",
+                "liggešeiddet",
+                "liggešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in liggeše",
+                "it liggeše",
+                "ii liggeše",
+                "ean liggeše",
+                "eahppi liggeše",
+                "eaba liggeše",
+                "eat liggeše",
+                "ehpet liggeše",
+                "eai liggeše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "liggežan",
+                "liggežat",
+                "liggeš",
+                "liggežetne",
+                "liggežeahppi",
+                "liggežeaba",
+                "liggežit, -žat",
+                "liggežehpet",
+                "liggežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in liggeš",
+                "it liggeš",
+                "ii liggeš",
+                "ean liggeš",
+                "eahppi liggeš",
+                "eaba liggeš",
+                "eat liggeš",
+                "ehpet liggeš",
+                "eai liggeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "liggejehkon",
+                "ligge",
+                "liggejehkos",
+                "liggejeadnu",
+                "liggejeahkki",
+                "liggejehkoska",
+                "liggejeahkkut, liggejeadnot, liggejehkot, liggejetnot",
+                "liggejeahkkit",
+                "liggejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon ligge",
+                "ale ligge",
+                "allos ligge",
+                "allu ligge",
+                "alli ligge",
+                "alloska ligge",
+                "allot, allut ligge",
+                "allet, allit ligge",
+                "alloset ligge"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Ligget",
+    "valid": 1
+}

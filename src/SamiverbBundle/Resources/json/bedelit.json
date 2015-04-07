@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "bedelit", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "bedelan", 
+        "bedelat", 
+        "bedela", 
+        "bedeletne", 
+        "bedeleahppi", 
+        "bedeleaba", 
+        "bedelit, -lat", 
+        "bedelehpet", 
+        "bedelit"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in bedel", 
+        "it bedel", 
+        "ii bedel", 
+        "ean bedel", 
+        "eahppi bedel", 
+        "eaba bedel", 
+        "eat bedel", 
+        "ehpet bedel", 
+        "eai bedel"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "bedelin", 
+        "bedelit", 
+        "bedelii", 
+        "bedeleimme", 
+        "bedeleidde", 
+        "bedeleigga", 
+        "bedeleimmet", 
+        "bedeleiddet", 
+        "bedeledje"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in bedelan", 
+        "it bedelan", 
+        "ii bedelan", 
+        "ean bedelan", 
+        "eahppi bedelan", 
+        "eaba bedelan", 
+        "eat bedelan", 
+        "ehpet bedelan", 
+        "eai bedelan"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean bedelan", 
+        "leat bedelan", 
+        "lea bedelan", 
+        "letne bedelan", 
+        "leahppi bedelan", 
+        "leaba bedelan", 
+        "leat bedelan", 
+        "lehpet bedelan", 
+        "leat bedelan"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen bedelan", 
+        "ledjet bedelan", 
+        "lei bedelan", 
+        "leimme bedelan", 
+        "leidde bedelan", 
+        "leigga bedelan", 
+        "leimmet bedelan", 
+        "leiddet bedelan", 
+        "ledje bedelan"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean bedeleame, -men", 
+        "leat bedeleame, -men", 
+        "lea bedeleame, -men", 
+        "letne bedeleame, -men", 
+        "leahppi bedeleame, -men", 
+        "leaba bedeleame, -men", 
+        "leat bedeleame, -men", 
+        "lehpet bedeleame, -men", 
+        "leat bedeleame, -men"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen bedeleame, -men", 
+        "ledjet bedeleame, -men", 
+        "lei bedeleame, -men", 
+        "leimme bedeleame, -men", 
+        "leidde bedeleame, -men", 
+        "leigga bedeleame, -men", 
+        "leimmet bedeleame, -men", 
+        "leiddet bedeleame, -men", 
+        "ledje bedeleame, -men"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "bedelivččen", 
+        "bedelivččet", 
+        "bedelivččii", 
+        "bedelivččiime", 
+        "bedelivččiide", 
+        "bedelivččiiga", 
+        "bedelivččiimet", 
+        "bedelivččiidet", 
+        "bedelivčče"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in bedelivčče", 
+        "it bedelivčče", 
+        "ii bedelivčče", 
+        "ean bedelivčče", 
+        "eahppi bedelivčče", 
+        "eaba bedelivčče", 
+        "eat bedelivčče", 
+        "ehpet bedelivčče", 
+        "eai bedelivčče"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "bedeleaččan", 
+        "bedeleaččat", 
+        "bedeleaš, -leš, -leažžá", 
+        "bedeležže", 
+        "bedeleažžabeahtti", 
+        "bedeleažžaba", 
+        "bedeleažžat", 
+        "bedeleažžabehtet", 
+        "bedeležžet"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in bedeleaš, -leš, -leažžá", 
+        "it bedeleaš, -leš, -leažžá", 
+        "ii bedeleaš, -leš, -leažžá", 
+        "ean bedeleaš, -leš, -leažžá", 
+        "eahppi bedeleaš, -leš, -leažžá", 
+        "eaba bedeleaš, -leš, -leažžá", 
+        "eat bedeleaš, -leš, -leažžá", 
+        "ehpet bedeleaš, -leš, -leažžá", 
+        "eai bedeleaš, -leš, -leažžá"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "bedelehkon", 
+        "bedel", 
+        "bedelehkos, bedelus", 
+        "bedeleadnu", 
+        "bedeleahkki", 
+        "bedelehkoska", 
+        "bedelehkot, bedeleahkkut, bedeletnot, bedeleadnot", 
+        "bedelehket", 
+        "bedelehkoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon bedel", 
+        "ale bedel", 
+        "allos bedel", 
+        "allu bedel", 
+        "alli bedel", 
+        "alloska bedel", 
+        "allot, allut bedel", 
+        "allet, allit bedel", 
+        "alloset bedel"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Bedelit"
+}

@@ -1,0 +1,25 @@
+{% extends "SamiverbBundle::base.html.twig" %}
+
+{% block title %}
+  {% if activeTab is defined %} {{ activeTab | capitalize }} {% endif %}
+{% endblock %}
+
+{% block navbar_add %}
+{% endblock %}
+
+{% block tabs %}
+  <div class="adminpanel container">
+    <ul class="nav nav-tabs">
+      {% spaceless %}
+        {% for tab in ['panel', 'requests', 'threats'] %}
+          {% set active = (activeTab is defined and activeTab == tab) %}
+          <li role="presentation" {% if active %}class="active"{% endif %}><a href="{{ path('_admin_' ~ tab) }}">{{ tab | capitalize }}</a></li>
+        {% endfor %}
+      {% endspaceless %}
+    </ul>
+  </div>
+{% endblock %}
+
+{% block content %}
+
+{% endblock %}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "mehilit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "mehilan",
+                "mehilat",
+                "mehila",
+                "mehiletne",
+                "mehileahppi",
+                "mehileaba",
+                "mehilit, -lat",
+                "mehilehpet",
+                "mehilit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in mehil",
+                "it mehil",
+                "ii mehil",
+                "ean mehil",
+                "eahppi mehil",
+                "eaba mehil",
+                "eat mehil",
+                "ehpet mehil",
+                "eai mehil"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "mehilin",
+                "mehilit",
+                "mehilii",
+                "mehileimme",
+                "mehileidde",
+                "mehileigga",
+                "mehileimmet",
+                "mehileiddet",
+                "mehiledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in mehilan",
+                "it mehilan",
+                "ii mehilan",
+                "ean mehilan",
+                "eahppi mehilan",
+                "eaba mehilan",
+                "eat mehilan",
+                "ehpet mehilan",
+                "eai mehilan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean mehilan",
+                "leat mehilan",
+                "lea mehilan",
+                "letne mehilan",
+                "leahppi mehilan",
+                "leaba mehilan",
+                "leat mehilan",
+                "lehpet mehilan",
+                "leat mehilan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen mehilan",
+                "ledjet mehilan",
+                "lei mehilan",
+                "leimme mehilan",
+                "leidde mehilan",
+                "leigga mehilan",
+                "leimmet mehilan",
+                "leiddet mehilan",
+                "ledje mehilan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean mehileame, -men",
+                "leat mehileame, -men",
+                "lea mehileame, -men",
+                "letne mehileame, -men",
+                "leahppi mehileame, -men",
+                "leaba mehileame, -men",
+                "leat mehileame, -men",
+                "lehpet mehileame, -men",
+                "leat mehileame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen mehileame, -men",
+                "ledjet mehileame, -men",
+                "lei mehileame, -men",
+                "leimme mehileame, -men",
+                "leidde mehileame, -men",
+                "leigga mehileame, -men",
+                "leimmet mehileame, -men",
+                "leiddet mehileame, -men",
+                "ledje mehileame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "mehilivččen",
+                "mehilivččet",
+                "mehilivččii",
+                "mehilivččiime",
+                "mehilivččiide",
+                "mehilivččiiga",
+                "mehilivččiimet",
+                "mehilivččiidet",
+                "mehilivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in mehilivčče",
+                "it mehilivčče",
+                "ii mehilivčče",
+                "ean mehilivčče",
+                "eahppi mehilivčče",
+                "eaba mehilivčče",
+                "eat mehilivčče",
+                "ehpet mehilivčče",
+                "eai mehilivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "mehileaččan",
+                "mehileaččat",
+                "mehileaš, -leš, -leažžá",
+                "mehiležže",
+                "mehileažžabeahtti",
+                "mehileažžaba",
+                "mehileažžat",
+                "mehileažžabehtet",
+                "mehiležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in mehileaš, -leš, -leažžá",
+                "it mehileaš, -leš, -leažžá",
+                "ii mehileaš, -leš, -leažžá",
+                "ean mehileaš, -leš, -leažžá",
+                "eahppi mehileaš, -leš, -leažžá",
+                "eaba mehileaš, -leš, -leažžá",
+                "eat mehileaš, -leš, -leažžá",
+                "ehpet mehileaš, -leš, -leažžá",
+                "eai mehileaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "mehilehkon",
+                "mehil",
+                "mehilehkos, mehilus",
+                "mehileadnu",
+                "mehileahkki",
+                "mehilehkoska",
+                "mehilehkot, mehileahkkut, mehiletnot, mehileadnot",
+                "mehilehket",
+                "mehilehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon mehil",
+                "ale mehil",
+                "allos mehil",
+                "allu mehil",
+                "alli mehil",
+                "alloska mehil",
+                "allot, allut mehil",
+                "allet, allit mehil",
+                "alloset mehil"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "valid": 0,
+    "value": "Mehilit"
+}

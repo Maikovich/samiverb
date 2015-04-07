@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čuoigat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čuoiggan",
+                "čuoiggat",
+                "čuoigá",
+                "čuige",
+                "čuoigabeahtti",
+                "čuoigaba",
+                "čuoigat",
+                "čuoigabehtet",
+                "čuiget"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čuoigga",
+                "it čuoigga",
+                "ii čuoigga",
+                "ean čuoigga",
+                "eahppi čuoigga",
+                "eaba čuoigga",
+                "eat čuoigga",
+                "ehpet čuoigga",
+                "eai čuoigga"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čuigen",
+                "čuiget",
+                "čuoiggai",
+                "čuoiggaime",
+                "čuoiggaide",
+                "čuoiggaiga",
+                "čuoiggaimet",
+                "čuoiggaidet",
+                "čuige"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čuoigan",
+                "it čuoigan",
+                "ii čuoigan",
+                "ean čuoigan",
+                "eahppi čuoigan",
+                "eaba čuoigan",
+                "eat čuoigan",
+                "ehpet čuoigan",
+                "eai čuoigan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čuoigan",
+                "leat čuoigan",
+                "lea čuoigan",
+                "letne čuoigan",
+                "leahppi čuoigan",
+                "leaba čuoigan",
+                "leat čuoigan",
+                "lehpet čuoigan",
+                "leat čuoigan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čuoigan",
+                "ledjet čuoigan",
+                "lei čuoigan",
+                "leimme čuoigan",
+                "leidde čuoigan",
+                "leigga čuoigan",
+                "leimmet čuoigan",
+                "leiddet čuoigan",
+                "ledje čuoigan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čuoigame, -min",
+                "leat čuoigame, -min",
+                "lea čuoigame, -min",
+                "letne čuoigame, -min",
+                "leahppi čuoigame, -min",
+                "leaba čuoigame, -min",
+                "leat čuoigame, -min",
+                "lehpet čuoigame, -min",
+                "leat čuoigame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čuoigame, -min",
+                "ledjet čuoigame, -min",
+                "lei čuoigame, -min",
+                "leimme čuoigame, -min",
+                "leidde čuoigame, -min",
+                "leigga čuoigame, -min",
+                "leimmet čuoigame, -min",
+                "leiddet čuoigame, -min",
+                "ledje čuoigame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čuoiggašin",
+                "čuoiggašit",
+                "čuoiggašii",
+                "čuoiggašeimme",
+                "čuoiggašeidde",
+                "čuoiggašeigga",
+                "čuoiggašeimmet",
+                "čuoiggašeiddet",
+                "čuoiggašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čuoiggaše",
+                "it čuoiggaše",
+                "ii čuoiggaše",
+                "ean čuoiggaše",
+                "eahppi čuoiggaše",
+                "eaba čuoiggaše",
+                "eat čuoiggaše",
+                "ehpet čuoiggaše",
+                "eai čuoiggaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čuoiggažan",
+                "čuoiggažat",
+                "čuoiggaš",
+                "čuoiggažetne",
+                "čuoiggažeahppi",
+                "čuoiggažeaba",
+                "čuoiggažit, -žat",
+                "čuoiggažehpet",
+                "čuoiggažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čuoiggaš",
+                "it čuoiggaš",
+                "ii čuoiggaš",
+                "ean čuoiggaš",
+                "eahppi čuoiggaš",
+                "eaba čuoiggaš",
+                "eat čuoiggaš",
+                "ehpet čuoiggaš",
+                "eai čuoiggaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čuigon",
+                "čuoigga",
+                "čuigos",
+                "čuoigu",
+                "čuoigi",
+                "čuigoska",
+                "čuigot, čuoigot",
+                "čuiget, čuoigit",
+                "čuigoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čuoigga",
+                "ale čuoigga",
+                "allos čuoigga",
+                "allu čuoigga",
+                "alli čuoigga",
+                "alloska čuoigga",
+                "allot, allut čuoigga",
+                "allet, allit čuoigga",
+                "alloset čuoigga"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čuoigat",
+    "valid": 1
+}

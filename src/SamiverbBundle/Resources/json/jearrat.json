@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "jearrat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "jearan",
+                "jearat",
+                "jearrá",
+                "jerre",
+                "jearrabeahtti",
+                "jearraba",
+                "jearrat",
+                "jearrabehtet",
+                "jerret"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in jeara",
+                "it jeara",
+                "ii jeara",
+                "ean jeara",
+                "eahppi jeara",
+                "eaba jeara",
+                "eat jeara",
+                "ehpet jeara",
+                "eai jeara"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "jerren",
+                "jerret",
+                "jearai",
+                "jearaime",
+                "jearaide",
+                "jearaiga",
+                "jearaimet",
+                "jearaidet",
+                "jerre"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in jearran",
+                "it jearran",
+                "ii jearran",
+                "ean jearran",
+                "eahppi jearran",
+                "eaba jearran",
+                "eat jearran",
+                "ehpet jearran",
+                "eai jearran"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean jearran",
+                "leat jearran",
+                "lea jearran",
+                "letne jearran",
+                "leahppi jearran",
+                "leaba jearran",
+                "leat jearran",
+                "lehpet jearran",
+                "leat jearran"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen jearran",
+                "ledjet jearran",
+                "lei jearran",
+                "leimme jearran",
+                "leidde jearran",
+                "leigga jearran",
+                "leimmet jearran",
+                "leiddet jearran",
+                "ledje jearran"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean jearrame, -min",
+                "leat jearrame, -min",
+                "lea jearrame, -min",
+                "letne jearrame, -min",
+                "leahppi jearrame, -min",
+                "leaba jearrame, -min",
+                "leat jearrame, -min",
+                "lehpet jearrame, -min",
+                "leat jearrame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen jearrame, -min",
+                "ledjet jearrame, -min",
+                "lei jearrame, -min",
+                "leimme jearrame, -min",
+                "leidde jearrame, -min",
+                "leigga jearrame, -min",
+                "leimmet jearrame, -min",
+                "leiddet jearrame, -min",
+                "ledje jearrame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "jearašin",
+                "jearašit",
+                "jearašii",
+                "jearašeimme",
+                "jearašeidde",
+                "jearašeigga",
+                "jearašeimmet",
+                "jearašeiddet",
+                "jearašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in jearaše",
+                "it jearaše",
+                "ii jearaše",
+                "ean jearaše",
+                "eahppi jearaše",
+                "eaba jearaše",
+                "eat jearaše",
+                "ehpet jearaše",
+                "eai jearaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "jearažan",
+                "jearažat",
+                "jearaš",
+                "jearažetne",
+                "jearažeahppi",
+                "jearažeaba",
+                "jearažit, -žat",
+                "jearažehpet",
+                "jearažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in jearaš",
+                "it jearaš",
+                "ii jearaš",
+                "ean jearaš",
+                "eahppi jearaš",
+                "eaba jearaš",
+                "eat jearaš",
+                "ehpet jearaš",
+                "eai jearaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "jerron",
+                "jeara",
+                "jerros",
+                "jearru",
+                "jearri",
+                "jerroska",
+                "jerrot, jearrot",
+                "jerret, jearrit",
+                "jerroset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon jeara",
+                "ale jeara",
+                "allos jeara",
+                "allu jeara",
+                "alli jeara",
+                "alloska jeara",
+                "allot, allut jeara",
+                "allet, allit jeara",
+                "alloset jeara"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Jearrat",
+    "valid": 1
+}

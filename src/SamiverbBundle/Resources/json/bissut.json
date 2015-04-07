@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "bissut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "bisun",
+                "bisut",
+                "bissu",
+                "bisso",
+                "bissubeahtti",
+                "bissuba",
+                "bissut",
+                "bissubehtet",
+                "bissot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in biso",
+                "it biso",
+                "ii biso",
+                "ean biso",
+                "eahppi biso",
+                "eaba biso",
+                "eat biso",
+                "ehpet biso",
+                "eai biso"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "bisson",
+                "bissot",
+                "bisui",
+                "bisuime",
+                "bisuide",
+                "bisuiga",
+                "bisuimet",
+                "bisuidet",
+                "bisso"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in bisson",
+                "it bisson",
+                "ii bisson",
+                "ean bisson",
+                "eahppi bisson",
+                "eaba bisson",
+                "eat bisson",
+                "ehpet bisson",
+                "eai bisson"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean bisson",
+                "leat bisson",
+                "lea bisson",
+                "letne bisson",
+                "leahppi bisson",
+                "leaba bisson",
+                "leat bisson",
+                "lehpet bisson",
+                "leat bisson"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen bisson",
+                "ledjet bisson",
+                "lei bisson",
+                "leimme bisson",
+                "leidde bisson",
+                "leigga bisson",
+                "leimmet bisson",
+                "leiddet bisson",
+                "ledje bisson"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean bissume, -min",
+                "leat bissume, -min",
+                "lea bissume, -min",
+                "letne bissume, -min",
+                "leahppi bissume, -min",
+                "leaba bissume, -min",
+                "leat bissume, -min",
+                "lehpet bissume, -min",
+                "leat bissume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen bissume, -min",
+                "ledjet bissume, -min",
+                "lei bissume, -min",
+                "leimme bissume, -min",
+                "leidde bissume, -min",
+                "leigga bissume, -min",
+                "leimmet bissume, -min",
+                "leiddet bissume, -min",
+                "ledje bissume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "bisošin",
+                "bisošit",
+                "bisošii",
+                "bisošeimme",
+                "bisošeidde",
+                "bisošeigga",
+                "bisošeimmet",
+                "bisošeiddet",
+                "bisošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in bisoše",
+                "it bisoše",
+                "ii bisoše",
+                "ean bisoše",
+                "eahppi bisoše",
+                "eaba bisoše",
+                "eat bisoše",
+                "ehpet bisoše",
+                "eai bisoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "bisožan",
+                "bisožat",
+                "bisoš",
+                "bisožetne",
+                "bisožeahppi",
+                "bisožeaba",
+                "bisožit, -žat",
+                "bisožehpet",
+                "bisožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in bisoš",
+                "it bisoš",
+                "ii bisoš",
+                "ean bisoš",
+                "eahppi bisoš",
+                "eaba bisoš",
+                "eat bisoš",
+                "ehpet bisoš",
+                "eai bisoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "bisson",
+                "biso",
+                "bissos",
+                "bissu",
+                "bissu",
+                "bissoska",
+                "bissot",
+                "bissot",
+                "bissoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon biso",
+                "ale biso",
+                "allos biso",
+                "allu biso",
+                "alli biso",
+                "alloska biso",
+                "allot, allut biso",
+                "allet, allit biso",
+                "alloset biso"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Bissut",
+    "valid": 1
+}

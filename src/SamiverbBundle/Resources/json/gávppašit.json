@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gávppašit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gávppašan",
+                "gávppašat",
+                "gávppaša",
+                "gávppašetne",
+                "gávppašeahppi",
+                "gávppašeaba",
+                "gávppašit, -šat",
+                "gávppašehpet",
+                "gávppašit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gávppaš",
+                "it gávppaš",
+                "ii gávppaš",
+                "ean gávppaš",
+                "eahppi gávppaš",
+                "eaba gávppaš",
+                "eat gávppaš",
+                "ehpet gávppaš",
+                "eai gávppaš"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gávppašin",
+                "gávppašit",
+                "gávppašii",
+                "gávppašeimme",
+                "gávppašeidde",
+                "gávppašeigga",
+                "gávppašeimmet",
+                "gávppašeiddet",
+                "gávppašedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gávppašan",
+                "it gávppašan",
+                "ii gávppašan",
+                "ean gávppašan",
+                "eahppi gávppašan",
+                "eaba gávppašan",
+                "eat gávppašan",
+                "ehpet gávppašan",
+                "eai gávppašan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gávppašan",
+                "leat gávppašan",
+                "lea gávppašan",
+                "letne gávppašan",
+                "leahppi gávppašan",
+                "leaba gávppašan",
+                "leat gávppašan",
+                "lehpet gávppašan",
+                "leat gávppašan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gávppašan",
+                "ledjet gávppašan",
+                "lei gávppašan",
+                "leimme gávppašan",
+                "leidde gávppašan",
+                "leigga gávppašan",
+                "leimmet gávppašan",
+                "leiddet gávppašan",
+                "ledje gávppašan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gávppašeame, -men",
+                "leat gávppašeame, -men",
+                "lea gávppašeame, -men",
+                "letne gávppašeame, -men",
+                "leahppi gávppašeame, -men",
+                "leaba gávppašeame, -men",
+                "leat gávppašeame, -men",
+                "lehpet gávppašeame, -men",
+                "leat gávppašeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gávppašeame, -men",
+                "ledjet gávppašeame, -men",
+                "lei gávppašeame, -men",
+                "leimme gávppašeame, -men",
+                "leidde gávppašeame, -men",
+                "leigga gávppašeame, -men",
+                "leimmet gávppašeame, -men",
+                "leiddet gávppašeame, -men",
+                "ledje gávppašeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gávppašivččen",
+                "gávppašivččet",
+                "gávppašivččii",
+                "gávppašivččiime",
+                "gávppašivččiide",
+                "gávppašivččiiga",
+                "gávppašivččiimet",
+                "gávppašivččiidet",
+                "gávppašivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gávppašivčče",
+                "it gávppašivčče",
+                "ii gávppašivčče",
+                "ean gávppašivčče",
+                "eahppi gávppašivčče",
+                "eaba gávppašivčče",
+                "eat gávppašivčče",
+                "ehpet gávppašivčče",
+                "eai gávppašivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gávppašeaččan",
+                "gávppašeaččat",
+                "gávppašeaš, -šeš, -šeažžá",
+                "gávppašežže",
+                "gávppašeažžabeahtti",
+                "gávppašeažžaba",
+                "gávppašeažžat",
+                "gávppašeažžabehtet",
+                "gávppašežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gávppašeaš, -šeš, -šeažžá",
+                "it gávppašeaš, -šeš, -šeažžá",
+                "ii gávppašeaš, -šeš, -šeažžá",
+                "ean gávppašeaš, -šeš, -šeažžá",
+                "eahppi gávppašeaš, -šeš, -šeažžá",
+                "eaba gávppašeaš, -šeš, -šeažžá",
+                "eat gávppašeaš, -šeš, -šeažžá",
+                "ehpet gávppašeaš, -šeš, -šeažžá",
+                "eai gávppašeaš, -šeš, -šeažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gávppašehkon",
+                "gávppaš",
+                "gávppašehkos, gávppašus",
+                "gávppašeadnu",
+                "gávppašeahkki",
+                "gávppašehkoska",
+                "gávppašehkot, gávppašeahkkut, gávppašetnot, gávppašeadnot",
+                "gávppašehket",
+                "gávppašehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gávppaš",
+                "ale gávppaš",
+                "allos gávppaš",
+                "allu gávppaš",
+                "alli gávppaš",
+                "alloska gávppaš",
+                "allot, allut gávppaš",
+                "allet, allit gávppaš",
+                "alloset gávppaš"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gávppašit",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "lebbet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "lebben",
+                "lebbet",
+                "lebbe",
+                "lebbejetne",
+                "lebbebeahtti",
+                "lebbeba",
+                "lebbet",
+                "lebbebehtet",
+                "lebbejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in lebbe",
+                "it lebbe",
+                "ii lebbe",
+                "ean lebbe",
+                "eahppi lebbe",
+                "eaba lebbe",
+                "eat lebbe",
+                "ehpet lebbe",
+                "eai lebbe"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "lebbejin",
+                "lebbejit",
+                "lebbii",
+                "lebbiime",
+                "lebbiide",
+                "lebbiiga",
+                "lebbiimet",
+                "lebbiidet",
+                "lebbejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in lebben",
+                "it lebben",
+                "ii lebben",
+                "ean lebben",
+                "eahppi lebben",
+                "eaba lebben",
+                "eat lebben",
+                "ehpet lebben",
+                "eai lebben"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean lebben",
+                "leat lebben",
+                "lea lebben",
+                "letne lebben",
+                "leahppi lebben",
+                "leaba lebben",
+                "leat lebben",
+                "lehpet lebben",
+                "leat lebben"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen lebben",
+                "ledjet lebben",
+                "lei lebben",
+                "leimme lebben",
+                "leidde lebben",
+                "leigga lebben",
+                "leimmet lebben",
+                "leiddet lebben",
+                "ledje lebben"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean lebbeme, -min",
+                "leat lebbeme, -min",
+                "lea lebbeme, -min",
+                "letne lebbeme, -min",
+                "leahppi lebbeme, -min",
+                "leaba lebbeme, -min",
+                "leat lebbeme, -min",
+                "lehpet lebbeme, -min",
+                "leat lebbeme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen lebbeme, -min",
+                "ledjet lebbeme, -min",
+                "lei lebbeme, -min",
+                "leimme lebbeme, -min",
+                "leidde lebbeme, -min",
+                "leigga lebbeme, -min",
+                "leimmet lebbeme, -min",
+                "leiddet lebbeme, -min",
+                "ledje lebbeme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "lebbešin",
+                "lebbešit",
+                "lebbešii",
+                "lebbešeimme",
+                "lebbešeidde",
+                "lebbešeigga",
+                "lebbešeimmet",
+                "lebbešeiddet",
+                "lebbešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in lebbeše",
+                "it lebbeše",
+                "ii lebbeše",
+                "ean lebbeše",
+                "eahppi lebbeše",
+                "eaba lebbeše",
+                "eat lebbeše",
+                "ehpet lebbeše",
+                "eai lebbeše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "lebbežan",
+                "lebbežat",
+                "lebbeš",
+                "lebbežetne",
+                "lebbežeahppi",
+                "lebbežeaba",
+                "lebbežit, -žat",
+                "lebbežehpet",
+                "lebbežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in lebbeš",
+                "it lebbeš",
+                "ii lebbeš",
+                "ean lebbeš",
+                "eahppi lebbeš",
+                "eaba lebbeš",
+                "eat lebbeš",
+                "ehpet lebbeš",
+                "eai lebbeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "lebbejehkon",
+                "lebbe",
+                "lebbejehkos",
+                "lebbejeadnu",
+                "lebbejeahkki",
+                "lebbejehkoska",
+                "lebbejeahkkut, lebbejeadnot, lebbejehkot, lebbejetnot",
+                "lebbejeahkkit",
+                "lebbejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon lebbe",
+                "ale lebbe",
+                "allos lebbe",
+                "allu lebbe",
+                "alli lebbe",
+                "alloska lebbe",
+                "allot, allut lebbe",
+                "allet, allit lebbe",
+                "alloset lebbe"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Lebbet",
+    "valid": 1
+}

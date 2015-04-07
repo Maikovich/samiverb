@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čohkohallat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čohkohalan",
+                "čohkohalat",
+                "čohkohallá",
+                "čohkohalle",
+                "čohkohallabeahtti",
+                "čohkohallaba",
+                "čohkohallat",
+                "čohkohallabehtet",
+                "čohkohallet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čohkohala",
+                "it čohkohala",
+                "ii čohkohala",
+                "ean čohkohala",
+                "eahppi čohkohala",
+                "eaba čohkohala",
+                "eat čohkohala",
+                "ehpet čohkohala",
+                "eai čohkohala"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čohkohallen",
+                "čohkohallet",
+                "čohkohalai",
+                "čohkohalaime",
+                "čohkohalaide",
+                "čohkohalaiga",
+                "čohkohalaimet",
+                "čohkohalaidet",
+                "čohkohalle"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čohkohallan",
+                "it čohkohallan",
+                "ii čohkohallan",
+                "ean čohkohallan",
+                "eahppi čohkohallan",
+                "eaba čohkohallan",
+                "eat čohkohallan",
+                "ehpet čohkohallan",
+                "eai čohkohallan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čohkohallan",
+                "leat čohkohallan",
+                "lea čohkohallan",
+                "letne čohkohallan",
+                "leahppi čohkohallan",
+                "leaba čohkohallan",
+                "leat čohkohallan",
+                "lehpet čohkohallan",
+                "leat čohkohallan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čohkohallan",
+                "ledjet čohkohallan",
+                "lei čohkohallan",
+                "leimme čohkohallan",
+                "leidde čohkohallan",
+                "leigga čohkohallan",
+                "leimmet čohkohallan",
+                "leiddet čohkohallan",
+                "ledje čohkohallan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čohkohallame, -min",
+                "leat čohkohallame, -min",
+                "lea čohkohallame, -min",
+                "letne čohkohallame, -min",
+                "leahppi čohkohallame, -min",
+                "leaba čohkohallame, -min",
+                "leat čohkohallame, -min",
+                "lehpet čohkohallame, -min",
+                "leat čohkohallame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čohkohallame, -min",
+                "ledjet čohkohallame, -min",
+                "lei čohkohallame, -min",
+                "leimme čohkohallame, -min",
+                "leidde čohkohallame, -min",
+                "leigga čohkohallame, -min",
+                "leimmet čohkohallame, -min",
+                "leiddet čohkohallame, -min",
+                "ledje čohkohallame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čohkohalašin",
+                "čohkohalašit",
+                "čohkohalašii",
+                "čohkohalašeimme",
+                "čohkohalašeidde",
+                "čohkohalašeigga",
+                "čohkohalašeimmet",
+                "čohkohalašeiddet",
+                "čohkohalašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čohkohalaše",
+                "it čohkohalaše",
+                "ii čohkohalaše",
+                "ean čohkohalaše",
+                "eahppi čohkohalaše",
+                "eaba čohkohalaše",
+                "eat čohkohalaše",
+                "ehpet čohkohalaše",
+                "eai čohkohalaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čohkohalažan",
+                "čohkohalažat",
+                "čohkohalaš",
+                "čohkohalažetne",
+                "čohkohalažeahppi",
+                "čohkohalažeaba",
+                "čohkohalažit, -žat",
+                "čohkohalažehpet",
+                "čohkohalažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čohkohalaš",
+                "it čohkohalaš",
+                "ii čohkohalaš",
+                "ean čohkohalaš",
+                "eahppi čohkohalaš",
+                "eaba čohkohalaš",
+                "eat čohkohalaš",
+                "ehpet čohkohalaš",
+                "eai čohkohalaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čohkohallon",
+                "čohkohala",
+                "čohkohallos",
+                "čohkohallu",
+                "čohkohalli",
+                "čohkohalloska",
+                "čohkohallot",
+                "čohkohallet, čohkohallit",
+                "čohkohalloset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čohkohala",
+                "ale čohkohala",
+                "allos čohkohala",
+                "allu čohkohala",
+                "alli čohkohala",
+                "alloska čohkohala",
+                "allot, allut čohkohala",
+                "allet, allit čohkohala",
+                "alloset čohkohala"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čohkohallat",
+    "valid": 1
+}

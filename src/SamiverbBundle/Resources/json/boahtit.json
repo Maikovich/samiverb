@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "boahtit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "boađán",
+                "boađát",
+                "boahtá",
+                "bohte",
+                "boahtibeahtti",
+                "boahtiba",
+                "boahtit",
+                "boahtibehtet",
+                "bohtet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in boađe",
+                "it boađe",
+                "ii boađe",
+                "ean boađe",
+                "eahppi boađe",
+                "eaba boađe",
+                "eat boađe",
+                "ehpet boađe",
+                "eai boađe"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "bohten",
+                "bohtet",
+                "bođii",
+                "bođiime",
+                "bođiide",
+                "bođiiga",
+                "bođiimet",
+                "bođiidet",
+                "bohte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in boahtán",
+                "it boahtán",
+                "ii boahtán",
+                "ean boahtán",
+                "eahppi boahtán",
+                "eaba boahtán",
+                "eat boahtán",
+                "ehpet boahtán",
+                "eai boahtán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean boahtán",
+                "leat boahtán",
+                "lea boahtán",
+                "letne boahtán",
+                "leahppi boahtán",
+                "leaba boahtán",
+                "leat boahtán",
+                "lehpet boahtán",
+                "leat boahtán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen boahtán",
+                "ledjet boahtán",
+                "lei boahtán",
+                "leimme boahtán",
+                "leidde boahtán",
+                "leigga boahtán",
+                "leimmet boahtán",
+                "leiddet boahtán",
+                "ledje boahtán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean boahtime, -min",
+                "leat boahtime, -min",
+                "lea boahtime, -min",
+                "letne boahtime, -min",
+                "leahppi boahtime, -min",
+                "leaba boahtime, -min",
+                "leat boahtime, -min",
+                "lehpet boahtime, -min",
+                "leat boahtime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen boahtime, -min",
+                "ledjet boahtime, -min",
+                "lei boahtime, -min",
+                "leimme boahtime, -min",
+                "leidde boahtime, -min",
+                "leigga boahtime, -min",
+                "leimmet boahtime, -min",
+                "leiddet boahtime, -min",
+                "ledje boahtime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "boađášin",
+                "boađášit",
+                "boađášii",
+                "boađášeimme",
+                "boađášeidde",
+                "boađášeigga",
+                "boađášeimmet",
+                "boađášeiddet",
+                "boađášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in boađáše",
+                "it boađáše",
+                "ii boađáše",
+                "ean boađáše",
+                "eahppi boađáše",
+                "eaba boađáše",
+                "eat boađáše",
+                "ehpet boađáše",
+                "eai boađáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "bođežan",
+                "bođežat",
+                "bođeš",
+                "bođežetne",
+                "bođežeahppi",
+                "bođežeaba",
+                "bođežit, -žat",
+                "bođežehpet",
+                "bođežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in bođeš",
+                "it bođeš",
+                "ii bođeš",
+                "ean bođeš",
+                "eahppi bođeš",
+                "eaba bođeš",
+                "eat bođeš",
+                "ehpet bođeš",
+                "eai bođeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "bohton",
+                "boađe",
+                "bohtos",
+                "boahttu",
+                "boahtti",
+                "bohtoska",
+                "bohtot, boahttot",
+                "bohtet, boahttet",
+                "bohtoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon boađe",
+                "ale boađe",
+                "allos boađe",
+                "allu boađe",
+                "alli boađe",
+                "alloska boađe",
+                "allot, allut boađe",
+                "allet, allit boađe",
+                "alloset boađe"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Boahtit",
+    "valid": 1
+}

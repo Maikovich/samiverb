@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "guođđit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "guođán",
+                "guođát",
+                "guođđá",
+                "guđđe",
+                "guođđibeahtti",
+                "guođđiba",
+                "guođđit",
+                "guođđibehtet",
+                "guđđet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in guođe",
+                "it guođe",
+                "ii guođe",
+                "ean guođe",
+                "eahppi guođe",
+                "eaba guođe",
+                "eat guođe",
+                "ehpet guođe",
+                "eai guođe"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "guđđen",
+                "guđđet",
+                "guđii",
+                "guđiime",
+                "guđiide",
+                "guđiiga",
+                "guđiimet",
+                "guđiidet",
+                "guđđe"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in guođđán",
+                "it guođđán",
+                "ii guođđán",
+                "ean guođđán",
+                "eahppi guođđán",
+                "eaba guođđán",
+                "eat guođđán",
+                "ehpet guođđán",
+                "eai guođđán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean guođđán",
+                "leat guođđán",
+                "lea guođđán",
+                "letne guođđán",
+                "leahppi guođđán",
+                "leaba guođđán",
+                "leat guođđán",
+                "lehpet guođđán",
+                "leat guođđán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen guođđán",
+                "ledjet guođđán",
+                "lei guođđán",
+                "leimme guođđán",
+                "leidde guođđán",
+                "leigga guođđán",
+                "leimmet guođđán",
+                "leiddet guođđán",
+                "ledje guođđán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean guođđime, -min",
+                "leat guođđime, -min",
+                "lea guođđime, -min",
+                "letne guođđime, -min",
+                "leahppi guođđime, -min",
+                "leaba guođđime, -min",
+                "leat guođđime, -min",
+                "lehpet guođđime, -min",
+                "leat guođđime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen guođđime, -min",
+                "ledjet guođđime, -min",
+                "lei guođđime, -min",
+                "leimme guođđime, -min",
+                "leidde guođđime, -min",
+                "leigga guođđime, -min",
+                "leimmet guođđime, -min",
+                "leiddet guođđime, -min",
+                "ledje guođđime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "guođášin",
+                "guođášit",
+                "guođášii",
+                "guođášeimme",
+                "guođášeidde",
+                "guođášeigga",
+                "guođášeimmet",
+                "guođášeiddet",
+                "guođášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in guođáše",
+                "it guođáše",
+                "ii guođáše",
+                "ean guođáše",
+                "eahppi guođáše",
+                "eaba guođáše",
+                "eat guođáše",
+                "ehpet guođáše",
+                "eai guođáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "guđežan",
+                "guđežat",
+                "guđeš",
+                "guđežetne",
+                "guđežeahppi",
+                "guđežeaba",
+                "guđežit, -žat",
+                "guđežehpet",
+                "guđežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in guđeš",
+                "it guđeš",
+                "ii guđeš",
+                "ean guđeš",
+                "eahppi guđeš",
+                "eaba guđeš",
+                "eat guđeš",
+                "ehpet guđeš",
+                "eai guđeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "guđđon",
+                "guođe",
+                "guđđos",
+                "guođđu",
+                "guođđi",
+                "guđđoska",
+                "guđđot, guođđot",
+                "guđđet, guođđet",
+                "guđđoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon guođe",
+                "ale guođe",
+                "allos guođe",
+                "allu guođe",
+                "alli guođe",
+                "alloska guođe",
+                "allot, allut guođe",
+                "allet, allit guođe",
+                "alloset guođe"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Guođđit",
+    "valid": 1
+}

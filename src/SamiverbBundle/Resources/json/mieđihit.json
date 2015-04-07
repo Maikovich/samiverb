@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "mieđihit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "mieđihan",
+                "mieđihat",
+                "mieđiha",
+                "mieđihetne",
+                "mieđiheahppi",
+                "mieđiheaba",
+                "mieđihit, -hat",
+                "mieđihehpet",
+                "mieđihit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in mieđit",
+                "it mieđit",
+                "ii mieđit",
+                "ean mieđit",
+                "eahppi mieđit",
+                "eaba mieđit",
+                "eat mieđit",
+                "ehpet mieđit",
+                "eai mieđit"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "mieđihin",
+                "mieđihit",
+                "mieđihii",
+                "mieđiheimme",
+                "mieđiheidde",
+                "mieđiheigga",
+                "mieđiheimmet",
+                "mieđiheiddet",
+                "mieđihedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in mieđihan",
+                "it mieđihan",
+                "ii mieđihan",
+                "ean mieđihan",
+                "eahppi mieđihan",
+                "eaba mieđihan",
+                "eat mieđihan",
+                "ehpet mieđihan",
+                "eai mieđihan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean mieđihan",
+                "leat mieđihan",
+                "lea mieđihan",
+                "letne mieđihan",
+                "leahppi mieđihan",
+                "leaba mieđihan",
+                "leat mieđihan",
+                "lehpet mieđihan",
+                "leat mieđihan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen mieđihan",
+                "ledjet mieđihan",
+                "lei mieđihan",
+                "leimme mieđihan",
+                "leidde mieđihan",
+                "leigga mieđihan",
+                "leimmet mieđihan",
+                "leiddet mieđihan",
+                "ledje mieđihan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean mieđiheame, -men",
+                "leat mieđiheame, -men",
+                "lea mieđiheame, -men",
+                "letne mieđiheame, -men",
+                "leahppi mieđiheame, -men",
+                "leaba mieđiheame, -men",
+                "leat mieđiheame, -men",
+                "lehpet mieđiheame, -men",
+                "leat mieđiheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen mieđiheame, -men",
+                "ledjet mieđiheame, -men",
+                "lei mieđiheame, -men",
+                "leimme mieđiheame, -men",
+                "leidde mieđiheame, -men",
+                "leigga mieđiheame, -men",
+                "leimmet mieđiheame, -men",
+                "leiddet mieđiheame, -men",
+                "ledje mieđiheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "mieđihivččen",
+                "mieđihivččet",
+                "mieđihivččii",
+                "mieđihivččiime",
+                "mieđihivččiide",
+                "mieđihivččiiga",
+                "mieđihivččiimet",
+                "mieđihivččiidet",
+                "mieđihivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in mieđihivčče",
+                "it mieđihivčče",
+                "ii mieđihivčče",
+                "ean mieđihivčče",
+                "eahppi mieđihivčče",
+                "eaba mieđihivčče",
+                "eat mieđihivčče",
+                "ehpet mieđihivčče",
+                "eai mieđihivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "mieđiheaččan",
+                "mieđiheaččat",
+                "mieđiheaš, -heš, -heažžá",
+                "mieđihežže",
+                "mieđiheažžabeahtti",
+                "mieđiheažžaba",
+                "mieđiheažžat",
+                "mieđiheažžabehtet",
+                "mieđihežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in mieđiheaš, -heš, -heažžá",
+                "it mieđiheaš, -heš, -heažžá",
+                "ii mieđiheaš, -heš, -heažžá",
+                "ean mieđiheaš, -heš, -heažžá",
+                "eahppi mieđiheaš, -heš, -heažžá",
+                "eaba mieđiheaš, -heš, -heažžá",
+                "eat mieđiheaš, -heš, -heažžá",
+                "ehpet mieđiheaš, -heš, -heažžá",
+                "eai mieđiheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "mieđihehkon",
+                "mieđit",
+                "mieđihehkos, mieđihus",
+                "mieđiheadnu",
+                "mieđiheahkki",
+                "mieđihehkoska",
+                "mieđihehkot, mieđiheahkkut, mieđihetnot, mieđiheadnot",
+                "mieđihehket",
+                "mieđihehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon mieđit",
+                "ale mieđit",
+                "allos mieđit",
+                "allu mieđit",
+                "alli mieđit",
+                "alloska mieđit",
+                "allot, allut mieđit",
+                "allet, allit mieđit",
+                "alloset mieđit"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Mieđihit",
+    "valid": 1
+}

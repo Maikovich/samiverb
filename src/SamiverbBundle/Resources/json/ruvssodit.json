@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "ruvssodit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "ruvssodan",
+                "ruvssodat",
+                "ruvssoda",
+                "ruvssodetne",
+                "ruvssodeahppi",
+                "ruvssodeaba",
+                "ruvssodit, -dat",
+                "ruvssodehpet",
+                "ruvssodit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in ruvssot",
+                "it ruvssot",
+                "ii ruvssot",
+                "ean ruvssot",
+                "eahppi ruvssot",
+                "eaba ruvssot",
+                "eat ruvssot",
+                "ehpet ruvssot",
+                "eai ruvssot"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ruvssodin",
+                "ruvssodit",
+                "ruvssodii",
+                "ruvssodeimme",
+                "ruvssodeidde",
+                "ruvssodeigga",
+                "ruvssodeimmet",
+                "ruvssodeiddet",
+                "ruvssodedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ruvssodan",
+                "it ruvssodan",
+                "ii ruvssodan",
+                "ean ruvssodan",
+                "eahppi ruvssodan",
+                "eaba ruvssodan",
+                "eat ruvssodan",
+                "ehpet ruvssodan",
+                "eai ruvssodan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ruvssodan",
+                "leat ruvssodan",
+                "lea ruvssodan",
+                "letne ruvssodan",
+                "leahppi ruvssodan",
+                "leaba ruvssodan",
+                "leat ruvssodan",
+                "lehpet ruvssodan",
+                "leat ruvssodan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ruvssodan",
+                "ledjet ruvssodan",
+                "lei ruvssodan",
+                "leimme ruvssodan",
+                "leidde ruvssodan",
+                "leigga ruvssodan",
+                "leimmet ruvssodan",
+                "leiddet ruvssodan",
+                "ledje ruvssodan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean ruvssodeame, -men",
+                "leat ruvssodeame, -men",
+                "lea ruvssodeame, -men",
+                "letne ruvssodeame, -men",
+                "leahppi ruvssodeame, -men",
+                "leaba ruvssodeame, -men",
+                "leat ruvssodeame, -men",
+                "lehpet ruvssodeame, -men",
+                "leat ruvssodeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen ruvssodeame, -men",
+                "ledjet ruvssodeame, -men",
+                "lei ruvssodeame, -men",
+                "leimme ruvssodeame, -men",
+                "leidde ruvssodeame, -men",
+                "leigga ruvssodeame, -men",
+                "leimmet ruvssodeame, -men",
+                "leiddet ruvssodeame, -men",
+                "ledje ruvssodeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "ruvssodivččen",
+                "ruvssodivččet",
+                "ruvssodivččii",
+                "ruvssodivččiime",
+                "ruvssodivččiide",
+                "ruvssodivččiiga",
+                "ruvssodivččiimet",
+                "ruvssodivččiidet",
+                "ruvssodivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in ruvssodivčče",
+                "it ruvssodivčče",
+                "ii ruvssodivčče",
+                "ean ruvssodivčče",
+                "eahppi ruvssodivčče",
+                "eaba ruvssodivčče",
+                "eat ruvssodivčče",
+                "ehpet ruvssodivčče",
+                "eai ruvssodivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "ruvssodeaččan",
+                "ruvssodeaččat",
+                "ruvssodeaš, -deš, -deažžá",
+                "ruvssodežže",
+                "ruvssodeažžabeahtti",
+                "ruvssodeažžaba",
+                "ruvssodeažžat",
+                "ruvssodeažžabehtet",
+                "ruvssodežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in ruvssodeaš, -deš, -deažžá",
+                "it ruvssodeaš, -deš, -deažžá",
+                "ii ruvssodeaš, -deš, -deažžá",
+                "ean ruvssodeaš, -deš, -deažžá",
+                "eahppi ruvssodeaš, -deš, -deažžá",
+                "eaba ruvssodeaš, -deš, -deažžá",
+                "eat ruvssodeaš, -deš, -deažžá",
+                "ehpet ruvssodeaš, -deš, -deažžá",
+                "eai ruvssodeaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "ruvssodehkon",
+                "ruvssot",
+                "ruvssodehkos, ruvssodus",
+                "ruvssodeadnu",
+                "ruvssodeahkki",
+                "ruvssodehkoska",
+                "ruvssodehkot, ruvssodeahkkut, ruvssodetnot, ruvssodeadnot",
+                "ruvssodehket",
+                "ruvssodehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon ruvssot",
+                "ale ruvssot",
+                "allos ruvssot",
+                "allu ruvssot",
+                "alli ruvssot",
+                "alloska ruvssot",
+                "allot, allut ruvssot",
+                "allet, allit ruvssot",
+                "alloset ruvssot"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Ruvssodit",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "liibmet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "liibmen",
+                "liibmet",
+                "liibme",
+                "liibmejetne",
+                "liibmebeahtti",
+                "liibmeba",
+                "liibmet",
+                "liibmebehtet",
+                "liibmejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in liibme",
+                "it liibme",
+                "ii liibme",
+                "ean liibme",
+                "eahppi liibme",
+                "eaba liibme",
+                "eat liibme",
+                "ehpet liibme",
+                "eai liibme"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "liibmejin",
+                "liibmejit",
+                "liibmii",
+                "liibmiime",
+                "liibmiide",
+                "liibmiiga",
+                "liibmiimet",
+                "liibmiidet",
+                "liibmejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in liibmen",
+                "it liibmen",
+                "ii liibmen",
+                "ean liibmen",
+                "eahppi liibmen",
+                "eaba liibmen",
+                "eat liibmen",
+                "ehpet liibmen",
+                "eai liibmen"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean liibmen",
+                "leat liibmen",
+                "lea liibmen",
+                "letne liibmen",
+                "leahppi liibmen",
+                "leaba liibmen",
+                "leat liibmen",
+                "lehpet liibmen",
+                "leat liibmen"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen liibmen",
+                "ledjet liibmen",
+                "lei liibmen",
+                "leimme liibmen",
+                "leidde liibmen",
+                "leigga liibmen",
+                "leimmet liibmen",
+                "leiddet liibmen",
+                "ledje liibmen"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean liibmeme, -min",
+                "leat liibmeme, -min",
+                "lea liibmeme, -min",
+                "letne liibmeme, -min",
+                "leahppi liibmeme, -min",
+                "leaba liibmeme, -min",
+                "leat liibmeme, -min",
+                "lehpet liibmeme, -min",
+                "leat liibmeme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen liibmeme, -min",
+                "ledjet liibmeme, -min",
+                "lei liibmeme, -min",
+                "leimme liibmeme, -min",
+                "leidde liibmeme, -min",
+                "leigga liibmeme, -min",
+                "leimmet liibmeme, -min",
+                "leiddet liibmeme, -min",
+                "ledje liibmeme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "liibmešin",
+                "liibmešit",
+                "liibmešii",
+                "liibmešeimme",
+                "liibmešeidde",
+                "liibmešeigga",
+                "liibmešeimmet",
+                "liibmešeiddet",
+                "liibmešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in liibmeše",
+                "it liibmeše",
+                "ii liibmeše",
+                "ean liibmeše",
+                "eahppi liibmeše",
+                "eaba liibmeše",
+                "eat liibmeše",
+                "ehpet liibmeše",
+                "eai liibmeše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "liibmežan",
+                "liibmežat",
+                "liibmeš",
+                "liibmežetne",
+                "liibmežeahppi",
+                "liibmežeaba",
+                "liibmežit, -žat",
+                "liibmežehpet",
+                "liibmežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in liibmeš",
+                "it liibmeš",
+                "ii liibmeš",
+                "ean liibmeš",
+                "eahppi liibmeš",
+                "eaba liibmeš",
+                "eat liibmeš",
+                "ehpet liibmeš",
+                "eai liibmeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "liibmejehkon",
+                "liibme",
+                "liibmejehkos",
+                "liibmejeadnu",
+                "liibmejeahkki",
+                "liibmejehkoska",
+                "liibmejeahkkut, liibmejeadnot, liibmejehkot, liibmejetnot",
+                "liibmejeahkkit",
+                "liibmejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon liibme",
+                "ale liibme",
+                "allos liibme",
+                "allu liibme",
+                "alli liibme",
+                "alloska liibme",
+                "allot, allut liibme",
+                "allet, allit liibme",
+                "alloset liibme"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Liibmet",
+    "valid": 1
+}

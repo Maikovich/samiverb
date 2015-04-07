@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "lihkkat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "lihkan",
+                "lihkat",
+                "lihkká",
+                "lihkke",
+                "lihkkabeahtti",
+                "lihkkaba",
+                "lihkkat",
+                "lihkkabehtet",
+                "lihkket"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in lihka",
+                "it lihka",
+                "ii lihka",
+                "ean lihka",
+                "eahppi lihka",
+                "eaba lihka",
+                "eat lihka",
+                "ehpet lihka",
+                "eai lihka"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "lihkken",
+                "lihkket",
+                "lihkai",
+                "lihkaime",
+                "lihkaide",
+                "lihkaiga",
+                "lihkaimet",
+                "lihkaidet",
+                "lihkke"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in lihkkan",
+                "it lihkkan",
+                "ii lihkkan",
+                "ean lihkkan",
+                "eahppi lihkkan",
+                "eaba lihkkan",
+                "eat lihkkan",
+                "ehpet lihkkan",
+                "eai lihkkan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean lihkkan",
+                "leat lihkkan",
+                "lea lihkkan",
+                "letne lihkkan",
+                "leahppi lihkkan",
+                "leaba lihkkan",
+                "leat lihkkan",
+                "lehpet lihkkan",
+                "leat lihkkan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen lihkkan",
+                "ledjet lihkkan",
+                "lei lihkkan",
+                "leimme lihkkan",
+                "leidde lihkkan",
+                "leigga lihkkan",
+                "leimmet lihkkan",
+                "leiddet lihkkan",
+                "ledje lihkkan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean lihkkame, -min",
+                "leat lihkkame, -min",
+                "lea lihkkame, -min",
+                "letne lihkkame, -min",
+                "leahppi lihkkame, -min",
+                "leaba lihkkame, -min",
+                "leat lihkkame, -min",
+                "lehpet lihkkame, -min",
+                "leat lihkkame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen lihkkame, -min",
+                "ledjet lihkkame, -min",
+                "lei lihkkame, -min",
+                "leimme lihkkame, -min",
+                "leidde lihkkame, -min",
+                "leigga lihkkame, -min",
+                "leimmet lihkkame, -min",
+                "leiddet lihkkame, -min",
+                "ledje lihkkame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "lihkašin",
+                "lihkašit",
+                "lihkašii",
+                "lihkašeimme",
+                "lihkašeidde",
+                "lihkašeigga",
+                "lihkašeimmet",
+                "lihkašeiddet",
+                "lihkašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in lihkaše",
+                "it lihkaše",
+                "ii lihkaše",
+                "ean lihkaše",
+                "eahppi lihkaše",
+                "eaba lihkaše",
+                "eat lihkaše",
+                "ehpet lihkaše",
+                "eai lihkaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "lihkažan",
+                "lihkažat",
+                "lihkaš",
+                "lihkažetne",
+                "lihkažeahppi",
+                "lihkažeaba",
+                "lihkažit, -žat",
+                "lihkažehpet",
+                "lihkažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in lihkaš",
+                "it lihkaš",
+                "ii lihkaš",
+                "ean lihkaš",
+                "eahppi lihkaš",
+                "eaba lihkaš",
+                "eat lihkaš",
+                "ehpet lihkaš",
+                "eai lihkaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "lihkkon",
+                "lihka",
+                "lihkkos",
+                "lihkku",
+                "lihkki",
+                "lihkkoska",
+                "lihkkot",
+                "lihkket, lihkkit",
+                "lihkkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon lihka",
+                "ale lihka",
+                "allos lihka",
+                "allu lihka",
+                "alli lihka",
+                "alloska lihka",
+                "allot, allut lihka",
+                "allet, allit lihka",
+                "alloset lihka"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Lihkkat",
+    "valid": 1
+}

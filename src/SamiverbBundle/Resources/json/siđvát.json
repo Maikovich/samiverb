@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "siđvát",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "siđván",
+                "siđvát",
+                "siđvá",
+                "siđvájetne",
+                "siđvábeahtti",
+                "siđvába",
+                "siđvát",
+                "siđvábehtet",
+                "siđvájit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in siđvá",
+                "it siđvá",
+                "ii siđvá",
+                "ean siđvá",
+                "eahppi siđvá",
+                "eaba siđvá",
+                "eat siđvá",
+                "ehpet siđvá",
+                "eai siđvá"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "siđvájin",
+                "siđvájit",
+                "siđvái",
+                "siđváime",
+                "siđváide",
+                "siđváiga",
+                "siđváimet",
+                "siđváidet",
+                "siđvájedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in siđván",
+                "it siđván",
+                "ii siđván",
+                "ean siđván",
+                "eahppi siđván",
+                "eaba siđván",
+                "eat siđván",
+                "ehpet siđván",
+                "eai siđván"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean siđván",
+                "leat siđván",
+                "lea siđván",
+                "letne siđván",
+                "leahppi siđván",
+                "leaba siđván",
+                "leat siđván",
+                "lehpet siđván",
+                "leat siđván"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen siđván",
+                "ledjet siđván",
+                "lei siđván",
+                "leimme siđván",
+                "leidde siđván",
+                "leigga siđván",
+                "leimmet siđván",
+                "leiddet siđván",
+                "ledje siđván"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean siđváme, -min",
+                "leat siđváme, -min",
+                "lea siđváme, -min",
+                "letne siđváme, -min",
+                "leahppi siđváme, -min",
+                "leaba siđváme, -min",
+                "leat siđváme, -min",
+                "lehpet siđváme, -min",
+                "leat siđváme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen siđváme, -min",
+                "ledjet siđváme, -min",
+                "lei siđváme, -min",
+                "leimme siđváme, -min",
+                "leidde siđváme, -min",
+                "leigga siđváme, -min",
+                "leimmet siđváme, -min",
+                "leiddet siđváme, -min",
+                "ledje siđváme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "siđvášin",
+                "siđvášit",
+                "siđvášii",
+                "siđvášeimme",
+                "siđvášeidde",
+                "siđvášeigga",
+                "siđvášeimmet",
+                "siđvášeiddet",
+                "siđvášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in siđváše",
+                "it siđváše",
+                "ii siđváše",
+                "ean siđváše",
+                "eahppi siđváše",
+                "eaba siđváše",
+                "eat siđváše",
+                "ehpet siđváše",
+                "eai siđváše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "siđvážan",
+                "siđvážat",
+                "siđváš",
+                "siđvážetne",
+                "siđvážeahppi",
+                "siđvážeaba",
+                "siđvážit, -žat",
+                "siđvážehpet",
+                "siđvážit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in siđváš",
+                "it siđváš",
+                "ii siđváš",
+                "ean siđváš",
+                "eahppi siđváš",
+                "eaba siđváš",
+                "eat siđváš",
+                "ehpet siđváš",
+                "eai siđváš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "siđvájehkon",
+                "siđvá",
+                "siđvájehkos",
+                "siđvájeadnu",
+                "siđvájeahkki",
+                "siđvájehkoska",
+                "siđvájeahkkut, siđvájeadnot, siđvájehkot, siđvájetnot",
+                "siđvájeahkkit",
+                "siđvájehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon siđvá",
+                "ale siđvá",
+                "allos siđvá",
+                "allu siđvá",
+                "alli siđvá",
+                "alloska siđvá",
+                "allot, allut siđvá",
+                "allet, allit siđvá",
+                "alloset siđvá"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Siđvát",
+    "valid": 1
+}

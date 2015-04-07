@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "doaivut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "doaivvun",
+                "doaivvut",
+                "doaivu",
+                "doivo",
+                "doaivubeahtti",
+                "doaivuba",
+                "doaivut",
+                "doaivubehtet",
+                "doivot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in doaivvo",
+                "it doaivvo",
+                "ii doaivvo",
+                "ean doaivvo",
+                "eahppi doaivvo",
+                "eaba doaivvo",
+                "eat doaivvo",
+                "ehpet doaivvo",
+                "eai doaivvo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "doivon",
+                "doivot",
+                "doaivvui",
+                "doaivvuime",
+                "doaivvuide",
+                "doaivvuiga",
+                "doaivvuimet",
+                "doaivvuidet",
+                "doivo"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in doivon",
+                "it doivon",
+                "ii doivon",
+                "ean doivon",
+                "eahppi doivon",
+                "eaba doivon",
+                "eat doivon",
+                "ehpet doivon",
+                "eai doivon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean doivon",
+                "leat doivon",
+                "lea doivon",
+                "letne doivon",
+                "leahppi doivon",
+                "leaba doivon",
+                "leat doivon",
+                "lehpet doivon",
+                "leat doivon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen doivon",
+                "ledjet doivon",
+                "lei doivon",
+                "leimme doivon",
+                "leidde doivon",
+                "leigga doivon",
+                "leimmet doivon",
+                "leiddet doivon",
+                "ledje doivon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean doaivume, -min",
+                "leat doaivume, -min",
+                "lea doaivume, -min",
+                "letne doaivume, -min",
+                "leahppi doaivume, -min",
+                "leaba doaivume, -min",
+                "leat doaivume, -min",
+                "lehpet doaivume, -min",
+                "leat doaivume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen doaivume, -min",
+                "ledjet doaivume, -min",
+                "lei doaivume, -min",
+                "leimme doaivume, -min",
+                "leidde doaivume, -min",
+                "leigga doaivume, -min",
+                "leimmet doaivume, -min",
+                "leiddet doaivume, -min",
+                "ledje doaivume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "doivvošin",
+                "doivvošit",
+                "doivvošii",
+                "doivvošeimme",
+                "doivvošeidde",
+                "doivvošeigga",
+                "doivvošeimmet",
+                "doivvošeiddet",
+                "doivvošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in doivvoše",
+                "it doivvoše",
+                "ii doivvoše",
+                "ean doivvoše",
+                "eahppi doivvoše",
+                "eaba doivvoše",
+                "eat doivvoše",
+                "ehpet doivvoše",
+                "eai doivvoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "doivvožan",
+                "doivvožat",
+                "doivvoš",
+                "doivvožetne",
+                "doivvožeahppi",
+                "doivvožeaba",
+                "doivvožit, -žat",
+                "doivvožehpet",
+                "doivvožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in doivvoš",
+                "it doivvoš",
+                "ii doivvoš",
+                "ean doivvoš",
+                "eahppi doivvoš",
+                "eaba doivvoš",
+                "eat doivvoš",
+                "ehpet doivvoš",
+                "eai doivvoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "doivon",
+                "doaivvo",
+                "doivos",
+                "doaivu",
+                "doaivu",
+                "doivoska",
+                "doivot, doaivot",
+                "doivot, doaivot",
+                "doivoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon doaivvo",
+                "ale doaivvo",
+                "allos doaivvo",
+                "allu doaivvo",
+                "alli doaivvo",
+                "alloska doaivvo",
+                "allot, allut doaivvo",
+                "allet, allit doaivvo",
+                "alloset doaivvo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Doaivut",
+    "valid": 1
+}

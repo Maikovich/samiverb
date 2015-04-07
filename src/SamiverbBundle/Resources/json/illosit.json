@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "illosit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "illosan",
+                "illosat",
+                "illosa",
+                "illosetne",
+                "illoseahppi",
+                "illoseaba",
+                "illosit, -sat",
+                "illosehpet",
+                "illosit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in illos",
+                "it illos",
+                "ii illos",
+                "ean illos",
+                "eahppi illos",
+                "eaba illos",
+                "eat illos",
+                "ehpet illos",
+                "eai illos"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "illosin",
+                "illosit",
+                "illosii",
+                "illoseimme",
+                "illoseidde",
+                "illoseigga",
+                "illoseimmet",
+                "illoseiddet",
+                "illosedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in illosan",
+                "it illosan",
+                "ii illosan",
+                "ean illosan",
+                "eahppi illosan",
+                "eaba illosan",
+                "eat illosan",
+                "ehpet illosan",
+                "eai illosan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean illosan",
+                "leat illosan",
+                "lea illosan",
+                "letne illosan",
+                "leahppi illosan",
+                "leaba illosan",
+                "leat illosan",
+                "lehpet illosan",
+                "leat illosan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen illosan",
+                "ledjet illosan",
+                "lei illosan",
+                "leimme illosan",
+                "leidde illosan",
+                "leigga illosan",
+                "leimmet illosan",
+                "leiddet illosan",
+                "ledje illosan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean illoseame, -men",
+                "leat illoseame, -men",
+                "lea illoseame, -men",
+                "letne illoseame, -men",
+                "leahppi illoseame, -men",
+                "leaba illoseame, -men",
+                "leat illoseame, -men",
+                "lehpet illoseame, -men",
+                "leat illoseame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen illoseame, -men",
+                "ledjet illoseame, -men",
+                "lei illoseame, -men",
+                "leimme illoseame, -men",
+                "leidde illoseame, -men",
+                "leigga illoseame, -men",
+                "leimmet illoseame, -men",
+                "leiddet illoseame, -men",
+                "ledje illoseame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "illosivččen",
+                "illosivččet",
+                "illosivččii",
+                "illosivččiime",
+                "illosivččiide",
+                "illosivččiiga",
+                "illosivččiimet",
+                "illosivččiidet",
+                "illosivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in illosivčče",
+                "it illosivčče",
+                "ii illosivčče",
+                "ean illosivčče",
+                "eahppi illosivčče",
+                "eaba illosivčče",
+                "eat illosivčče",
+                "ehpet illosivčče",
+                "eai illosivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "illoseaččan",
+                "illoseaččat",
+                "illoseaš, -seš, -seažžá",
+                "illosežže",
+                "illoseažžabeahtti",
+                "illoseažžaba",
+                "illoseažžat",
+                "illoseažžabehtet",
+                "illosežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in illoseaš, -seš, -seažžá",
+                "it illoseaš, -seš, -seažžá",
+                "ii illoseaš, -seš, -seažžá",
+                "ean illoseaš, -seš, -seažžá",
+                "eahppi illoseaš, -seš, -seažžá",
+                "eaba illoseaš, -seš, -seažžá",
+                "eat illoseaš, -seš, -seažžá",
+                "ehpet illoseaš, -seš, -seažžá",
+                "eai illoseaš, -seš, -seažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "illosehkon",
+                "illos",
+                "illosehkos, illosus",
+                "illoseadnu",
+                "illoseahkki",
+                "illosehkoska",
+                "illosehkot, illoseahkkut, illosetnot, illoseadnot",
+                "illosehket",
+                "illosehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon illos",
+                "ale illos",
+                "allos illos",
+                "allu illos",
+                "alli illos",
+                "alloska illos",
+                "allot, allut illos",
+                "allet, allit illos",
+                "alloset illos"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Illosit",
+    "valid": 1
+}

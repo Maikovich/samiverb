@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "virgidit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "virgidan",
+                "virgidat",
+                "virgida",
+                "virgidetne",
+                "virgideahppi",
+                "virgideaba",
+                "virgidit, -dat",
+                "virgidehpet",
+                "virgidit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in virgit",
+                "it virgit",
+                "ii virgit",
+                "ean virgit",
+                "eahppi virgit",
+                "eaba virgit",
+                "eat virgit",
+                "ehpet virgit",
+                "eai virgit"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "virgidin",
+                "virgidit",
+                "virgidii",
+                "virgideimme",
+                "virgideidde",
+                "virgideigga",
+                "virgideimmet",
+                "virgideiddet",
+                "virgidedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in virgidan",
+                "it virgidan",
+                "ii virgidan",
+                "ean virgidan",
+                "eahppi virgidan",
+                "eaba virgidan",
+                "eat virgidan",
+                "ehpet virgidan",
+                "eai virgidan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean virgidan",
+                "leat virgidan",
+                "lea virgidan",
+                "letne virgidan",
+                "leahppi virgidan",
+                "leaba virgidan",
+                "leat virgidan",
+                "lehpet virgidan",
+                "leat virgidan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen virgidan",
+                "ledjet virgidan",
+                "lei virgidan",
+                "leimme virgidan",
+                "leidde virgidan",
+                "leigga virgidan",
+                "leimmet virgidan",
+                "leiddet virgidan",
+                "ledje virgidan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean virgideame, -men",
+                "leat virgideame, -men",
+                "lea virgideame, -men",
+                "letne virgideame, -men",
+                "leahppi virgideame, -men",
+                "leaba virgideame, -men",
+                "leat virgideame, -men",
+                "lehpet virgideame, -men",
+                "leat virgideame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen virgideame, -men",
+                "ledjet virgideame, -men",
+                "lei virgideame, -men",
+                "leimme virgideame, -men",
+                "leidde virgideame, -men",
+                "leigga virgideame, -men",
+                "leimmet virgideame, -men",
+                "leiddet virgideame, -men",
+                "ledje virgideame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "virgidivččen",
+                "virgidivččet",
+                "virgidivččii",
+                "virgidivččiime",
+                "virgidivččiide",
+                "virgidivččiiga",
+                "virgidivččiimet",
+                "virgidivččiidet",
+                "virgidivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in virgidivčče",
+                "it virgidivčče",
+                "ii virgidivčče",
+                "ean virgidivčče",
+                "eahppi virgidivčče",
+                "eaba virgidivčče",
+                "eat virgidivčče",
+                "ehpet virgidivčče",
+                "eai virgidivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "virgideaččan",
+                "virgideaččat",
+                "virgideaš, -deš, -deažžá",
+                "virgidežže",
+                "virgideažžabeahtti",
+                "virgideažžaba",
+                "virgideažžat",
+                "virgideažžabehtet",
+                "virgidežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in virgideaš, -deš, -deažžá",
+                "it virgideaš, -deš, -deažžá",
+                "ii virgideaš, -deš, -deažžá",
+                "ean virgideaš, -deš, -deažžá",
+                "eahppi virgideaš, -deš, -deažžá",
+                "eaba virgideaš, -deš, -deažžá",
+                "eat virgideaš, -deš, -deažžá",
+                "ehpet virgideaš, -deš, -deažžá",
+                "eai virgideaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "virgidehkon",
+                "virgit",
+                "virgidehkos, virgidus",
+                "virgideadnu",
+                "virgideahkki",
+                "virgidehkoska",
+                "virgidehkot, virgideahkkut, virgidetnot, virgideadnot",
+                "virgidehket",
+                "virgidehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon virgit",
+                "ale virgit",
+                "allos virgit",
+                "allu virgit",
+                "alli virgit",
+                "alloska virgit",
+                "allot, allut virgit",
+                "allet, allit virgit",
+                "alloset virgit"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "valid": 0,
+    "value": "Virgidit"
+}

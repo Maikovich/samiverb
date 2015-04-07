@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "luoikkahit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "luoikkahan",
+                "luoikkahat",
+                "luoikkaha",
+                "luoikkahetne",
+                "luoikkaheahppi",
+                "luoikkaheaba",
+                "luoikkahit, -hat",
+                "luoikkahehpet",
+                "luoikkahit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in luoikkat",
+                "it luoikkat",
+                "ii luoikkat",
+                "ean luoikkat",
+                "eahppi luoikkat",
+                "eaba luoikkat",
+                "eat luoikkat",
+                "ehpet luoikkat",
+                "eai luoikkat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "luoikkahin",
+                "luoikkahit",
+                "luoikkahii",
+                "luoikkaheimme",
+                "luoikkaheidde",
+                "luoikkaheigga",
+                "luoikkaheimmet",
+                "luoikkaheiddet",
+                "luoikkahedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in luoikkahan",
+                "it luoikkahan",
+                "ii luoikkahan",
+                "ean luoikkahan",
+                "eahppi luoikkahan",
+                "eaba luoikkahan",
+                "eat luoikkahan",
+                "ehpet luoikkahan",
+                "eai luoikkahan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean luoikkahan",
+                "leat luoikkahan",
+                "lea luoikkahan",
+                "letne luoikkahan",
+                "leahppi luoikkahan",
+                "leaba luoikkahan",
+                "leat luoikkahan",
+                "lehpet luoikkahan",
+                "leat luoikkahan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen luoikkahan",
+                "ledjet luoikkahan",
+                "lei luoikkahan",
+                "leimme luoikkahan",
+                "leidde luoikkahan",
+                "leigga luoikkahan",
+                "leimmet luoikkahan",
+                "leiddet luoikkahan",
+                "ledje luoikkahan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean luoikkaheame, -men",
+                "leat luoikkaheame, -men",
+                "lea luoikkaheame, -men",
+                "letne luoikkaheame, -men",
+                "leahppi luoikkaheame, -men",
+                "leaba luoikkaheame, -men",
+                "leat luoikkaheame, -men",
+                "lehpet luoikkaheame, -men",
+                "leat luoikkaheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen luoikkaheame, -men",
+                "ledjet luoikkaheame, -men",
+                "lei luoikkaheame, -men",
+                "leimme luoikkaheame, -men",
+                "leidde luoikkaheame, -men",
+                "leigga luoikkaheame, -men",
+                "leimmet luoikkaheame, -men",
+                "leiddet luoikkaheame, -men",
+                "ledje luoikkaheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "luoikkahivččen",
+                "luoikkahivččet",
+                "luoikkahivččii",
+                "luoikkahivččiime",
+                "luoikkahivččiide",
+                "luoikkahivččiiga",
+                "luoikkahivččiimet",
+                "luoikkahivččiidet",
+                "luoikkahivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in luoikkahivčče",
+                "it luoikkahivčče",
+                "ii luoikkahivčče",
+                "ean luoikkahivčče",
+                "eahppi luoikkahivčče",
+                "eaba luoikkahivčče",
+                "eat luoikkahivčče",
+                "ehpet luoikkahivčče",
+                "eai luoikkahivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "luoikkaheaččan",
+                "luoikkaheaččat",
+                "luoikkaheaš, -heš, -heažžá",
+                "luoikkahežže",
+                "luoikkaheažžabeahtti",
+                "luoikkaheažžaba",
+                "luoikkaheažžat",
+                "luoikkaheažžabehtet",
+                "luoikkahežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in luoikkaheaš, -heš, -heažžá",
+                "it luoikkaheaš, -heš, -heažžá",
+                "ii luoikkaheaš, -heš, -heažžá",
+                "ean luoikkaheaš, -heš, -heažžá",
+                "eahppi luoikkaheaš, -heš, -heažžá",
+                "eaba luoikkaheaš, -heš, -heažžá",
+                "eat luoikkaheaš, -heš, -heažžá",
+                "ehpet luoikkaheaš, -heš, -heažžá",
+                "eai luoikkaheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "luoikkahehkon",
+                "luoikkat",
+                "luoikkahehkos, luoikkahus",
+                "luoikkaheadnu",
+                "luoikkaheahkki",
+                "luoikkahehkoska",
+                "luoikkahehkot, luoikkaheahkkut, luoikkahetnot, luoikkaheadnot",
+                "luoikkahehket",
+                "luoikkahehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon luoikkat",
+                "ale luoikkat",
+                "allos luoikkat",
+                "allu luoikkat",
+                "alli luoikkat",
+                "alloska luoikkat",
+                "allot, allut luoikkat",
+                "allet, allit luoikkat",
+                "alloset luoikkat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Luoikkahit",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "bilidit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "bilidan",
+                "bilidat",
+                "bilida",
+                "bilidetne",
+                "bilideahppi",
+                "bilideaba",
+                "bilidit, -dat",
+                "bilidehpet",
+                "bilidit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in bilit",
+                "it bilit",
+                "ii bilit",
+                "ean bilit",
+                "eahppi bilit",
+                "eaba bilit",
+                "eat bilit",
+                "ehpet bilit",
+                "eai bilit"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "bilidin",
+                "bilidit",
+                "bilidii",
+                "bilideimme",
+                "bilideidde",
+                "bilideigga",
+                "bilideimmet",
+                "bilideiddet",
+                "bilidedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in bilidan",
+                "it bilidan",
+                "ii bilidan",
+                "ean bilidan",
+                "eahppi bilidan",
+                "eaba bilidan",
+                "eat bilidan",
+                "ehpet bilidan",
+                "eai bilidan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean bilidan",
+                "leat bilidan",
+                "lea bilidan",
+                "letne bilidan",
+                "leahppi bilidan",
+                "leaba bilidan",
+                "leat bilidan",
+                "lehpet bilidan",
+                "leat bilidan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen bilidan",
+                "ledjet bilidan",
+                "lei bilidan",
+                "leimme bilidan",
+                "leidde bilidan",
+                "leigga bilidan",
+                "leimmet bilidan",
+                "leiddet bilidan",
+                "ledje bilidan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean bilideame, -men",
+                "leat bilideame, -men",
+                "lea bilideame, -men",
+                "letne bilideame, -men",
+                "leahppi bilideame, -men",
+                "leaba bilideame, -men",
+                "leat bilideame, -men",
+                "lehpet bilideame, -men",
+                "leat bilideame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen bilideame, -men",
+                "ledjet bilideame, -men",
+                "lei bilideame, -men",
+                "leimme bilideame, -men",
+                "leidde bilideame, -men",
+                "leigga bilideame, -men",
+                "leimmet bilideame, -men",
+                "leiddet bilideame, -men",
+                "ledje bilideame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "bilidivččen",
+                "bilidivččet",
+                "bilidivččii",
+                "bilidivččiime",
+                "bilidivččiide",
+                "bilidivččiiga",
+                "bilidivččiimet",
+                "bilidivččiidet",
+                "bilidivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in bilidivčče",
+                "it bilidivčče",
+                "ii bilidivčče",
+                "ean bilidivčče",
+                "eahppi bilidivčče",
+                "eaba bilidivčče",
+                "eat bilidivčče",
+                "ehpet bilidivčče",
+                "eai bilidivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "bilideaččan",
+                "bilideaččat",
+                "bilideaš, -deš, -deažžá",
+                "bilidežže",
+                "bilideažžabeahtti",
+                "bilideažžaba",
+                "bilideažžat",
+                "bilideažžabehtet",
+                "bilidežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in bilideaš, -deš, -deažžá",
+                "it bilideaš, -deš, -deažžá",
+                "ii bilideaš, -deš, -deažžá",
+                "ean bilideaš, -deš, -deažžá",
+                "eahppi bilideaš, -deš, -deažžá",
+                "eaba bilideaš, -deš, -deažžá",
+                "eat bilideaš, -deš, -deažžá",
+                "ehpet bilideaš, -deš, -deažžá",
+                "eai bilideaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "bilidehkon",
+                "bilit",
+                "bilidehkos, bilidus",
+                "bilideadnu",
+                "bilideahkki",
+                "bilidehkoska",
+                "bilidehkot, bilideahkkut, bilidetnot, bilideadnot",
+                "bilidehket",
+                "bilidehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon bilit",
+                "ale bilit",
+                "allos bilit",
+                "allu bilit",
+                "alli bilit",
+                "alloska bilit",
+                "allot, allut bilit",
+                "allet, allit bilit",
+                "alloset bilit"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Bilidit",
+    "valid": 1
+}

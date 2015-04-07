@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "vuordit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "vuorddán",
+                "vuorddát",
+                "vuordá",
+                "vurde",
+                "vuordibeahtti",
+                "vuordiba",
+                "vuordit",
+                "vuordibehtet",
+                "vurdet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in vuordde",
+                "it vuordde",
+                "ii vuordde",
+                "ean vuordde",
+                "eahppi vuordde",
+                "eaba vuordde",
+                "eat vuordde",
+                "ehpet vuordde",
+                "eai vuordde"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "vurden",
+                "vurdet",
+                "vurddii",
+                "vurddiime",
+                "vurddiide",
+                "vurddiiga",
+                "vurddiimet",
+                "vurddiidet",
+                "vurde"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in vuordán",
+                "it vuordán",
+                "ii vuordán",
+                "ean vuordán",
+                "eahppi vuordán",
+                "eaba vuordán",
+                "eat vuordán",
+                "ehpet vuordán",
+                "eai vuordán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean vuordán",
+                "leat vuordán",
+                "lea vuordán",
+                "letne vuordán",
+                "leahppi vuordán",
+                "leaba vuordán",
+                "leat vuordán",
+                "lehpet vuordán",
+                "leat vuordán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen vuordán",
+                "ledjet vuordán",
+                "lei vuordán",
+                "leimme vuordán",
+                "leidde vuordán",
+                "leigga vuordán",
+                "leimmet vuordán",
+                "leiddet vuordán",
+                "ledje vuordán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean vuordime, -min",
+                "leat vuordime, -min",
+                "lea vuordime, -min",
+                "letne vuordime, -min",
+                "leahppi vuordime, -min",
+                "leaba vuordime, -min",
+                "leat vuordime, -min",
+                "lehpet vuordime, -min",
+                "leat vuordime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen vuordime, -min",
+                "ledjet vuordime, -min",
+                "lei vuordime, -min",
+                "leimme vuordime, -min",
+                "leidde vuordime, -min",
+                "leigga vuordime, -min",
+                "leimmet vuordime, -min",
+                "leiddet vuordime, -min",
+                "ledje vuordime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "vuorddášin",
+                "vuorddášit",
+                "vuorddášii",
+                "vuorddášeimme",
+                "vuorddášeidde",
+                "vuorddášeigga",
+                "vuorddášeimmet",
+                "vuorddášeiddet",
+                "vuorddášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in vuorddáše",
+                "it vuorddáše",
+                "ii vuorddáše",
+                "ean vuorddáše",
+                "eahppi vuorddáše",
+                "eaba vuorddáše",
+                "eat vuorddáše",
+                "ehpet vuorddáše",
+                "eai vuorddáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "vurddežan",
+                "vurddežat",
+                "vurddeš",
+                "vurddežetne",
+                "vurddežeahppi",
+                "vurddežeaba",
+                "vurddežit, -žat",
+                "vurddežehpet",
+                "vurddežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in vurddeš",
+                "it vurddeš",
+                "ii vurddeš",
+                "ean vurddeš",
+                "eahppi vurddeš",
+                "eaba vurddeš",
+                "eat vurddeš",
+                "ehpet vurddeš",
+                "eai vurddeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "vurdon",
+                "vuordde",
+                "vurdos",
+                "vuordu",
+                "vuordi",
+                "vurdoska",
+                "vurdot, vuordot",
+                "vurdet, vuordet",
+                "vurdoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon vuordde",
+                "ale vuordde",
+                "allos vuordde",
+                "allu vuordde",
+                "alli vuordde",
+                "alloska vuordde",
+                "allot, allut vuordde",
+                "allet, allit vuordde",
+                "alloset vuordde"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Vuordit",
+    "valid": 1
+}

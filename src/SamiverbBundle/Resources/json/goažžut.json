@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "goažžut", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "goaččun", 
+        "goaččut", 
+        "goažžu", 
+        "gožžo", 
+        "goažžubeahtti", 
+        "goažžuba", 
+        "goažžut", 
+        "goažžubehtet", 
+        "gožžot"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in goaččo", 
+        "it goaččo", 
+        "ii goaččo", 
+        "ean goaččo", 
+        "eahppi goaččo", 
+        "eaba goaččo", 
+        "eat goaččo", 
+        "ehpet goaččo", 
+        "eai goaččo"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "gožžon", 
+        "gožžot", 
+        "goaččui", 
+        "goaččuime", 
+        "goaččuide", 
+        "goaččuiga", 
+        "goaččuimet", 
+        "goaččuidet", 
+        "gožžo"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in gožžon", 
+        "it gožžon", 
+        "ii gožžon", 
+        "ean gožžon", 
+        "eahppi gožžon", 
+        "eaba gožžon", 
+        "eat gožžon", 
+        "ehpet gožžon", 
+        "eai gožžon"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean gožžon", 
+        "leat gožžon", 
+        "lea gožžon", 
+        "letne gožžon", 
+        "leahppi gožžon", 
+        "leaba gožžon", 
+        "leat gožžon", 
+        "lehpet gožžon", 
+        "leat gožžon"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen gožžon", 
+        "ledjet gožžon", 
+        "lei gožžon", 
+        "leimme gožžon", 
+        "leidde gožžon", 
+        "leigga gožžon", 
+        "leimmet gožžon", 
+        "leiddet gožžon", 
+        "ledje gožžon"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean goažžume, -min", 
+        "leat goažžume, -min", 
+        "lea goažžume, -min", 
+        "letne goažžume, -min", 
+        "leahppi goažžume, -min", 
+        "leaba goažžume, -min", 
+        "leat goažžume, -min", 
+        "lehpet goažžume, -min", 
+        "leat goažžume, -min"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen goažžume, -min", 
+        "ledjet goažžume, -min", 
+        "lei goažžume, -min", 
+        "leimme goažžume, -min", 
+        "leidde goažžume, -min", 
+        "leigga goažžume, -min", 
+        "leimmet goažžume, -min", 
+        "leiddet goažžume, -min", 
+        "ledje goažžume, -min"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "goččošin", 
+        "goččošit", 
+        "goččošii", 
+        "goččošeimme", 
+        "goččošeidde", 
+        "goččošeigga", 
+        "goččošeimmet", 
+        "goččošeiddet", 
+        "goččošedje"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in goččoše", 
+        "it goččoše", 
+        "ii goččoše", 
+        "ean goččoše", 
+        "eahppi goččoše", 
+        "eaba goččoše", 
+        "eat goččoše", 
+        "ehpet goččoše", 
+        "eai goččoše"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "goččožan", 
+        "goččožat", 
+        "goččoš", 
+        "goččožetne", 
+        "goččožeahppi", 
+        "goččožeaba", 
+        "goččožit, -žat", 
+        "goččožehpet", 
+        "goččožit"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in goččoš", 
+        "it goččoš", 
+        "ii goččoš", 
+        "ean goččoš", 
+        "eahppi goččoš", 
+        "eaba goččoš", 
+        "eat goččoš", 
+        "ehpet goččoš", 
+        "eai goččoš"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "gožžon", 
+        "goaččo", 
+        "gožžos", 
+        "goažžu", 
+        "goažžu", 
+        "gožžoska", 
+        "gožžot, goažžot", 
+        "gožžot, goažžot", 
+        "gožžoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon goaččo", 
+        "ale goaččo", 
+        "allos goaččo", 
+        "allu goaččo", 
+        "alli goaččo", 
+        "alloska goaččo", 
+        "allot, allut goaččo", 
+        "allet, allit goaččo", 
+        "alloset goaččo"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Goažžut"
+}

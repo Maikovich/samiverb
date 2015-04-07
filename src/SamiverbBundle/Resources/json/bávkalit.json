@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "bávkalit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "bávkalan",
+                "bávkalat",
+                "bávkala",
+                "bávkaletne",
+                "bávkaleahppi",
+                "bávkaleaba",
+                "bávkalit, -lat",
+                "bávkalehpet",
+                "bávkalit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in bávkal",
+                "it bávkal",
+                "ii bávkal",
+                "ean bávkal",
+                "eahppi bávkal",
+                "eaba bávkal",
+                "eat bávkal",
+                "ehpet bávkal",
+                "eai bávkal"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "bávkalin",
+                "bávkalit",
+                "bávkalii",
+                "bávkaleimme",
+                "bávkaleidde",
+                "bávkaleigga",
+                "bávkaleimmet",
+                "bávkaleiddet",
+                "bávkaledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in bávkalan",
+                "it bávkalan",
+                "ii bávkalan",
+                "ean bávkalan",
+                "eahppi bávkalan",
+                "eaba bávkalan",
+                "eat bávkalan",
+                "ehpet bávkalan",
+                "eai bávkalan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean bávkalan",
+                "leat bávkalan",
+                "lea bávkalan",
+                "letne bávkalan",
+                "leahppi bávkalan",
+                "leaba bávkalan",
+                "leat bávkalan",
+                "lehpet bávkalan",
+                "leat bávkalan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen bávkalan",
+                "ledjet bávkalan",
+                "lei bávkalan",
+                "leimme bávkalan",
+                "leidde bávkalan",
+                "leigga bávkalan",
+                "leimmet bávkalan",
+                "leiddet bávkalan",
+                "ledje bávkalan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean bávkaleame, -men",
+                "leat bávkaleame, -men",
+                "lea bávkaleame, -men",
+                "letne bávkaleame, -men",
+                "leahppi bávkaleame, -men",
+                "leaba bávkaleame, -men",
+                "leat bávkaleame, -men",
+                "lehpet bávkaleame, -men",
+                "leat bávkaleame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen bávkaleame, -men",
+                "ledjet bávkaleame, -men",
+                "lei bávkaleame, -men",
+                "leimme bávkaleame, -men",
+                "leidde bávkaleame, -men",
+                "leigga bávkaleame, -men",
+                "leimmet bávkaleame, -men",
+                "leiddet bávkaleame, -men",
+                "ledje bávkaleame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "bávkalivččen",
+                "bávkalivččet",
+                "bávkalivččii",
+                "bávkalivččiime",
+                "bávkalivččiide",
+                "bávkalivččiiga",
+                "bávkalivččiimet",
+                "bávkalivččiidet",
+                "bávkalivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in bávkalivčče",
+                "it bávkalivčče",
+                "ii bávkalivčče",
+                "ean bávkalivčče",
+                "eahppi bávkalivčče",
+                "eaba bávkalivčče",
+                "eat bávkalivčče",
+                "ehpet bávkalivčče",
+                "eai bávkalivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "bávkaleaččan",
+                "bávkaleaččat",
+                "bávkaleaš, -leš, -leažžá",
+                "bávkaležže",
+                "bávkaleažžabeahtti",
+                "bávkaleažžaba",
+                "bávkaleažžat",
+                "bávkaleažžabehtet",
+                "bávkaležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in bávkaleaš, -leš, -leažžá",
+                "it bávkaleaš, -leš, -leažžá",
+                "ii bávkaleaš, -leš, -leažžá",
+                "ean bávkaleaš, -leš, -leažžá",
+                "eahppi bávkaleaš, -leš, -leažžá",
+                "eaba bávkaleaš, -leš, -leažžá",
+                "eat bávkaleaš, -leš, -leažžá",
+                "ehpet bávkaleaš, -leš, -leažžá",
+                "eai bávkaleaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "bávkalehkon",
+                "bávkal",
+                "bávkalehkos, bávkalus",
+                "bávkaleadnu",
+                "bávkaleahkki",
+                "bávkalehkoska",
+                "bávkalehkot, bávkaleahkkut, bávkaletnot, bávkaleadnot",
+                "bávkalehket",
+                "bávkalehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon bávkal",
+                "ale bávkal",
+                "allos bávkal",
+                "allu bávkal",
+                "alli bávkal",
+                "alloska bávkal",
+                "allot, allut bávkal",
+                "allet, allit bávkal",
+                "alloset bávkal"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Bávkalit",
+    "valid": 1
+}

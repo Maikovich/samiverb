@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "láddat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "láttan",
+                "láttat",
+                "láddá",
+                "ládde",
+                "láddabeahtti",
+                "láddaba",
+                "láddat",
+                "láddabehtet",
+                "láddet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in látta",
+                "it látta",
+                "ii látta",
+                "ean látta",
+                "eahppi látta",
+                "eaba látta",
+                "eat látta",
+                "ehpet látta",
+                "eai látta"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ládden",
+                "láddet",
+                "láttai",
+                "láttaime",
+                "láttaide",
+                "láttaiga",
+                "láttaimet",
+                "láttaidet",
+                "ládde"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in láddan",
+                "it láddan",
+                "ii láddan",
+                "ean láddan",
+                "eahppi láddan",
+                "eaba láddan",
+                "eat láddan",
+                "ehpet láddan",
+                "eai láddan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean láddan",
+                "leat láddan",
+                "lea láddan",
+                "letne láddan",
+                "leahppi láddan",
+                "leaba láddan",
+                "leat láddan",
+                "lehpet láddan",
+                "leat láddan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen láddan",
+                "ledjet láddan",
+                "lei láddan",
+                "leimme láddan",
+                "leidde láddan",
+                "leigga láddan",
+                "leimmet láddan",
+                "leiddet láddan",
+                "ledje láddan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean láddame, -min",
+                "leat láddame, -min",
+                "lea láddame, -min",
+                "letne láddame, -min",
+                "leahppi láddame, -min",
+                "leaba láddame, -min",
+                "leat láddame, -min",
+                "lehpet láddame, -min",
+                "leat láddame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen láddame, -min",
+                "ledjet láddame, -min",
+                "lei láddame, -min",
+                "leimme láddame, -min",
+                "leidde láddame, -min",
+                "leigga láddame, -min",
+                "leimmet láddame, -min",
+                "leiddet láddame, -min",
+                "ledje láddame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "láttašin",
+                "láttašit",
+                "láttašii",
+                "láttašeimme",
+                "láttašeidde",
+                "láttašeigga",
+                "láttašeimmet",
+                "láttašeiddet",
+                "láttašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in láttaše",
+                "it láttaše",
+                "ii láttaše",
+                "ean láttaše",
+                "eahppi láttaše",
+                "eaba láttaše",
+                "eat láttaše",
+                "ehpet láttaše",
+                "eai láttaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "láttažan",
+                "láttažat",
+                "láttaš",
+                "láttažetne",
+                "láttažeahppi",
+                "láttažeaba",
+                "láttažit, -žat",
+                "láttažehpet",
+                "láttažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in láttaš",
+                "it láttaš",
+                "ii láttaš",
+                "ean láttaš",
+                "eahppi láttaš",
+                "eaba láttaš",
+                "eat láttaš",
+                "ehpet láttaš",
+                "eai láttaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "láddon",
+                "látta",
+                "láddos",
+                "láddu",
+                "láddi",
+                "láddoska",
+                "láddot",
+                "láddet, láddit",
+                "láddoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon látta",
+                "ale látta",
+                "allos látta",
+                "allu látta",
+                "alli látta",
+                "alloska látta",
+                "allot, allut látta",
+                "allet, allit látta",
+                "alloset látta"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Láddat",
+    "valid": 1
+}

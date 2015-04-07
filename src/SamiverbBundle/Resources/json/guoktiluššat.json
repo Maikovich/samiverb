@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "guoktiluššat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "guoktilušan",
+                "guoktilušat",
+                "guoktiluššá",
+                "guoktilušše",
+                "guoktiluššabeahtti",
+                "guoktiluššaba",
+                "guoktiluššat",
+                "guoktiluššabehtet",
+                "guoktiluššet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in guoktiluša",
+                "it guoktiluša",
+                "ii guoktiluša",
+                "ean guoktiluša",
+                "eahppi guoktiluša",
+                "eaba guoktiluša",
+                "eat guoktiluša",
+                "ehpet guoktiluša",
+                "eai guoktiluša"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "guoktiluššen",
+                "guoktiluššet",
+                "guoktilušai",
+                "guoktilušaime",
+                "guoktilušaide",
+                "guoktilušaiga",
+                "guoktilušaimet",
+                "guoktilušaidet",
+                "guoktilušše"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in guoktiluššan",
+                "it guoktiluššan",
+                "ii guoktiluššan",
+                "ean guoktiluššan",
+                "eahppi guoktiluššan",
+                "eaba guoktiluššan",
+                "eat guoktiluššan",
+                "ehpet guoktiluššan",
+                "eai guoktiluššan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean guoktiluššan",
+                "leat guoktiluššan",
+                "lea guoktiluššan",
+                "letne guoktiluššan",
+                "leahppi guoktiluššan",
+                "leaba guoktiluššan",
+                "leat guoktiluššan",
+                "lehpet guoktiluššan",
+                "leat guoktiluššan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen guoktiluššan",
+                "ledjet guoktiluššan",
+                "lei guoktiluššan",
+                "leimme guoktiluššan",
+                "leidde guoktiluššan",
+                "leigga guoktiluššan",
+                "leimmet guoktiluššan",
+                "leiddet guoktiluššan",
+                "ledje guoktiluššan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean guoktiluššame, -min",
+                "leat guoktiluššame, -min",
+                "lea guoktiluššame, -min",
+                "letne guoktiluššame, -min",
+                "leahppi guoktiluššame, -min",
+                "leaba guoktiluššame, -min",
+                "leat guoktiluššame, -min",
+                "lehpet guoktiluššame, -min",
+                "leat guoktiluššame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen guoktiluššame, -min",
+                "ledjet guoktiluššame, -min",
+                "lei guoktiluššame, -min",
+                "leimme guoktiluššame, -min",
+                "leidde guoktiluššame, -min",
+                "leigga guoktiluššame, -min",
+                "leimmet guoktiluššame, -min",
+                "leiddet guoktiluššame, -min",
+                "ledje guoktiluššame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "guoktilušašin",
+                "guoktilušašit",
+                "guoktilušašii",
+                "guoktilušašeimme",
+                "guoktilušašeidde",
+                "guoktilušašeigga",
+                "guoktilušašeimmet",
+                "guoktilušašeiddet",
+                "guoktilušašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in guoktilušaše",
+                "it guoktilušaše",
+                "ii guoktilušaše",
+                "ean guoktilušaše",
+                "eahppi guoktilušaše",
+                "eaba guoktilušaše",
+                "eat guoktilušaše",
+                "ehpet guoktilušaše",
+                "eai guoktilušaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "guoktilušažan",
+                "guoktilušažat",
+                "guoktilušaš",
+                "guoktilušažetne",
+                "guoktilušažeahppi",
+                "guoktilušažeaba",
+                "guoktilušažit, -žat",
+                "guoktilušažehpet",
+                "guoktilušažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in guoktilušaš",
+                "it guoktilušaš",
+                "ii guoktilušaš",
+                "ean guoktilušaš",
+                "eahppi guoktilušaš",
+                "eaba guoktilušaš",
+                "eat guoktilušaš",
+                "ehpet guoktilušaš",
+                "eai guoktilušaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "guoktiluššon",
+                "guoktiluša",
+                "guoktiluššos",
+                "guoktiluššu",
+                "guoktilušši",
+                "guoktiluššoska",
+                "guoktiluššot",
+                "guoktiluššet, guoktiluššit",
+                "guoktiluššoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon guoktiluša",
+                "ale guoktiluša",
+                "allos guoktiluša",
+                "allu guoktiluša",
+                "alli guoktiluša",
+                "alloska guoktiluša",
+                "allot, allut guoktiluša",
+                "allet, allit guoktiluša",
+                "alloset guoktiluša"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Guoktiluššat",
+    "valid": 1
+}

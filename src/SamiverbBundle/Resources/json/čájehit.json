@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čájehit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čájehan",
+                "čájehat",
+                "čájeha",
+                "čájehetne",
+                "čájeheahppi",
+                "čájeheaba",
+                "čájehit, -hat",
+                "čájehehpet",
+                "čájehit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čájet",
+                "it čájet",
+                "ii čájet",
+                "ean čájet",
+                "eahppi čájet",
+                "eaba čájet",
+                "eat čájet",
+                "ehpet čájet",
+                "eai čájet"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čájehin",
+                "čájehit",
+                "čájehii",
+                "čájeheimme",
+                "čájeheidde",
+                "čájeheigga",
+                "čájeheimmet",
+                "čájeheiddet",
+                "čájehedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čájehan",
+                "it čájehan",
+                "ii čájehan",
+                "ean čájehan",
+                "eahppi čájehan",
+                "eaba čájehan",
+                "eat čájehan",
+                "ehpet čájehan",
+                "eai čájehan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čájehan",
+                "leat čájehan",
+                "lea čájehan",
+                "letne čájehan",
+                "leahppi čájehan",
+                "leaba čájehan",
+                "leat čájehan",
+                "lehpet čájehan",
+                "leat čájehan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čájehan",
+                "ledjet čájehan",
+                "lei čájehan",
+                "leimme čájehan",
+                "leidde čájehan",
+                "leigga čájehan",
+                "leimmet čájehan",
+                "leiddet čájehan",
+                "ledje čájehan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čájeheame, -men",
+                "leat čájeheame, -men",
+                "lea čájeheame, -men",
+                "letne čájeheame, -men",
+                "leahppi čájeheame, -men",
+                "leaba čájeheame, -men",
+                "leat čájeheame, -men",
+                "lehpet čájeheame, -men",
+                "leat čájeheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čájeheame, -men",
+                "ledjet čájeheame, -men",
+                "lei čájeheame, -men",
+                "leimme čájeheame, -men",
+                "leidde čájeheame, -men",
+                "leigga čájeheame, -men",
+                "leimmet čájeheame, -men",
+                "leiddet čájeheame, -men",
+                "ledje čájeheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čájehivččen",
+                "čájehivččet",
+                "čájehivččii",
+                "čájehivččiime",
+                "čájehivččiide",
+                "čájehivččiiga",
+                "čájehivččiimet",
+                "čájehivččiidet",
+                "čájehivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čájehivčče",
+                "it čájehivčče",
+                "ii čájehivčče",
+                "ean čájehivčče",
+                "eahppi čájehivčče",
+                "eaba čájehivčče",
+                "eat čájehivčče",
+                "ehpet čájehivčče",
+                "eai čájehivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čájeheaččan",
+                "čájeheaččat",
+                "čájeheaš, -heš, -heažžá",
+                "čájehežže",
+                "čájeheažžabeahtti",
+                "čájeheažžaba",
+                "čájeheažžat",
+                "čájeheažžabehtet",
+                "čájehežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čájeheaš, -heš, -heažžá",
+                "it čájeheaš, -heš, -heažžá",
+                "ii čájeheaš, -heš, -heažžá",
+                "ean čájeheaš, -heš, -heažžá",
+                "eahppi čájeheaš, -heš, -heažžá",
+                "eaba čájeheaš, -heš, -heažžá",
+                "eat čájeheaš, -heš, -heažžá",
+                "ehpet čájeheaš, -heš, -heažžá",
+                "eai čájeheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čájehehkon",
+                "čájet",
+                "čájehehkos, čájehus",
+                "čájeheadnu",
+                "čájeheahkki",
+                "čájehehkoska",
+                "čájehehkot, čájeheahkkut, čájehetnot, čájeheadnot",
+                "čájehehket",
+                "čájehehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čájet",
+                "ale čájet",
+                "allos čájet",
+                "allu čájet",
+                "alli čájet",
+                "alloska čájet",
+                "allot, allut čájet",
+                "allet, allit čájet",
+                "alloset čájet"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čájehit",
+    "valid": 1
+}

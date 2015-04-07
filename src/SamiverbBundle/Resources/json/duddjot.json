@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "duddjot",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "duddjon",
+                "duddjot",
+                "duddjo",
+                "duddjojetne",
+                "duddjobeahtti",
+                "duddjoba",
+                "duddjot",
+                "duddjobehtet",
+                "duddjojit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in duddjo",
+                "it duddjo",
+                "ii duddjo",
+                "ean duddjo",
+                "eahppi duddjo",
+                "eaba duddjo",
+                "eat duddjo",
+                "ehpet duddjo",
+                "eai duddjo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "duddjojin",
+                "duddjojit",
+                "duddjui",
+                "duddjuime",
+                "duddjuide",
+                "duddjuiga",
+                "duddjuimet",
+                "duddjuidet",
+                "duddjojedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in duddjon",
+                "it duddjon",
+                "ii duddjon",
+                "ean duddjon",
+                "eahppi duddjon",
+                "eaba duddjon",
+                "eat duddjon",
+                "ehpet duddjon",
+                "eai duddjon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean duddjon",
+                "leat duddjon",
+                "lea duddjon",
+                "letne duddjon",
+                "leahppi duddjon",
+                "leaba duddjon",
+                "leat duddjon",
+                "lehpet duddjon",
+                "leat duddjon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen duddjon",
+                "ledjet duddjon",
+                "lei duddjon",
+                "leimme duddjon",
+                "leidde duddjon",
+                "leigga duddjon",
+                "leimmet duddjon",
+                "leiddet duddjon",
+                "ledje duddjon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean duddjome, -min",
+                "leat duddjome, -min",
+                "lea duddjome, -min",
+                "letne duddjome, -min",
+                "leahppi duddjome, -min",
+                "leaba duddjome, -min",
+                "leat duddjome, -min",
+                "lehpet duddjome, -min",
+                "leat duddjome, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen duddjome, -min",
+                "ledjet duddjome, -min",
+                "lei duddjome, -min",
+                "leimme duddjome, -min",
+                "leidde duddjome, -min",
+                "leigga duddjome, -min",
+                "leimmet duddjome, -min",
+                "leiddet duddjome, -min",
+                "ledje duddjome, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "duddjošin",
+                "duddjošit",
+                "duddjošii",
+                "duddjošeimme",
+                "duddjošeidde",
+                "duddjošeigga",
+                "duddjošeimmet",
+                "duddjošeiddet",
+                "duddjošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in duddjoše",
+                "it duddjoše",
+                "ii duddjoše",
+                "ean duddjoše",
+                "eahppi duddjoše",
+                "eaba duddjoše",
+                "eat duddjoše",
+                "ehpet duddjoše",
+                "eai duddjoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "duddjožan",
+                "duddjožat",
+                "duddjoš",
+                "duddjožetne",
+                "duddjožeahppi",
+                "duddjožeaba",
+                "duddjožit, -žat",
+                "duddjožehpet",
+                "duddjožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in duddjoš",
+                "it duddjoš",
+                "ii duddjoš",
+                "ean duddjoš",
+                "eahppi duddjoš",
+                "eaba duddjoš",
+                "eat duddjoš",
+                "ehpet duddjoš",
+                "eai duddjoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "duddjojehkon",
+                "duddjo",
+                "duddjojehkos",
+                "duddjojeadnu",
+                "duddjojeahkki",
+                "duddjojehkoska",
+                "duddjojeahkkut, duddjojeadnot, duddjojehkot, duddjojetnot",
+                "duddjojeahkkit",
+                "duddjojehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon duddjo",
+                "ale duddjo",
+                "allos duddjo",
+                "allu duddjo",
+                "alli duddjo",
+                "alloska duddjo",
+                "allot, allut duddjo",
+                "allet, allit duddjo",
+                "alloset duddjo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Duddjot",
+    "valid": 1
+}

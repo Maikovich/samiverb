@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "almmustahttit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "almmustahtán",
+                "almmustahtát",
+                "almmustahttá",
+                "almmustahtte",
+                "almmustahttibeahtti",
+                "almmustahttiba",
+                "almmustahttit",
+                "almmustahttibehtet",
+                "almmustahttet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in almmustahte",
+                "it almmustahte",
+                "ii almmustahte",
+                "ean almmustahte",
+                "eahppi almmustahte",
+                "eaba almmustahte",
+                "eat almmustahte",
+                "ehpet almmustahte",
+                "eai almmustahte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "almmustahtten",
+                "almmustahttet",
+                "almmustahtii",
+                "almmustahtiime",
+                "almmustahtiide",
+                "almmustahtiiga",
+                "almmustahtiimet",
+                "almmustahtiidet",
+                "almmustahtte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in almmustahttán",
+                "it almmustahttán",
+                "ii almmustahttán",
+                "ean almmustahttán",
+                "eahppi almmustahttán",
+                "eaba almmustahttán",
+                "eat almmustahttán",
+                "ehpet almmustahttán",
+                "eai almmustahttán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean almmustahttán",
+                "leat almmustahttán",
+                "lea almmustahttán",
+                "letne almmustahttán",
+                "leahppi almmustahttán",
+                "leaba almmustahttán",
+                "leat almmustahttán",
+                "lehpet almmustahttán",
+                "leat almmustahttán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen almmustahttán",
+                "ledjet almmustahttán",
+                "lei almmustahttán",
+                "leimme almmustahttán",
+                "leidde almmustahttán",
+                "leigga almmustahttán",
+                "leimmet almmustahttán",
+                "leiddet almmustahttán",
+                "ledje almmustahttán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean almmustahttime, -min",
+                "leat almmustahttime, -min",
+                "lea almmustahttime, -min",
+                "letne almmustahttime, -min",
+                "leahppi almmustahttime, -min",
+                "leaba almmustahttime, -min",
+                "leat almmustahttime, -min",
+                "lehpet almmustahttime, -min",
+                "leat almmustahttime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen almmustahttime, -min",
+                "ledjet almmustahttime, -min",
+                "lei almmustahttime, -min",
+                "leimme almmustahttime, -min",
+                "leidde almmustahttime, -min",
+                "leigga almmustahttime, -min",
+                "leimmet almmustahttime, -min",
+                "leiddet almmustahttime, -min",
+                "ledje almmustahttime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "almmustahtášin",
+                "almmustahtášit",
+                "almmustahtášii",
+                "almmustahtášeimme",
+                "almmustahtášeidde",
+                "almmustahtášeigga",
+                "almmustahtášeimmet",
+                "almmustahtášeiddet",
+                "almmustahtášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in almmustahtáše",
+                "it almmustahtáše",
+                "ii almmustahtáše",
+                "ean almmustahtáše",
+                "eahppi almmustahtáše",
+                "eaba almmustahtáše",
+                "eat almmustahtáše",
+                "ehpet almmustahtáše",
+                "eai almmustahtáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "almmustahtežan",
+                "almmustahtežat",
+                "almmustahteš",
+                "almmustahtežetne",
+                "almmustahtežeahppi",
+                "almmustahtežeaba",
+                "almmustahtežit, -žat",
+                "almmustahtežehpet",
+                "almmustahtežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in almmustahteš",
+                "it almmustahteš",
+                "ii almmustahteš",
+                "ean almmustahteš",
+                "eahppi almmustahteš",
+                "eaba almmustahteš",
+                "eat almmustahteš",
+                "ehpet almmustahteš",
+                "eai almmustahteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "almmustahtton",
+                "almmustahte",
+                "almmustahttos",
+                "almmustahttu",
+                "almmustahtti",
+                "almmustahttoska",
+                "almmustahttot",
+                "almmustahttet",
+                "almmustahttoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon almmustahte",
+                "ale almmustahte",
+                "allos almmustahte",
+                "allu almmustahte",
+                "alli almmustahte",
+                "alloska almmustahte",
+                "allot, allut almmustahte",
+                "allet, allit almmustahte",
+                "alloset almmustahte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Almmustahttit",
+    "valid": 1
+}

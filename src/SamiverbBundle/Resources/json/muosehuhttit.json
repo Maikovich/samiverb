@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "muosehuhttit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "muosehuhtán",
+                "muosehuhtát",
+                "muosehuhttá",
+                "muosehuhtte",
+                "muosehuhttibeahtti",
+                "muosehuhttiba",
+                "muosehuhttit",
+                "muosehuhttibehtet",
+                "muosehuhttet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in muosehuhte",
+                "it muosehuhte",
+                "ii muosehuhte",
+                "ean muosehuhte",
+                "eahppi muosehuhte",
+                "eaba muosehuhte",
+                "eat muosehuhte",
+                "ehpet muosehuhte",
+                "eai muosehuhte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "muosehuhtten",
+                "muosehuhttet",
+                "muosehuhtii",
+                "muosehuhtiime",
+                "muosehuhtiide",
+                "muosehuhtiiga",
+                "muosehuhtiimet",
+                "muosehuhtiidet",
+                "muosehuhtte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in muosehuhttán",
+                "it muosehuhttán",
+                "ii muosehuhttán",
+                "ean muosehuhttán",
+                "eahppi muosehuhttán",
+                "eaba muosehuhttán",
+                "eat muosehuhttán",
+                "ehpet muosehuhttán",
+                "eai muosehuhttán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean muosehuhttán",
+                "leat muosehuhttán",
+                "lea muosehuhttán",
+                "letne muosehuhttán",
+                "leahppi muosehuhttán",
+                "leaba muosehuhttán",
+                "leat muosehuhttán",
+                "lehpet muosehuhttán",
+                "leat muosehuhttán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen muosehuhttán",
+                "ledjet muosehuhttán",
+                "lei muosehuhttán",
+                "leimme muosehuhttán",
+                "leidde muosehuhttán",
+                "leigga muosehuhttán",
+                "leimmet muosehuhttán",
+                "leiddet muosehuhttán",
+                "ledje muosehuhttán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean muosehuhttime, -min",
+                "leat muosehuhttime, -min",
+                "lea muosehuhttime, -min",
+                "letne muosehuhttime, -min",
+                "leahppi muosehuhttime, -min",
+                "leaba muosehuhttime, -min",
+                "leat muosehuhttime, -min",
+                "lehpet muosehuhttime, -min",
+                "leat muosehuhttime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen muosehuhttime, -min",
+                "ledjet muosehuhttime, -min",
+                "lei muosehuhttime, -min",
+                "leimme muosehuhttime, -min",
+                "leidde muosehuhttime, -min",
+                "leigga muosehuhttime, -min",
+                "leimmet muosehuhttime, -min",
+                "leiddet muosehuhttime, -min",
+                "ledje muosehuhttime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "muosehuhtášin",
+                "muosehuhtášit",
+                "muosehuhtášii",
+                "muosehuhtášeimme",
+                "muosehuhtášeidde",
+                "muosehuhtášeigga",
+                "muosehuhtášeimmet",
+                "muosehuhtášeiddet",
+                "muosehuhtášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in muosehuhtáše",
+                "it muosehuhtáše",
+                "ii muosehuhtáše",
+                "ean muosehuhtáše",
+                "eahppi muosehuhtáše",
+                "eaba muosehuhtáše",
+                "eat muosehuhtáše",
+                "ehpet muosehuhtáše",
+                "eai muosehuhtáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "muosehuhtežan",
+                "muosehuhtežat",
+                "muosehuhteš",
+                "muosehuhtežetne",
+                "muosehuhtežeahppi",
+                "muosehuhtežeaba",
+                "muosehuhtežit, -žat",
+                "muosehuhtežehpet",
+                "muosehuhtežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in muosehuhteš",
+                "it muosehuhteš",
+                "ii muosehuhteš",
+                "ean muosehuhteš",
+                "eahppi muosehuhteš",
+                "eaba muosehuhteš",
+                "eat muosehuhteš",
+                "ehpet muosehuhteš",
+                "eai muosehuhteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "muosehuhtton",
+                "muosehuhte",
+                "muosehuhttos",
+                "muosehuhttu",
+                "muosehuhtti",
+                "muosehuhttoska",
+                "muosehuhttot",
+                "muosehuhttet",
+                "muosehuhttoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon muosehuhte",
+                "ale muosehuhte",
+                "allos muosehuhte",
+                "allu muosehuhte",
+                "alli muosehuhte",
+                "alloska muosehuhte",
+                "allot, allut muosehuhte",
+                "allet, allit muosehuhte",
+                "alloset muosehuhte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Muosehuhttit",
+    "valid": 1
+}

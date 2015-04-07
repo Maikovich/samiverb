@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "suoskat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "suoskkan",
+                "suoskkat",
+                "suoská",
+                "suske",
+                "suoskabeahtti",
+                "suoskaba",
+                "suoskat",
+                "suoskabehtet",
+                "susket"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in suoskka",
+                "it suoskka",
+                "ii suoskka",
+                "ean suoskka",
+                "eahppi suoskka",
+                "eaba suoskka",
+                "eat suoskka",
+                "ehpet suoskka",
+                "eai suoskka"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "susken",
+                "susket",
+                "suoskkai",
+                "suoskkaime",
+                "suoskkaide",
+                "suoskkaiga",
+                "suoskkaimet",
+                "suoskkaidet",
+                "suske"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in suoskan",
+                "it suoskan",
+                "ii suoskan",
+                "ean suoskan",
+                "eahppi suoskan",
+                "eaba suoskan",
+                "eat suoskan",
+                "ehpet suoskan",
+                "eai suoskan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean suoskan",
+                "leat suoskan",
+                "lea suoskan",
+                "letne suoskan",
+                "leahppi suoskan",
+                "leaba suoskan",
+                "leat suoskan",
+                "lehpet suoskan",
+                "leat suoskan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen suoskan",
+                "ledjet suoskan",
+                "lei suoskan",
+                "leimme suoskan",
+                "leidde suoskan",
+                "leigga suoskan",
+                "leimmet suoskan",
+                "leiddet suoskan",
+                "ledje suoskan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean suoskame, -min",
+                "leat suoskame, -min",
+                "lea suoskame, -min",
+                "letne suoskame, -min",
+                "leahppi suoskame, -min",
+                "leaba suoskame, -min",
+                "leat suoskame, -min",
+                "lehpet suoskame, -min",
+                "leat suoskame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen suoskame, -min",
+                "ledjet suoskame, -min",
+                "lei suoskame, -min",
+                "leimme suoskame, -min",
+                "leidde suoskame, -min",
+                "leigga suoskame, -min",
+                "leimmet suoskame, -min",
+                "leiddet suoskame, -min",
+                "ledje suoskame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "suoskkašin",
+                "suoskkašit",
+                "suoskkašii",
+                "suoskkašeimme",
+                "suoskkašeidde",
+                "suoskkašeigga",
+                "suoskkašeimmet",
+                "suoskkašeiddet",
+                "suoskkašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in suoskkaše",
+                "it suoskkaše",
+                "ii suoskkaše",
+                "ean suoskkaše",
+                "eahppi suoskkaše",
+                "eaba suoskkaše",
+                "eat suoskkaše",
+                "ehpet suoskkaše",
+                "eai suoskkaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "suoskkažan",
+                "suoskkažat",
+                "suoskkaš",
+                "suoskkažetne",
+                "suoskkažeahppi",
+                "suoskkažeaba",
+                "suoskkažit, -žat",
+                "suoskkažehpet",
+                "suoskkažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in suoskkaš",
+                "it suoskkaš",
+                "ii suoskkaš",
+                "ean suoskkaš",
+                "eahppi suoskkaš",
+                "eaba suoskkaš",
+                "eat suoskkaš",
+                "ehpet suoskkaš",
+                "eai suoskkaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "suskon",
+                "suoskka",
+                "suskos",
+                "suosku",
+                "suoski",
+                "suskoska",
+                "suskot, suoskot",
+                "susket, suoskit",
+                "suskoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon suoskka",
+                "ale suoskka",
+                "allos suoskka",
+                "allu suoskka",
+                "alli suoskka",
+                "alloska suoskka",
+                "allot, allut suoskka",
+                "allet, allit suoskka",
+                "alloset suoskka"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Suoskat",
+    "valid": 1
+}

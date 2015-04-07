@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "buohcat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "buozan",
+                "buozat",
+                "buohcá",
+                "buhce",
+                "buohcabeahtti",
+                "buohcaba",
+                "buohcat",
+                "buohcabehtet",
+                "buhcet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in buoza",
+                "it buoza",
+                "ii buoza",
+                "ean buoza",
+                "eahppi buoza",
+                "eaba buoza",
+                "eat buoza",
+                "ehpet buoza",
+                "eai buoza"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "buhcen",
+                "buhcet",
+                "buozai",
+                "buozaime",
+                "buozaide",
+                "buozaiga",
+                "buozaimet",
+                "buozaidet",
+                "buhce"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in buohcan",
+                "it buohcan",
+                "ii buohcan",
+                "ean buohcan",
+                "eahppi buohcan",
+                "eaba buohcan",
+                "eat buohcan",
+                "ehpet buohcan",
+                "eai buohcan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean buohcan",
+                "leat buohcan",
+                "lea buohcan",
+                "letne buohcan",
+                "leahppi buohcan",
+                "leaba buohcan",
+                "leat buohcan",
+                "lehpet buohcan",
+                "leat buohcan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen buohcan",
+                "ledjet buohcan",
+                "lei buohcan",
+                "leimme buohcan",
+                "leidde buohcan",
+                "leigga buohcan",
+                "leimmet buohcan",
+                "leiddet buohcan",
+                "ledje buohcan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean buohcame, -min",
+                "leat buohcame, -min",
+                "lea buohcame, -min",
+                "letne buohcame, -min",
+                "leahppi buohcame, -min",
+                "leaba buohcame, -min",
+                "leat buohcame, -min",
+                "lehpet buohcame, -min",
+                "leat buohcame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen buohcame, -min",
+                "ledjet buohcame, -min",
+                "lei buohcame, -min",
+                "leimme buohcame, -min",
+                "leidde buohcame, -min",
+                "leigga buohcame, -min",
+                "leimmet buohcame, -min",
+                "leiddet buohcame, -min",
+                "ledje buohcame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "buozašin",
+                "buozašit",
+                "buozašii",
+                "buozašeimme",
+                "buozašeidde",
+                "buozašeigga",
+                "buozašeimmet",
+                "buozašeiddet",
+                "buozašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in buozaše",
+                "it buozaše",
+                "ii buozaše",
+                "ean buozaše",
+                "eahppi buozaše",
+                "eaba buozaše",
+                "eat buozaše",
+                "ehpet buozaše",
+                "eai buozaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "buozažan",
+                "buozažat",
+                "buozaš",
+                "buozažetne",
+                "buozažeahppi",
+                "buozažeaba",
+                "buozažit, -žat",
+                "buozažehpet",
+                "buozažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in buozaš",
+                "it buozaš",
+                "ii buozaš",
+                "ean buozaš",
+                "eahppi buozaš",
+                "eaba buozaš",
+                "eat buozaš",
+                "ehpet buozaš",
+                "eai buozaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "buhcon",
+                "buoza",
+                "buhcos",
+                "buohccu",
+                "buohcci",
+                "buhcoska",
+                "buhcot, buohccot",
+                "buhcet, buohccit",
+                "buhcoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon buoza",
+                "ale buoza",
+                "allos buoza",
+                "allu buoza",
+                "alli buoza",
+                "alloska buoza",
+                "allot, allut buoza",
+                "allet, allit buoza",
+                "alloset buoza"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Buohcat",
+    "valid": 1
+}

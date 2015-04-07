@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "doalvut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "doalvvun",
+                "doalvvut",
+                "doalvu",
+                "dolvo",
+                "doalvubeahtti",
+                "doalvuba",
+                "doalvut",
+                "doalvubehtet",
+                "dolvot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in doalvvo",
+                "it doalvvo",
+                "ii doalvvo",
+                "ean doalvvo",
+                "eahppi doalvvo",
+                "eaba doalvvo",
+                "eat doalvvo",
+                "ehpet doalvvo",
+                "eai doalvvo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "dolvon",
+                "dolvot",
+                "doalvvui",
+                "doalvvuime",
+                "doalvvuide",
+                "doalvvuiga",
+                "doalvvuimet",
+                "doalvvuidet",
+                "dolvo"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in dolvon",
+                "it dolvon",
+                "ii dolvon",
+                "ean dolvon",
+                "eahppi dolvon",
+                "eaba dolvon",
+                "eat dolvon",
+                "ehpet dolvon",
+                "eai dolvon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean dolvon",
+                "leat dolvon",
+                "lea dolvon",
+                "letne dolvon",
+                "leahppi dolvon",
+                "leaba dolvon",
+                "leat dolvon",
+                "lehpet dolvon",
+                "leat dolvon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen dolvon",
+                "ledjet dolvon",
+                "lei dolvon",
+                "leimme dolvon",
+                "leidde dolvon",
+                "leigga dolvon",
+                "leimmet dolvon",
+                "leiddet dolvon",
+                "ledje dolvon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean doalvume, -min",
+                "leat doalvume, -min",
+                "lea doalvume, -min",
+                "letne doalvume, -min",
+                "leahppi doalvume, -min",
+                "leaba doalvume, -min",
+                "leat doalvume, -min",
+                "lehpet doalvume, -min",
+                "leat doalvume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen doalvume, -min",
+                "ledjet doalvume, -min",
+                "lei doalvume, -min",
+                "leimme doalvume, -min",
+                "leidde doalvume, -min",
+                "leigga doalvume, -min",
+                "leimmet doalvume, -min",
+                "leiddet doalvume, -min",
+                "ledje doalvume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "dolvvošin",
+                "dolvvošit",
+                "dolvvošii",
+                "dolvvošeimme",
+                "dolvvošeidde",
+                "dolvvošeigga",
+                "dolvvošeimmet",
+                "dolvvošeiddet",
+                "dolvvošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in dolvvoše",
+                "it dolvvoše",
+                "ii dolvvoše",
+                "ean dolvvoše",
+                "eahppi dolvvoše",
+                "eaba dolvvoše",
+                "eat dolvvoše",
+                "ehpet dolvvoše",
+                "eai dolvvoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "dolvvožan",
+                "dolvvožat",
+                "dolvvoš",
+                "dolvvožetne",
+                "dolvvožeahppi",
+                "dolvvožeaba",
+                "dolvvožit, -žat",
+                "dolvvožehpet",
+                "dolvvožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in dolvvoš",
+                "it dolvvoš",
+                "ii dolvvoš",
+                "ean dolvvoš",
+                "eahppi dolvvoš",
+                "eaba dolvvoš",
+                "eat dolvvoš",
+                "ehpet dolvvoš",
+                "eai dolvvoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "dolvon",
+                "doalvvo",
+                "dolvos",
+                "doalvu",
+                "doalvu",
+                "dolvoska",
+                "dolvot, doalvot",
+                "dolvot, doalvot",
+                "dolvoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon doalvvo",
+                "ale doalvvo",
+                "allos doalvvo",
+                "allu doalvvo",
+                "alli doalvvo",
+                "alloska doalvvo",
+                "allot, allut doalvvo",
+                "allet, allit doalvvo",
+                "alloset doalvvo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Doalvut",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "firtát", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "firtán", 
+        "firtát", 
+        "firtá", 
+        "firtájetne", 
+        "firtábeahtti", 
+        "firtába", 
+        "firtát", 
+        "firtábehtet", 
+        "firtájit"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in firtá", 
+        "it firtá", 
+        "ii firtá", 
+        "ean firtá", 
+        "eahppi firtá", 
+        "eaba firtá", 
+        "eat firtá", 
+        "ehpet firtá", 
+        "eai firtá"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "firtájin", 
+        "firtájit", 
+        "firtái", 
+        "firtáime", 
+        "firtáide", 
+        "firtáiga", 
+        "firtáimet", 
+        "firtáidet", 
+        "firtájedje"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in firtán", 
+        "it firtán", 
+        "ii firtán", 
+        "ean firtán", 
+        "eahppi firtán", 
+        "eaba firtán", 
+        "eat firtán", 
+        "ehpet firtán", 
+        "eai firtán"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean firtán", 
+        "leat firtán", 
+        "lea firtán", 
+        "letne firtán", 
+        "leahppi firtán", 
+        "leaba firtán", 
+        "leat firtán", 
+        "lehpet firtán", 
+        "leat firtán"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen firtán", 
+        "ledjet firtán", 
+        "lei firtán", 
+        "leimme firtán", 
+        "leidde firtán", 
+        "leigga firtán", 
+        "leimmet firtán", 
+        "leiddet firtán", 
+        "ledje firtán"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean firtáme, -min", 
+        "leat firtáme, -min", 
+        "lea firtáme, -min", 
+        "letne firtáme, -min", 
+        "leahppi firtáme, -min", 
+        "leaba firtáme, -min", 
+        "leat firtáme, -min", 
+        "lehpet firtáme, -min", 
+        "leat firtáme, -min"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen firtáme, -min", 
+        "ledjet firtáme, -min", 
+        "lei firtáme, -min", 
+        "leimme firtáme, -min", 
+        "leidde firtáme, -min", 
+        "leigga firtáme, -min", 
+        "leimmet firtáme, -min", 
+        "leiddet firtáme, -min", 
+        "ledje firtáme, -min"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "firtášin", 
+        "firtášit", 
+        "firtášii", 
+        "firtášeimme", 
+        "firtášeidde", 
+        "firtášeigga", 
+        "firtášeimmet", 
+        "firtášeiddet", 
+        "firtášedje"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in firtáše", 
+        "it firtáše", 
+        "ii firtáše", 
+        "ean firtáše", 
+        "eahppi firtáše", 
+        "eaba firtáše", 
+        "eat firtáše", 
+        "ehpet firtáše", 
+        "eai firtáše"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "firtážan", 
+        "firtážat", 
+        "firtáš", 
+        "firtážetne", 
+        "firtážeahppi", 
+        "firtážeaba", 
+        "firtážit, -žat", 
+        "firtážehpet", 
+        "firtážit"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in firtáš", 
+        "it firtáš", 
+        "ii firtáš", 
+        "ean firtáš", 
+        "eahppi firtáš", 
+        "eaba firtáš", 
+        "eat firtáš", 
+        "ehpet firtáš", 
+        "eai firtáš"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "firtájehkon", 
+        "firtá", 
+        "firtájehkos", 
+        "firtájeadnu", 
+        "firtájeahkki", 
+        "firtájehkoska", 
+        "firtájeahkkut, firtájeadnot, firtájehkot, firtájetnot", 
+        "firtájeahkkit", 
+        "firtájehkoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon firtá", 
+        "ale firtá", 
+        "allos firtá", 
+        "allu firtá", 
+        "alli firtá", 
+        "alloska firtá", 
+        "allot, allut firtá", 
+        "allet, allit firtá", 
+        "alloset firtá"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Firtát"
+}

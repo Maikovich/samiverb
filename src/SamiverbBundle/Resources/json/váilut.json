@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "váilut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "váillun",
+                "váillut",
+                "váilu",
+                "váilo",
+                "váilubeahtti",
+                "váiluba",
+                "váilut",
+                "váilubehtet",
+                "váilot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in váillo",
+                "it váillo",
+                "ii váillo",
+                "ean váillo",
+                "eahppi váillo",
+                "eaba váillo",
+                "eat váillo",
+                "ehpet váillo",
+                "eai váillo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "váilon",
+                "váilot",
+                "váillui",
+                "váilluime",
+                "váilluide",
+                "váilluiga",
+                "váilluimet",
+                "váilluidet",
+                "váilo"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in váilon",
+                "it váilon",
+                "ii váilon",
+                "ean váilon",
+                "eahppi váilon",
+                "eaba váilon",
+                "eat váilon",
+                "ehpet váilon",
+                "eai váilon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean váilon",
+                "leat váilon",
+                "lea váilon",
+                "letne váilon",
+                "leahppi váilon",
+                "leaba váilon",
+                "leat váilon",
+                "lehpet váilon",
+                "leat váilon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen váilon",
+                "ledjet váilon",
+                "lei váilon",
+                "leimme váilon",
+                "leidde váilon",
+                "leigga váilon",
+                "leimmet váilon",
+                "leiddet váilon",
+                "ledje váilon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean váilume, -min",
+                "leat váilume, -min",
+                "lea váilume, -min",
+                "letne váilume, -min",
+                "leahppi váilume, -min",
+                "leaba váilume, -min",
+                "leat váilume, -min",
+                "lehpet váilume, -min",
+                "leat váilume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen váilume, -min",
+                "ledjet váilume, -min",
+                "lei váilume, -min",
+                "leimme váilume, -min",
+                "leidde váilume, -min",
+                "leigga váilume, -min",
+                "leimmet váilume, -min",
+                "leiddet váilume, -min",
+                "ledje váilume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "váillošin",
+                "váillošit",
+                "váillošii",
+                "váillošeimme",
+                "váillošeidde",
+                "váillošeigga",
+                "váillošeimmet",
+                "váillošeiddet",
+                "váillošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in váilloše",
+                "it váilloše",
+                "ii váilloše",
+                "ean váilloše",
+                "eahppi váilloše",
+                "eaba váilloše",
+                "eat váilloše",
+                "ehpet váilloše",
+                "eai váilloše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "váilložan",
+                "váilložat",
+                "váilloš",
+                "váilložetne",
+                "váilložeahppi",
+                "váilložeaba",
+                "váilložit, -žat",
+                "váilložehpet",
+                "váilložit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in váilloš",
+                "it váilloš",
+                "ii váilloš",
+                "ean váilloš",
+                "eahppi váilloš",
+                "eaba váilloš",
+                "eat váilloš",
+                "ehpet váilloš",
+                "eai váilloš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "váilon",
+                "váillo",
+                "váilos",
+                "váilu",
+                "váilu",
+                "váiloska",
+                "váilot",
+                "váilot",
+                "váiloset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon váillo",
+                "ale váillo",
+                "allos váillo",
+                "allu váillo",
+                "alli váillo",
+                "alloska váillo",
+                "allot, allut váillo",
+                "allet, allit váillo",
+                "alloset váillo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Váilut",
+    "valid": 1
+}

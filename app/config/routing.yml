@@ -1,3 +1,6 @@
-app:
-    resource: @AppBundle/Controller/
+samiverb:
+    resource: @SamiverbBundle/Controller/
     type:     annotation
+
+logout:
+    path:     /logout

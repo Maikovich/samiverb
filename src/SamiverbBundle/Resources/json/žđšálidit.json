@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "žđšálidit", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "žđšálidan", 
+        "žđšálidat", 
+        "žđšálida", 
+        "žđšálidetne", 
+        "žđšálideahppi", 
+        "žđšálideaba", 
+        "žđšálidit, -dat", 
+        "žđšálidehpet", 
+        "žđšálidit"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in žđšálit", 
+        "it žđšálit", 
+        "ii žđšálit", 
+        "ean žđšálit", 
+        "eahppi žđšálit", 
+        "eaba žđšálit", 
+        "eat žđšálit", 
+        "ehpet žđšálit", 
+        "eai žđšálit"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "žđšálidin", 
+        "žđšálidit", 
+        "žđšálidii", 
+        "žđšálideimme", 
+        "žđšálideidde", 
+        "žđšálideigga", 
+        "žđšálideimmet", 
+        "žđšálideiddet", 
+        "žđšálidedje"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in žđšálidan", 
+        "it žđšálidan", 
+        "ii žđšálidan", 
+        "ean žđšálidan", 
+        "eahppi žđšálidan", 
+        "eaba žđšálidan", 
+        "eat žđšálidan", 
+        "ehpet žđšálidan", 
+        "eai žđšálidan"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean žđšálidan", 
+        "leat žđšálidan", 
+        "lea žđšálidan", 
+        "letne žđšálidan", 
+        "leahppi žđšálidan", 
+        "leaba žđšálidan", 
+        "leat žđšálidan", 
+        "lehpet žđšálidan", 
+        "leat žđšálidan"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen žđšálidan", 
+        "ledjet žđšálidan", 
+        "lei žđšálidan", 
+        "leimme žđšálidan", 
+        "leidde žđšálidan", 
+        "leigga žđšálidan", 
+        "leimmet žđšálidan", 
+        "leiddet žđšálidan", 
+        "ledje žđšálidan"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean žđšálideame, -men", 
+        "leat žđšálideame, -men", 
+        "lea žđšálideame, -men", 
+        "letne žđšálideame, -men", 
+        "leahppi žđšálideame, -men", 
+        "leaba žđšálideame, -men", 
+        "leat žđšálideame, -men", 
+        "lehpet žđšálideame, -men", 
+        "leat žđšálideame, -men"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen žđšálideame, -men", 
+        "ledjet žđšálideame, -men", 
+        "lei žđšálideame, -men", 
+        "leimme žđšálideame, -men", 
+        "leidde žđšálideame, -men", 
+        "leigga žđšálideame, -men", 
+        "leimmet žđšálideame, -men", 
+        "leiddet žđšálideame, -men", 
+        "ledje žđšálideame, -men"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "žđšálidivččen", 
+        "žđšálidivččet", 
+        "žđšálidivččii", 
+        "žđšálidivččiime", 
+        "žđšálidivččiide", 
+        "žđšálidivččiiga", 
+        "žđšálidivččiimet", 
+        "žđšálidivččiidet", 
+        "žđšálidivčče"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in žđšálidivčče", 
+        "it žđšálidivčče", 
+        "ii žđšálidivčče", 
+        "ean žđšálidivčče", 
+        "eahppi žđšálidivčče", 
+        "eaba žđšálidivčče", 
+        "eat žđšálidivčče", 
+        "ehpet žđšálidivčče", 
+        "eai žđšálidivčče"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "žđšálideaččan", 
+        "žđšálideaččat", 
+        "žđšálideaš, -deš, -deažžá", 
+        "žđšálidežže", 
+        "žđšálideažžabeahtti", 
+        "žđšálideažžaba", 
+        "žđšálideažžat", 
+        "žđšálideažžabehtet", 
+        "žđšálidežžet"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in žđšálideaš, -deš, -deažžá", 
+        "it žđšálideaš, -deš, -deažžá", 
+        "ii žđšálideaš, -deš, -deažžá", 
+        "ean žđšálideaš, -deš, -deažžá", 
+        "eahppi žđšálideaš, -deš, -deažžá", 
+        "eaba žđšálideaš, -deš, -deažžá", 
+        "eat žđšálideaš, -deš, -deažžá", 
+        "ehpet žđšálideaš, -deš, -deažžá", 
+        "eai žđšálideaš, -deš, -deažžá"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "žđšálidehkon", 
+        "žđšálit", 
+        "žđšálidehkos, žđšálidus", 
+        "žđšálideadnu", 
+        "žđšálideahkki", 
+        "žđšálidehkoska", 
+        "žđšálidehkot, žđšálideahkkut, žđšálidetnot, žđšálideadnot", 
+        "žđšálidehket", 
+        "žđšálidehkoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon žđšálit", 
+        "ale žđšálit", 
+        "allos žđšálit", 
+        "allu žđšálit", 
+        "alli žđšálit", 
+        "alloska žđšálit", 
+        "allot, allut žđšálit", 
+        "allet, allit žđšálit", 
+        "alloset žđšálit"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Žđšálidit"
+}

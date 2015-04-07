@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "bohkosit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "bohkosan",
+                "bohkosat",
+                "bohkosa",
+                "bohkosetne",
+                "bohkoseahppi",
+                "bohkoseaba",
+                "bohkosit, -sat",
+                "bohkosehpet",
+                "bohkosit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in bohkos",
+                "it bohkos",
+                "ii bohkos",
+                "ean bohkos",
+                "eahppi bohkos",
+                "eaba bohkos",
+                "eat bohkos",
+                "ehpet bohkos",
+                "eai bohkos"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "bohkosin",
+                "bohkosit",
+                "bohkosii",
+                "bohkoseimme",
+                "bohkoseidde",
+                "bohkoseigga",
+                "bohkoseimmet",
+                "bohkoseiddet",
+                "bohkosedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in bohkosan",
+                "it bohkosan",
+                "ii bohkosan",
+                "ean bohkosan",
+                "eahppi bohkosan",
+                "eaba bohkosan",
+                "eat bohkosan",
+                "ehpet bohkosan",
+                "eai bohkosan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean bohkosan",
+                "leat bohkosan",
+                "lea bohkosan",
+                "letne bohkosan",
+                "leahppi bohkosan",
+                "leaba bohkosan",
+                "leat bohkosan",
+                "lehpet bohkosan",
+                "leat bohkosan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen bohkosan",
+                "ledjet bohkosan",
+                "lei bohkosan",
+                "leimme bohkosan",
+                "leidde bohkosan",
+                "leigga bohkosan",
+                "leimmet bohkosan",
+                "leiddet bohkosan",
+                "ledje bohkosan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean bohkoseame, -men",
+                "leat bohkoseame, -men",
+                "lea bohkoseame, -men",
+                "letne bohkoseame, -men",
+                "leahppi bohkoseame, -men",
+                "leaba bohkoseame, -men",
+                "leat bohkoseame, -men",
+                "lehpet bohkoseame, -men",
+                "leat bohkoseame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen bohkoseame, -men",
+                "ledjet bohkoseame, -men",
+                "lei bohkoseame, -men",
+                "leimme bohkoseame, -men",
+                "leidde bohkoseame, -men",
+                "leigga bohkoseame, -men",
+                "leimmet bohkoseame, -men",
+                "leiddet bohkoseame, -men",
+                "ledje bohkoseame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "bohkosivččen",
+                "bohkosivččet",
+                "bohkosivččii",
+                "bohkosivččiime",
+                "bohkosivččiide",
+                "bohkosivččiiga",
+                "bohkosivččiimet",
+                "bohkosivččiidet",
+                "bohkosivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in bohkosivčče",
+                "it bohkosivčče",
+                "ii bohkosivčče",
+                "ean bohkosivčče",
+                "eahppi bohkosivčče",
+                "eaba bohkosivčče",
+                "eat bohkosivčče",
+                "ehpet bohkosivčče",
+                "eai bohkosivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "bohkoseaččan",
+                "bohkoseaččat",
+                "bohkoseaš, -seš, -seažžá",
+                "bohkosežže",
+                "bohkoseažžabeahtti",
+                "bohkoseažžaba",
+                "bohkoseažžat",
+                "bohkoseažžabehtet",
+                "bohkosežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in bohkoseaš, -seš, -seažžá",
+                "it bohkoseaš, -seš, -seažžá",
+                "ii bohkoseaš, -seš, -seažžá",
+                "ean bohkoseaš, -seš, -seažžá",
+                "eahppi bohkoseaš, -seš, -seažžá",
+                "eaba bohkoseaš, -seš, -seažžá",
+                "eat bohkoseaš, -seš, -seažžá",
+                "ehpet bohkoseaš, -seš, -seažžá",
+                "eai bohkoseaš, -seš, -seažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "bohkosehkon",
+                "bohkos",
+                "bohkosehkos, bohkosus",
+                "bohkoseadnu",
+                "bohkoseahkki",
+                "bohkosehkoska",
+                "bohkosehkot, bohkoseahkkut, bohkosetnot, bohkoseadnot",
+                "bohkosehket",
+                "bohkosehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon bohkos",
+                "ale bohkos",
+                "allos bohkos",
+                "allu bohkos",
+                "alli bohkos",
+                "alloska bohkos",
+                "allot, allut bohkos",
+                "allet, allit bohkos",
+                "alloset bohkos"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Bohkosit",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "báhčit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "bážán",
+                "bážát",
+                "báhčá",
+                "báhče",
+                "báhčibeahtti",
+                "báhčiba",
+                "báhčit",
+                "báhčibehtet",
+                "báhčet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in báže",
+                "it báže",
+                "ii báže",
+                "ean báže",
+                "eahppi báže",
+                "eaba báže",
+                "eat báže",
+                "ehpet báže",
+                "eai báže"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "báhčen",
+                "báhčet",
+                "bážii",
+                "bážiime",
+                "bážiide",
+                "bážiiga",
+                "bážiimet",
+                "bážiidet",
+                "báhče"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in báhčán",
+                "it báhčán",
+                "ii báhčán",
+                "ean báhčán",
+                "eahppi báhčán",
+                "eaba báhčán",
+                "eat báhčán",
+                "ehpet báhčán",
+                "eai báhčán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean báhčán",
+                "leat báhčán",
+                "lea báhčán",
+                "letne báhčán",
+                "leahppi báhčán",
+                "leaba báhčán",
+                "leat báhčán",
+                "lehpet báhčán",
+                "leat báhčán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen báhčán",
+                "ledjet báhčán",
+                "lei báhčán",
+                "leimme báhčán",
+                "leidde báhčán",
+                "leigga báhčán",
+                "leimmet báhčán",
+                "leiddet báhčán",
+                "ledje báhčán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean báhčime, -min",
+                "leat báhčime, -min",
+                "lea báhčime, -min",
+                "letne báhčime, -min",
+                "leahppi báhčime, -min",
+                "leaba báhčime, -min",
+                "leat báhčime, -min",
+                "lehpet báhčime, -min",
+                "leat báhčime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen báhčime, -min",
+                "ledjet báhčime, -min",
+                "lei báhčime, -min",
+                "leimme báhčime, -min",
+                "leidde báhčime, -min",
+                "leigga báhčime, -min",
+                "leimmet báhčime, -min",
+                "leiddet báhčime, -min",
+                "ledje báhčime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "bážášin",
+                "bážášit",
+                "bážášii",
+                "bážášeimme",
+                "bážášeidde",
+                "bážášeigga",
+                "bážášeimmet",
+                "bážášeiddet",
+                "bážášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in bážáše",
+                "it bážáše",
+                "ii bážáše",
+                "ean bážáše",
+                "eahppi bážáše",
+                "eaba bážáše",
+                "eat bážáše",
+                "ehpet bážáše",
+                "eai bážáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "bážežan",
+                "bážežat",
+                "bážeš",
+                "bážežetne",
+                "bážežeahppi",
+                "bážežeaba",
+                "bážežit, -žat",
+                "bážežehpet",
+                "bážežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in bážeš",
+                "it bážeš",
+                "ii bážeš",
+                "ean bážeš",
+                "eahppi bážeš",
+                "eaba bážeš",
+                "eat bážeš",
+                "ehpet bážeš",
+                "eai bážeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "báhčon",
+                "báže",
+                "báhčos",
+                "báhčču",
+                "báhčči",
+                "báhčoska",
+                "báhčot, báhččot",
+                "báhčet, báhččet",
+                "báhčoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon báže",
+                "ale báže",
+                "allos báže",
+                "allu báže",
+                "alli báže",
+                "alloska báže",
+                "allot, allut báže",
+                "allet, allit báže",
+                "alloset báže"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Báhčit",
+    "valid": 1
+}

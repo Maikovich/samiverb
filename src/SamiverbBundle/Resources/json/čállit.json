@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čállit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čálán",
+                "čálát",
+                "čállá",
+                "čálle",
+                "čállibeahtti",
+                "čálliba",
+                "čállit",
+                "čállibehtet",
+                "čállet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čále",
+                "it čále",
+                "ii čále",
+                "ean čále",
+                "eahppi čále",
+                "eaba čále",
+                "eat čále",
+                "ehpet čále",
+                "eai čále"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čállen",
+                "čállet",
+                "čálii",
+                "čáliime",
+                "čáliide",
+                "čáliiga",
+                "čáliimet",
+                "čáliidet",
+                "čálle"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čállán",
+                "it čállán",
+                "ii čállán",
+                "ean čállán",
+                "eahppi čállán",
+                "eaba čállán",
+                "eat čállán",
+                "ehpet čállán",
+                "eai čállán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čállán",
+                "leat čállán",
+                "lea čállán",
+                "letne čállán",
+                "leahppi čállán",
+                "leaba čállán",
+                "leat čállán",
+                "lehpet čállán",
+                "leat čállán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čállán",
+                "ledjet čállán",
+                "lei čállán",
+                "leimme čállán",
+                "leidde čállán",
+                "leigga čállán",
+                "leimmet čállán",
+                "leiddet čállán",
+                "ledje čállán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čállime, -min",
+                "leat čállime, -min",
+                "lea čállime, -min",
+                "letne čállime, -min",
+                "leahppi čállime, -min",
+                "leaba čállime, -min",
+                "leat čállime, -min",
+                "lehpet čállime, -min",
+                "leat čállime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čállime, -min",
+                "ledjet čállime, -min",
+                "lei čállime, -min",
+                "leimme čállime, -min",
+                "leidde čállime, -min",
+                "leigga čállime, -min",
+                "leimmet čállime, -min",
+                "leiddet čállime, -min",
+                "ledje čállime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čálášin",
+                "čálášit",
+                "čálášii",
+                "čálášeimme",
+                "čálášeidde",
+                "čálášeigga",
+                "čálášeimmet",
+                "čálášeiddet",
+                "čálášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čáláše",
+                "it čáláše",
+                "ii čáláše",
+                "ean čáláše",
+                "eahppi čáláše",
+                "eaba čáláše",
+                "eat čáláše",
+                "ehpet čáláše",
+                "eai čáláše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čáležan",
+                "čáležat",
+                "čáleš",
+                "čáležetne",
+                "čáležeahppi",
+                "čáležeaba",
+                "čáležit, -žat",
+                "čáležehpet",
+                "čáležit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čáleš",
+                "it čáleš",
+                "ii čáleš",
+                "ean čáleš",
+                "eahppi čáleš",
+                "eaba čáleš",
+                "eat čáleš",
+                "ehpet čáleš",
+                "eai čáleš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čállon",
+                "čále",
+                "čállos",
+                "čállu",
+                "čálli",
+                "čálloska",
+                "čállot",
+                "čállet",
+                "čálloset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čále",
+                "ale čále",
+                "allos čále",
+                "allu čále",
+                "alli čále",
+                "alloska čále",
+                "allot, allut čále",
+                "allet, allit čále",
+                "alloset čále"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čállit",
+    "valid": 1
+}

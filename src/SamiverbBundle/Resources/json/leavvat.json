@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "leavvat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "leavan",
+                "leavat",
+                "leavvá",
+                "levve",
+                "leavvabeahtti",
+                "leavvaba",
+                "leavvat",
+                "leavvabehtet",
+                "levvet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in leava",
+                "it leava",
+                "ii leava",
+                "ean leava",
+                "eahppi leava",
+                "eaba leava",
+                "eat leava",
+                "ehpet leava",
+                "eai leava"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "levven",
+                "levvet",
+                "leavai",
+                "leavaime",
+                "leavaide",
+                "leavaiga",
+                "leavaimet",
+                "leavaidet",
+                "levve"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in leavvan",
+                "it leavvan",
+                "ii leavvan",
+                "ean leavvan",
+                "eahppi leavvan",
+                "eaba leavvan",
+                "eat leavvan",
+                "ehpet leavvan",
+                "eai leavvan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean leavvan",
+                "leat leavvan",
+                "lea leavvan",
+                "letne leavvan",
+                "leahppi leavvan",
+                "leaba leavvan",
+                "leat leavvan",
+                "lehpet leavvan",
+                "leat leavvan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen leavvan",
+                "ledjet leavvan",
+                "lei leavvan",
+                "leimme leavvan",
+                "leidde leavvan",
+                "leigga leavvan",
+                "leimmet leavvan",
+                "leiddet leavvan",
+                "ledje leavvan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean leavvame, -min",
+                "leat leavvame, -min",
+                "lea leavvame, -min",
+                "letne leavvame, -min",
+                "leahppi leavvame, -min",
+                "leaba leavvame, -min",
+                "leat leavvame, -min",
+                "lehpet leavvame, -min",
+                "leat leavvame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen leavvame, -min",
+                "ledjet leavvame, -min",
+                "lei leavvame, -min",
+                "leimme leavvame, -min",
+                "leidde leavvame, -min",
+                "leigga leavvame, -min",
+                "leimmet leavvame, -min",
+                "leiddet leavvame, -min",
+                "ledje leavvame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "leavašin",
+                "leavašit",
+                "leavašii",
+                "leavašeimme",
+                "leavašeidde",
+                "leavašeigga",
+                "leavašeimmet",
+                "leavašeiddet",
+                "leavašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in leavaše",
+                "it leavaše",
+                "ii leavaše",
+                "ean leavaše",
+                "eahppi leavaše",
+                "eaba leavaše",
+                "eat leavaše",
+                "ehpet leavaše",
+                "eai leavaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "leavažan",
+                "leavažat",
+                "leavaš",
+                "leavažetne",
+                "leavažeahppi",
+                "leavažeaba",
+                "leavažit, -žat",
+                "leavažehpet",
+                "leavažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in leavaš",
+                "it leavaš",
+                "ii leavaš",
+                "ean leavaš",
+                "eahppi leavaš",
+                "eaba leavaš",
+                "eat leavaš",
+                "ehpet leavaš",
+                "eai leavaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "levvon",
+                "leava",
+                "levvos",
+                "leavvu",
+                "leavvi",
+                "levvoska",
+                "levvot, leavvot",
+                "levvet, leavvit",
+                "levvoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon leava",
+                "ale leava",
+                "allos leava",
+                "allu leava",
+                "alli leava",
+                "alloska leava",
+                "allot, allut leava",
+                "allet, allit leava",
+                "alloset leava"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Leavvat",
+    "valid": 1
+}
