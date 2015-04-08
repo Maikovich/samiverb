@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "joksat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "jovssan",
+                "jovssat",
+                "joksá",
+                "jokse",
+                "joksabeahtti",
+                "joksaba",
+                "joksat",
+                "joksabehtet",
+                "jokset"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in jovssa",
+                "it jovssa",
+                "ii jovssa",
+                "ean jovssa",
+                "eahppi jovssa",
+                "eaba jovssa",
+                "eat jovssa",
+                "ehpet jovssa",
+                "eai jovssa"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "joksen",
+                "jokset",
+                "jovssai",
+                "jovssaime",
+                "jovssaide",
+                "jovssaiga",
+                "jovssaimet",
+                "jovssaidet",
+                "jokse"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in joksan",
+                "it joksan",
+                "ii joksan",
+                "ean joksan",
+                "eahppi joksan",
+                "eaba joksan",
+                "eat joksan",
+                "ehpet joksan",
+                "eai joksan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean joksan",
+                "leat joksan",
+                "lea joksan",
+                "letne joksan",
+                "leahppi joksan",
+                "leaba joksan",
+                "leat joksan",
+                "lehpet joksan",
+                "leat joksan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen joksan",
+                "ledjet joksan",
+                "lei joksan",
+                "leimme joksan",
+                "leidde joksan",
+                "leigga joksan",
+                "leimmet joksan",
+                "leiddet joksan",
+                "ledje joksan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean joksame, -min",
+                "leat joksame, -min",
+                "lea joksame, -min",
+                "letne joksame, -min",
+                "leahppi joksame, -min",
+                "leaba joksame, -min",
+                "leat joksame, -min",
+                "lehpet joksame, -min",
+                "leat joksame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen joksame, -min",
+                "ledjet joksame, -min",
+                "lei joksame, -min",
+                "leimme joksame, -min",
+                "leidde joksame, -min",
+                "leigga joksame, -min",
+                "leimmet joksame, -min",
+                "leiddet joksame, -min",
+                "ledje joksame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "jovssašin",
+                "jovssašit",
+                "jovssašii",
+                "jovssašeimme",
+                "jovssašeidde",
+                "jovssašeigga",
+                "jovssašeimmet",
+                "jovssašeiddet",
+                "jovssašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in jovssaše",
+                "it jovssaše",
+                "ii jovssaše",
+                "ean jovssaše",
+                "eahppi jovssaše",
+                "eaba jovssaše",
+                "eat jovssaše",
+                "ehpet jovssaše",
+                "eai jovssaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "jovssažan",
+                "jovssažat",
+                "jovssaš",
+                "jovssažetne",
+                "jovssažeahppi",
+                "jovssažeaba",
+                "jovssažit, -žat",
+                "jovssažehpet",
+                "jovssažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in jovssaš",
+                "it jovssaš",
+                "ii jovssaš",
+                "ean jovssaš",
+                "eahppi jovssaš",
+                "eaba jovssaš",
+                "eat jovssaš",
+                "ehpet jovssaš",
+                "eai jovssaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "jokson",
+                "jovssa",
+                "joksos",
+                "joksu",
+                "joksi",
+                "joksoska",
+                "joksot",
+                "jokset, joksit",
+                "joksoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon jovssa",
+                "ale jovssa",
+                "allos jovssa",
+                "allu jovssa",
+                "alli jovssa",
+                "alloska jovssa",
+                "allot, allut jovssa",
+                "allet, allit jovssa",
+                "alloset jovssa"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Joksat",
+    "valid": 1
+}

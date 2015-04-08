@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "spiiddistit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "spiiddistan",
+                "spiiddistat",
+                "spiiddista",
+                "spiiddistetne",
+                "spiiddisteahppi",
+                "spiiddisteaba",
+                "spiiddistit, -tat",
+                "spiiddistehpet",
+                "spiiddistit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in spiiddis",
+                "it spiiddis",
+                "ii spiiddis",
+                "ean spiiddis",
+                "eahppi spiiddis",
+                "eaba spiiddis",
+                "eat spiiddis",
+                "ehpet spiiddis",
+                "eai spiiddis"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "spiiddistin",
+                "spiiddistit",
+                "spiiddistii",
+                "spiiddisteimme",
+                "spiiddisteidde",
+                "spiiddisteigga",
+                "spiiddisteimmet",
+                "spiiddisteiddet",
+                "spiiddistedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in spiiddistan",
+                "it spiiddistan",
+                "ii spiiddistan",
+                "ean spiiddistan",
+                "eahppi spiiddistan",
+                "eaba spiiddistan",
+                "eat spiiddistan",
+                "ehpet spiiddistan",
+                "eai spiiddistan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean spiiddistan",
+                "leat spiiddistan",
+                "lea spiiddistan",
+                "letne spiiddistan",
+                "leahppi spiiddistan",
+                "leaba spiiddistan",
+                "leat spiiddistan",
+                "lehpet spiiddistan",
+                "leat spiiddistan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen spiiddistan",
+                "ledjet spiiddistan",
+                "lei spiiddistan",
+                "leimme spiiddistan",
+                "leidde spiiddistan",
+                "leigga spiiddistan",
+                "leimmet spiiddistan",
+                "leiddet spiiddistan",
+                "ledje spiiddistan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean spiiddisteame, -men",
+                "leat spiiddisteame, -men",
+                "lea spiiddisteame, -men",
+                "letne spiiddisteame, -men",
+                "leahppi spiiddisteame, -men",
+                "leaba spiiddisteame, -men",
+                "leat spiiddisteame, -men",
+                "lehpet spiiddisteame, -men",
+                "leat spiiddisteame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen spiiddisteame, -men",
+                "ledjet spiiddisteame, -men",
+                "lei spiiddisteame, -men",
+                "leimme spiiddisteame, -men",
+                "leidde spiiddisteame, -men",
+                "leigga spiiddisteame, -men",
+                "leimmet spiiddisteame, -men",
+                "leiddet spiiddisteame, -men",
+                "ledje spiiddisteame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "spiiddistivččen",
+                "spiiddistivččet",
+                "spiiddistivččii",
+                "spiiddistivččiime",
+                "spiiddistivččiide",
+                "spiiddistivččiiga",
+                "spiiddistivččiimet",
+                "spiiddistivččiidet",
+                "spiiddistivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in spiiddistivčče",
+                "it spiiddistivčče",
+                "ii spiiddistivčče",
+                "ean spiiddistivčče",
+                "eahppi spiiddistivčče",
+                "eaba spiiddistivčče",
+                "eat spiiddistivčče",
+                "ehpet spiiddistivčče",
+                "eai spiiddistivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "spiiddisteaččan",
+                "spiiddisteaččat",
+                "spiiddisteaš, -teš, -teažžá",
+                "spiiddistežže",
+                "spiiddisteažžabeahtti",
+                "spiiddisteažžaba",
+                "spiiddisteažžat",
+                "spiiddisteažžabehtet",
+                "spiiddistežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in spiiddisteaš, -teš, -teažžá",
+                "it spiiddisteaš, -teš, -teažžá",
+                "ii spiiddisteaš, -teš, -teažžá",
+                "ean spiiddisteaš, -teš, -teažžá",
+                "eahppi spiiddisteaš, -teš, -teažžá",
+                "eaba spiiddisteaš, -teš, -teažžá",
+                "eat spiiddisteaš, -teš, -teažžá",
+                "ehpet spiiddisteaš, -teš, -teažžá",
+                "eai spiiddisteaš, -teš, -teažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "spiiddistehkon",
+                "spiiddis",
+                "spiiddistehkos, spiiddistus",
+                "spiiddisteadnu",
+                "spiiddisteahkki",
+                "spiiddistehkoska",
+                "spiiddistehkot, spiiddisteahkkut, spiiddistetnot, spiiddisteadnot",
+                "spiiddistehket",
+                "spiiddistehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon spiiddis",
+                "ale spiiddis",
+                "allos spiiddis",
+                "allu spiiddis",
+                "alli spiiddis",
+                "alloska spiiddis",
+                "allot, allut spiiddis",
+                "allet, allit spiiddis",
+                "alloset spiiddis"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Spiiddistit",
+    "valid": 1
+}

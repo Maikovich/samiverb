@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "belkot",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "belkon",
+                "belkot",
+                "belko",
+                "belkojetne",
+                "belkobeahtti",
+                "belkoba",
+                "belkot",
+                "belkobehtet",
+                "belkojit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in belko",
+                "it belko",
+                "ii belko",
+                "ean belko",
+                "eahppi belko",
+                "eaba belko",
+                "eat belko",
+                "ehpet belko",
+                "eai belko"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "belkojin",
+                "belkojit",
+                "belkui",
+                "belkuime",
+                "belkuide",
+                "belkuiga",
+                "belkuimet",
+                "belkuidet",
+                "belkojedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in belkon",
+                "it belkon",
+                "ii belkon",
+                "ean belkon",
+                "eahppi belkon",
+                "eaba belkon",
+                "eat belkon",
+                "ehpet belkon",
+                "eai belkon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean belkon",
+                "leat belkon",
+                "lea belkon",
+                "letne belkon",
+                "leahppi belkon",
+                "leaba belkon",
+                "leat belkon",
+                "lehpet belkon",
+                "leat belkon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen belkon",
+                "ledjet belkon",
+                "lei belkon",
+                "leimme belkon",
+                "leidde belkon",
+                "leigga belkon",
+                "leimmet belkon",
+                "leiddet belkon",
+                "ledje belkon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean belkome, -min",
+                "leat belkome, -min",
+                "lea belkome, -min",
+                "letne belkome, -min",
+                "leahppi belkome, -min",
+                "leaba belkome, -min",
+                "leat belkome, -min",
+                "lehpet belkome, -min",
+                "leat belkome, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen belkome, -min",
+                "ledjet belkome, -min",
+                "lei belkome, -min",
+                "leimme belkome, -min",
+                "leidde belkome, -min",
+                "leigga belkome, -min",
+                "leimmet belkome, -min",
+                "leiddet belkome, -min",
+                "ledje belkome, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "belkošin",
+                "belkošit",
+                "belkošii",
+                "belkošeimme",
+                "belkošeidde",
+                "belkošeigga",
+                "belkošeimmet",
+                "belkošeiddet",
+                "belkošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in belkoše",
+                "it belkoše",
+                "ii belkoše",
+                "ean belkoše",
+                "eahppi belkoše",
+                "eaba belkoše",
+                "eat belkoše",
+                "ehpet belkoše",
+                "eai belkoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "belkožan",
+                "belkožat",
+                "belkoš",
+                "belkožetne",
+                "belkožeahppi",
+                "belkožeaba",
+                "belkožit, -žat",
+                "belkožehpet",
+                "belkožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in belkoš",
+                "it belkoš",
+                "ii belkoš",
+                "ean belkoš",
+                "eahppi belkoš",
+                "eaba belkoš",
+                "eat belkoš",
+                "ehpet belkoš",
+                "eai belkoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "belkojehkon",
+                "belko",
+                "belkojehkos",
+                "belkojeadnu",
+                "belkojeahkki",
+                "belkojehkoska",
+                "belkojeahkkut, belkojeadnot, belkojehkot, belkojetnot",
+                "belkojeahkkit",
+                "belkojehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon belko",
+                "ale belko",
+                "allos belko",
+                "allu belko",
+                "alli belko",
+                "alloska belko",
+                "allot, allut belko",
+                "allet, allit belko",
+                "alloset belko"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Belkot",
+    "valid": 1
+}

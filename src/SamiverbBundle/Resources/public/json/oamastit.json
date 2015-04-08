@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "oamastit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "oamastan",
+                "oamastat",
+                "oamasta",
+                "oamastetne",
+                "oamasteahppi",
+                "oamasteaba",
+                "oamastit, -tat",
+                "oamastehpet",
+                "oamastit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in oamas",
+                "it oamas",
+                "ii oamas",
+                "ean oamas",
+                "eahppi oamas",
+                "eaba oamas",
+                "eat oamas",
+                "ehpet oamas",
+                "eai oamas"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "oamastin",
+                "oamastit",
+                "oamastii",
+                "oamasteimme",
+                "oamasteidde",
+                "oamasteigga",
+                "oamasteimmet",
+                "oamasteiddet",
+                "oamastedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in oamastan",
+                "it oamastan",
+                "ii oamastan",
+                "ean oamastan",
+                "eahppi oamastan",
+                "eaba oamastan",
+                "eat oamastan",
+                "ehpet oamastan",
+                "eai oamastan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean oamastan",
+                "leat oamastan",
+                "lea oamastan",
+                "letne oamastan",
+                "leahppi oamastan",
+                "leaba oamastan",
+                "leat oamastan",
+                "lehpet oamastan",
+                "leat oamastan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen oamastan",
+                "ledjet oamastan",
+                "lei oamastan",
+                "leimme oamastan",
+                "leidde oamastan",
+                "leigga oamastan",
+                "leimmet oamastan",
+                "leiddet oamastan",
+                "ledje oamastan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean oamasteame, -men",
+                "leat oamasteame, -men",
+                "lea oamasteame, -men",
+                "letne oamasteame, -men",
+                "leahppi oamasteame, -men",
+                "leaba oamasteame, -men",
+                "leat oamasteame, -men",
+                "lehpet oamasteame, -men",
+                "leat oamasteame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen oamasteame, -men",
+                "ledjet oamasteame, -men",
+                "lei oamasteame, -men",
+                "leimme oamasteame, -men",
+                "leidde oamasteame, -men",
+                "leigga oamasteame, -men",
+                "leimmet oamasteame, -men",
+                "leiddet oamasteame, -men",
+                "ledje oamasteame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "oamastivččen",
+                "oamastivččet",
+                "oamastivččii",
+                "oamastivččiime",
+                "oamastivččiide",
+                "oamastivččiiga",
+                "oamastivččiimet",
+                "oamastivččiidet",
+                "oamastivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in oamastivčče",
+                "it oamastivčče",
+                "ii oamastivčče",
+                "ean oamastivčče",
+                "eahppi oamastivčče",
+                "eaba oamastivčče",
+                "eat oamastivčče",
+                "ehpet oamastivčče",
+                "eai oamastivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "oamasteaččan",
+                "oamasteaččat",
+                "oamasteaš, -teš, -teažžá",
+                "oamastežže",
+                "oamasteažžabeahtti",
+                "oamasteažžaba",
+                "oamasteažžat",
+                "oamasteažžabehtet",
+                "oamastežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in oamasteaš, -teš, -teažžá",
+                "it oamasteaš, -teš, -teažžá",
+                "ii oamasteaš, -teš, -teažžá",
+                "ean oamasteaš, -teš, -teažžá",
+                "eahppi oamasteaš, -teš, -teažžá",
+                "eaba oamasteaš, -teš, -teažžá",
+                "eat oamasteaš, -teš, -teažžá",
+                "ehpet oamasteaš, -teš, -teažžá",
+                "eai oamasteaš, -teš, -teažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "oamastehkon",
+                "oamas",
+                "oamastehkos, oamastus",
+                "oamasteadnu",
+                "oamasteahkki",
+                "oamastehkoska",
+                "oamastehkot, oamasteahkkut, oamastetnot, oamasteadnot",
+                "oamastehket",
+                "oamastehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon oamas",
+                "ale oamas",
+                "allos oamas",
+                "allu oamas",
+                "alli oamas",
+                "alloska oamas",
+                "allot, allut oamas",
+                "allet, allit oamas",
+                "alloset oamas"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Oamastit",
+    "valid": 1
+}

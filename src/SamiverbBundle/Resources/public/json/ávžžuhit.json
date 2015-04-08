@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "ávžžuhit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "ávžžuhan",
+                "ávžžuhat",
+                "ávžžuha",
+                "ávžžuhetne",
+                "ávžžuheahppi",
+                "ávžžuheaba",
+                "ávžžuhit, -hat",
+                "ávžžuhehpet",
+                "ávžžuhit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in ávžžut",
+                "it ávžžut",
+                "ii ávžžut",
+                "ean ávžžut",
+                "eahppi ávžžut",
+                "eaba ávžžut",
+                "eat ávžžut",
+                "ehpet ávžžut",
+                "eai ávžžut"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ávžžuhin",
+                "ávžžuhit",
+                "ávžžuhii",
+                "ávžžuheimme",
+                "ávžžuheidde",
+                "ávžžuheigga",
+                "ávžžuheimmet",
+                "ávžžuheiddet",
+                "ávžžuhedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ávžžuhan",
+                "it ávžžuhan",
+                "ii ávžžuhan",
+                "ean ávžžuhan",
+                "eahppi ávžžuhan",
+                "eaba ávžžuhan",
+                "eat ávžžuhan",
+                "ehpet ávžžuhan",
+                "eai ávžžuhan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ávžžuhan",
+                "leat ávžžuhan",
+                "lea ávžžuhan",
+                "letne ávžžuhan",
+                "leahppi ávžžuhan",
+                "leaba ávžžuhan",
+                "leat ávžžuhan",
+                "lehpet ávžžuhan",
+                "leat ávžžuhan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ávžžuhan",
+                "ledjet ávžžuhan",
+                "lei ávžžuhan",
+                "leimme ávžžuhan",
+                "leidde ávžžuhan",
+                "leigga ávžžuhan",
+                "leimmet ávžžuhan",
+                "leiddet ávžžuhan",
+                "ledje ávžžuhan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean ávžžuheame, -men",
+                "leat ávžžuheame, -men",
+                "lea ávžžuheame, -men",
+                "letne ávžžuheame, -men",
+                "leahppi ávžžuheame, -men",
+                "leaba ávžžuheame, -men",
+                "leat ávžžuheame, -men",
+                "lehpet ávžžuheame, -men",
+                "leat ávžžuheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen ávžžuheame, -men",
+                "ledjet ávžžuheame, -men",
+                "lei ávžžuheame, -men",
+                "leimme ávžžuheame, -men",
+                "leidde ávžžuheame, -men",
+                "leigga ávžžuheame, -men",
+                "leimmet ávžžuheame, -men",
+                "leiddet ávžžuheame, -men",
+                "ledje ávžžuheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "ávžžuhivččen",
+                "ávžžuhivččet",
+                "ávžžuhivččii",
+                "ávžžuhivččiime",
+                "ávžžuhivččiide",
+                "ávžžuhivččiiga",
+                "ávžžuhivččiimet",
+                "ávžžuhivččiidet",
+                "ávžžuhivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in ávžžuhivčče",
+                "it ávžžuhivčče",
+                "ii ávžžuhivčče",
+                "ean ávžžuhivčče",
+                "eahppi ávžžuhivčče",
+                "eaba ávžžuhivčče",
+                "eat ávžžuhivčče",
+                "ehpet ávžžuhivčče",
+                "eai ávžžuhivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "ávžžuheaččan",
+                "ávžžuheaččat",
+                "ávžžuheaš, -heš, -heažžá",
+                "ávžžuhežže",
+                "ávžžuheažžabeahtti",
+                "ávžžuheažžaba",
+                "ávžžuheažžat",
+                "ávžžuheažžabehtet",
+                "ávžžuhežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in ávžžuheaš, -heš, -heažžá",
+                "it ávžžuheaš, -heš, -heažžá",
+                "ii ávžžuheaš, -heš, -heažžá",
+                "ean ávžžuheaš, -heš, -heažžá",
+                "eahppi ávžžuheaš, -heš, -heažžá",
+                "eaba ávžžuheaš, -heš, -heažžá",
+                "eat ávžžuheaš, -heš, -heažžá",
+                "ehpet ávžžuheaš, -heš, -heažžá",
+                "eai ávžžuheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "ávžžuhehkon",
+                "ávžžut",
+                "ávžžuhehkos, ávžžuhus",
+                "ávžžuheadnu",
+                "ávžžuheahkki",
+                "ávžžuhehkoska",
+                "ávžžuhehkot, ávžžuheahkkut, ávžžuhetnot, ávžžuheadnot",
+                "ávžžuhehket",
+                "ávžžuhehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon ávžžut",
+                "ale ávžžut",
+                "allos ávžžut",
+                "allu ávžžut",
+                "alli ávžžut",
+                "alloska ávžžut",
+                "allot, allut ávžžut",
+                "allet, allit ávžžut",
+                "alloset ávžžut"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Ávžžuhit",
+    "valid": 1
+}

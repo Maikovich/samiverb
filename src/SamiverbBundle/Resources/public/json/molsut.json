@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "molsut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "molssun",
+                "molssut",
+                "molsu",
+                "molso",
+                "molsubeahtti",
+                "molsuba",
+                "molsut",
+                "molsubehtet",
+                "molsot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in molsso",
+                "it molsso",
+                "ii molsso",
+                "ean molsso",
+                "eahppi molsso",
+                "eaba molsso",
+                "eat molsso",
+                "ehpet molsso",
+                "eai molsso"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "molson",
+                "molsot",
+                "molssui",
+                "molssuime",
+                "molssuide",
+                "molssuiga",
+                "molssuimet",
+                "molssuidet",
+                "molso"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in molson",
+                "it molson",
+                "ii molson",
+                "ean molson",
+                "eahppi molson",
+                "eaba molson",
+                "eat molson",
+                "ehpet molson",
+                "eai molson"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean molson",
+                "leat molson",
+                "lea molson",
+                "letne molson",
+                "leahppi molson",
+                "leaba molson",
+                "leat molson",
+                "lehpet molson",
+                "leat molson"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen molson",
+                "ledjet molson",
+                "lei molson",
+                "leimme molson",
+                "leidde molson",
+                "leigga molson",
+                "leimmet molson",
+                "leiddet molson",
+                "ledje molson"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean molsume, -min",
+                "leat molsume, -min",
+                "lea molsume, -min",
+                "letne molsume, -min",
+                "leahppi molsume, -min",
+                "leaba molsume, -min",
+                "leat molsume, -min",
+                "lehpet molsume, -min",
+                "leat molsume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen molsume, -min",
+                "ledjet molsume, -min",
+                "lei molsume, -min",
+                "leimme molsume, -min",
+                "leidde molsume, -min",
+                "leigga molsume, -min",
+                "leimmet molsume, -min",
+                "leiddet molsume, -min",
+                "ledje molsume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "molssošin",
+                "molssošit",
+                "molssošii",
+                "molssošeimme",
+                "molssošeidde",
+                "molssošeigga",
+                "molssošeimmet",
+                "molssošeiddet",
+                "molssošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in molssoše",
+                "it molssoše",
+                "ii molssoše",
+                "ean molssoše",
+                "eahppi molssoše",
+                "eaba molssoše",
+                "eat molssoše",
+                "ehpet molssoše",
+                "eai molssoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "molssožan",
+                "molssožat",
+                "molssoš",
+                "molssožetne",
+                "molssožeahppi",
+                "molssožeaba",
+                "molssožit, -žat",
+                "molssožehpet",
+                "molssožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in molssoš",
+                "it molssoš",
+                "ii molssoš",
+                "ean molssoš",
+                "eahppi molssoš",
+                "eaba molssoš",
+                "eat molssoš",
+                "ehpet molssoš",
+                "eai molssoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "molson",
+                "molsso",
+                "molsos",
+                "molsu",
+                "molsu",
+                "molsoska",
+                "molsot",
+                "molsot",
+                "molsoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon molsso",
+                "ale molsso",
+                "allos molsso",
+                "allu molsso",
+                "alli molsso",
+                "alloska molsso",
+                "allot, allut molsso",
+                "allet, allit molsso",
+                "alloset molsso"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Molsut",
+    "valid": 1
+}

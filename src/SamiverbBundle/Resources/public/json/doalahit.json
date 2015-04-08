@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "doalahit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "doalahan",
+                "doalahat",
+                "doalaha",
+                "doalahetne",
+                "doalaheahppi",
+                "doalaheaba",
+                "doalahit, -hat",
+                "doalahehpet",
+                "doalahit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in doalat",
+                "it doalat",
+                "ii doalat",
+                "ean doalat",
+                "eahppi doalat",
+                "eaba doalat",
+                "eat doalat",
+                "ehpet doalat",
+                "eai doalat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "doalahin",
+                "doalahit",
+                "doalahii",
+                "doalaheimme",
+                "doalaheidde",
+                "doalaheigga",
+                "doalaheimmet",
+                "doalaheiddet",
+                "doalahedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in doalahan",
+                "it doalahan",
+                "ii doalahan",
+                "ean doalahan",
+                "eahppi doalahan",
+                "eaba doalahan",
+                "eat doalahan",
+                "ehpet doalahan",
+                "eai doalahan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean doalahan",
+                "leat doalahan",
+                "lea doalahan",
+                "letne doalahan",
+                "leahppi doalahan",
+                "leaba doalahan",
+                "leat doalahan",
+                "lehpet doalahan",
+                "leat doalahan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen doalahan",
+                "ledjet doalahan",
+                "lei doalahan",
+                "leimme doalahan",
+                "leidde doalahan",
+                "leigga doalahan",
+                "leimmet doalahan",
+                "leiddet doalahan",
+                "ledje doalahan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean doalaheame, -men",
+                "leat doalaheame, -men",
+                "lea doalaheame, -men",
+                "letne doalaheame, -men",
+                "leahppi doalaheame, -men",
+                "leaba doalaheame, -men",
+                "leat doalaheame, -men",
+                "lehpet doalaheame, -men",
+                "leat doalaheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen doalaheame, -men",
+                "ledjet doalaheame, -men",
+                "lei doalaheame, -men",
+                "leimme doalaheame, -men",
+                "leidde doalaheame, -men",
+                "leigga doalaheame, -men",
+                "leimmet doalaheame, -men",
+                "leiddet doalaheame, -men",
+                "ledje doalaheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "doalahivččen",
+                "doalahivččet",
+                "doalahivččii",
+                "doalahivččiime",
+                "doalahivččiide",
+                "doalahivččiiga",
+                "doalahivččiimet",
+                "doalahivččiidet",
+                "doalahivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in doalahivčče",
+                "it doalahivčče",
+                "ii doalahivčče",
+                "ean doalahivčče",
+                "eahppi doalahivčče",
+                "eaba doalahivčče",
+                "eat doalahivčče",
+                "ehpet doalahivčče",
+                "eai doalahivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "doalaheaččan",
+                "doalaheaččat",
+                "doalaheaš, -heš, -heažžá",
+                "doalahežže",
+                "doalaheažžabeahtti",
+                "doalaheažžaba",
+                "doalaheažžat",
+                "doalaheažžabehtet",
+                "doalahežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in doalaheaš, -heš, -heažžá",
+                "it doalaheaš, -heš, -heažžá",
+                "ii doalaheaš, -heš, -heažžá",
+                "ean doalaheaš, -heš, -heažžá",
+                "eahppi doalaheaš, -heš, -heažžá",
+                "eaba doalaheaš, -heš, -heažžá",
+                "eat doalaheaš, -heš, -heažžá",
+                "ehpet doalaheaš, -heš, -heažžá",
+                "eai doalaheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "doalahehkon",
+                "doalat",
+                "doalahehkos, doalahus",
+                "doalaheadnu",
+                "doalaheahkki",
+                "doalahehkoska",
+                "doalahehkot, doalaheahkkut, doalahetnot, doalaheadnot",
+                "doalahehket",
+                "doalahehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon doalat",
+                "ale doalat",
+                "allos doalat",
+                "allu doalat",
+                "alli doalat",
+                "alloska doalat",
+                "allot, allut doalat",
+                "allet, allit doalat",
+                "alloset doalat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Doalahit",
+    "valid": 1
+}

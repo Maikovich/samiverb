@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "sivahallat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "sivahalan",
+                "sivahalat",
+                "sivahallá",
+                "sivahalle",
+                "sivahallabeahtti",
+                "sivahallaba",
+                "sivahallat",
+                "sivahallabehtet",
+                "sivahallet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in sivahala",
+                "it sivahala",
+                "ii sivahala",
+                "ean sivahala",
+                "eahppi sivahala",
+                "eaba sivahala",
+                "eat sivahala",
+                "ehpet sivahala",
+                "eai sivahala"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "sivahallen",
+                "sivahallet",
+                "sivahalai",
+                "sivahalaime",
+                "sivahalaide",
+                "sivahalaiga",
+                "sivahalaimet",
+                "sivahalaidet",
+                "sivahalle"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in sivahallan",
+                "it sivahallan",
+                "ii sivahallan",
+                "ean sivahallan",
+                "eahppi sivahallan",
+                "eaba sivahallan",
+                "eat sivahallan",
+                "ehpet sivahallan",
+                "eai sivahallan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean sivahallan",
+                "leat sivahallan",
+                "lea sivahallan",
+                "letne sivahallan",
+                "leahppi sivahallan",
+                "leaba sivahallan",
+                "leat sivahallan",
+                "lehpet sivahallan",
+                "leat sivahallan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen sivahallan",
+                "ledjet sivahallan",
+                "lei sivahallan",
+                "leimme sivahallan",
+                "leidde sivahallan",
+                "leigga sivahallan",
+                "leimmet sivahallan",
+                "leiddet sivahallan",
+                "ledje sivahallan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean sivahallame, -min",
+                "leat sivahallame, -min",
+                "lea sivahallame, -min",
+                "letne sivahallame, -min",
+                "leahppi sivahallame, -min",
+                "leaba sivahallame, -min",
+                "leat sivahallame, -min",
+                "lehpet sivahallame, -min",
+                "leat sivahallame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen sivahallame, -min",
+                "ledjet sivahallame, -min",
+                "lei sivahallame, -min",
+                "leimme sivahallame, -min",
+                "leidde sivahallame, -min",
+                "leigga sivahallame, -min",
+                "leimmet sivahallame, -min",
+                "leiddet sivahallame, -min",
+                "ledje sivahallame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "sivahalašin",
+                "sivahalašit",
+                "sivahalašii",
+                "sivahalašeimme",
+                "sivahalašeidde",
+                "sivahalašeigga",
+                "sivahalašeimmet",
+                "sivahalašeiddet",
+                "sivahalašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in sivahalaše",
+                "it sivahalaše",
+                "ii sivahalaše",
+                "ean sivahalaše",
+                "eahppi sivahalaše",
+                "eaba sivahalaše",
+                "eat sivahalaše",
+                "ehpet sivahalaše",
+                "eai sivahalaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "sivahalažan",
+                "sivahalažat",
+                "sivahalaš",
+                "sivahalažetne",
+                "sivahalažeahppi",
+                "sivahalažeaba",
+                "sivahalažit, -žat",
+                "sivahalažehpet",
+                "sivahalažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in sivahalaš",
+                "it sivahalaš",
+                "ii sivahalaš",
+                "ean sivahalaš",
+                "eahppi sivahalaš",
+                "eaba sivahalaš",
+                "eat sivahalaš",
+                "ehpet sivahalaš",
+                "eai sivahalaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "sivahallon",
+                "sivahala",
+                "sivahallos",
+                "sivahallu",
+                "sivahalli",
+                "sivahalloska",
+                "sivahallot",
+                "sivahallet, sivahallit",
+                "sivahalloset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon sivahala",
+                "ale sivahala",
+                "allos sivahala",
+                "allu sivahala",
+                "alli sivahala",
+                "alloska sivahala",
+                "allot, allut sivahala",
+                "allet, allit sivahala",
+                "alloset sivahala"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Sivahallat",
+    "valid": 1
+}

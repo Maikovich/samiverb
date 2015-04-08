@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "galmmihit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "galmmihan",
+                "galmmihat",
+                "galmmiha",
+                "galmmihetne",
+                "galmmiheahppi",
+                "galmmiheaba",
+                "galmmihit, -hat",
+                "galmmihehpet",
+                "galmmihit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in galmmit",
+                "it galmmit",
+                "ii galmmit",
+                "ean galmmit",
+                "eahppi galmmit",
+                "eaba galmmit",
+                "eat galmmit",
+                "ehpet galmmit",
+                "eai galmmit"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "galmmihin",
+                "galmmihit",
+                "galmmihii",
+                "galmmiheimme",
+                "galmmiheidde",
+                "galmmiheigga",
+                "galmmiheimmet",
+                "galmmiheiddet",
+                "galmmihedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in galmmihan",
+                "it galmmihan",
+                "ii galmmihan",
+                "ean galmmihan",
+                "eahppi galmmihan",
+                "eaba galmmihan",
+                "eat galmmihan",
+                "ehpet galmmihan",
+                "eai galmmihan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean galmmihan",
+                "leat galmmihan",
+                "lea galmmihan",
+                "letne galmmihan",
+                "leahppi galmmihan",
+                "leaba galmmihan",
+                "leat galmmihan",
+                "lehpet galmmihan",
+                "leat galmmihan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen galmmihan",
+                "ledjet galmmihan",
+                "lei galmmihan",
+                "leimme galmmihan",
+                "leidde galmmihan",
+                "leigga galmmihan",
+                "leimmet galmmihan",
+                "leiddet galmmihan",
+                "ledje galmmihan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean galmmiheame, -men",
+                "leat galmmiheame, -men",
+                "lea galmmiheame, -men",
+                "letne galmmiheame, -men",
+                "leahppi galmmiheame, -men",
+                "leaba galmmiheame, -men",
+                "leat galmmiheame, -men",
+                "lehpet galmmiheame, -men",
+                "leat galmmiheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen galmmiheame, -men",
+                "ledjet galmmiheame, -men",
+                "lei galmmiheame, -men",
+                "leimme galmmiheame, -men",
+                "leidde galmmiheame, -men",
+                "leigga galmmiheame, -men",
+                "leimmet galmmiheame, -men",
+                "leiddet galmmiheame, -men",
+                "ledje galmmiheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "galmmihivččen",
+                "galmmihivččet",
+                "galmmihivččii",
+                "galmmihivččiime",
+                "galmmihivččiide",
+                "galmmihivččiiga",
+                "galmmihivččiimet",
+                "galmmihivččiidet",
+                "galmmihivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in galmmihivčče",
+                "it galmmihivčče",
+                "ii galmmihivčče",
+                "ean galmmihivčče",
+                "eahppi galmmihivčče",
+                "eaba galmmihivčče",
+                "eat galmmihivčče",
+                "ehpet galmmihivčče",
+                "eai galmmihivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "galmmiheaččan",
+                "galmmiheaččat",
+                "galmmiheaš, -heš, -heažžá",
+                "galmmihežže",
+                "galmmiheažžabeahtti",
+                "galmmiheažžaba",
+                "galmmiheažžat",
+                "galmmiheažžabehtet",
+                "galmmihežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in galmmiheaš, -heš, -heažžá",
+                "it galmmiheaš, -heš, -heažžá",
+                "ii galmmiheaš, -heš, -heažžá",
+                "ean galmmiheaš, -heš, -heažžá",
+                "eahppi galmmiheaš, -heš, -heažžá",
+                "eaba galmmiheaš, -heš, -heažžá",
+                "eat galmmiheaš, -heš, -heažžá",
+                "ehpet galmmiheaš, -heš, -heažžá",
+                "eai galmmiheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "galmmihehkon",
+                "galmmit",
+                "galmmihehkos, galmmihus",
+                "galmmiheadnu",
+                "galmmiheahkki",
+                "galmmihehkoska",
+                "galmmihehkot, galmmiheahkkut, galmmihetnot, galmmiheadnot",
+                "galmmihehket",
+                "galmmihehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon galmmit",
+                "ale galmmit",
+                "allos galmmit",
+                "allu galmmit",
+                "alli galmmit",
+                "alloska galmmit",
+                "allot, allut galmmit",
+                "allet, allit galmmit",
+                "alloset galmmit"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Galmmihit",
+    "valid": 1
+}

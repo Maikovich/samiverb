@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "healbadit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "healbadan",
+                "healbadat",
+                "healbada",
+                "healbadetne",
+                "healbadeahppi",
+                "healbadeaba",
+                "healbadit, -dat",
+                "healbadehpet",
+                "healbadit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in healbat",
+                "it healbat",
+                "ii healbat",
+                "ean healbat",
+                "eahppi healbat",
+                "eaba healbat",
+                "eat healbat",
+                "ehpet healbat",
+                "eai healbat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "healbadin",
+                "healbadit",
+                "healbadii",
+                "healbadeimme",
+                "healbadeidde",
+                "healbadeigga",
+                "healbadeimmet",
+                "healbadeiddet",
+                "healbadedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in healbadan",
+                "it healbadan",
+                "ii healbadan",
+                "ean healbadan",
+                "eahppi healbadan",
+                "eaba healbadan",
+                "eat healbadan",
+                "ehpet healbadan",
+                "eai healbadan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean healbadan",
+                "leat healbadan",
+                "lea healbadan",
+                "letne healbadan",
+                "leahppi healbadan",
+                "leaba healbadan",
+                "leat healbadan",
+                "lehpet healbadan",
+                "leat healbadan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen healbadan",
+                "ledjet healbadan",
+                "lei healbadan",
+                "leimme healbadan",
+                "leidde healbadan",
+                "leigga healbadan",
+                "leimmet healbadan",
+                "leiddet healbadan",
+                "ledje healbadan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean healbadeame, -men",
+                "leat healbadeame, -men",
+                "lea healbadeame, -men",
+                "letne healbadeame, -men",
+                "leahppi healbadeame, -men",
+                "leaba healbadeame, -men",
+                "leat healbadeame, -men",
+                "lehpet healbadeame, -men",
+                "leat healbadeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen healbadeame, -men",
+                "ledjet healbadeame, -men",
+                "lei healbadeame, -men",
+                "leimme healbadeame, -men",
+                "leidde healbadeame, -men",
+                "leigga healbadeame, -men",
+                "leimmet healbadeame, -men",
+                "leiddet healbadeame, -men",
+                "ledje healbadeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "healbadivččen",
+                "healbadivččet",
+                "healbadivččii",
+                "healbadivččiime",
+                "healbadivččiide",
+                "healbadivččiiga",
+                "healbadivččiimet",
+                "healbadivččiidet",
+                "healbadivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in healbadivčče",
+                "it healbadivčče",
+                "ii healbadivčče",
+                "ean healbadivčče",
+                "eahppi healbadivčče",
+                "eaba healbadivčče",
+                "eat healbadivčče",
+                "ehpet healbadivčče",
+                "eai healbadivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "healbadeaččan",
+                "healbadeaččat",
+                "healbadeaš, -deš, -deažžá",
+                "healbadežže",
+                "healbadeažžabeahtti",
+                "healbadeažžaba",
+                "healbadeažžat",
+                "healbadeažžabehtet",
+                "healbadežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in healbadeaš, -deš, -deažžá",
+                "it healbadeaš, -deš, -deažžá",
+                "ii healbadeaš, -deš, -deažžá",
+                "ean healbadeaš, -deš, -deažžá",
+                "eahppi healbadeaš, -deš, -deažžá",
+                "eaba healbadeaš, -deš, -deažžá",
+                "eat healbadeaš, -deš, -deažžá",
+                "ehpet healbadeaš, -deš, -deažžá",
+                "eai healbadeaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "healbadehkon",
+                "healbat",
+                "healbadehkos, healbadus",
+                "healbadeadnu",
+                "healbadeahkki",
+                "healbadehkoska",
+                "healbadehkot, healbadeahkkut, healbadetnot, healbadeadnot",
+                "healbadehket",
+                "healbadehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon healbat",
+                "ale healbat",
+                "allos healbat",
+                "allu healbat",
+                "alli healbat",
+                "alloska healbat",
+                "allot, allut healbat",
+                "allet, allit healbat",
+                "alloset healbat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Healbadit",
+    "valid": 1
+}

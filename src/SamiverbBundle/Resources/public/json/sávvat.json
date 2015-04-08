@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "sávvat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "sávan",
+                "sávat",
+                "sávvá",
+                "sávve",
+                "sávvabeahtti",
+                "sávvaba",
+                "sávvat",
+                "sávvabehtet",
+                "sávvet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in sáva",
+                "it sáva",
+                "ii sáva",
+                "ean sáva",
+                "eahppi sáva",
+                "eaba sáva",
+                "eat sáva",
+                "ehpet sáva",
+                "eai sáva"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "sávven",
+                "sávvet",
+                "sávai",
+                "sávaime",
+                "sávaide",
+                "sávaiga",
+                "sávaimet",
+                "sávaidet",
+                "sávve"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in sávvan",
+                "it sávvan",
+                "ii sávvan",
+                "ean sávvan",
+                "eahppi sávvan",
+                "eaba sávvan",
+                "eat sávvan",
+                "ehpet sávvan",
+                "eai sávvan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean sávvan",
+                "leat sávvan",
+                "lea sávvan",
+                "letne sávvan",
+                "leahppi sávvan",
+                "leaba sávvan",
+                "leat sávvan",
+                "lehpet sávvan",
+                "leat sávvan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen sávvan",
+                "ledjet sávvan",
+                "lei sávvan",
+                "leimme sávvan",
+                "leidde sávvan",
+                "leigga sávvan",
+                "leimmet sávvan",
+                "leiddet sávvan",
+                "ledje sávvan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean sávvame, -min",
+                "leat sávvame, -min",
+                "lea sávvame, -min",
+                "letne sávvame, -min",
+                "leahppi sávvame, -min",
+                "leaba sávvame, -min",
+                "leat sávvame, -min",
+                "lehpet sávvame, -min",
+                "leat sávvame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen sávvame, -min",
+                "ledjet sávvame, -min",
+                "lei sávvame, -min",
+                "leimme sávvame, -min",
+                "leidde sávvame, -min",
+                "leigga sávvame, -min",
+                "leimmet sávvame, -min",
+                "leiddet sávvame, -min",
+                "ledje sávvame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "sávašin",
+                "sávašit",
+                "sávašii",
+                "sávašeimme",
+                "sávašeidde",
+                "sávašeigga",
+                "sávašeimmet",
+                "sávašeiddet",
+                "sávašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in sávaše",
+                "it sávaše",
+                "ii sávaše",
+                "ean sávaše",
+                "eahppi sávaše",
+                "eaba sávaše",
+                "eat sávaše",
+                "ehpet sávaše",
+                "eai sávaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "sávažan",
+                "sávažat",
+                "sávaš",
+                "sávažetne",
+                "sávažeahppi",
+                "sávažeaba",
+                "sávažit, -žat",
+                "sávažehpet",
+                "sávažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in sávaš",
+                "it sávaš",
+                "ii sávaš",
+                "ean sávaš",
+                "eahppi sávaš",
+                "eaba sávaš",
+                "eat sávaš",
+                "ehpet sávaš",
+                "eai sávaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "sávvon",
+                "sáva",
+                "sávvos",
+                "sávvu",
+                "sávvi",
+                "sávvoska",
+                "sávvot",
+                "sávvet, sávvit",
+                "sávvoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon sáva",
+                "ale sáva",
+                "allos sáva",
+                "allu sáva",
+                "alli sáva",
+                "alloska sáva",
+                "allot, allut sáva",
+                "allet, allit sáva",
+                "alloset sáva"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Sávvat",
+    "valid": 1
+}

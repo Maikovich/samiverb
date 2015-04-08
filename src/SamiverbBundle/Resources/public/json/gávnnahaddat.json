@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gávnnahaddat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gávnnahattan",
+                "gávnnahattat",
+                "gávnnahaddá",
+                "gávnnahadde",
+                "gávnnahaddabeahtti",
+                "gávnnahaddaba",
+                "gávnnahaddat",
+                "gávnnahaddabehtet",
+                "gávnnahaddet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gávnnahatta",
+                "it gávnnahatta",
+                "ii gávnnahatta",
+                "ean gávnnahatta",
+                "eahppi gávnnahatta",
+                "eaba gávnnahatta",
+                "eat gávnnahatta",
+                "ehpet gávnnahatta",
+                "eai gávnnahatta"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gávnnahadden",
+                "gávnnahaddet",
+                "gávnnahattai",
+                "gávnnahattaime",
+                "gávnnahattaide",
+                "gávnnahattaiga",
+                "gávnnahattaimet",
+                "gávnnahattaidet",
+                "gávnnahadde"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gávnnahaddan",
+                "it gávnnahaddan",
+                "ii gávnnahaddan",
+                "ean gávnnahaddan",
+                "eahppi gávnnahaddan",
+                "eaba gávnnahaddan",
+                "eat gávnnahaddan",
+                "ehpet gávnnahaddan",
+                "eai gávnnahaddan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gávnnahaddan",
+                "leat gávnnahaddan",
+                "lea gávnnahaddan",
+                "letne gávnnahaddan",
+                "leahppi gávnnahaddan",
+                "leaba gávnnahaddan",
+                "leat gávnnahaddan",
+                "lehpet gávnnahaddan",
+                "leat gávnnahaddan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gávnnahaddan",
+                "ledjet gávnnahaddan",
+                "lei gávnnahaddan",
+                "leimme gávnnahaddan",
+                "leidde gávnnahaddan",
+                "leigga gávnnahaddan",
+                "leimmet gávnnahaddan",
+                "leiddet gávnnahaddan",
+                "ledje gávnnahaddan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gávnnahaddame, -min",
+                "leat gávnnahaddame, -min",
+                "lea gávnnahaddame, -min",
+                "letne gávnnahaddame, -min",
+                "leahppi gávnnahaddame, -min",
+                "leaba gávnnahaddame, -min",
+                "leat gávnnahaddame, -min",
+                "lehpet gávnnahaddame, -min",
+                "leat gávnnahaddame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gávnnahaddame, -min",
+                "ledjet gávnnahaddame, -min",
+                "lei gávnnahaddame, -min",
+                "leimme gávnnahaddame, -min",
+                "leidde gávnnahaddame, -min",
+                "leigga gávnnahaddame, -min",
+                "leimmet gávnnahaddame, -min",
+                "leiddet gávnnahaddame, -min",
+                "ledje gávnnahaddame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gávnnahattašin",
+                "gávnnahattašit",
+                "gávnnahattašii",
+                "gávnnahattašeimme",
+                "gávnnahattašeidde",
+                "gávnnahattašeigga",
+                "gávnnahattašeimmet",
+                "gávnnahattašeiddet",
+                "gávnnahattašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gávnnahattaše",
+                "it gávnnahattaše",
+                "ii gávnnahattaše",
+                "ean gávnnahattaše",
+                "eahppi gávnnahattaše",
+                "eaba gávnnahattaše",
+                "eat gávnnahattaše",
+                "ehpet gávnnahattaše",
+                "eai gávnnahattaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gávnnahattažan",
+                "gávnnahattažat",
+                "gávnnahattaš",
+                "gávnnahattažetne",
+                "gávnnahattažeahppi",
+                "gávnnahattažeaba",
+                "gávnnahattažit, -žat",
+                "gávnnahattažehpet",
+                "gávnnahattažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gávnnahattaš",
+                "it gávnnahattaš",
+                "ii gávnnahattaš",
+                "ean gávnnahattaš",
+                "eahppi gávnnahattaš",
+                "eaba gávnnahattaš",
+                "eat gávnnahattaš",
+                "ehpet gávnnahattaš",
+                "eai gávnnahattaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gávnnahaddon",
+                "gávnnahatta",
+                "gávnnahaddos",
+                "gávnnahaddu",
+                "gávnnahaddi",
+                "gávnnahaddoska",
+                "gávnnahaddot",
+                "gávnnahaddet, gávnnahaddit",
+                "gávnnahaddoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gávnnahatta",
+                "ale gávnnahatta",
+                "allos gávnnahatta",
+                "allu gávnnahatta",
+                "alli gávnnahatta",
+                "alloska gávnnahatta",
+                "allot, allut gávnnahatta",
+                "allet, allit gávnnahatta",
+                "alloset gávnnahatta"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gávnnahaddat",
+    "valid": 1
+}

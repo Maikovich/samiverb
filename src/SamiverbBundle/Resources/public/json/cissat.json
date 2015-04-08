@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "cissat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "cissan",
+                "cissat",
+                "cissá",
+                "cisse",
+                "cissabeahtti",
+                "cissaba",
+                "cissat",
+                "cissabehtet",
+                "cisset"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in cissa",
+                "it cissa",
+                "ii cissa",
+                "ean cissa",
+                "eahppi cissa",
+                "eaba cissa",
+                "eat cissa",
+                "ehpet cissa",
+                "eai cissa"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "cissen",
+                "cisset",
+                "cissai",
+                "cissaime",
+                "cissaide",
+                "cissaiga",
+                "cissaimet",
+                "cissaidet",
+                "cisse"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in cissan",
+                "it cissan",
+                "ii cissan",
+                "ean cissan",
+                "eahppi cissan",
+                "eaba cissan",
+                "eat cissan",
+                "ehpet cissan",
+                "eai cissan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean cissan",
+                "leat cissan",
+                "lea cissan",
+                "letne cissan",
+                "leahppi cissan",
+                "leaba cissan",
+                "leat cissan",
+                "lehpet cissan",
+                "leat cissan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen cissan",
+                "ledjet cissan",
+                "lei cissan",
+                "leimme cissan",
+                "leidde cissan",
+                "leigga cissan",
+                "leimmet cissan",
+                "leiddet cissan",
+                "ledje cissan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean cissame, -min",
+                "leat cissame, -min",
+                "lea cissame, -min",
+                "letne cissame, -min",
+                "leahppi cissame, -min",
+                "leaba cissame, -min",
+                "leat cissame, -min",
+                "lehpet cissame, -min",
+                "leat cissame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen cissame, -min",
+                "ledjet cissame, -min",
+                "lei cissame, -min",
+                "leimme cissame, -min",
+                "leidde cissame, -min",
+                "leigga cissame, -min",
+                "leimmet cissame, -min",
+                "leiddet cissame, -min",
+                "ledje cissame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "cissašin",
+                "cissašit",
+                "cissašii",
+                "cissašeimme",
+                "cissašeidde",
+                "cissašeigga",
+                "cissašeimmet",
+                "cissašeiddet",
+                "cissašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in cissaše",
+                "it cissaše",
+                "ii cissaše",
+                "ean cissaše",
+                "eahppi cissaše",
+                "eaba cissaše",
+                "eat cissaše",
+                "ehpet cissaše",
+                "eai cissaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "cissažan",
+                "cissažat",
+                "cissaš",
+                "cissažetne",
+                "cissažeahppi",
+                "cissažeaba",
+                "cissažit, -žat",
+                "cissažehpet",
+                "cissažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in cissaš",
+                "it cissaš",
+                "ii cissaš",
+                "ean cissaš",
+                "eahppi cissaš",
+                "eaba cissaš",
+                "eat cissaš",
+                "ehpet cissaš",
+                "eai cissaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "cisson",
+                "cissa",
+                "cissos",
+                "cissu",
+                "cissi",
+                "cissoska",
+                "cissot",
+                "cisset, cissit",
+                "cissoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon cissa",
+                "ale cissa",
+                "allos cissa",
+                "allu cissa",
+                "alli cissa",
+                "alloska cissa",
+                "allot, allut cissa",
+                "allet, allit cissa",
+                "alloset cissa"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Cissat",
+    "valid": 1
+}

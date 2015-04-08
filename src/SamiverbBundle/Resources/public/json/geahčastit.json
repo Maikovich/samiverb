@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "geahčastit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "geahčastan",
+                "geahčastat",
+                "geahčasta",
+                "geahčastetne",
+                "geahčasteahppi",
+                "geahčasteaba",
+                "geahčastit, -tat",
+                "geahčastehpet",
+                "geahčastit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in geahčas",
+                "it geahčas",
+                "ii geahčas",
+                "ean geahčas",
+                "eahppi geahčas",
+                "eaba geahčas",
+                "eat geahčas",
+                "ehpet geahčas",
+                "eai geahčas"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "geahčastin",
+                "geahčastit",
+                "geahčastii",
+                "geahčasteimme",
+                "geahčasteidde",
+                "geahčasteigga",
+                "geahčasteimmet",
+                "geahčasteiddet",
+                "geahčastedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in geahčastan",
+                "it geahčastan",
+                "ii geahčastan",
+                "ean geahčastan",
+                "eahppi geahčastan",
+                "eaba geahčastan",
+                "eat geahčastan",
+                "ehpet geahčastan",
+                "eai geahčastan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean geahčastan",
+                "leat geahčastan",
+                "lea geahčastan",
+                "letne geahčastan",
+                "leahppi geahčastan",
+                "leaba geahčastan",
+                "leat geahčastan",
+                "lehpet geahčastan",
+                "leat geahčastan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen geahčastan",
+                "ledjet geahčastan",
+                "lei geahčastan",
+                "leimme geahčastan",
+                "leidde geahčastan",
+                "leigga geahčastan",
+                "leimmet geahčastan",
+                "leiddet geahčastan",
+                "ledje geahčastan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean geahčasteame, -men",
+                "leat geahčasteame, -men",
+                "lea geahčasteame, -men",
+                "letne geahčasteame, -men",
+                "leahppi geahčasteame, -men",
+                "leaba geahčasteame, -men",
+                "leat geahčasteame, -men",
+                "lehpet geahčasteame, -men",
+                "leat geahčasteame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen geahčasteame, -men",
+                "ledjet geahčasteame, -men",
+                "lei geahčasteame, -men",
+                "leimme geahčasteame, -men",
+                "leidde geahčasteame, -men",
+                "leigga geahčasteame, -men",
+                "leimmet geahčasteame, -men",
+                "leiddet geahčasteame, -men",
+                "ledje geahčasteame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "geahčastivččen",
+                "geahčastivččet",
+                "geahčastivččii",
+                "geahčastivččiime",
+                "geahčastivččiide",
+                "geahčastivččiiga",
+                "geahčastivččiimet",
+                "geahčastivččiidet",
+                "geahčastivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in geahčastivčče",
+                "it geahčastivčče",
+                "ii geahčastivčče",
+                "ean geahčastivčče",
+                "eahppi geahčastivčče",
+                "eaba geahčastivčče",
+                "eat geahčastivčče",
+                "ehpet geahčastivčče",
+                "eai geahčastivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "geahčasteaččan",
+                "geahčasteaččat",
+                "geahčasteaš, -teš, -teažžá",
+                "geahčastežže",
+                "geahčasteažžabeahtti",
+                "geahčasteažžaba",
+                "geahčasteažžat",
+                "geahčasteažžabehtet",
+                "geahčastežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in geahčasteaš, -teš, -teažžá",
+                "it geahčasteaš, -teš, -teažžá",
+                "ii geahčasteaš, -teš, -teažžá",
+                "ean geahčasteaš, -teš, -teažžá",
+                "eahppi geahčasteaš, -teš, -teažžá",
+                "eaba geahčasteaš, -teš, -teažžá",
+                "eat geahčasteaš, -teš, -teažžá",
+                "ehpet geahčasteaš, -teš, -teažžá",
+                "eai geahčasteaš, -teš, -teažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "geahčastehkon",
+                "geahčas",
+                "geahčastehkos, geahčastus",
+                "geahčasteadnu",
+                "geahčasteahkki",
+                "geahčastehkoska",
+                "geahčastehkot, geahčasteahkkut, geahčastetnot, geahčasteadnot",
+                "geahčastehket",
+                "geahčastehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon geahčas",
+                "ale geahčas",
+                "allos geahčas",
+                "allu geahčas",
+                "alli geahčas",
+                "alloska geahčas",
+                "allot, allut geahčas",
+                "allet, allit geahčas",
+                "alloset geahčas"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Geahčastit",
+    "valid": 1
+}

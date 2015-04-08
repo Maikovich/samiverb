@@ -1,0 +1,42 @@
+<div class="modal fade" id="revalidateModal" tabindex="-1" role="dialog" aria-labelledby="revalidateModalLabel" aria-hidden="true" ng-controller="ValidateModalController" ng-init="generateCrsf(2)">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="revalidateModalLabel">Revalidate this verb <small>´{[{verb['name']}]}´</small></h4>
+      </div>
+      <div class="modal-body">
+        <h4>
+          OK - sorry.
+        </h4>
+        <p>
+          So you seem to be very sure this verb exists, even though it has been marked as invalid before. Please let me take another look at it by filling out the form below.
+        </p>
+        <h4>Request validation</h4>
+        <p>
+          <form name="validateVerb2" novalidate>
+            <div class="form-group">
+              <label class="sr-only" for="validate-verb-verb2">Verb</label>
+              <input type="text" class="form-control" id="validate-verb-verb2" placeholder="{[{verb['name']}]}" readonly>
+            </div>
+            <div class="form-group">
+              <label class="sr-only" for="validate-verb-email2">Email</label>
+              <input type="email" ng-model="validateForm.email" class="form-control" id="validate-verb-email2" placeholder="Email" required>
+            </div>
+            <div class="form-group">
+              <input type="hidden" name="_csrf_token" id="_crsf_token_2">
+            </div>
+          </form>
+        </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="submit" class="btn btn-primary ladda-button" id="validate-btn2" ng-click="validateForm.submit(2)" ng-disabled="validateVerb2.$invalid || validateForm.isSubmitted() || validateForm.isError()" data-style="expand-right">
+          <span class="ladda-label" ng-hide="validateForm.isSubmitted() || validateForm.isError()">Send request</span>
+          <span ng-show="validateForm.isSubmitted()">Request sent!</span>
+          <span ng-show="validateForm.isError() && !validateForm.isSubmitted()">Wrong email!</span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>

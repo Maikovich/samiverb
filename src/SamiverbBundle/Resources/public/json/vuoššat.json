@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "vuoššat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "vuoššan",
+                "vuoššat",
+                "vuoššá",
+                "vušše",
+                "vuoššabeahtti",
+                "vuoššaba",
+                "vuoššat",
+                "vuoššabehtet",
+                "vuššet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in vuošša",
+                "it vuošša",
+                "ii vuošša",
+                "ean vuošša",
+                "eahppi vuošša",
+                "eaba vuošša",
+                "eat vuošša",
+                "ehpet vuošša",
+                "eai vuošša"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "vuššen",
+                "vuššet",
+                "vuoššai",
+                "vuoššaime",
+                "vuoššaide",
+                "vuoššaiga",
+                "vuoššaimet",
+                "vuoššaidet",
+                "vušše"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in vuoššan",
+                "it vuoššan",
+                "ii vuoššan",
+                "ean vuoššan",
+                "eahppi vuoššan",
+                "eaba vuoššan",
+                "eat vuoššan",
+                "ehpet vuoššan",
+                "eai vuoššan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean vuoššan",
+                "leat vuoššan",
+                "lea vuoššan",
+                "letne vuoššan",
+                "leahppi vuoššan",
+                "leaba vuoššan",
+                "leat vuoššan",
+                "lehpet vuoššan",
+                "leat vuoššan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen vuoššan",
+                "ledjet vuoššan",
+                "lei vuoššan",
+                "leimme vuoššan",
+                "leidde vuoššan",
+                "leigga vuoššan",
+                "leimmet vuoššan",
+                "leiddet vuoššan",
+                "ledje vuoššan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean vuoššame, -min",
+                "leat vuoššame, -min",
+                "lea vuoššame, -min",
+                "letne vuoššame, -min",
+                "leahppi vuoššame, -min",
+                "leaba vuoššame, -min",
+                "leat vuoššame, -min",
+                "lehpet vuoššame, -min",
+                "leat vuoššame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen vuoššame, -min",
+                "ledjet vuoššame, -min",
+                "lei vuoššame, -min",
+                "leimme vuoššame, -min",
+                "leidde vuoššame, -min",
+                "leigga vuoššame, -min",
+                "leimmet vuoššame, -min",
+                "leiddet vuoššame, -min",
+                "ledje vuoššame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "vuoššašin",
+                "vuoššašit",
+                "vuoššašii",
+                "vuoššašeimme",
+                "vuoššašeidde",
+                "vuoššašeigga",
+                "vuoššašeimmet",
+                "vuoššašeiddet",
+                "vuoššašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in vuoššaše",
+                "it vuoššaše",
+                "ii vuoššaše",
+                "ean vuoššaše",
+                "eahppi vuoššaše",
+                "eaba vuoššaše",
+                "eat vuoššaše",
+                "ehpet vuoššaše",
+                "eai vuoššaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "vuoššažan",
+                "vuoššažat",
+                "vuoššaš",
+                "vuoššažetne",
+                "vuoššažeahppi",
+                "vuoššažeaba",
+                "vuoššažit, -žat",
+                "vuoššažehpet",
+                "vuoššažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in vuoššaš",
+                "it vuoššaš",
+                "ii vuoššaš",
+                "ean vuoššaš",
+                "eahppi vuoššaš",
+                "eaba vuoššaš",
+                "eat vuoššaš",
+                "ehpet vuoššaš",
+                "eai vuoššaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "vuššon",
+                "vuošša",
+                "vuššos",
+                "vuoššu",
+                "vuošši",
+                "vuššoska",
+                "vuššot, vuoššot",
+                "vuššet, vuoššit",
+                "vuššoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon vuošša",
+                "ale vuošša",
+                "allos vuošša",
+                "allu vuošša",
+                "alli vuošša",
+                "alloska vuošša",
+                "allot, allut vuošša",
+                "allet, allit vuošša",
+                "alloset vuošša"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Vuoššat",
+    "valid": 1
+}

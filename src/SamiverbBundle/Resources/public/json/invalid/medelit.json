@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "medelit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "medelan",
+                "medelat",
+                "medela",
+                "medeletne",
+                "medeleahppi",
+                "medeleaba",
+                "medelit, -lat",
+                "medelehpet",
+                "medelit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in medel",
+                "it medel",
+                "ii medel",
+                "ean medel",
+                "eahppi medel",
+                "eaba medel",
+                "eat medel",
+                "ehpet medel",
+                "eai medel"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "medelin",
+                "medelit",
+                "medelii",
+                "medeleimme",
+                "medeleidde",
+                "medeleigga",
+                "medeleimmet",
+                "medeleiddet",
+                "medeledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in medelan",
+                "it medelan",
+                "ii medelan",
+                "ean medelan",
+                "eahppi medelan",
+                "eaba medelan",
+                "eat medelan",
+                "ehpet medelan",
+                "eai medelan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean medelan",
+                "leat medelan",
+                "lea medelan",
+                "letne medelan",
+                "leahppi medelan",
+                "leaba medelan",
+                "leat medelan",
+                "lehpet medelan",
+                "leat medelan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen medelan",
+                "ledjet medelan",
+                "lei medelan",
+                "leimme medelan",
+                "leidde medelan",
+                "leigga medelan",
+                "leimmet medelan",
+                "leiddet medelan",
+                "ledje medelan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean medeleame, -men",
+                "leat medeleame, -men",
+                "lea medeleame, -men",
+                "letne medeleame, -men",
+                "leahppi medeleame, -men",
+                "leaba medeleame, -men",
+                "leat medeleame, -men",
+                "lehpet medeleame, -men",
+                "leat medeleame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen medeleame, -men",
+                "ledjet medeleame, -men",
+                "lei medeleame, -men",
+                "leimme medeleame, -men",
+                "leidde medeleame, -men",
+                "leigga medeleame, -men",
+                "leimmet medeleame, -men",
+                "leiddet medeleame, -men",
+                "ledje medeleame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "medelivččen",
+                "medelivččet",
+                "medelivččii",
+                "medelivččiime",
+                "medelivččiide",
+                "medelivččiiga",
+                "medelivččiimet",
+                "medelivččiidet",
+                "medelivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in medelivčče",
+                "it medelivčče",
+                "ii medelivčče",
+                "ean medelivčče",
+                "eahppi medelivčče",
+                "eaba medelivčče",
+                "eat medelivčče",
+                "ehpet medelivčče",
+                "eai medelivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "medeleaččan",
+                "medeleaččat",
+                "medeleaš, -leš, -leažžá",
+                "medeležže",
+                "medeleažžabeahtti",
+                "medeleažžaba",
+                "medeleažžat",
+                "medeleažžabehtet",
+                "medeležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in medeleaš, -leš, -leažžá",
+                "it medeleaš, -leš, -leažžá",
+                "ii medeleaš, -leš, -leažžá",
+                "ean medeleaš, -leš, -leažžá",
+                "eahppi medeleaš, -leš, -leažžá",
+                "eaba medeleaš, -leš, -leažžá",
+                "eat medeleaš, -leš, -leažžá",
+                "ehpet medeleaš, -leš, -leažžá",
+                "eai medeleaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "medelehkon",
+                "medel",
+                "medelehkos, medelus",
+                "medeleadnu",
+                "medeleahkki",
+                "medelehkoska",
+                "medelehkot, medeleahkkut, medeletnot, medeleadnot",
+                "medelehket",
+                "medelehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon medel",
+                "ale medel",
+                "allos medel",
+                "allu medel",
+                "alli medel",
+                "alloska medel",
+                "allot, allut medel",
+                "allet, allit medel",
+                "alloset medel"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "valid": 0,
+    "value": "Medelit"
+}

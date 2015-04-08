@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čatnat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čanan",
+                "čanat",
+                "čatná",
+                "čatne",
+                "čatnabeahtti",
+                "čatnaba",
+                "čatnat",
+                "čatnabehtet",
+                "čatnet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čana",
+                "it čana",
+                "ii čana",
+                "ean čana",
+                "eahppi čana",
+                "eaba čana",
+                "eat čana",
+                "ehpet čana",
+                "eai čana"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čatnen",
+                "čatnet",
+                "čanai",
+                "čanaime",
+                "čanaide",
+                "čanaiga",
+                "čanaimet",
+                "čanaidet",
+                "čatne"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čatnan",
+                "it čatnan",
+                "ii čatnan",
+                "ean čatnan",
+                "eahppi čatnan",
+                "eaba čatnan",
+                "eat čatnan",
+                "ehpet čatnan",
+                "eai čatnan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čatnan",
+                "leat čatnan",
+                "lea čatnan",
+                "letne čatnan",
+                "leahppi čatnan",
+                "leaba čatnan",
+                "leat čatnan",
+                "lehpet čatnan",
+                "leat čatnan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čatnan",
+                "ledjet čatnan",
+                "lei čatnan",
+                "leimme čatnan",
+                "leidde čatnan",
+                "leigga čatnan",
+                "leimmet čatnan",
+                "leiddet čatnan",
+                "ledje čatnan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čatname, -min",
+                "leat čatname, -min",
+                "lea čatname, -min",
+                "letne čatname, -min",
+                "leahppi čatname, -min",
+                "leaba čatname, -min",
+                "leat čatname, -min",
+                "lehpet čatname, -min",
+                "leat čatname, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čatname, -min",
+                "ledjet čatname, -min",
+                "lei čatname, -min",
+                "leimme čatname, -min",
+                "leidde čatname, -min",
+                "leigga čatname, -min",
+                "leimmet čatname, -min",
+                "leiddet čatname, -min",
+                "ledje čatname, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čanašin",
+                "čanašit",
+                "čanašii",
+                "čanašeimme",
+                "čanašeidde",
+                "čanašeigga",
+                "čanašeimmet",
+                "čanašeiddet",
+                "čanašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čanaše",
+                "it čanaše",
+                "ii čanaše",
+                "ean čanaše",
+                "eahppi čanaše",
+                "eaba čanaše",
+                "eat čanaše",
+                "ehpet čanaše",
+                "eai čanaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čanažan",
+                "čanažat",
+                "čanaš",
+                "čanažetne",
+                "čanažeahppi",
+                "čanažeaba",
+                "čanažit, -žat",
+                "čanažehpet",
+                "čanažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čanaš",
+                "it čanaš",
+                "ii čanaš",
+                "ean čanaš",
+                "eahppi čanaš",
+                "eaba čanaš",
+                "eat čanaš",
+                "ehpet čanaš",
+                "eai čanaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čatnon",
+                "čana",
+                "čatnos",
+                "čadnu",
+                "čadni",
+                "čatnoska",
+                "čatnot, čadnot",
+                "čatnet, čadnit",
+                "čatnoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čana",
+                "ale čana",
+                "allos čana",
+                "allu čana",
+                "alli čana",
+                "alloska čana",
+                "allot, allut čana",
+                "allet, allit čana",
+                "alloset čana"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čatnat",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "suhkat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "sugan",
+                "sugat",
+                "suhká",
+                "suhke",
+                "suhkabeahtti",
+                "suhkaba",
+                "suhkat",
+                "suhkabehtet",
+                "suhket"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in suga",
+                "it suga",
+                "ii suga",
+                "ean suga",
+                "eahppi suga",
+                "eaba suga",
+                "eat suga",
+                "ehpet suga",
+                "eai suga"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "suhken",
+                "suhket",
+                "sugai",
+                "sugaime",
+                "sugaide",
+                "sugaiga",
+                "sugaimet",
+                "sugaidet",
+                "suhke"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in suhkan",
+                "it suhkan",
+                "ii suhkan",
+                "ean suhkan",
+                "eahppi suhkan",
+                "eaba suhkan",
+                "eat suhkan",
+                "ehpet suhkan",
+                "eai suhkan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean suhkan",
+                "leat suhkan",
+                "lea suhkan",
+                "letne suhkan",
+                "leahppi suhkan",
+                "leaba suhkan",
+                "leat suhkan",
+                "lehpet suhkan",
+                "leat suhkan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen suhkan",
+                "ledjet suhkan",
+                "lei suhkan",
+                "leimme suhkan",
+                "leidde suhkan",
+                "leigga suhkan",
+                "leimmet suhkan",
+                "leiddet suhkan",
+                "ledje suhkan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean suhkame, -min",
+                "leat suhkame, -min",
+                "lea suhkame, -min",
+                "letne suhkame, -min",
+                "leahppi suhkame, -min",
+                "leaba suhkame, -min",
+                "leat suhkame, -min",
+                "lehpet suhkame, -min",
+                "leat suhkame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen suhkame, -min",
+                "ledjet suhkame, -min",
+                "lei suhkame, -min",
+                "leimme suhkame, -min",
+                "leidde suhkame, -min",
+                "leigga suhkame, -min",
+                "leimmet suhkame, -min",
+                "leiddet suhkame, -min",
+                "ledje suhkame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "sugašin",
+                "sugašit",
+                "sugašii",
+                "sugašeimme",
+                "sugašeidde",
+                "sugašeigga",
+                "sugašeimmet",
+                "sugašeiddet",
+                "sugašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in sugaše",
+                "it sugaše",
+                "ii sugaše",
+                "ean sugaše",
+                "eahppi sugaše",
+                "eaba sugaše",
+                "eat sugaše",
+                "ehpet sugaše",
+                "eai sugaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "sugažan",
+                "sugažat",
+                "sugaš",
+                "sugažetne",
+                "sugažeahppi",
+                "sugažeaba",
+                "sugažit, -žat",
+                "sugažehpet",
+                "sugažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in sugaš",
+                "it sugaš",
+                "ii sugaš",
+                "ean sugaš",
+                "eahppi sugaš",
+                "eaba sugaš",
+                "eat sugaš",
+                "ehpet sugaš",
+                "eai sugaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "suhkon",
+                "suga",
+                "suhkos",
+                "suhkku",
+                "suhkki",
+                "suhkoska",
+                "suhkot, suhkkot",
+                "suhket, suhkkit",
+                "suhkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon suga",
+                "ale suga",
+                "allos suga",
+                "allu suga",
+                "alli suga",
+                "alloska suga",
+                "allot, allut suga",
+                "allet, allit suga",
+                "alloset suga"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Suhkat",
+    "valid": 1
+}

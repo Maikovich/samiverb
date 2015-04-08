@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "bivvat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "bivan",
+                "bivat",
+                "bivvá",
+                "bivve",
+                "bivvabeahtti",
+                "bivvaba",
+                "bivvat",
+                "bivvabehtet",
+                "bivvet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in biva",
+                "it biva",
+                "ii biva",
+                "ean biva",
+                "eahppi biva",
+                "eaba biva",
+                "eat biva",
+                "ehpet biva",
+                "eai biva"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "bivven",
+                "bivvet",
+                "bivai",
+                "bivaime",
+                "bivaide",
+                "bivaiga",
+                "bivaimet",
+                "bivaidet",
+                "bivve"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in bivvan",
+                "it bivvan",
+                "ii bivvan",
+                "ean bivvan",
+                "eahppi bivvan",
+                "eaba bivvan",
+                "eat bivvan",
+                "ehpet bivvan",
+                "eai bivvan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean bivvan",
+                "leat bivvan",
+                "lea bivvan",
+                "letne bivvan",
+                "leahppi bivvan",
+                "leaba bivvan",
+                "leat bivvan",
+                "lehpet bivvan",
+                "leat bivvan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen bivvan",
+                "ledjet bivvan",
+                "lei bivvan",
+                "leimme bivvan",
+                "leidde bivvan",
+                "leigga bivvan",
+                "leimmet bivvan",
+                "leiddet bivvan",
+                "ledje bivvan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean bivvame, -min",
+                "leat bivvame, -min",
+                "lea bivvame, -min",
+                "letne bivvame, -min",
+                "leahppi bivvame, -min",
+                "leaba bivvame, -min",
+                "leat bivvame, -min",
+                "lehpet bivvame, -min",
+                "leat bivvame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen bivvame, -min",
+                "ledjet bivvame, -min",
+                "lei bivvame, -min",
+                "leimme bivvame, -min",
+                "leidde bivvame, -min",
+                "leigga bivvame, -min",
+                "leimmet bivvame, -min",
+                "leiddet bivvame, -min",
+                "ledje bivvame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "bivašin",
+                "bivašit",
+                "bivašii",
+                "bivašeimme",
+                "bivašeidde",
+                "bivašeigga",
+                "bivašeimmet",
+                "bivašeiddet",
+                "bivašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in bivaše",
+                "it bivaše",
+                "ii bivaše",
+                "ean bivaše",
+                "eahppi bivaše",
+                "eaba bivaše",
+                "eat bivaše",
+                "ehpet bivaše",
+                "eai bivaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "bivažan",
+                "bivažat",
+                "bivaš",
+                "bivažetne",
+                "bivažeahppi",
+                "bivažeaba",
+                "bivažit, -žat",
+                "bivažehpet",
+                "bivažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in bivaš",
+                "it bivaš",
+                "ii bivaš",
+                "ean bivaš",
+                "eahppi bivaš",
+                "eaba bivaš",
+                "eat bivaš",
+                "ehpet bivaš",
+                "eai bivaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "bivvon",
+                "biva",
+                "bivvos",
+                "bivvu",
+                "bivvi",
+                "bivvoska",
+                "bivvot",
+                "bivvet, bivvit",
+                "bivvoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon biva",
+                "ale biva",
+                "allos biva",
+                "allu biva",
+                "alli biva",
+                "alloska biva",
+                "allot, allut biva",
+                "allet, allit biva",
+                "alloset biva"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Bivvat",
+    "valid": 1
+}

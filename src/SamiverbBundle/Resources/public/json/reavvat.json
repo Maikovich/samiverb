@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "reavvat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "reavan",
+                "reavat",
+                "reavvá",
+                "revve",
+                "reavvabeahtti",
+                "reavvaba",
+                "reavvat",
+                "reavvabehtet",
+                "revvet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in reava",
+                "it reava",
+                "ii reava",
+                "ean reava",
+                "eahppi reava",
+                "eaba reava",
+                "eat reava",
+                "ehpet reava",
+                "eai reava"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "revven",
+                "revvet",
+                "reavai",
+                "reavaime",
+                "reavaide",
+                "reavaiga",
+                "reavaimet",
+                "reavaidet",
+                "revve"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in reavvan",
+                "it reavvan",
+                "ii reavvan",
+                "ean reavvan",
+                "eahppi reavvan",
+                "eaba reavvan",
+                "eat reavvan",
+                "ehpet reavvan",
+                "eai reavvan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean reavvan",
+                "leat reavvan",
+                "lea reavvan",
+                "letne reavvan",
+                "leahppi reavvan",
+                "leaba reavvan",
+                "leat reavvan",
+                "lehpet reavvan",
+                "leat reavvan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen reavvan",
+                "ledjet reavvan",
+                "lei reavvan",
+                "leimme reavvan",
+                "leidde reavvan",
+                "leigga reavvan",
+                "leimmet reavvan",
+                "leiddet reavvan",
+                "ledje reavvan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean reavvame, -min",
+                "leat reavvame, -min",
+                "lea reavvame, -min",
+                "letne reavvame, -min",
+                "leahppi reavvame, -min",
+                "leaba reavvame, -min",
+                "leat reavvame, -min",
+                "lehpet reavvame, -min",
+                "leat reavvame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen reavvame, -min",
+                "ledjet reavvame, -min",
+                "lei reavvame, -min",
+                "leimme reavvame, -min",
+                "leidde reavvame, -min",
+                "leigga reavvame, -min",
+                "leimmet reavvame, -min",
+                "leiddet reavvame, -min",
+                "ledje reavvame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "reavašin",
+                "reavašit",
+                "reavašii",
+                "reavašeimme",
+                "reavašeidde",
+                "reavašeigga",
+                "reavašeimmet",
+                "reavašeiddet",
+                "reavašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in reavaše",
+                "it reavaše",
+                "ii reavaše",
+                "ean reavaše",
+                "eahppi reavaše",
+                "eaba reavaše",
+                "eat reavaše",
+                "ehpet reavaše",
+                "eai reavaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "reavažan",
+                "reavažat",
+                "reavaš",
+                "reavažetne",
+                "reavažeahppi",
+                "reavažeaba",
+                "reavažit, -žat",
+                "reavažehpet",
+                "reavažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in reavaš",
+                "it reavaš",
+                "ii reavaš",
+                "ean reavaš",
+                "eahppi reavaš",
+                "eaba reavaš",
+                "eat reavaš",
+                "ehpet reavaš",
+                "eai reavaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "revvon",
+                "reava",
+                "revvos",
+                "reavvu",
+                "reavvi",
+                "revvoska",
+                "revvot, reavvot",
+                "revvet, reavvit",
+                "revvoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon reava",
+                "ale reava",
+                "allos reava",
+                "allu reava",
+                "alli reava",
+                "alloska reava",
+                "allot, allut reava",
+                "allet, allit reava",
+                "alloset reava"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Reavvat",
+    "valid": 1
+}

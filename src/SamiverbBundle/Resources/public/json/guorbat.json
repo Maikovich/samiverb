@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "guorbat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "guorbban",
+                "guorbbat",
+                "guorbá",
+                "gurbe",
+                "guorbabeahtti",
+                "guorbaba",
+                "guorbat",
+                "guorbabehtet",
+                "gurbet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in guorbba",
+                "it guorbba",
+                "ii guorbba",
+                "ean guorbba",
+                "eahppi guorbba",
+                "eaba guorbba",
+                "eat guorbba",
+                "ehpet guorbba",
+                "eai guorbba"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gurben",
+                "gurbet",
+                "guorbbai",
+                "guorbbaime",
+                "guorbbaide",
+                "guorbbaiga",
+                "guorbbaimet",
+                "guorbbaidet",
+                "gurbe"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in guorban",
+                "it guorban",
+                "ii guorban",
+                "ean guorban",
+                "eahppi guorban",
+                "eaba guorban",
+                "eat guorban",
+                "ehpet guorban",
+                "eai guorban"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean guorban",
+                "leat guorban",
+                "lea guorban",
+                "letne guorban",
+                "leahppi guorban",
+                "leaba guorban",
+                "leat guorban",
+                "lehpet guorban",
+                "leat guorban"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen guorban",
+                "ledjet guorban",
+                "lei guorban",
+                "leimme guorban",
+                "leidde guorban",
+                "leigga guorban",
+                "leimmet guorban",
+                "leiddet guorban",
+                "ledje guorban"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean guorbame, -min",
+                "leat guorbame, -min",
+                "lea guorbame, -min",
+                "letne guorbame, -min",
+                "leahppi guorbame, -min",
+                "leaba guorbame, -min",
+                "leat guorbame, -min",
+                "lehpet guorbame, -min",
+                "leat guorbame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen guorbame, -min",
+                "ledjet guorbame, -min",
+                "lei guorbame, -min",
+                "leimme guorbame, -min",
+                "leidde guorbame, -min",
+                "leigga guorbame, -min",
+                "leimmet guorbame, -min",
+                "leiddet guorbame, -min",
+                "ledje guorbame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "guorbbašin",
+                "guorbbašit",
+                "guorbbašii",
+                "guorbbašeimme",
+                "guorbbašeidde",
+                "guorbbašeigga",
+                "guorbbašeimmet",
+                "guorbbašeiddet",
+                "guorbbašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in guorbbaše",
+                "it guorbbaše",
+                "ii guorbbaše",
+                "ean guorbbaše",
+                "eahppi guorbbaše",
+                "eaba guorbbaše",
+                "eat guorbbaše",
+                "ehpet guorbbaše",
+                "eai guorbbaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "guorbbažan",
+                "guorbbažat",
+                "guorbbaš",
+                "guorbbažetne",
+                "guorbbažeahppi",
+                "guorbbažeaba",
+                "guorbbažit, -žat",
+                "guorbbažehpet",
+                "guorbbažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in guorbbaš",
+                "it guorbbaš",
+                "ii guorbbaš",
+                "ean guorbbaš",
+                "eahppi guorbbaš",
+                "eaba guorbbaš",
+                "eat guorbbaš",
+                "ehpet guorbbaš",
+                "eai guorbbaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gurbon",
+                "guorbba",
+                "gurbos",
+                "guorbu",
+                "guorbi",
+                "gurboska",
+                "gurbot, guorbot",
+                "gurbet, guorbit",
+                "gurboset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon guorbba",
+                "ale guorbba",
+                "allos guorbba",
+                "allu guorbba",
+                "alli guorbba",
+                "alloska guorbba",
+                "allot, allut guorbba",
+                "allet, allit guorbba",
+                "alloset guorbba"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Guorbat",
+    "valid": 1
+}

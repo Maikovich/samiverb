@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "muitaleddit", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "muitalettán", 
+        "muitalettát", 
+        "muitaleddá", 
+        "muitaledde", 
+        "muitaleddibeahtti", 
+        "muitaleddiba", 
+        "muitaleddit", 
+        "muitaleddibehtet", 
+        "muitaleddet"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in muitalette", 
+        "it muitalette", 
+        "ii muitalette", 
+        "ean muitalette", 
+        "eahppi muitalette", 
+        "eaba muitalette", 
+        "eat muitalette", 
+        "ehpet muitalette", 
+        "eai muitalette"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "muitaledden", 
+        "muitaleddet", 
+        "muitalettii", 
+        "muitalettiime", 
+        "muitalettiide", 
+        "muitalettiiga", 
+        "muitalettiimet", 
+        "muitalettiidet", 
+        "muitaledde"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in muitaleddán", 
+        "it muitaleddán", 
+        "ii muitaleddán", 
+        "ean muitaleddán", 
+        "eahppi muitaleddán", 
+        "eaba muitaleddán", 
+        "eat muitaleddán", 
+        "ehpet muitaleddán", 
+        "eai muitaleddán"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean muitaleddán", 
+        "leat muitaleddán", 
+        "lea muitaleddán", 
+        "letne muitaleddán", 
+        "leahppi muitaleddán", 
+        "leaba muitaleddán", 
+        "leat muitaleddán", 
+        "lehpet muitaleddán", 
+        "leat muitaleddán"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen muitaleddán", 
+        "ledjet muitaleddán", 
+        "lei muitaleddán", 
+        "leimme muitaleddán", 
+        "leidde muitaleddán", 
+        "leigga muitaleddán", 
+        "leimmet muitaleddán", 
+        "leiddet muitaleddán", 
+        "ledje muitaleddán"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean muitaleddime, -min", 
+        "leat muitaleddime, -min", 
+        "lea muitaleddime, -min", 
+        "letne muitaleddime, -min", 
+        "leahppi muitaleddime, -min", 
+        "leaba muitaleddime, -min", 
+        "leat muitaleddime, -min", 
+        "lehpet muitaleddime, -min", 
+        "leat muitaleddime, -min"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen muitaleddime, -min", 
+        "ledjet muitaleddime, -min", 
+        "lei muitaleddime, -min", 
+        "leimme muitaleddime, -min", 
+        "leidde muitaleddime, -min", 
+        "leigga muitaleddime, -min", 
+        "leimmet muitaleddime, -min", 
+        "leiddet muitaleddime, -min", 
+        "ledje muitaleddime, -min"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "muitalettášin", 
+        "muitalettášit", 
+        "muitalettášii", 
+        "muitalettášeimme", 
+        "muitalettášeidde", 
+        "muitalettášeigga", 
+        "muitalettášeimmet", 
+        "muitalettášeiddet", 
+        "muitalettášedje"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in muitalettáše", 
+        "it muitalettáše", 
+        "ii muitalettáše", 
+        "ean muitalettáše", 
+        "eahppi muitalettáše", 
+        "eaba muitalettáše", 
+        "eat muitalettáše", 
+        "ehpet muitalettáše", 
+        "eai muitalettáše"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "muitalettežan", 
+        "muitalettežat", 
+        "muitaletteš", 
+        "muitalettežetne", 
+        "muitalettežeahppi", 
+        "muitalettežeaba", 
+        "muitalettežit, -žat", 
+        "muitalettežehpet", 
+        "muitalettežit"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in muitaletteš", 
+        "it muitaletteš", 
+        "ii muitaletteš", 
+        "ean muitaletteš", 
+        "eahppi muitaletteš", 
+        "eaba muitaletteš", 
+        "eat muitaletteš", 
+        "ehpet muitaletteš", 
+        "eai muitaletteš"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "muitaleddon", 
+        "muitalette", 
+        "muitaleddos", 
+        "muitaleddu", 
+        "muitaleddi", 
+        "muitaleddoska", 
+        "muitaleddot", 
+        "muitaleddet", 
+        "muitaleddoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon muitalette", 
+        "ale muitalette", 
+        "allos muitalette", 
+        "allu muitalette", 
+        "alli muitalette", 
+        "alloska muitalette", 
+        "allot, allut muitalette", 
+        "allet, allit muitalette", 
+        "alloset muitalette"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Muitaleddit"
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "vuhttot",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "vuhtton",
+                "vuhttot",
+                "vuhtto",
+                "vuhttojetne",
+                "vuhttobeahtti",
+                "vuhttoba",
+                "vuhttot",
+                "vuhttobehtet",
+                "vuhttojit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in vuhtto",
+                "it vuhtto",
+                "ii vuhtto",
+                "ean vuhtto",
+                "eahppi vuhtto",
+                "eaba vuhtto",
+                "eat vuhtto",
+                "ehpet vuhtto",
+                "eai vuhtto"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "vuhttojin",
+                "vuhttojit",
+                "vuhttui",
+                "vuhttuime",
+                "vuhttuide",
+                "vuhttuiga",
+                "vuhttuimet",
+                "vuhttuidet",
+                "vuhttojedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in vuhtton",
+                "it vuhtton",
+                "ii vuhtton",
+                "ean vuhtton",
+                "eahppi vuhtton",
+                "eaba vuhtton",
+                "eat vuhtton",
+                "ehpet vuhtton",
+                "eai vuhtton"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean vuhtton",
+                "leat vuhtton",
+                "lea vuhtton",
+                "letne vuhtton",
+                "leahppi vuhtton",
+                "leaba vuhtton",
+                "leat vuhtton",
+                "lehpet vuhtton",
+                "leat vuhtton"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen vuhtton",
+                "ledjet vuhtton",
+                "lei vuhtton",
+                "leimme vuhtton",
+                "leidde vuhtton",
+                "leigga vuhtton",
+                "leimmet vuhtton",
+                "leiddet vuhtton",
+                "ledje vuhtton"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean vuhttome, -min",
+                "leat vuhttome, -min",
+                "lea vuhttome, -min",
+                "letne vuhttome, -min",
+                "leahppi vuhttome, -min",
+                "leaba vuhttome, -min",
+                "leat vuhttome, -min",
+                "lehpet vuhttome, -min",
+                "leat vuhttome, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen vuhttome, -min",
+                "ledjet vuhttome, -min",
+                "lei vuhttome, -min",
+                "leimme vuhttome, -min",
+                "leidde vuhttome, -min",
+                "leigga vuhttome, -min",
+                "leimmet vuhttome, -min",
+                "leiddet vuhttome, -min",
+                "ledje vuhttome, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "vuhttošin",
+                "vuhttošit",
+                "vuhttošii",
+                "vuhttošeimme",
+                "vuhttošeidde",
+                "vuhttošeigga",
+                "vuhttošeimmet",
+                "vuhttošeiddet",
+                "vuhttošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in vuhttoše",
+                "it vuhttoše",
+                "ii vuhttoše",
+                "ean vuhttoše",
+                "eahppi vuhttoše",
+                "eaba vuhttoše",
+                "eat vuhttoše",
+                "ehpet vuhttoše",
+                "eai vuhttoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "vuhttožan",
+                "vuhttožat",
+                "vuhttoš",
+                "vuhttožetne",
+                "vuhttožeahppi",
+                "vuhttožeaba",
+                "vuhttožit, -žat",
+                "vuhttožehpet",
+                "vuhttožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in vuhttoš",
+                "it vuhttoš",
+                "ii vuhttoš",
+                "ean vuhttoš",
+                "eahppi vuhttoš",
+                "eaba vuhttoš",
+                "eat vuhttoš",
+                "ehpet vuhttoš",
+                "eai vuhttoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "vuhttojehkon",
+                "vuhtto",
+                "vuhttojehkos",
+                "vuhttojeadnu",
+                "vuhttojeahkki",
+                "vuhttojehkoska",
+                "vuhttojeahkkut, vuhttojeadnot, vuhttojehkot, vuhttojetnot",
+                "vuhttojeahkkit",
+                "vuhttojehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon vuhtto",
+                "ale vuhtto",
+                "allos vuhtto",
+                "allu vuhtto",
+                "alli vuhtto",
+                "alloska vuhtto",
+                "allot, allut vuhtto",
+                "allet, allit vuhtto",
+                "alloset vuhtto"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Vuhttot",
+    "valid": 1
+}

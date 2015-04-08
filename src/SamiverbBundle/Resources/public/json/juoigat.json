@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "juoigat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "juoiggan",
+                "juoiggat",
+                "juoigá",
+                "juige",
+                "juoigabeahtti",
+                "juoigaba",
+                "juoigat",
+                "juoigabehtet",
+                "juiget"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in juoigga",
+                "it juoigga",
+                "ii juoigga",
+                "ean juoigga",
+                "eahppi juoigga",
+                "eaba juoigga",
+                "eat juoigga",
+                "ehpet juoigga",
+                "eai juoigga"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "juigen",
+                "juiget",
+                "juoiggai",
+                "juoiggaime",
+                "juoiggaide",
+                "juoiggaiga",
+                "juoiggaimet",
+                "juoiggaidet",
+                "juige"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in juoigan",
+                "it juoigan",
+                "ii juoigan",
+                "ean juoigan",
+                "eahppi juoigan",
+                "eaba juoigan",
+                "eat juoigan",
+                "ehpet juoigan",
+                "eai juoigan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean juoigan",
+                "leat juoigan",
+                "lea juoigan",
+                "letne juoigan",
+                "leahppi juoigan",
+                "leaba juoigan",
+                "leat juoigan",
+                "lehpet juoigan",
+                "leat juoigan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen juoigan",
+                "ledjet juoigan",
+                "lei juoigan",
+                "leimme juoigan",
+                "leidde juoigan",
+                "leigga juoigan",
+                "leimmet juoigan",
+                "leiddet juoigan",
+                "ledje juoigan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean juoigame, -min",
+                "leat juoigame, -min",
+                "lea juoigame, -min",
+                "letne juoigame, -min",
+                "leahppi juoigame, -min",
+                "leaba juoigame, -min",
+                "leat juoigame, -min",
+                "lehpet juoigame, -min",
+                "leat juoigame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen juoigame, -min",
+                "ledjet juoigame, -min",
+                "lei juoigame, -min",
+                "leimme juoigame, -min",
+                "leidde juoigame, -min",
+                "leigga juoigame, -min",
+                "leimmet juoigame, -min",
+                "leiddet juoigame, -min",
+                "ledje juoigame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "juoiggašin",
+                "juoiggašit",
+                "juoiggašii",
+                "juoiggašeimme",
+                "juoiggašeidde",
+                "juoiggašeigga",
+                "juoiggašeimmet",
+                "juoiggašeiddet",
+                "juoiggašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in juoiggaše",
+                "it juoiggaše",
+                "ii juoiggaše",
+                "ean juoiggaše",
+                "eahppi juoiggaše",
+                "eaba juoiggaše",
+                "eat juoiggaše",
+                "ehpet juoiggaše",
+                "eai juoiggaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "juoiggažan",
+                "juoiggažat",
+                "juoiggaš",
+                "juoiggažetne",
+                "juoiggažeahppi",
+                "juoiggažeaba",
+                "juoiggažit, -žat",
+                "juoiggažehpet",
+                "juoiggažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in juoiggaš",
+                "it juoiggaš",
+                "ii juoiggaš",
+                "ean juoiggaš",
+                "eahppi juoiggaš",
+                "eaba juoiggaš",
+                "eat juoiggaš",
+                "ehpet juoiggaš",
+                "eai juoiggaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "juigon",
+                "juoigga",
+                "juigos",
+                "juoigu",
+                "juoigi",
+                "juigoska",
+                "juigot, juoigot",
+                "juiget, juoigit",
+                "juigoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon juoigga",
+                "ale juoigga",
+                "allos juoigga",
+                "allu juoigga",
+                "alli juoigga",
+                "alloska juoigga",
+                "allot, allut juoigga",
+                "allet, allit juoigga",
+                "alloset juoigga"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Juoigat",
+    "valid": 1
+}

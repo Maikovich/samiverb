@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "ádjit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "áján",
+                "áját",
+                "ádjá",
+                "ádje",
+                "ádjibeahtti",
+                "ádjiba",
+                "ádjit",
+                "ádjibehtet",
+                "ádjet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in áje",
+                "it áje",
+                "ii áje",
+                "ean áje",
+                "eahppi áje",
+                "eaba áje",
+                "eat áje",
+                "ehpet áje",
+                "eai áje"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ádjen",
+                "ádjet",
+                "ájii",
+                "ájiime",
+                "ájiide",
+                "ájiiga",
+                "ájiimet",
+                "ájiidet",
+                "ádje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ádján",
+                "it ádján",
+                "ii ádján",
+                "ean ádján",
+                "eahppi ádján",
+                "eaba ádján",
+                "eat ádján",
+                "ehpet ádján",
+                "eai ádján"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ádján",
+                "leat ádján",
+                "lea ádján",
+                "letne ádján",
+                "leahppi ádján",
+                "leaba ádján",
+                "leat ádján",
+                "lehpet ádján",
+                "leat ádján"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ádján",
+                "ledjet ádján",
+                "lei ádján",
+                "leimme ádján",
+                "leidde ádján",
+                "leigga ádján",
+                "leimmet ádján",
+                "leiddet ádján",
+                "ledje ádján"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean ádjime, -min",
+                "leat ádjime, -min",
+                "lea ádjime, -min",
+                "letne ádjime, -min",
+                "leahppi ádjime, -min",
+                "leaba ádjime, -min",
+                "leat ádjime, -min",
+                "lehpet ádjime, -min",
+                "leat ádjime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen ádjime, -min",
+                "ledjet ádjime, -min",
+                "lei ádjime, -min",
+                "leimme ádjime, -min",
+                "leidde ádjime, -min",
+                "leigga ádjime, -min",
+                "leimmet ádjime, -min",
+                "leiddet ádjime, -min",
+                "ledje ádjime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "ájášin",
+                "ájášit",
+                "ájášii",
+                "ájášeimme",
+                "ájášeidde",
+                "ájášeigga",
+                "ájášeimmet",
+                "ájášeiddet",
+                "ájášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in ájáše",
+                "it ájáše",
+                "ii ájáše",
+                "ean ájáše",
+                "eahppi ájáše",
+                "eaba ájáše",
+                "eat ájáše",
+                "ehpet ájáše",
+                "eai ájáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "áježan",
+                "áježat",
+                "áješ",
+                "áježetne",
+                "áježeahppi",
+                "áježeaba",
+                "áježit, -žat",
+                "áježehpet",
+                "áježit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in áješ",
+                "it áješ",
+                "ii áješ",
+                "ean áješ",
+                "eahppi áješ",
+                "eaba áješ",
+                "eat áješ",
+                "ehpet áješ",
+                "eai áješ"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "ádjon",
+                "áje",
+                "ádjos",
+                "áddju",
+                "áddji",
+                "ádjoska",
+                "ádjot, áddjot",
+                "ádjet, áddjet",
+                "ádjoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon áje",
+                "ale áje",
+                "allos áje",
+                "allu áje",
+                "alli áje",
+                "alloska áje",
+                "allot, allut áje",
+                "allet, allit áje",
+                "alloset áje"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Ádjit",
+    "valid": 1
+}

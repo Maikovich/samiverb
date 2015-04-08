@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "diktit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "divttán",
+                "divttát",
+                "diktá",
+                "dikte",
+                "diktibeahtti",
+                "diktiba",
+                "diktit",
+                "diktibehtet",
+                "diktet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in divtte",
+                "it divtte",
+                "ii divtte",
+                "ean divtte",
+                "eahppi divtte",
+                "eaba divtte",
+                "eat divtte",
+                "ehpet divtte",
+                "eai divtte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "dikten",
+                "diktet",
+                "divttii",
+                "divttiime",
+                "divttiide",
+                "divttiiga",
+                "divttiimet",
+                "divttiidet",
+                "dikte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in diktán",
+                "it diktán",
+                "ii diktán",
+                "ean diktán",
+                "eahppi diktán",
+                "eaba diktán",
+                "eat diktán",
+                "ehpet diktán",
+                "eai diktán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean diktán",
+                "leat diktán",
+                "lea diktán",
+                "letne diktán",
+                "leahppi diktán",
+                "leaba diktán",
+                "leat diktán",
+                "lehpet diktán",
+                "leat diktán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen diktán",
+                "ledjet diktán",
+                "lei diktán",
+                "leimme diktán",
+                "leidde diktán",
+                "leigga diktán",
+                "leimmet diktán",
+                "leiddet diktán",
+                "ledje diktán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean diktime, -min",
+                "leat diktime, -min",
+                "lea diktime, -min",
+                "letne diktime, -min",
+                "leahppi diktime, -min",
+                "leaba diktime, -min",
+                "leat diktime, -min",
+                "lehpet diktime, -min",
+                "leat diktime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen diktime, -min",
+                "ledjet diktime, -min",
+                "lei diktime, -min",
+                "leimme diktime, -min",
+                "leidde diktime, -min",
+                "leigga diktime, -min",
+                "leimmet diktime, -min",
+                "leiddet diktime, -min",
+                "ledje diktime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "divttášin",
+                "divttášit",
+                "divttášii",
+                "divttášeimme",
+                "divttášeidde",
+                "divttášeigga",
+                "divttášeimmet",
+                "divttášeiddet",
+                "divttášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in divttáše",
+                "it divttáše",
+                "ii divttáše",
+                "ean divttáše",
+                "eahppi divttáše",
+                "eaba divttáše",
+                "eat divttáše",
+                "ehpet divttáše",
+                "eai divttáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "divttežan",
+                "divttežat",
+                "divtteš",
+                "divttežetne",
+                "divttežeahppi",
+                "divttežeaba",
+                "divttežit, -žat",
+                "divttežehpet",
+                "divttežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in divtteš",
+                "it divtteš",
+                "ii divtteš",
+                "ean divtteš",
+                "eahppi divtteš",
+                "eaba divtteš",
+                "eat divtteš",
+                "ehpet divtteš",
+                "eai divtteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "dikton",
+                "divtte",
+                "diktos",
+                "diktu",
+                "dikti",
+                "diktoska",
+                "diktot",
+                "diktet",
+                "diktoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon divtte",
+                "ale divtte",
+                "allos divtte",
+                "allu divtte",
+                "alli divtte",
+                "alloska divtte",
+                "allot, allut divtte",
+                "allet, allit divtte",
+                "alloset divtte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Diktit",
+    "valid": 1
+}

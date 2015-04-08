@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "namuhit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "namuhan",
+                "namuhat",
+                "namuha",
+                "namuhetne",
+                "namuheahppi",
+                "namuheaba",
+                "namuhit, -hat",
+                "namuhehpet",
+                "namuhit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in namut",
+                "it namut",
+                "ii namut",
+                "ean namut",
+                "eahppi namut",
+                "eaba namut",
+                "eat namut",
+                "ehpet namut",
+                "eai namut"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "namuhin",
+                "namuhit",
+                "namuhii",
+                "namuheimme",
+                "namuheidde",
+                "namuheigga",
+                "namuheimmet",
+                "namuheiddet",
+                "namuhedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in namuhan",
+                "it namuhan",
+                "ii namuhan",
+                "ean namuhan",
+                "eahppi namuhan",
+                "eaba namuhan",
+                "eat namuhan",
+                "ehpet namuhan",
+                "eai namuhan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean namuhan",
+                "leat namuhan",
+                "lea namuhan",
+                "letne namuhan",
+                "leahppi namuhan",
+                "leaba namuhan",
+                "leat namuhan",
+                "lehpet namuhan",
+                "leat namuhan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen namuhan",
+                "ledjet namuhan",
+                "lei namuhan",
+                "leimme namuhan",
+                "leidde namuhan",
+                "leigga namuhan",
+                "leimmet namuhan",
+                "leiddet namuhan",
+                "ledje namuhan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean namuheame, -men",
+                "leat namuheame, -men",
+                "lea namuheame, -men",
+                "letne namuheame, -men",
+                "leahppi namuheame, -men",
+                "leaba namuheame, -men",
+                "leat namuheame, -men",
+                "lehpet namuheame, -men",
+                "leat namuheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen namuheame, -men",
+                "ledjet namuheame, -men",
+                "lei namuheame, -men",
+                "leimme namuheame, -men",
+                "leidde namuheame, -men",
+                "leigga namuheame, -men",
+                "leimmet namuheame, -men",
+                "leiddet namuheame, -men",
+                "ledje namuheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "namuhivččen",
+                "namuhivččet",
+                "namuhivččii",
+                "namuhivččiime",
+                "namuhivččiide",
+                "namuhivččiiga",
+                "namuhivččiimet",
+                "namuhivččiidet",
+                "namuhivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in namuhivčče",
+                "it namuhivčče",
+                "ii namuhivčče",
+                "ean namuhivčče",
+                "eahppi namuhivčče",
+                "eaba namuhivčče",
+                "eat namuhivčče",
+                "ehpet namuhivčče",
+                "eai namuhivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "namuheaččan",
+                "namuheaččat",
+                "namuheaš, -heš, -heažžá",
+                "namuhežže",
+                "namuheažžabeahtti",
+                "namuheažžaba",
+                "namuheažžat",
+                "namuheažžabehtet",
+                "namuhežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in namuheaš, -heš, -heažžá",
+                "it namuheaš, -heš, -heažžá",
+                "ii namuheaš, -heš, -heažžá",
+                "ean namuheaš, -heš, -heažžá",
+                "eahppi namuheaš, -heš, -heažžá",
+                "eaba namuheaš, -heš, -heažžá",
+                "eat namuheaš, -heš, -heažžá",
+                "ehpet namuheaš, -heš, -heažžá",
+                "eai namuheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "namuhehkon",
+                "namut",
+                "namuhehkos, namuhus",
+                "namuheadnu",
+                "namuheahkki",
+                "namuhehkoska",
+                "namuhehkot, namuheahkkut, namuhetnot, namuheadnot",
+                "namuhehket",
+                "namuhehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon namut",
+                "ale namut",
+                "allos namut",
+                "allu namut",
+                "alli namut",
+                "alloska namut",
+                "allot, allut namut",
+                "allet, allit namut",
+                "alloset namut"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Namuhit",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "mehtelit", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "mehtelan", 
+        "mehtelat", 
+        "mehtela", 
+        "mehteletne", 
+        "mehteleahppi", 
+        "mehteleaba", 
+        "mehtelit, -lat", 
+        "mehtelehpet", 
+        "mehtelit"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in mehtel", 
+        "it mehtel", 
+        "ii mehtel", 
+        "ean mehtel", 
+        "eahppi mehtel", 
+        "eaba mehtel", 
+        "eat mehtel", 
+        "ehpet mehtel", 
+        "eai mehtel"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "mehtelin", 
+        "mehtelit", 
+        "mehtelii", 
+        "mehteleimme", 
+        "mehteleidde", 
+        "mehteleigga", 
+        "mehteleimmet", 
+        "mehteleiddet", 
+        "mehteledje"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in mehtelan", 
+        "it mehtelan", 
+        "ii mehtelan", 
+        "ean mehtelan", 
+        "eahppi mehtelan", 
+        "eaba mehtelan", 
+        "eat mehtelan", 
+        "ehpet mehtelan", 
+        "eai mehtelan"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean mehtelan", 
+        "leat mehtelan", 
+        "lea mehtelan", 
+        "letne mehtelan", 
+        "leahppi mehtelan", 
+        "leaba mehtelan", 
+        "leat mehtelan", 
+        "lehpet mehtelan", 
+        "leat mehtelan"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen mehtelan", 
+        "ledjet mehtelan", 
+        "lei mehtelan", 
+        "leimme mehtelan", 
+        "leidde mehtelan", 
+        "leigga mehtelan", 
+        "leimmet mehtelan", 
+        "leiddet mehtelan", 
+        "ledje mehtelan"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean mehteleame, -men", 
+        "leat mehteleame, -men", 
+        "lea mehteleame, -men", 
+        "letne mehteleame, -men", 
+        "leahppi mehteleame, -men", 
+        "leaba mehteleame, -men", 
+        "leat mehteleame, -men", 
+        "lehpet mehteleame, -men", 
+        "leat mehteleame, -men"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen mehteleame, -men", 
+        "ledjet mehteleame, -men", 
+        "lei mehteleame, -men", 
+        "leimme mehteleame, -men", 
+        "leidde mehteleame, -men", 
+        "leigga mehteleame, -men", 
+        "leimmet mehteleame, -men", 
+        "leiddet mehteleame, -men", 
+        "ledje mehteleame, -men"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "mehtelivččen", 
+        "mehtelivččet", 
+        "mehtelivččii", 
+        "mehtelivččiime", 
+        "mehtelivččiide", 
+        "mehtelivččiiga", 
+        "mehtelivččiimet", 
+        "mehtelivččiidet", 
+        "mehtelivčče"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in mehtelivčče", 
+        "it mehtelivčče", 
+        "ii mehtelivčče", 
+        "ean mehtelivčče", 
+        "eahppi mehtelivčče", 
+        "eaba mehtelivčče", 
+        "eat mehtelivčče", 
+        "ehpet mehtelivčče", 
+        "eai mehtelivčče"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "mehteleaččan", 
+        "mehteleaččat", 
+        "mehteleaš, -leš, -leažžá", 
+        "mehteležže", 
+        "mehteleažžabeahtti", 
+        "mehteleažžaba", 
+        "mehteleažžat", 
+        "mehteleažžabehtet", 
+        "mehteležžet"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in mehteleaš, -leš, -leažžá", 
+        "it mehteleaš, -leš, -leažžá", 
+        "ii mehteleaš, -leš, -leažžá", 
+        "ean mehteleaš, -leš, -leažžá", 
+        "eahppi mehteleaš, -leš, -leažžá", 
+        "eaba mehteleaš, -leš, -leažžá", 
+        "eat mehteleaš, -leš, -leažžá", 
+        "ehpet mehteleaš, -leš, -leažžá", 
+        "eai mehteleaš, -leš, -leažžá"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "mehtelehkon", 
+        "mehtel", 
+        "mehtelehkos, mehtelus", 
+        "mehteleadnu", 
+        "mehteleahkki", 
+        "mehtelehkoska", 
+        "mehtelehkot, mehteleahkkut, mehteletnot, mehteleadnot", 
+        "mehtelehket", 
+        "mehtelehkoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon mehtel", 
+        "ale mehtel", 
+        "allos mehtel", 
+        "allu mehtel", 
+        "alli mehtel", 
+        "alloska mehtel", 
+        "allot, allut mehtel", 
+        "allet, allit mehtel", 
+        "alloset mehtel"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Mehtelit"
+}

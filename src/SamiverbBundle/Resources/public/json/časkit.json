@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "časkit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "časkkán",
+                "časkkát",
+                "časká",
+                "časke",
+                "časkibeahtti",
+                "časkiba",
+                "časkit",
+                "časkibehtet",
+                "časket"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in časkke",
+                "it časkke",
+                "ii časkke",
+                "ean časkke",
+                "eahppi časkke",
+                "eaba časkke",
+                "eat časkke",
+                "ehpet časkke",
+                "eai časkke"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "časken",
+                "časket",
+                "časkkii",
+                "časkkiime",
+                "časkkiide",
+                "časkkiiga",
+                "časkkiimet",
+                "časkkiidet",
+                "časke"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in časkán",
+                "it časkán",
+                "ii časkán",
+                "ean časkán",
+                "eahppi časkán",
+                "eaba časkán",
+                "eat časkán",
+                "ehpet časkán",
+                "eai časkán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean časkán",
+                "leat časkán",
+                "lea časkán",
+                "letne časkán",
+                "leahppi časkán",
+                "leaba časkán",
+                "leat časkán",
+                "lehpet časkán",
+                "leat časkán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen časkán",
+                "ledjet časkán",
+                "lei časkán",
+                "leimme časkán",
+                "leidde časkán",
+                "leigga časkán",
+                "leimmet časkán",
+                "leiddet časkán",
+                "ledje časkán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean časkime, -min",
+                "leat časkime, -min",
+                "lea časkime, -min",
+                "letne časkime, -min",
+                "leahppi časkime, -min",
+                "leaba časkime, -min",
+                "leat časkime, -min",
+                "lehpet časkime, -min",
+                "leat časkime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen časkime, -min",
+                "ledjet časkime, -min",
+                "lei časkime, -min",
+                "leimme časkime, -min",
+                "leidde časkime, -min",
+                "leigga časkime, -min",
+                "leimmet časkime, -min",
+                "leiddet časkime, -min",
+                "ledje časkime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "časkkášin",
+                "časkkášit",
+                "časkkášii",
+                "časkkášeimme",
+                "časkkášeidde",
+                "časkkášeigga",
+                "časkkášeimmet",
+                "časkkášeiddet",
+                "časkkášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in časkkáše",
+                "it časkkáše",
+                "ii časkkáše",
+                "ean časkkáše",
+                "eahppi časkkáše",
+                "eaba časkkáše",
+                "eat časkkáše",
+                "ehpet časkkáše",
+                "eai časkkáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "časkkežan",
+                "časkkežat",
+                "časkkeš",
+                "časkkežetne",
+                "časkkežeahppi",
+                "časkkežeaba",
+                "časkkežit, -žat",
+                "časkkežehpet",
+                "časkkežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in časkkeš",
+                "it časkkeš",
+                "ii časkkeš",
+                "ean časkkeš",
+                "eahppi časkkeš",
+                "eaba časkkeš",
+                "eat časkkeš",
+                "ehpet časkkeš",
+                "eai časkkeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "časkon",
+                "časkke",
+                "časkos",
+                "časku",
+                "časki",
+                "časkoska",
+                "časkot",
+                "časket",
+                "časkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon časkke",
+                "ale časkke",
+                "allos časkke",
+                "allu časkke",
+                "alli časkke",
+                "alloska časkke",
+                "allot, allut časkke",
+                "allet, allit časkke",
+                "alloset časkke"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Časkit",
+    "valid": 1
+}

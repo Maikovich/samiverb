@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "hálidit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "hálidan",
+                "hálidat",
+                "hálida",
+                "hálidetne",
+                "hálideahppi",
+                "hálideaba",
+                "hálidit, -dat",
+                "hálidehpet",
+                "hálidit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in hálit",
+                "it hálit",
+                "ii hálit",
+                "ean hálit",
+                "eahppi hálit",
+                "eaba hálit",
+                "eat hálit",
+                "ehpet hálit",
+                "eai hálit"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "hálidin",
+                "hálidit",
+                "hálidii",
+                "hálideimme",
+                "hálideidde",
+                "hálideigga",
+                "hálideimmet",
+                "hálideiddet",
+                "hálidedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in hálidan",
+                "it hálidan",
+                "ii hálidan",
+                "ean hálidan",
+                "eahppi hálidan",
+                "eaba hálidan",
+                "eat hálidan",
+                "ehpet hálidan",
+                "eai hálidan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean hálidan",
+                "leat hálidan",
+                "lea hálidan",
+                "letne hálidan",
+                "leahppi hálidan",
+                "leaba hálidan",
+                "leat hálidan",
+                "lehpet hálidan",
+                "leat hálidan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen hálidan",
+                "ledjet hálidan",
+                "lei hálidan",
+                "leimme hálidan",
+                "leidde hálidan",
+                "leigga hálidan",
+                "leimmet hálidan",
+                "leiddet hálidan",
+                "ledje hálidan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean hálideame, -men",
+                "leat hálideame, -men",
+                "lea hálideame, -men",
+                "letne hálideame, -men",
+                "leahppi hálideame, -men",
+                "leaba hálideame, -men",
+                "leat hálideame, -men",
+                "lehpet hálideame, -men",
+                "leat hálideame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen hálideame, -men",
+                "ledjet hálideame, -men",
+                "lei hálideame, -men",
+                "leimme hálideame, -men",
+                "leidde hálideame, -men",
+                "leigga hálideame, -men",
+                "leimmet hálideame, -men",
+                "leiddet hálideame, -men",
+                "ledje hálideame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "hálidivččen",
+                "hálidivččet",
+                "hálidivččii",
+                "hálidivččiime",
+                "hálidivččiide",
+                "hálidivččiiga",
+                "hálidivččiimet",
+                "hálidivččiidet",
+                "hálidivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in hálidivčče",
+                "it hálidivčče",
+                "ii hálidivčče",
+                "ean hálidivčče",
+                "eahppi hálidivčče",
+                "eaba hálidivčče",
+                "eat hálidivčče",
+                "ehpet hálidivčče",
+                "eai hálidivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "hálideaččan",
+                "hálideaččat",
+                "hálideaš, -deš, -deažžá",
+                "hálidežže",
+                "hálideažžabeahtti",
+                "hálideažžaba",
+                "hálideažžat",
+                "hálideažžabehtet",
+                "hálidežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in hálideaš, -deš, -deažžá",
+                "it hálideaš, -deš, -deažžá",
+                "ii hálideaš, -deš, -deažžá",
+                "ean hálideaš, -deš, -deažžá",
+                "eahppi hálideaš, -deš, -deažžá",
+                "eaba hálideaš, -deš, -deažžá",
+                "eat hálideaš, -deš, -deažžá",
+                "ehpet hálideaš, -deš, -deažžá",
+                "eai hálideaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "hálidehkon",
+                "hálit",
+                "hálidehkos, hálidus",
+                "hálideadnu",
+                "hálideahkki",
+                "hálidehkoska",
+                "hálidehkot, hálideahkkut, hálidetnot, hálideadnot",
+                "hálidehket",
+                "hálidehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon hálit",
+                "ale hálit",
+                "allos hálit",
+                "allu hálit",
+                "alli hálit",
+                "alloska hálit",
+                "allot, allut hálit",
+                "allet, allit hálit",
+                "alloset hálit"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "valid": 0,
+    "value": "Hálidit"
+}

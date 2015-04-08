@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "dovkošit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "dovkošan",
+                "dovkošat",
+                "dovkoša",
+                "dovkošetne",
+                "dovkošeahppi",
+                "dovkošeaba",
+                "dovkošit, -šat",
+                "dovkošehpet",
+                "dovkošit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in dovkoš",
+                "it dovkoš",
+                "ii dovkoš",
+                "ean dovkoš",
+                "eahppi dovkoš",
+                "eaba dovkoš",
+                "eat dovkoš",
+                "ehpet dovkoš",
+                "eai dovkoš"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "dovkošin",
+                "dovkošit",
+                "dovkošii",
+                "dovkošeimme",
+                "dovkošeidde",
+                "dovkošeigga",
+                "dovkošeimmet",
+                "dovkošeiddet",
+                "dovkošedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in dovkošan",
+                "it dovkošan",
+                "ii dovkošan",
+                "ean dovkošan",
+                "eahppi dovkošan",
+                "eaba dovkošan",
+                "eat dovkošan",
+                "ehpet dovkošan",
+                "eai dovkošan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean dovkošan",
+                "leat dovkošan",
+                "lea dovkošan",
+                "letne dovkošan",
+                "leahppi dovkošan",
+                "leaba dovkošan",
+                "leat dovkošan",
+                "lehpet dovkošan",
+                "leat dovkošan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen dovkošan",
+                "ledjet dovkošan",
+                "lei dovkošan",
+                "leimme dovkošan",
+                "leidde dovkošan",
+                "leigga dovkošan",
+                "leimmet dovkošan",
+                "leiddet dovkošan",
+                "ledje dovkošan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean dovkošeame, -men",
+                "leat dovkošeame, -men",
+                "lea dovkošeame, -men",
+                "letne dovkošeame, -men",
+                "leahppi dovkošeame, -men",
+                "leaba dovkošeame, -men",
+                "leat dovkošeame, -men",
+                "lehpet dovkošeame, -men",
+                "leat dovkošeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen dovkošeame, -men",
+                "ledjet dovkošeame, -men",
+                "lei dovkošeame, -men",
+                "leimme dovkošeame, -men",
+                "leidde dovkošeame, -men",
+                "leigga dovkošeame, -men",
+                "leimmet dovkošeame, -men",
+                "leiddet dovkošeame, -men",
+                "ledje dovkošeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "dovkošivččen",
+                "dovkošivččet",
+                "dovkošivččii",
+                "dovkošivččiime",
+                "dovkošivččiide",
+                "dovkošivččiiga",
+                "dovkošivččiimet",
+                "dovkošivččiidet",
+                "dovkošivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in dovkošivčče",
+                "it dovkošivčče",
+                "ii dovkošivčče",
+                "ean dovkošivčče",
+                "eahppi dovkošivčče",
+                "eaba dovkošivčče",
+                "eat dovkošivčče",
+                "ehpet dovkošivčče",
+                "eai dovkošivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "dovkošeaččan",
+                "dovkošeaččat",
+                "dovkošeaš, -šeš, -šeažžá",
+                "dovkošežže",
+                "dovkošeažžabeahtti",
+                "dovkošeažžaba",
+                "dovkošeažžat",
+                "dovkošeažžabehtet",
+                "dovkošežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in dovkošeaš, -šeš, -šeažžá",
+                "it dovkošeaš, -šeš, -šeažžá",
+                "ii dovkošeaš, -šeš, -šeažžá",
+                "ean dovkošeaš, -šeš, -šeažžá",
+                "eahppi dovkošeaš, -šeš, -šeažžá",
+                "eaba dovkošeaš, -šeš, -šeažžá",
+                "eat dovkošeaš, -šeš, -šeažžá",
+                "ehpet dovkošeaš, -šeš, -šeažžá",
+                "eai dovkošeaš, -šeš, -šeažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "dovkošehkon",
+                "dovkoš",
+                "dovkošehkos, dovkošus",
+                "dovkošeadnu",
+                "dovkošeahkki",
+                "dovkošehkoska",
+                "dovkošehkot, dovkošeahkkut, dovkošetnot, dovkošeadnot",
+                "dovkošehket",
+                "dovkošehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon dovkoš",
+                "ale dovkoš",
+                "allos dovkoš",
+                "allu dovkoš",
+                "alli dovkoš",
+                "alloska dovkoš",
+                "allot, allut dovkoš",
+                "allet, allit dovkoš",
+                "alloset dovkoš"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Dovkošit",
+    "valid": 1
+}

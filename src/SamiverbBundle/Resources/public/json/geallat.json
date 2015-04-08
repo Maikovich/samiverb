@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "geallat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gealan",
+                "gealat",
+                "geallá",
+                "gelle",
+                "geallabeahtti",
+                "geallaba",
+                "geallat",
+                "geallabehtet",
+                "gellet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in geala",
+                "it geala",
+                "ii geala",
+                "ean geala",
+                "eahppi geala",
+                "eaba geala",
+                "eat geala",
+                "ehpet geala",
+                "eai geala"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gellen",
+                "gellet",
+                "gealai",
+                "gealaime",
+                "gealaide",
+                "gealaiga",
+                "gealaimet",
+                "gealaidet",
+                "gelle"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in geallan",
+                "it geallan",
+                "ii geallan",
+                "ean geallan",
+                "eahppi geallan",
+                "eaba geallan",
+                "eat geallan",
+                "ehpet geallan",
+                "eai geallan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean geallan",
+                "leat geallan",
+                "lea geallan",
+                "letne geallan",
+                "leahppi geallan",
+                "leaba geallan",
+                "leat geallan",
+                "lehpet geallan",
+                "leat geallan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen geallan",
+                "ledjet geallan",
+                "lei geallan",
+                "leimme geallan",
+                "leidde geallan",
+                "leigga geallan",
+                "leimmet geallan",
+                "leiddet geallan",
+                "ledje geallan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean geallame, -min",
+                "leat geallame, -min",
+                "lea geallame, -min",
+                "letne geallame, -min",
+                "leahppi geallame, -min",
+                "leaba geallame, -min",
+                "leat geallame, -min",
+                "lehpet geallame, -min",
+                "leat geallame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen geallame, -min",
+                "ledjet geallame, -min",
+                "lei geallame, -min",
+                "leimme geallame, -min",
+                "leidde geallame, -min",
+                "leigga geallame, -min",
+                "leimmet geallame, -min",
+                "leiddet geallame, -min",
+                "ledje geallame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gealašin",
+                "gealašit",
+                "gealašii",
+                "gealašeimme",
+                "gealašeidde",
+                "gealašeigga",
+                "gealašeimmet",
+                "gealašeiddet",
+                "gealašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gealaše",
+                "it gealaše",
+                "ii gealaše",
+                "ean gealaše",
+                "eahppi gealaše",
+                "eaba gealaše",
+                "eat gealaše",
+                "ehpet gealaše",
+                "eai gealaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gealažan",
+                "gealažat",
+                "gealaš",
+                "gealažetne",
+                "gealažeahppi",
+                "gealažeaba",
+                "gealažit, -žat",
+                "gealažehpet",
+                "gealažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gealaš",
+                "it gealaš",
+                "ii gealaš",
+                "ean gealaš",
+                "eahppi gealaš",
+                "eaba gealaš",
+                "eat gealaš",
+                "ehpet gealaš",
+                "eai gealaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gellon",
+                "geala",
+                "gellos",
+                "geallu",
+                "gealli",
+                "gelloska",
+                "gellot, geallot",
+                "gellet, geallit",
+                "gelloset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon geala",
+                "ale geala",
+                "allos geala",
+                "allu geala",
+                "alli geala",
+                "alloska geala",
+                "allot, allut geala",
+                "allet, allit geala",
+                "alloset geala"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Geallat",
+    "valid": 1
+}

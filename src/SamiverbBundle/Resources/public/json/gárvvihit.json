@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gárvvihit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gárvvihan",
+                "gárvvihat",
+                "gárvviha",
+                "gárvvihetne",
+                "gárvviheahppi",
+                "gárvviheaba",
+                "gárvvihit, -hat",
+                "gárvvihehpet",
+                "gárvvihit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gárvvit",
+                "it gárvvit",
+                "ii gárvvit",
+                "ean gárvvit",
+                "eahppi gárvvit",
+                "eaba gárvvit",
+                "eat gárvvit",
+                "ehpet gárvvit",
+                "eai gárvvit"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gárvvihin",
+                "gárvvihit",
+                "gárvvihii",
+                "gárvviheimme",
+                "gárvviheidde",
+                "gárvviheigga",
+                "gárvviheimmet",
+                "gárvviheiddet",
+                "gárvvihedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gárvvihan",
+                "it gárvvihan",
+                "ii gárvvihan",
+                "ean gárvvihan",
+                "eahppi gárvvihan",
+                "eaba gárvvihan",
+                "eat gárvvihan",
+                "ehpet gárvvihan",
+                "eai gárvvihan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gárvvihan",
+                "leat gárvvihan",
+                "lea gárvvihan",
+                "letne gárvvihan",
+                "leahppi gárvvihan",
+                "leaba gárvvihan",
+                "leat gárvvihan",
+                "lehpet gárvvihan",
+                "leat gárvvihan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gárvvihan",
+                "ledjet gárvvihan",
+                "lei gárvvihan",
+                "leimme gárvvihan",
+                "leidde gárvvihan",
+                "leigga gárvvihan",
+                "leimmet gárvvihan",
+                "leiddet gárvvihan",
+                "ledje gárvvihan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gárvviheame, -men",
+                "leat gárvviheame, -men",
+                "lea gárvviheame, -men",
+                "letne gárvviheame, -men",
+                "leahppi gárvviheame, -men",
+                "leaba gárvviheame, -men",
+                "leat gárvviheame, -men",
+                "lehpet gárvviheame, -men",
+                "leat gárvviheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gárvviheame, -men",
+                "ledjet gárvviheame, -men",
+                "lei gárvviheame, -men",
+                "leimme gárvviheame, -men",
+                "leidde gárvviheame, -men",
+                "leigga gárvviheame, -men",
+                "leimmet gárvviheame, -men",
+                "leiddet gárvviheame, -men",
+                "ledje gárvviheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gárvvihivččen",
+                "gárvvihivččet",
+                "gárvvihivččii",
+                "gárvvihivččiime",
+                "gárvvihivččiide",
+                "gárvvihivččiiga",
+                "gárvvihivččiimet",
+                "gárvvihivččiidet",
+                "gárvvihivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gárvvihivčče",
+                "it gárvvihivčče",
+                "ii gárvvihivčče",
+                "ean gárvvihivčče",
+                "eahppi gárvvihivčče",
+                "eaba gárvvihivčče",
+                "eat gárvvihivčče",
+                "ehpet gárvvihivčče",
+                "eai gárvvihivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gárvviheaččan",
+                "gárvviheaččat",
+                "gárvviheaš, -heš, -heažžá",
+                "gárvvihežže",
+                "gárvviheažžabeahtti",
+                "gárvviheažžaba",
+                "gárvviheažžat",
+                "gárvviheažžabehtet",
+                "gárvvihežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gárvviheaš, -heš, -heažžá",
+                "it gárvviheaš, -heš, -heažžá",
+                "ii gárvviheaš, -heš, -heažžá",
+                "ean gárvviheaš, -heš, -heažžá",
+                "eahppi gárvviheaš, -heš, -heažžá",
+                "eaba gárvviheaš, -heš, -heažžá",
+                "eat gárvviheaš, -heš, -heažžá",
+                "ehpet gárvviheaš, -heš, -heažžá",
+                "eai gárvviheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gárvvihehkon",
+                "gárvvit",
+                "gárvvihehkos, gárvvihus",
+                "gárvviheadnu",
+                "gárvviheahkki",
+                "gárvvihehkoska",
+                "gárvvihehkot, gárvviheahkkut, gárvvihetnot, gárvviheadnot",
+                "gárvvihehket",
+                "gárvvihehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gárvvit",
+                "ale gárvvit",
+                "allos gárvvit",
+                "allu gárvvit",
+                "alli gárvvit",
+                "alloska gárvvit",
+                "allot, allut gárvvit",
+                "allet, allit gárvvit",
+                "alloset gárvvit"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gárvvihit",
+    "valid": 1
+}

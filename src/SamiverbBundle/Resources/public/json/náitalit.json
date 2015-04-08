@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "náitalit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "náitalan",
+                "náitalat",
+                "náitala",
+                "náitaletne",
+                "náitaleahppi",
+                "náitaleaba",
+                "náitalit, -lat",
+                "náitalehpet",
+                "náitalit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in náital",
+                "it náital",
+                "ii náital",
+                "ean náital",
+                "eahppi náital",
+                "eaba náital",
+                "eat náital",
+                "ehpet náital",
+                "eai náital"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "náitalin",
+                "náitalit",
+                "náitalii",
+                "náitaleimme",
+                "náitaleidde",
+                "náitaleigga",
+                "náitaleimmet",
+                "náitaleiddet",
+                "náitaledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in náitalan",
+                "it náitalan",
+                "ii náitalan",
+                "ean náitalan",
+                "eahppi náitalan",
+                "eaba náitalan",
+                "eat náitalan",
+                "ehpet náitalan",
+                "eai náitalan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean náitalan",
+                "leat náitalan",
+                "lea náitalan",
+                "letne náitalan",
+                "leahppi náitalan",
+                "leaba náitalan",
+                "leat náitalan",
+                "lehpet náitalan",
+                "leat náitalan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen náitalan",
+                "ledjet náitalan",
+                "lei náitalan",
+                "leimme náitalan",
+                "leidde náitalan",
+                "leigga náitalan",
+                "leimmet náitalan",
+                "leiddet náitalan",
+                "ledje náitalan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean náitaleame, -men",
+                "leat náitaleame, -men",
+                "lea náitaleame, -men",
+                "letne náitaleame, -men",
+                "leahppi náitaleame, -men",
+                "leaba náitaleame, -men",
+                "leat náitaleame, -men",
+                "lehpet náitaleame, -men",
+                "leat náitaleame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen náitaleame, -men",
+                "ledjet náitaleame, -men",
+                "lei náitaleame, -men",
+                "leimme náitaleame, -men",
+                "leidde náitaleame, -men",
+                "leigga náitaleame, -men",
+                "leimmet náitaleame, -men",
+                "leiddet náitaleame, -men",
+                "ledje náitaleame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "náitalivččen",
+                "náitalivččet",
+                "náitalivččii",
+                "náitalivččiime",
+                "náitalivččiide",
+                "náitalivččiiga",
+                "náitalivččiimet",
+                "náitalivččiidet",
+                "náitalivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in náitalivčče",
+                "it náitalivčče",
+                "ii náitalivčče",
+                "ean náitalivčče",
+                "eahppi náitalivčče",
+                "eaba náitalivčče",
+                "eat náitalivčče",
+                "ehpet náitalivčče",
+                "eai náitalivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "náitaleaččan",
+                "náitaleaččat",
+                "náitaleaš, -leš, -leažžá",
+                "náitaležže",
+                "náitaleažžabeahtti",
+                "náitaleažžaba",
+                "náitaleažžat",
+                "náitaleažžabehtet",
+                "náitaležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in náitaleaš, -leš, -leažžá",
+                "it náitaleaš, -leš, -leažžá",
+                "ii náitaleaš, -leš, -leažžá",
+                "ean náitaleaš, -leš, -leažžá",
+                "eahppi náitaleaš, -leš, -leažžá",
+                "eaba náitaleaš, -leš, -leažžá",
+                "eat náitaleaš, -leš, -leažžá",
+                "ehpet náitaleaš, -leš, -leažžá",
+                "eai náitaleaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "náitalehkon",
+                "náital",
+                "náitalehkos, náitalus",
+                "náitaleadnu",
+                "náitaleahkki",
+                "náitalehkoska",
+                "náitalehkot, náitaleahkkut, náitaletnot, náitaleadnot",
+                "náitalehket",
+                "náitalehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon náital",
+                "ale náital",
+                "allos náital",
+                "allu náital",
+                "alli náital",
+                "alloska náital",
+                "allot, allut náital",
+                "allet, allit náital",
+                "alloset náital"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Náitalit",
+    "valid": 1
+}

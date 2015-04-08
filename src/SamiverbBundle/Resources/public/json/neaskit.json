@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "neaskit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "neaskkán",
+                "neaskkát",
+                "neaská",
+                "neske",
+                "neaskibeahtti",
+                "neaskiba",
+                "neaskit",
+                "neaskibehtet",
+                "nesket"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in neaskke",
+                "it neaskke",
+                "ii neaskke",
+                "ean neaskke",
+                "eahppi neaskke",
+                "eaba neaskke",
+                "eat neaskke",
+                "ehpet neaskke",
+                "eai neaskke"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "nesken",
+                "nesket",
+                "neskkii",
+                "neskkiime",
+                "neskkiide",
+                "neskkiiga",
+                "neskkiimet",
+                "neskkiidet",
+                "neske"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in neaskán",
+                "it neaskán",
+                "ii neaskán",
+                "ean neaskán",
+                "eahppi neaskán",
+                "eaba neaskán",
+                "eat neaskán",
+                "ehpet neaskán",
+                "eai neaskán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean neaskán",
+                "leat neaskán",
+                "lea neaskán",
+                "letne neaskán",
+                "leahppi neaskán",
+                "leaba neaskán",
+                "leat neaskán",
+                "lehpet neaskán",
+                "leat neaskán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen neaskán",
+                "ledjet neaskán",
+                "lei neaskán",
+                "leimme neaskán",
+                "leidde neaskán",
+                "leigga neaskán",
+                "leimmet neaskán",
+                "leiddet neaskán",
+                "ledje neaskán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean neaskime, -min",
+                "leat neaskime, -min",
+                "lea neaskime, -min",
+                "letne neaskime, -min",
+                "leahppi neaskime, -min",
+                "leaba neaskime, -min",
+                "leat neaskime, -min",
+                "lehpet neaskime, -min",
+                "leat neaskime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen neaskime, -min",
+                "ledjet neaskime, -min",
+                "lei neaskime, -min",
+                "leimme neaskime, -min",
+                "leidde neaskime, -min",
+                "leigga neaskime, -min",
+                "leimmet neaskime, -min",
+                "leiddet neaskime, -min",
+                "ledje neaskime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "neaskkášin",
+                "neaskkášit",
+                "neaskkášii",
+                "neaskkášeimme",
+                "neaskkášeidde",
+                "neaskkášeigga",
+                "neaskkášeimmet",
+                "neaskkášeiddet",
+                "neaskkášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in neaskkáše",
+                "it neaskkáše",
+                "ii neaskkáše",
+                "ean neaskkáše",
+                "eahppi neaskkáše",
+                "eaba neaskkáše",
+                "eat neaskkáše",
+                "ehpet neaskkáše",
+                "eai neaskkáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "neskkežan",
+                "neskkežat",
+                "neskkeš",
+                "neskkežetne",
+                "neskkežeahppi",
+                "neskkežeaba",
+                "neskkežit, -žat",
+                "neskkežehpet",
+                "neskkežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in neskkeš",
+                "it neskkeš",
+                "ii neskkeš",
+                "ean neskkeš",
+                "eahppi neskkeš",
+                "eaba neskkeš",
+                "eat neskkeš",
+                "ehpet neskkeš",
+                "eai neskkeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "neskon",
+                "neaskke",
+                "neskos",
+                "neasku",
+                "neaski",
+                "neskoska",
+                "neskot, neaskot",
+                "nesket, neasket",
+                "neskoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon neaskke",
+                "ale neaskke",
+                "allos neaskke",
+                "allu neaskke",
+                "alli neaskke",
+                "alloska neaskke",
+                "allot, allut neaskke",
+                "allet, allit neaskke",
+                "alloset neaskke"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Neaskit",
+    "valid": 1
+}

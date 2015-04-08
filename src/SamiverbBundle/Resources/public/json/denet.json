@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "denet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "denen",
+                "denet",
+                "dene",
+                "denejetne",
+                "denebeahtti",
+                "deneba",
+                "denet",
+                "denebehtet",
+                "denejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in dene",
+                "it dene",
+                "ii dene",
+                "ean dene",
+                "eahppi dene",
+                "eaba dene",
+                "eat dene",
+                "ehpet dene",
+                "eai dene"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "denejin",
+                "denejit",
+                "denii",
+                "deniime",
+                "deniide",
+                "deniiga",
+                "deniimet",
+                "deniidet",
+                "denejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in denen",
+                "it denen",
+                "ii denen",
+                "ean denen",
+                "eahppi denen",
+                "eaba denen",
+                "eat denen",
+                "ehpet denen",
+                "eai denen"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean denen",
+                "leat denen",
+                "lea denen",
+                "letne denen",
+                "leahppi denen",
+                "leaba denen",
+                "leat denen",
+                "lehpet denen",
+                "leat denen"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen denen",
+                "ledjet denen",
+                "lei denen",
+                "leimme denen",
+                "leidde denen",
+                "leigga denen",
+                "leimmet denen",
+                "leiddet denen",
+                "ledje denen"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean deneme, -min",
+                "leat deneme, -min",
+                "lea deneme, -min",
+                "letne deneme, -min",
+                "leahppi deneme, -min",
+                "leaba deneme, -min",
+                "leat deneme, -min",
+                "lehpet deneme, -min",
+                "leat deneme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen deneme, -min",
+                "ledjet deneme, -min",
+                "lei deneme, -min",
+                "leimme deneme, -min",
+                "leidde deneme, -min",
+                "leigga deneme, -min",
+                "leimmet deneme, -min",
+                "leiddet deneme, -min",
+                "ledje deneme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "denešin",
+                "denešit",
+                "denešii",
+                "denešeimme",
+                "denešeidde",
+                "denešeigga",
+                "denešeimmet",
+                "denešeiddet",
+                "denešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in deneše",
+                "it deneše",
+                "ii deneše",
+                "ean deneše",
+                "eahppi deneše",
+                "eaba deneše",
+                "eat deneše",
+                "ehpet deneše",
+                "eai deneše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "denežan",
+                "denežat",
+                "deneš",
+                "denežetne",
+                "denežeahppi",
+                "denežeaba",
+                "denežit, -žat",
+                "denežehpet",
+                "denežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in deneš",
+                "it deneš",
+                "ii deneš",
+                "ean deneš",
+                "eahppi deneš",
+                "eaba deneš",
+                "eat deneš",
+                "ehpet deneš",
+                "eai deneš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "denejehkon",
+                "dene",
+                "denejehkos",
+                "denejeadnu",
+                "denejeahkki",
+                "denejehkoska",
+                "denejeahkkut, denejeadnot, denejehkot, denejetnot",
+                "denejeahkkit",
+                "denejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon dene",
+                "ale dene",
+                "allos dene",
+                "allu dene",
+                "alli dene",
+                "alloska dene",
+                "allot, allut dene",
+                "allet, allit dene",
+                "alloset dene"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Denet",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "govvet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "govven",
+                "govvet",
+                "govve",
+                "govvejetne",
+                "govvebeahtti",
+                "govveba",
+                "govvet",
+                "govvebehtet",
+                "govvejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in govve",
+                "it govve",
+                "ii govve",
+                "ean govve",
+                "eahppi govve",
+                "eaba govve",
+                "eat govve",
+                "ehpet govve",
+                "eai govve"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "govvejin",
+                "govvejit",
+                "govvii",
+                "govviime",
+                "govviide",
+                "govviiga",
+                "govviimet",
+                "govviidet",
+                "govvejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in govven",
+                "it govven",
+                "ii govven",
+                "ean govven",
+                "eahppi govven",
+                "eaba govven",
+                "eat govven",
+                "ehpet govven",
+                "eai govven"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean govven",
+                "leat govven",
+                "lea govven",
+                "letne govven",
+                "leahppi govven",
+                "leaba govven",
+                "leat govven",
+                "lehpet govven",
+                "leat govven"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen govven",
+                "ledjet govven",
+                "lei govven",
+                "leimme govven",
+                "leidde govven",
+                "leigga govven",
+                "leimmet govven",
+                "leiddet govven",
+                "ledje govven"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean govveme, -min",
+                "leat govveme, -min",
+                "lea govveme, -min",
+                "letne govveme, -min",
+                "leahppi govveme, -min",
+                "leaba govveme, -min",
+                "leat govveme, -min",
+                "lehpet govveme, -min",
+                "leat govveme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen govveme, -min",
+                "ledjet govveme, -min",
+                "lei govveme, -min",
+                "leimme govveme, -min",
+                "leidde govveme, -min",
+                "leigga govveme, -min",
+                "leimmet govveme, -min",
+                "leiddet govveme, -min",
+                "ledje govveme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "govvešin",
+                "govvešit",
+                "govvešii",
+                "govvešeimme",
+                "govvešeidde",
+                "govvešeigga",
+                "govvešeimmet",
+                "govvešeiddet",
+                "govvešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in govveše",
+                "it govveše",
+                "ii govveše",
+                "ean govveše",
+                "eahppi govveše",
+                "eaba govveše",
+                "eat govveše",
+                "ehpet govveše",
+                "eai govveše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "govvežan",
+                "govvežat",
+                "govveš",
+                "govvežetne",
+                "govvežeahppi",
+                "govvežeaba",
+                "govvežit, -žat",
+                "govvežehpet",
+                "govvežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in govveš",
+                "it govveš",
+                "ii govveš",
+                "ean govveš",
+                "eahppi govveš",
+                "eaba govveš",
+                "eat govveš",
+                "ehpet govveš",
+                "eai govveš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "govvejehkon",
+                "govve",
+                "govvejehkos",
+                "govvejeadnu",
+                "govvejeahkki",
+                "govvejehkoska",
+                "govvejeahkkut, govvejeadnot, govvejehkot, govvejetnot",
+                "govvejeahkkit",
+                "govvejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon govve",
+                "ale govve",
+                "allos govve",
+                "allu govve",
+                "alli govve",
+                "alloska govve",
+                "allot, allut govve",
+                "allet, allit govve",
+                "alloset govve"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Govvet",
+    "valid": 1
+}

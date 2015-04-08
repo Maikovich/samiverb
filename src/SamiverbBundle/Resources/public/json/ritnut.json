@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "ritnut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "rinun",
+                "rinut",
+                "ritnu",
+                "ritno",
+                "ritnubeahtti",
+                "ritnuba",
+                "ritnut",
+                "ritnubehtet",
+                "ritnot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in rino",
+                "it rino",
+                "ii rino",
+                "ean rino",
+                "eahppi rino",
+                "eaba rino",
+                "eat rino",
+                "ehpet rino",
+                "eai rino"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ritnon",
+                "ritnot",
+                "rinui",
+                "rinuime",
+                "rinuide",
+                "rinuiga",
+                "rinuimet",
+                "rinuidet",
+                "ritno"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ritnon",
+                "it ritnon",
+                "ii ritnon",
+                "ean ritnon",
+                "eahppi ritnon",
+                "eaba ritnon",
+                "eat ritnon",
+                "ehpet ritnon",
+                "eai ritnon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ritnon",
+                "leat ritnon",
+                "lea ritnon",
+                "letne ritnon",
+                "leahppi ritnon",
+                "leaba ritnon",
+                "leat ritnon",
+                "lehpet ritnon",
+                "leat ritnon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ritnon",
+                "ledjet ritnon",
+                "lei ritnon",
+                "leimme ritnon",
+                "leidde ritnon",
+                "leigga ritnon",
+                "leimmet ritnon",
+                "leiddet ritnon",
+                "ledje ritnon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean ritnume, -min",
+                "leat ritnume, -min",
+                "lea ritnume, -min",
+                "letne ritnume, -min",
+                "leahppi ritnume, -min",
+                "leaba ritnume, -min",
+                "leat ritnume, -min",
+                "lehpet ritnume, -min",
+                "leat ritnume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen ritnume, -min",
+                "ledjet ritnume, -min",
+                "lei ritnume, -min",
+                "leimme ritnume, -min",
+                "leidde ritnume, -min",
+                "leigga ritnume, -min",
+                "leimmet ritnume, -min",
+                "leiddet ritnume, -min",
+                "ledje ritnume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "rinošin",
+                "rinošit",
+                "rinošii",
+                "rinošeimme",
+                "rinošeidde",
+                "rinošeigga",
+                "rinošeimmet",
+                "rinošeiddet",
+                "rinošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in rinoše",
+                "it rinoše",
+                "ii rinoše",
+                "ean rinoše",
+                "eahppi rinoše",
+                "eaba rinoše",
+                "eat rinoše",
+                "ehpet rinoše",
+                "eai rinoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "rinožan",
+                "rinožat",
+                "rinoš",
+                "rinožetne",
+                "rinožeahppi",
+                "rinožeaba",
+                "rinožit, -žat",
+                "rinožehpet",
+                "rinožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in rinoš",
+                "it rinoš",
+                "ii rinoš",
+                "ean rinoš",
+                "eahppi rinoš",
+                "eaba rinoš",
+                "eat rinoš",
+                "ehpet rinoš",
+                "eai rinoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "ritnon",
+                "rino",
+                "ritnos",
+                "ridnu",
+                "ridnu",
+                "ritnoska",
+                "ritnot, ridnot",
+                "ritnot, ridnot",
+                "ritnoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon rino",
+                "ale rino",
+                "allos rino",
+                "allu rino",
+                "alli rino",
+                "alloska rino",
+                "allot, allut rino",
+                "allet, allit rino",
+                "alloset rino"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Ritnut",
+    "valid": 1
+}

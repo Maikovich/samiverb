@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čeargut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čearggun",
+                "čearggut",
+                "čeargu",
+                "čergo",
+                "čeargubeahtti",
+                "čearguba",
+                "čeargut",
+                "čeargubehtet",
+                "čergot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čearggo",
+                "it čearggo",
+                "ii čearggo",
+                "ean čearggo",
+                "eahppi čearggo",
+                "eaba čearggo",
+                "eat čearggo",
+                "ehpet čearggo",
+                "eai čearggo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čergon",
+                "čergot",
+                "čearggui",
+                "čeargguime",
+                "čeargguide",
+                "čeargguiga",
+                "čeargguimet",
+                "čeargguidet",
+                "čergo"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čergon",
+                "it čergon",
+                "ii čergon",
+                "ean čergon",
+                "eahppi čergon",
+                "eaba čergon",
+                "eat čergon",
+                "ehpet čergon",
+                "eai čergon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čergon",
+                "leat čergon",
+                "lea čergon",
+                "letne čergon",
+                "leahppi čergon",
+                "leaba čergon",
+                "leat čergon",
+                "lehpet čergon",
+                "leat čergon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čergon",
+                "ledjet čergon",
+                "lei čergon",
+                "leimme čergon",
+                "leidde čergon",
+                "leigga čergon",
+                "leimmet čergon",
+                "leiddet čergon",
+                "ledje čergon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čeargume, -min",
+                "leat čeargume, -min",
+                "lea čeargume, -min",
+                "letne čeargume, -min",
+                "leahppi čeargume, -min",
+                "leaba čeargume, -min",
+                "leat čeargume, -min",
+                "lehpet čeargume, -min",
+                "leat čeargume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čeargume, -min",
+                "ledjet čeargume, -min",
+                "lei čeargume, -min",
+                "leimme čeargume, -min",
+                "leidde čeargume, -min",
+                "leigga čeargume, -min",
+                "leimmet čeargume, -min",
+                "leiddet čeargume, -min",
+                "ledje čeargume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čerggošin",
+                "čerggošit",
+                "čerggošii",
+                "čerggošeimme",
+                "čerggošeidde",
+                "čerggošeigga",
+                "čerggošeimmet",
+                "čerggošeiddet",
+                "čerggošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čerggoše",
+                "it čerggoše",
+                "ii čerggoše",
+                "ean čerggoše",
+                "eahppi čerggoše",
+                "eaba čerggoše",
+                "eat čerggoše",
+                "ehpet čerggoše",
+                "eai čerggoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čerggožan",
+                "čerggožat",
+                "čerggoš",
+                "čerggožetne",
+                "čerggožeahppi",
+                "čerggožeaba",
+                "čerggožit, -žat",
+                "čerggožehpet",
+                "čerggožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čerggoš",
+                "it čerggoš",
+                "ii čerggoš",
+                "ean čerggoš",
+                "eahppi čerggoš",
+                "eaba čerggoš",
+                "eat čerggoš",
+                "ehpet čerggoš",
+                "eai čerggoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čergon",
+                "čearggo",
+                "čergos",
+                "čeargu",
+                "čeargu",
+                "čergoska",
+                "čergot, čeargot",
+                "čergot, čeargot",
+                "čergoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čearggo",
+                "ale čearggo",
+                "allos čearggo",
+                "allu čearggo",
+                "alli čearggo",
+                "alloska čearggo",
+                "allot, allut čearggo",
+                "allet, allit čearggo",
+                "alloset čearggo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čeargut",
+    "valid": 1
+}

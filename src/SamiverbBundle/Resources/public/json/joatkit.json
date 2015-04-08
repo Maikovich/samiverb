@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "joatkit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "joatkkán",
+                "joatkkát",
+                "joatká",
+                "jotke",
+                "joatkibeahtti",
+                "joatkiba",
+                "joatkit",
+                "joatkibehtet",
+                "jotket"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in joatkke",
+                "it joatkke",
+                "ii joatkke",
+                "ean joatkke",
+                "eahppi joatkke",
+                "eaba joatkke",
+                "eat joatkke",
+                "ehpet joatkke",
+                "eai joatkke"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "jotken",
+                "jotket",
+                "jotkkii",
+                "jotkkiime",
+                "jotkkiide",
+                "jotkkiiga",
+                "jotkkiimet",
+                "jotkkiidet",
+                "jotke"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in joatkán",
+                "it joatkán",
+                "ii joatkán",
+                "ean joatkán",
+                "eahppi joatkán",
+                "eaba joatkán",
+                "eat joatkán",
+                "ehpet joatkán",
+                "eai joatkán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean joatkán",
+                "leat joatkán",
+                "lea joatkán",
+                "letne joatkán",
+                "leahppi joatkán",
+                "leaba joatkán",
+                "leat joatkán",
+                "lehpet joatkán",
+                "leat joatkán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen joatkán",
+                "ledjet joatkán",
+                "lei joatkán",
+                "leimme joatkán",
+                "leidde joatkán",
+                "leigga joatkán",
+                "leimmet joatkán",
+                "leiddet joatkán",
+                "ledje joatkán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean joatkime, -min",
+                "leat joatkime, -min",
+                "lea joatkime, -min",
+                "letne joatkime, -min",
+                "leahppi joatkime, -min",
+                "leaba joatkime, -min",
+                "leat joatkime, -min",
+                "lehpet joatkime, -min",
+                "leat joatkime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen joatkime, -min",
+                "ledjet joatkime, -min",
+                "lei joatkime, -min",
+                "leimme joatkime, -min",
+                "leidde joatkime, -min",
+                "leigga joatkime, -min",
+                "leimmet joatkime, -min",
+                "leiddet joatkime, -min",
+                "ledje joatkime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "joatkkášin",
+                "joatkkášit",
+                "joatkkášii",
+                "joatkkášeimme",
+                "joatkkášeidde",
+                "joatkkášeigga",
+                "joatkkášeimmet",
+                "joatkkášeiddet",
+                "joatkkášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in joatkkáše",
+                "it joatkkáše",
+                "ii joatkkáše",
+                "ean joatkkáše",
+                "eahppi joatkkáše",
+                "eaba joatkkáše",
+                "eat joatkkáše",
+                "ehpet joatkkáše",
+                "eai joatkkáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "jotkkežan",
+                "jotkkežat",
+                "jotkkeš",
+                "jotkkežetne",
+                "jotkkežeahppi",
+                "jotkkežeaba",
+                "jotkkežit, -žat",
+                "jotkkežehpet",
+                "jotkkežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in jotkkeš",
+                "it jotkkeš",
+                "ii jotkkeš",
+                "ean jotkkeš",
+                "eahppi jotkkeš",
+                "eaba jotkkeš",
+                "eat jotkkeš",
+                "ehpet jotkkeš",
+                "eai jotkkeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "jotkon",
+                "joatkke",
+                "jotkos",
+                "joatku",
+                "joatki",
+                "jotkoska",
+                "jotkot, joatkot",
+                "jotket, joatket",
+                "jotkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon joatkke",
+                "ale joatkke",
+                "allos joatkke",
+                "allu joatkke",
+                "alli joatkke",
+                "alloska joatkke",
+                "allot, allut joatkke",
+                "allet, allit joatkke",
+                "alloset joatkke"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Joatkit",
+    "valid": 1
+}

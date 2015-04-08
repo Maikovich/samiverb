@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "golahit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "golahan",
+                "golahat",
+                "golaha",
+                "golahetne",
+                "golaheahppi",
+                "golaheaba",
+                "golahit, -hat",
+                "golahehpet",
+                "golahit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in golat",
+                "it golat",
+                "ii golat",
+                "ean golat",
+                "eahppi golat",
+                "eaba golat",
+                "eat golat",
+                "ehpet golat",
+                "eai golat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "golahin",
+                "golahit",
+                "golahii",
+                "golaheimme",
+                "golaheidde",
+                "golaheigga",
+                "golaheimmet",
+                "golaheiddet",
+                "golahedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in golahan",
+                "it golahan",
+                "ii golahan",
+                "ean golahan",
+                "eahppi golahan",
+                "eaba golahan",
+                "eat golahan",
+                "ehpet golahan",
+                "eai golahan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean golahan",
+                "leat golahan",
+                "lea golahan",
+                "letne golahan",
+                "leahppi golahan",
+                "leaba golahan",
+                "leat golahan",
+                "lehpet golahan",
+                "leat golahan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen golahan",
+                "ledjet golahan",
+                "lei golahan",
+                "leimme golahan",
+                "leidde golahan",
+                "leigga golahan",
+                "leimmet golahan",
+                "leiddet golahan",
+                "ledje golahan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean golaheame, -men",
+                "leat golaheame, -men",
+                "lea golaheame, -men",
+                "letne golaheame, -men",
+                "leahppi golaheame, -men",
+                "leaba golaheame, -men",
+                "leat golaheame, -men",
+                "lehpet golaheame, -men",
+                "leat golaheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen golaheame, -men",
+                "ledjet golaheame, -men",
+                "lei golaheame, -men",
+                "leimme golaheame, -men",
+                "leidde golaheame, -men",
+                "leigga golaheame, -men",
+                "leimmet golaheame, -men",
+                "leiddet golaheame, -men",
+                "ledje golaheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "golahivččen",
+                "golahivččet",
+                "golahivččii",
+                "golahivččiime",
+                "golahivččiide",
+                "golahivččiiga",
+                "golahivččiimet",
+                "golahivččiidet",
+                "golahivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in golahivčče",
+                "it golahivčče",
+                "ii golahivčče",
+                "ean golahivčče",
+                "eahppi golahivčče",
+                "eaba golahivčče",
+                "eat golahivčče",
+                "ehpet golahivčče",
+                "eai golahivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "golaheaččan",
+                "golaheaččat",
+                "golaheaš, -heš, -heažžá",
+                "golahežže",
+                "golaheažžabeahtti",
+                "golaheažžaba",
+                "golaheažžat",
+                "golaheažžabehtet",
+                "golahežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in golaheaš, -heš, -heažžá",
+                "it golaheaš, -heš, -heažžá",
+                "ii golaheaš, -heš, -heažžá",
+                "ean golaheaš, -heš, -heažžá",
+                "eahppi golaheaš, -heš, -heažžá",
+                "eaba golaheaš, -heš, -heažžá",
+                "eat golaheaš, -heš, -heažžá",
+                "ehpet golaheaš, -heš, -heažžá",
+                "eai golaheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "golahehkon",
+                "golat",
+                "golahehkos, golahus",
+                "golaheadnu",
+                "golaheahkki",
+                "golahehkoska",
+                "golahehkot, golaheahkkut, golahetnot, golaheadnot",
+                "golahehket",
+                "golahehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon golat",
+                "ale golat",
+                "allos golat",
+                "allu golat",
+                "alli golat",
+                "alloska golat",
+                "allot, allut golat",
+                "allet, allit golat",
+                "alloset golat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Golahit",
+    "valid": 1
+}

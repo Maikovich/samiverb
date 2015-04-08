@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gullet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gullen",
+                "gullet",
+                "gulle",
+                "gullejetne",
+                "gullebeahtti",
+                "gulleba",
+                "gullet",
+                "gullebehtet",
+                "gullejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gulle",
+                "it gulle",
+                "ii gulle",
+                "ean gulle",
+                "eahppi gulle",
+                "eaba gulle",
+                "eat gulle",
+                "ehpet gulle",
+                "eai gulle"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gullejin",
+                "gullejit",
+                "gullii",
+                "gulliime",
+                "gulliide",
+                "gulliiga",
+                "gulliimet",
+                "gulliidet",
+                "gullejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gullen",
+                "it gullen",
+                "ii gullen",
+                "ean gullen",
+                "eahppi gullen",
+                "eaba gullen",
+                "eat gullen",
+                "ehpet gullen",
+                "eai gullen"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gullen",
+                "leat gullen",
+                "lea gullen",
+                "letne gullen",
+                "leahppi gullen",
+                "leaba gullen",
+                "leat gullen",
+                "lehpet gullen",
+                "leat gullen"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gullen",
+                "ledjet gullen",
+                "lei gullen",
+                "leimme gullen",
+                "leidde gullen",
+                "leigga gullen",
+                "leimmet gullen",
+                "leiddet gullen",
+                "ledje gullen"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gulleme, -min",
+                "leat gulleme, -min",
+                "lea gulleme, -min",
+                "letne gulleme, -min",
+                "leahppi gulleme, -min",
+                "leaba gulleme, -min",
+                "leat gulleme, -min",
+                "lehpet gulleme, -min",
+                "leat gulleme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gulleme, -min",
+                "ledjet gulleme, -min",
+                "lei gulleme, -min",
+                "leimme gulleme, -min",
+                "leidde gulleme, -min",
+                "leigga gulleme, -min",
+                "leimmet gulleme, -min",
+                "leiddet gulleme, -min",
+                "ledje gulleme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gullešin",
+                "gullešit",
+                "gullešii",
+                "gullešeimme",
+                "gullešeidde",
+                "gullešeigga",
+                "gullešeimmet",
+                "gullešeiddet",
+                "gullešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gulleše",
+                "it gulleše",
+                "ii gulleše",
+                "ean gulleše",
+                "eahppi gulleše",
+                "eaba gulleše",
+                "eat gulleše",
+                "ehpet gulleše",
+                "eai gulleše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gulležan",
+                "gulležat",
+                "gulleš",
+                "gulležetne",
+                "gulležeahppi",
+                "gulležeaba",
+                "gulležit, -žat",
+                "gulležehpet",
+                "gulležit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gulleš",
+                "it gulleš",
+                "ii gulleš",
+                "ean gulleš",
+                "eahppi gulleš",
+                "eaba gulleš",
+                "eat gulleš",
+                "ehpet gulleš",
+                "eai gulleš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gullejehkon",
+                "gulle",
+                "gullejehkos",
+                "gullejeadnu",
+                "gullejeahkki",
+                "gullejehkoska",
+                "gullejeahkkut, gullejeadnot, gullejehkot, gullejetnot",
+                "gullejeahkkit",
+                "gullejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gulle",
+                "ale gulle",
+                "allos gulle",
+                "allu gulle",
+                "alli gulle",
+                "alloska gulle",
+                "allot, allut gulle",
+                "allet, allit gulle",
+                "alloset gulle"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gullet",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "seatnat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "seanan",
+                "seanat",
+                "seatná",
+                "setne",
+                "seatnabeahtti",
+                "seatnaba",
+                "seatnat",
+                "seatnabehtet",
+                "setnet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in seana",
+                "it seana",
+                "ii seana",
+                "ean seana",
+                "eahppi seana",
+                "eaba seana",
+                "eat seana",
+                "ehpet seana",
+                "eai seana"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "setnen",
+                "setnet",
+                "seanai",
+                "seanaime",
+                "seanaide",
+                "seanaiga",
+                "seanaimet",
+                "seanaidet",
+                "setne"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in seatnan",
+                "it seatnan",
+                "ii seatnan",
+                "ean seatnan",
+                "eahppi seatnan",
+                "eaba seatnan",
+                "eat seatnan",
+                "ehpet seatnan",
+                "eai seatnan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean seatnan",
+                "leat seatnan",
+                "lea seatnan",
+                "letne seatnan",
+                "leahppi seatnan",
+                "leaba seatnan",
+                "leat seatnan",
+                "lehpet seatnan",
+                "leat seatnan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen seatnan",
+                "ledjet seatnan",
+                "lei seatnan",
+                "leimme seatnan",
+                "leidde seatnan",
+                "leigga seatnan",
+                "leimmet seatnan",
+                "leiddet seatnan",
+                "ledje seatnan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean seatname, -min",
+                "leat seatname, -min",
+                "lea seatname, -min",
+                "letne seatname, -min",
+                "leahppi seatname, -min",
+                "leaba seatname, -min",
+                "leat seatname, -min",
+                "lehpet seatname, -min",
+                "leat seatname, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen seatname, -min",
+                "ledjet seatname, -min",
+                "lei seatname, -min",
+                "leimme seatname, -min",
+                "leidde seatname, -min",
+                "leigga seatname, -min",
+                "leimmet seatname, -min",
+                "leiddet seatname, -min",
+                "ledje seatname, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "seanašin",
+                "seanašit",
+                "seanašii",
+                "seanašeimme",
+                "seanašeidde",
+                "seanašeigga",
+                "seanašeimmet",
+                "seanašeiddet",
+                "seanašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in seanaše",
+                "it seanaše",
+                "ii seanaše",
+                "ean seanaše",
+                "eahppi seanaše",
+                "eaba seanaše",
+                "eat seanaše",
+                "ehpet seanaše",
+                "eai seanaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "seanažan",
+                "seanažat",
+                "seanaš",
+                "seanažetne",
+                "seanažeahppi",
+                "seanažeaba",
+                "seanažit, -žat",
+                "seanažehpet",
+                "seanažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in seanaš",
+                "it seanaš",
+                "ii seanaš",
+                "ean seanaš",
+                "eahppi seanaš",
+                "eaba seanaš",
+                "eat seanaš",
+                "ehpet seanaš",
+                "eai seanaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "setnon",
+                "seana",
+                "setnos",
+                "seadnu",
+                "seadni",
+                "setnoska",
+                "setnot, seadnot",
+                "setnet, seadnit",
+                "setnoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon seana",
+                "ale seana",
+                "allos seana",
+                "allu seana",
+                "alli seana",
+                "alloska seana",
+                "allot, allut seana",
+                "allet, allit seana",
+                "alloset seana"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Seatnat",
+    "valid": 1
+}

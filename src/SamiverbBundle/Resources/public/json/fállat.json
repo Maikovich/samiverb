@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "fállat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "fálan",
+                "fálat",
+                "fállá",
+                "fálle",
+                "fállabeahtti",
+                "fállaba",
+                "fállat",
+                "fállabehtet",
+                "fállet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in fála",
+                "it fála",
+                "ii fála",
+                "ean fála",
+                "eahppi fála",
+                "eaba fála",
+                "eat fála",
+                "ehpet fála",
+                "eai fála"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "fállen",
+                "fállet",
+                "fálai",
+                "fálaime",
+                "fálaide",
+                "fálaiga",
+                "fálaimet",
+                "fálaidet",
+                "fálle"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in fállan",
+                "it fállan",
+                "ii fállan",
+                "ean fállan",
+                "eahppi fállan",
+                "eaba fállan",
+                "eat fállan",
+                "ehpet fállan",
+                "eai fállan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean fállan",
+                "leat fállan",
+                "lea fállan",
+                "letne fállan",
+                "leahppi fállan",
+                "leaba fállan",
+                "leat fállan",
+                "lehpet fállan",
+                "leat fállan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen fállan",
+                "ledjet fállan",
+                "lei fállan",
+                "leimme fállan",
+                "leidde fállan",
+                "leigga fállan",
+                "leimmet fállan",
+                "leiddet fállan",
+                "ledje fállan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean fállame, -min",
+                "leat fállame, -min",
+                "lea fállame, -min",
+                "letne fállame, -min",
+                "leahppi fállame, -min",
+                "leaba fállame, -min",
+                "leat fállame, -min",
+                "lehpet fállame, -min",
+                "leat fállame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen fállame, -min",
+                "ledjet fállame, -min",
+                "lei fállame, -min",
+                "leimme fállame, -min",
+                "leidde fállame, -min",
+                "leigga fállame, -min",
+                "leimmet fállame, -min",
+                "leiddet fállame, -min",
+                "ledje fállame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "fálašin",
+                "fálašit",
+                "fálašii",
+                "fálašeimme",
+                "fálašeidde",
+                "fálašeigga",
+                "fálašeimmet",
+                "fálašeiddet",
+                "fálašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in fálaše",
+                "it fálaše",
+                "ii fálaše",
+                "ean fálaše",
+                "eahppi fálaše",
+                "eaba fálaše",
+                "eat fálaše",
+                "ehpet fálaše",
+                "eai fálaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "fálažan",
+                "fálažat",
+                "fálaš",
+                "fálažetne",
+                "fálažeahppi",
+                "fálažeaba",
+                "fálažit, -žat",
+                "fálažehpet",
+                "fálažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in fálaš",
+                "it fálaš",
+                "ii fálaš",
+                "ean fálaš",
+                "eahppi fálaš",
+                "eaba fálaš",
+                "eat fálaš",
+                "ehpet fálaš",
+                "eai fálaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "fállon",
+                "fála",
+                "fállos",
+                "fállu",
+                "fálli",
+                "fálloska",
+                "fállot",
+                "fállet, fállit",
+                "fálloset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon fála",
+                "ale fála",
+                "allos fála",
+                "allu fála",
+                "alli fála",
+                "alloska fála",
+                "allot, allut fála",
+                "allet, allit fála",
+                "alloset fála"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Fállat",
+    "valid": 1
+}

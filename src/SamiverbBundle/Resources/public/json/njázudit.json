@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "njázudit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "njázudan",
+                "njázudat",
+                "njázuda",
+                "njázudetne",
+                "njázudeahppi",
+                "njázudeaba",
+                "njázudit, -dat",
+                "njázudehpet",
+                "njázudit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in njázut",
+                "it njázut",
+                "ii njázut",
+                "ean njázut",
+                "eahppi njázut",
+                "eaba njázut",
+                "eat njázut",
+                "ehpet njázut",
+                "eai njázut"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "njázudin",
+                "njázudit",
+                "njázudii",
+                "njázudeimme",
+                "njázudeidde",
+                "njázudeigga",
+                "njázudeimmet",
+                "njázudeiddet",
+                "njázudedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in njázudan",
+                "it njázudan",
+                "ii njázudan",
+                "ean njázudan",
+                "eahppi njázudan",
+                "eaba njázudan",
+                "eat njázudan",
+                "ehpet njázudan",
+                "eai njázudan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean njázudan",
+                "leat njázudan",
+                "lea njázudan",
+                "letne njázudan",
+                "leahppi njázudan",
+                "leaba njázudan",
+                "leat njázudan",
+                "lehpet njázudan",
+                "leat njázudan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen njázudan",
+                "ledjet njázudan",
+                "lei njázudan",
+                "leimme njázudan",
+                "leidde njázudan",
+                "leigga njázudan",
+                "leimmet njázudan",
+                "leiddet njázudan",
+                "ledje njázudan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean njázudeame, -men",
+                "leat njázudeame, -men",
+                "lea njázudeame, -men",
+                "letne njázudeame, -men",
+                "leahppi njázudeame, -men",
+                "leaba njázudeame, -men",
+                "leat njázudeame, -men",
+                "lehpet njázudeame, -men",
+                "leat njázudeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen njázudeame, -men",
+                "ledjet njázudeame, -men",
+                "lei njázudeame, -men",
+                "leimme njázudeame, -men",
+                "leidde njázudeame, -men",
+                "leigga njázudeame, -men",
+                "leimmet njázudeame, -men",
+                "leiddet njázudeame, -men",
+                "ledje njázudeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "njázudivččen",
+                "njázudivččet",
+                "njázudivččii",
+                "njázudivččiime",
+                "njázudivččiide",
+                "njázudivččiiga",
+                "njázudivččiimet",
+                "njázudivččiidet",
+                "njázudivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in njázudivčče",
+                "it njázudivčče",
+                "ii njázudivčče",
+                "ean njázudivčče",
+                "eahppi njázudivčče",
+                "eaba njázudivčče",
+                "eat njázudivčče",
+                "ehpet njázudivčče",
+                "eai njázudivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "njázudeaččan",
+                "njázudeaččat",
+                "njázudeaš, -deš, -deažžá",
+                "njázudežže",
+                "njázudeažžabeahtti",
+                "njázudeažžaba",
+                "njázudeažžat",
+                "njázudeažžabehtet",
+                "njázudežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in njázudeaš, -deš, -deažžá",
+                "it njázudeaš, -deš, -deažžá",
+                "ii njázudeaš, -deš, -deažžá",
+                "ean njázudeaš, -deš, -deažžá",
+                "eahppi njázudeaš, -deš, -deažžá",
+                "eaba njázudeaš, -deš, -deažžá",
+                "eat njázudeaš, -deš, -deažžá",
+                "ehpet njázudeaš, -deš, -deažžá",
+                "eai njázudeaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "njázudehkon",
+                "njázut",
+                "njázudehkos, njázudus",
+                "njázudeadnu",
+                "njázudeahkki",
+                "njázudehkoska",
+                "njázudehkot, njázudeahkkut, njázudetnot, njázudeadnot",
+                "njázudehket",
+                "njázudehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon njázut",
+                "ale njázut",
+                "allos njázut",
+                "allu njázut",
+                "alli njázut",
+                "alloska njázut",
+                "allot, allut njázut",
+                "allet, allit njázut",
+                "alloset njázut"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Njázudit",
+    "valid": 1
+}

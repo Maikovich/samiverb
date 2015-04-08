@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "nanosmahttit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "nanosmahtán",
+                "nanosmahtát",
+                "nanosmahttá",
+                "nanosmahtte",
+                "nanosmahttibeahtti",
+                "nanosmahttiba",
+                "nanosmahttit",
+                "nanosmahttibehtet",
+                "nanosmahttet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in nanosmahte",
+                "it nanosmahte",
+                "ii nanosmahte",
+                "ean nanosmahte",
+                "eahppi nanosmahte",
+                "eaba nanosmahte",
+                "eat nanosmahte",
+                "ehpet nanosmahte",
+                "eai nanosmahte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "nanosmahtten",
+                "nanosmahttet",
+                "nanosmahtii",
+                "nanosmahtiime",
+                "nanosmahtiide",
+                "nanosmahtiiga",
+                "nanosmahtiimet",
+                "nanosmahtiidet",
+                "nanosmahtte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in nanosmahttán",
+                "it nanosmahttán",
+                "ii nanosmahttán",
+                "ean nanosmahttán",
+                "eahppi nanosmahttán",
+                "eaba nanosmahttán",
+                "eat nanosmahttán",
+                "ehpet nanosmahttán",
+                "eai nanosmahttán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean nanosmahttán",
+                "leat nanosmahttán",
+                "lea nanosmahttán",
+                "letne nanosmahttán",
+                "leahppi nanosmahttán",
+                "leaba nanosmahttán",
+                "leat nanosmahttán",
+                "lehpet nanosmahttán",
+                "leat nanosmahttán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen nanosmahttán",
+                "ledjet nanosmahttán",
+                "lei nanosmahttán",
+                "leimme nanosmahttán",
+                "leidde nanosmahttán",
+                "leigga nanosmahttán",
+                "leimmet nanosmahttán",
+                "leiddet nanosmahttán",
+                "ledje nanosmahttán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean nanosmahttime, -min",
+                "leat nanosmahttime, -min",
+                "lea nanosmahttime, -min",
+                "letne nanosmahttime, -min",
+                "leahppi nanosmahttime, -min",
+                "leaba nanosmahttime, -min",
+                "leat nanosmahttime, -min",
+                "lehpet nanosmahttime, -min",
+                "leat nanosmahttime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen nanosmahttime, -min",
+                "ledjet nanosmahttime, -min",
+                "lei nanosmahttime, -min",
+                "leimme nanosmahttime, -min",
+                "leidde nanosmahttime, -min",
+                "leigga nanosmahttime, -min",
+                "leimmet nanosmahttime, -min",
+                "leiddet nanosmahttime, -min",
+                "ledje nanosmahttime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "nanosmahtášin",
+                "nanosmahtášit",
+                "nanosmahtášii",
+                "nanosmahtášeimme",
+                "nanosmahtášeidde",
+                "nanosmahtášeigga",
+                "nanosmahtášeimmet",
+                "nanosmahtášeiddet",
+                "nanosmahtášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in nanosmahtáše",
+                "it nanosmahtáše",
+                "ii nanosmahtáše",
+                "ean nanosmahtáše",
+                "eahppi nanosmahtáše",
+                "eaba nanosmahtáše",
+                "eat nanosmahtáše",
+                "ehpet nanosmahtáše",
+                "eai nanosmahtáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "nanosmahtežan",
+                "nanosmahtežat",
+                "nanosmahteš",
+                "nanosmahtežetne",
+                "nanosmahtežeahppi",
+                "nanosmahtežeaba",
+                "nanosmahtežit, -žat",
+                "nanosmahtežehpet",
+                "nanosmahtežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in nanosmahteš",
+                "it nanosmahteš",
+                "ii nanosmahteš",
+                "ean nanosmahteš",
+                "eahppi nanosmahteš",
+                "eaba nanosmahteš",
+                "eat nanosmahteš",
+                "ehpet nanosmahteš",
+                "eai nanosmahteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "nanosmahtton",
+                "nanosmahte",
+                "nanosmahttos",
+                "nanosmahttu",
+                "nanosmahtti",
+                "nanosmahttoska",
+                "nanosmahttot",
+                "nanosmahttet",
+                "nanosmahttoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon nanosmahte",
+                "ale nanosmahte",
+                "allos nanosmahte",
+                "allu nanosmahte",
+                "alli nanosmahte",
+                "alloska nanosmahte",
+                "allot, allut nanosmahte",
+                "allet, allit nanosmahte",
+                "alloset nanosmahte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Nanosmahttit",
+    "valid": 1
+}

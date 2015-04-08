@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gárret",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gárren",
+                "gárret",
+                "gárre",
+                "gárrejetne",
+                "gárrebeahtti",
+                "gárreba",
+                "gárret",
+                "gárrebehtet",
+                "gárrejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gárre",
+                "it gárre",
+                "ii gárre",
+                "ean gárre",
+                "eahppi gárre",
+                "eaba gárre",
+                "eat gárre",
+                "ehpet gárre",
+                "eai gárre"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gárrejin",
+                "gárrejit",
+                "gárrii",
+                "gárriime",
+                "gárriide",
+                "gárriiga",
+                "gárriimet",
+                "gárriidet",
+                "gárrejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gárren",
+                "it gárren",
+                "ii gárren",
+                "ean gárren",
+                "eahppi gárren",
+                "eaba gárren",
+                "eat gárren",
+                "ehpet gárren",
+                "eai gárren"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gárren",
+                "leat gárren",
+                "lea gárren",
+                "letne gárren",
+                "leahppi gárren",
+                "leaba gárren",
+                "leat gárren",
+                "lehpet gárren",
+                "leat gárren"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gárren",
+                "ledjet gárren",
+                "lei gárren",
+                "leimme gárren",
+                "leidde gárren",
+                "leigga gárren",
+                "leimmet gárren",
+                "leiddet gárren",
+                "ledje gárren"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gárreme, -min",
+                "leat gárreme, -min",
+                "lea gárreme, -min",
+                "letne gárreme, -min",
+                "leahppi gárreme, -min",
+                "leaba gárreme, -min",
+                "leat gárreme, -min",
+                "lehpet gárreme, -min",
+                "leat gárreme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gárreme, -min",
+                "ledjet gárreme, -min",
+                "lei gárreme, -min",
+                "leimme gárreme, -min",
+                "leidde gárreme, -min",
+                "leigga gárreme, -min",
+                "leimmet gárreme, -min",
+                "leiddet gárreme, -min",
+                "ledje gárreme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gárrešin",
+                "gárrešit",
+                "gárrešii",
+                "gárrešeimme",
+                "gárrešeidde",
+                "gárrešeigga",
+                "gárrešeimmet",
+                "gárrešeiddet",
+                "gárrešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gárreše",
+                "it gárreše",
+                "ii gárreše",
+                "ean gárreše",
+                "eahppi gárreše",
+                "eaba gárreše",
+                "eat gárreše",
+                "ehpet gárreše",
+                "eai gárreše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gárrežan",
+                "gárrežat",
+                "gárreš",
+                "gárrežetne",
+                "gárrežeahppi",
+                "gárrežeaba",
+                "gárrežit, -žat",
+                "gárrežehpet",
+                "gárrežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gárreš",
+                "it gárreš",
+                "ii gárreš",
+                "ean gárreš",
+                "eahppi gárreš",
+                "eaba gárreš",
+                "eat gárreš",
+                "ehpet gárreš",
+                "eai gárreš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gárrejehkon",
+                "gárre",
+                "gárrejehkos",
+                "gárrejeadnu",
+                "gárrejeahkki",
+                "gárrejehkoska",
+                "gárrejeahkkut, gárrejeadnot, gárrejehkot, gárrejetnot",
+                "gárrejeahkkit",
+                "gárrejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gárre",
+                "ale gárre",
+                "allos gárre",
+                "allu gárre",
+                "alli gárre",
+                "alloska gárre",
+                "allot, allut gárre",
+                "allet, allit gárre",
+                "alloset gárre"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gárret",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "buollit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "buolán",
+                "buolát",
+                "buollá",
+                "bulle",
+                "buollibeahtti",
+                "buolliba",
+                "buollit",
+                "buollibehtet",
+                "bullet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in buole",
+                "it buole",
+                "ii buole",
+                "ean buole",
+                "eahppi buole",
+                "eaba buole",
+                "eat buole",
+                "ehpet buole",
+                "eai buole"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "bullen",
+                "bullet",
+                "bulii",
+                "buliime",
+                "buliide",
+                "buliiga",
+                "buliimet",
+                "buliidet",
+                "bulle"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in buollán",
+                "it buollán",
+                "ii buollán",
+                "ean buollán",
+                "eahppi buollán",
+                "eaba buollán",
+                "eat buollán",
+                "ehpet buollán",
+                "eai buollán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean buollán",
+                "leat buollán",
+                "lea buollán",
+                "letne buollán",
+                "leahppi buollán",
+                "leaba buollán",
+                "leat buollán",
+                "lehpet buollán",
+                "leat buollán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen buollán",
+                "ledjet buollán",
+                "lei buollán",
+                "leimme buollán",
+                "leidde buollán",
+                "leigga buollán",
+                "leimmet buollán",
+                "leiddet buollán",
+                "ledje buollán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean buollime, -min",
+                "leat buollime, -min",
+                "lea buollime, -min",
+                "letne buollime, -min",
+                "leahppi buollime, -min",
+                "leaba buollime, -min",
+                "leat buollime, -min",
+                "lehpet buollime, -min",
+                "leat buollime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen buollime, -min",
+                "ledjet buollime, -min",
+                "lei buollime, -min",
+                "leimme buollime, -min",
+                "leidde buollime, -min",
+                "leigga buollime, -min",
+                "leimmet buollime, -min",
+                "leiddet buollime, -min",
+                "ledje buollime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "buolášin",
+                "buolášit",
+                "buolášii",
+                "buolášeimme",
+                "buolášeidde",
+                "buolášeigga",
+                "buolášeimmet",
+                "buolášeiddet",
+                "buolášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in buoláše",
+                "it buoláše",
+                "ii buoláše",
+                "ean buoláše",
+                "eahppi buoláše",
+                "eaba buoláše",
+                "eat buoláše",
+                "ehpet buoláše",
+                "eai buoláše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "buležan",
+                "buležat",
+                "buleš",
+                "buležetne",
+                "buležeahppi",
+                "buležeaba",
+                "buležit, -žat",
+                "buležehpet",
+                "buležit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in buleš",
+                "it buleš",
+                "ii buleš",
+                "ean buleš",
+                "eahppi buleš",
+                "eaba buleš",
+                "eat buleš",
+                "ehpet buleš",
+                "eai buleš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "bullon",
+                "buole",
+                "bullos",
+                "buollu",
+                "buolli",
+                "bulloska",
+                "bullot, buollot",
+                "bullet, buollet",
+                "bulloset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon buole",
+                "ale buole",
+                "allos buole",
+                "allu buole",
+                "alli buole",
+                "alloska buole",
+                "allot, allut buole",
+                "allet, allit buole",
+                "alloset buole"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Buollit",
+    "valid": 1
+}

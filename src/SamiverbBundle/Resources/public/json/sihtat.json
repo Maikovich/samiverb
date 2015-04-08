@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "sihtat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "siđan",
+                "siđat",
+                "sihtá",
+                "sihte",
+                "sihtabeahtti",
+                "sihtaba",
+                "sihtat",
+                "sihtabehtet",
+                "sihtet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in siđa",
+                "it siđa",
+                "ii siđa",
+                "ean siđa",
+                "eahppi siđa",
+                "eaba siđa",
+                "eat siđa",
+                "ehpet siđa",
+                "eai siđa"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "sihten",
+                "sihtet",
+                "siđai",
+                "siđaime",
+                "siđaide",
+                "siđaiga",
+                "siđaimet",
+                "siđaidet",
+                "sihte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in sihtan",
+                "it sihtan",
+                "ii sihtan",
+                "ean sihtan",
+                "eahppi sihtan",
+                "eaba sihtan",
+                "eat sihtan",
+                "ehpet sihtan",
+                "eai sihtan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean sihtan",
+                "leat sihtan",
+                "lea sihtan",
+                "letne sihtan",
+                "leahppi sihtan",
+                "leaba sihtan",
+                "leat sihtan",
+                "lehpet sihtan",
+                "leat sihtan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen sihtan",
+                "ledjet sihtan",
+                "lei sihtan",
+                "leimme sihtan",
+                "leidde sihtan",
+                "leigga sihtan",
+                "leimmet sihtan",
+                "leiddet sihtan",
+                "ledje sihtan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean sihtame, -min",
+                "leat sihtame, -min",
+                "lea sihtame, -min",
+                "letne sihtame, -min",
+                "leahppi sihtame, -min",
+                "leaba sihtame, -min",
+                "leat sihtame, -min",
+                "lehpet sihtame, -min",
+                "leat sihtame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen sihtame, -min",
+                "ledjet sihtame, -min",
+                "lei sihtame, -min",
+                "leimme sihtame, -min",
+                "leidde sihtame, -min",
+                "leigga sihtame, -min",
+                "leimmet sihtame, -min",
+                "leiddet sihtame, -min",
+                "ledje sihtame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "siđašin",
+                "siđašit",
+                "siđašii",
+                "siđašeimme",
+                "siđašeidde",
+                "siđašeigga",
+                "siđašeimmet",
+                "siđašeiddet",
+                "siđašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in siđaše",
+                "it siđaše",
+                "ii siđaše",
+                "ean siđaše",
+                "eahppi siđaše",
+                "eaba siđaše",
+                "eat siđaše",
+                "ehpet siđaše",
+                "eai siđaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "siđažan",
+                "siđažat",
+                "siđaš",
+                "siđažetne",
+                "siđažeahppi",
+                "siđažeaba",
+                "siđažit, -žat",
+                "siđažehpet",
+                "siđažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in siđaš",
+                "it siđaš",
+                "ii siđaš",
+                "ean siđaš",
+                "eahppi siđaš",
+                "eaba siđaš",
+                "eat siđaš",
+                "ehpet siđaš",
+                "eai siđaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "sihton",
+                "siđa",
+                "sihtos",
+                "sihttu",
+                "sihtti",
+                "sihtoska",
+                "sihtot, sihttot",
+                "sihtet, sihttit",
+                "sihtoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon siđa",
+                "ale siđa",
+                "allos siđa",
+                "allu siđa",
+                "alli siđa",
+                "alloska siđa",
+                "allot, allut siđa",
+                "allet, allit siđa",
+                "alloset siđa"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Sihtat",
+    "valid": 1
+}

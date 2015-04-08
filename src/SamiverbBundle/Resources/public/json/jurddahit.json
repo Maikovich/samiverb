@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "jurddahit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "jurddahan",
+                "jurddahat",
+                "jurddaha",
+                "jurddahetne",
+                "jurddaheahppi",
+                "jurddaheaba",
+                "jurddahit, -hat",
+                "jurddahehpet",
+                "jurddahit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in jurddat",
+                "it jurddat",
+                "ii jurddat",
+                "ean jurddat",
+                "eahppi jurddat",
+                "eaba jurddat",
+                "eat jurddat",
+                "ehpet jurddat",
+                "eai jurddat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "jurddahin",
+                "jurddahit",
+                "jurddahii",
+                "jurddaheimme",
+                "jurddaheidde",
+                "jurddaheigga",
+                "jurddaheimmet",
+                "jurddaheiddet",
+                "jurddahedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in jurddahan",
+                "it jurddahan",
+                "ii jurddahan",
+                "ean jurddahan",
+                "eahppi jurddahan",
+                "eaba jurddahan",
+                "eat jurddahan",
+                "ehpet jurddahan",
+                "eai jurddahan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean jurddahan",
+                "leat jurddahan",
+                "lea jurddahan",
+                "letne jurddahan",
+                "leahppi jurddahan",
+                "leaba jurddahan",
+                "leat jurddahan",
+                "lehpet jurddahan",
+                "leat jurddahan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen jurddahan",
+                "ledjet jurddahan",
+                "lei jurddahan",
+                "leimme jurddahan",
+                "leidde jurddahan",
+                "leigga jurddahan",
+                "leimmet jurddahan",
+                "leiddet jurddahan",
+                "ledje jurddahan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean jurddaheame, -men",
+                "leat jurddaheame, -men",
+                "lea jurddaheame, -men",
+                "letne jurddaheame, -men",
+                "leahppi jurddaheame, -men",
+                "leaba jurddaheame, -men",
+                "leat jurddaheame, -men",
+                "lehpet jurddaheame, -men",
+                "leat jurddaheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen jurddaheame, -men",
+                "ledjet jurddaheame, -men",
+                "lei jurddaheame, -men",
+                "leimme jurddaheame, -men",
+                "leidde jurddaheame, -men",
+                "leigga jurddaheame, -men",
+                "leimmet jurddaheame, -men",
+                "leiddet jurddaheame, -men",
+                "ledje jurddaheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "jurddahivččen",
+                "jurddahivččet",
+                "jurddahivččii",
+                "jurddahivččiime",
+                "jurddahivččiide",
+                "jurddahivččiiga",
+                "jurddahivččiimet",
+                "jurddahivččiidet",
+                "jurddahivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in jurddahivčče",
+                "it jurddahivčče",
+                "ii jurddahivčče",
+                "ean jurddahivčče",
+                "eahppi jurddahivčče",
+                "eaba jurddahivčče",
+                "eat jurddahivčče",
+                "ehpet jurddahivčče",
+                "eai jurddahivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "jurddaheaččan",
+                "jurddaheaččat",
+                "jurddaheaš, -heš, -heažžá",
+                "jurddahežže",
+                "jurddaheažžabeahtti",
+                "jurddaheažžaba",
+                "jurddaheažžat",
+                "jurddaheažžabehtet",
+                "jurddahežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in jurddaheaš, -heš, -heažžá",
+                "it jurddaheaš, -heš, -heažžá",
+                "ii jurddaheaš, -heš, -heažžá",
+                "ean jurddaheaš, -heš, -heažžá",
+                "eahppi jurddaheaš, -heš, -heažžá",
+                "eaba jurddaheaš, -heš, -heažžá",
+                "eat jurddaheaš, -heš, -heažžá",
+                "ehpet jurddaheaš, -heš, -heažžá",
+                "eai jurddaheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "jurddahehkon",
+                "jurddat",
+                "jurddahehkos, jurddahus",
+                "jurddaheadnu",
+                "jurddaheahkki",
+                "jurddahehkoska",
+                "jurddahehkot, jurddaheahkkut, jurddahetnot, jurddaheadnot",
+                "jurddahehket",
+                "jurddahehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon jurddat",
+                "ale jurddat",
+                "allos jurddat",
+                "allu jurddat",
+                "alli jurddat",
+                "alloska jurddat",
+                "allot, allut jurddat",
+                "allet, allit jurddat",
+                "alloset jurddat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Jurddahit",
+    "valid": 1
+}

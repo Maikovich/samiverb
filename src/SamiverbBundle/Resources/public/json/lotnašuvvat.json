@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "lotnašuvvat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "lotnašuvan",
+                "lotnašuvat",
+                "lotnašuvvá",
+                "lotnašuvve",
+                "lotnašuvvabeahtti",
+                "lotnašuvvaba",
+                "lotnašuvvat",
+                "lotnašuvvabehtet",
+                "lotnašuvvet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in lotnašuva",
+                "it lotnašuva",
+                "ii lotnašuva",
+                "ean lotnašuva",
+                "eahppi lotnašuva",
+                "eaba lotnašuva",
+                "eat lotnašuva",
+                "ehpet lotnašuva",
+                "eai lotnašuva"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "lotnašuvven",
+                "lotnašuvvet",
+                "lotnašuvai",
+                "lotnašuvaime",
+                "lotnašuvaide",
+                "lotnašuvaiga",
+                "lotnašuvaimet",
+                "lotnašuvaidet",
+                "lotnašuvve"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in lotnašuvvan",
+                "it lotnašuvvan",
+                "ii lotnašuvvan",
+                "ean lotnašuvvan",
+                "eahppi lotnašuvvan",
+                "eaba lotnašuvvan",
+                "eat lotnašuvvan",
+                "ehpet lotnašuvvan",
+                "eai lotnašuvvan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean lotnašuvvan",
+                "leat lotnašuvvan",
+                "lea lotnašuvvan",
+                "letne lotnašuvvan",
+                "leahppi lotnašuvvan",
+                "leaba lotnašuvvan",
+                "leat lotnašuvvan",
+                "lehpet lotnašuvvan",
+                "leat lotnašuvvan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen lotnašuvvan",
+                "ledjet lotnašuvvan",
+                "lei lotnašuvvan",
+                "leimme lotnašuvvan",
+                "leidde lotnašuvvan",
+                "leigga lotnašuvvan",
+                "leimmet lotnašuvvan",
+                "leiddet lotnašuvvan",
+                "ledje lotnašuvvan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean lotnašuvvame, -min",
+                "leat lotnašuvvame, -min",
+                "lea lotnašuvvame, -min",
+                "letne lotnašuvvame, -min",
+                "leahppi lotnašuvvame, -min",
+                "leaba lotnašuvvame, -min",
+                "leat lotnašuvvame, -min",
+                "lehpet lotnašuvvame, -min",
+                "leat lotnašuvvame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen lotnašuvvame, -min",
+                "ledjet lotnašuvvame, -min",
+                "lei lotnašuvvame, -min",
+                "leimme lotnašuvvame, -min",
+                "leidde lotnašuvvame, -min",
+                "leigga lotnašuvvame, -min",
+                "leimmet lotnašuvvame, -min",
+                "leiddet lotnašuvvame, -min",
+                "ledje lotnašuvvame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "lotnašuvašin",
+                "lotnašuvašit",
+                "lotnašuvašii",
+                "lotnašuvašeimme",
+                "lotnašuvašeidde",
+                "lotnašuvašeigga",
+                "lotnašuvašeimmet",
+                "lotnašuvašeiddet",
+                "lotnašuvašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in lotnašuvaše",
+                "it lotnašuvaše",
+                "ii lotnašuvaše",
+                "ean lotnašuvaše",
+                "eahppi lotnašuvaše",
+                "eaba lotnašuvaše",
+                "eat lotnašuvaše",
+                "ehpet lotnašuvaše",
+                "eai lotnašuvaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "lotnašuvažan",
+                "lotnašuvažat",
+                "lotnašuvaš",
+                "lotnašuvažetne",
+                "lotnašuvažeahppi",
+                "lotnašuvažeaba",
+                "lotnašuvažit, -žat",
+                "lotnašuvažehpet",
+                "lotnašuvažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in lotnašuvaš",
+                "it lotnašuvaš",
+                "ii lotnašuvaš",
+                "ean lotnašuvaš",
+                "eahppi lotnašuvaš",
+                "eaba lotnašuvaš",
+                "eat lotnašuvaš",
+                "ehpet lotnašuvaš",
+                "eai lotnašuvaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "lotnašuvvon",
+                "lotnašuva",
+                "lotnašuvvos",
+                "lotnašuvvu",
+                "lotnašuvvi",
+                "lotnašuvvoska",
+                "lotnašuvvot",
+                "lotnašuvvet, lotnašuvvit",
+                "lotnašuvvoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon lotnašuva",
+                "ale lotnašuva",
+                "allos lotnašuva",
+                "allu lotnašuva",
+                "alli lotnašuva",
+                "alloska lotnašuva",
+                "allot, allut lotnašuva",
+                "allet, allit lotnašuva",
+                "alloset lotnašuva"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Lotnašuvvat",
+    "valid": 1
+}

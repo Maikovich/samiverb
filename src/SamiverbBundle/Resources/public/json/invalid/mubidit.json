@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "mubidit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "mubidan",
+                "mubidat",
+                "mubida",
+                "mubidetne",
+                "mubideahppi",
+                "mubideaba",
+                "mubidit, -dat",
+                "mubidehpet",
+                "mubidit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in mubit",
+                "it mubit",
+                "ii mubit",
+                "ean mubit",
+                "eahppi mubit",
+                "eaba mubit",
+                "eat mubit",
+                "ehpet mubit",
+                "eai mubit"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "mubidin",
+                "mubidit",
+                "mubidii",
+                "mubideimme",
+                "mubideidde",
+                "mubideigga",
+                "mubideimmet",
+                "mubideiddet",
+                "mubidedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in mubidan",
+                "it mubidan",
+                "ii mubidan",
+                "ean mubidan",
+                "eahppi mubidan",
+                "eaba mubidan",
+                "eat mubidan",
+                "ehpet mubidan",
+                "eai mubidan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean mubidan",
+                "leat mubidan",
+                "lea mubidan",
+                "letne mubidan",
+                "leahppi mubidan",
+                "leaba mubidan",
+                "leat mubidan",
+                "lehpet mubidan",
+                "leat mubidan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen mubidan",
+                "ledjet mubidan",
+                "lei mubidan",
+                "leimme mubidan",
+                "leidde mubidan",
+                "leigga mubidan",
+                "leimmet mubidan",
+                "leiddet mubidan",
+                "ledje mubidan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean mubideame, -men",
+                "leat mubideame, -men",
+                "lea mubideame, -men",
+                "letne mubideame, -men",
+                "leahppi mubideame, -men",
+                "leaba mubideame, -men",
+                "leat mubideame, -men",
+                "lehpet mubideame, -men",
+                "leat mubideame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen mubideame, -men",
+                "ledjet mubideame, -men",
+                "lei mubideame, -men",
+                "leimme mubideame, -men",
+                "leidde mubideame, -men",
+                "leigga mubideame, -men",
+                "leimmet mubideame, -men",
+                "leiddet mubideame, -men",
+                "ledje mubideame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "mubidivččen",
+                "mubidivččet",
+                "mubidivččii",
+                "mubidivččiime",
+                "mubidivččiide",
+                "mubidivččiiga",
+                "mubidivččiimet",
+                "mubidivččiidet",
+                "mubidivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in mubidivčče",
+                "it mubidivčče",
+                "ii mubidivčče",
+                "ean mubidivčče",
+                "eahppi mubidivčče",
+                "eaba mubidivčče",
+                "eat mubidivčče",
+                "ehpet mubidivčče",
+                "eai mubidivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "mubideaččan",
+                "mubideaččat",
+                "mubideaš, -deš, -deažžá",
+                "mubidežže",
+                "mubideažžabeahtti",
+                "mubideažžaba",
+                "mubideažžat",
+                "mubideažžabehtet",
+                "mubidežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in mubideaš, -deš, -deažžá",
+                "it mubideaš, -deš, -deažžá",
+                "ii mubideaš, -deš, -deažžá",
+                "ean mubideaš, -deš, -deažžá",
+                "eahppi mubideaš, -deš, -deažžá",
+                "eaba mubideaš, -deš, -deažžá",
+                "eat mubideaš, -deš, -deažžá",
+                "ehpet mubideaš, -deš, -deažžá",
+                "eai mubideaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "mubidehkon",
+                "mubit",
+                "mubidehkos, mubidus",
+                "mubideadnu",
+                "mubideahkki",
+                "mubidehkoska",
+                "mubidehkot, mubideahkkut, mubidetnot, mubideadnot",
+                "mubidehket",
+                "mubidehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon mubit",
+                "ale mubit",
+                "allos mubit",
+                "allu mubit",
+                "alli mubit",
+                "alloska mubit",
+                "allot, allut mubit",
+                "allet, allit mubit",
+                "alloset mubit"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "valid": 0,
+    "value": "Mubidit"
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "šlundut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "šlunddun",
+                "šlunddut",
+                "šlundu",
+                "šlundo",
+                "šlundubeahtti",
+                "šlunduba",
+                "šlundut",
+                "šlundubehtet",
+                "šlundot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in šlunddo",
+                "it šlunddo",
+                "ii šlunddo",
+                "ean šlunddo",
+                "eahppi šlunddo",
+                "eaba šlunddo",
+                "eat šlunddo",
+                "ehpet šlunddo",
+                "eai šlunddo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "šlundon",
+                "šlundot",
+                "šlunddui",
+                "šlundduime",
+                "šlundduide",
+                "šlundduiga",
+                "šlundduimet",
+                "šlundduidet",
+                "šlundo"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in šlundon",
+                "it šlundon",
+                "ii šlundon",
+                "ean šlundon",
+                "eahppi šlundon",
+                "eaba šlundon",
+                "eat šlundon",
+                "ehpet šlundon",
+                "eai šlundon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean šlundon",
+                "leat šlundon",
+                "lea šlundon",
+                "letne šlundon",
+                "leahppi šlundon",
+                "leaba šlundon",
+                "leat šlundon",
+                "lehpet šlundon",
+                "leat šlundon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen šlundon",
+                "ledjet šlundon",
+                "lei šlundon",
+                "leimme šlundon",
+                "leidde šlundon",
+                "leigga šlundon",
+                "leimmet šlundon",
+                "leiddet šlundon",
+                "ledje šlundon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean šlundume, -min",
+                "leat šlundume, -min",
+                "lea šlundume, -min",
+                "letne šlundume, -min",
+                "leahppi šlundume, -min",
+                "leaba šlundume, -min",
+                "leat šlundume, -min",
+                "lehpet šlundume, -min",
+                "leat šlundume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen šlundume, -min",
+                "ledjet šlundume, -min",
+                "lei šlundume, -min",
+                "leimme šlundume, -min",
+                "leidde šlundume, -min",
+                "leigga šlundume, -min",
+                "leimmet šlundume, -min",
+                "leiddet šlundume, -min",
+                "ledje šlundume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "šlunddošin",
+                "šlunddošit",
+                "šlunddošii",
+                "šlunddošeimme",
+                "šlunddošeidde",
+                "šlunddošeigga",
+                "šlunddošeimmet",
+                "šlunddošeiddet",
+                "šlunddošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in šlunddoše",
+                "it šlunddoše",
+                "ii šlunddoše",
+                "ean šlunddoše",
+                "eahppi šlunddoše",
+                "eaba šlunddoše",
+                "eat šlunddoše",
+                "ehpet šlunddoše",
+                "eai šlunddoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "šlunddožan",
+                "šlunddožat",
+                "šlunddoš",
+                "šlunddožetne",
+                "šlunddožeahppi",
+                "šlunddožeaba",
+                "šlunddožit, -žat",
+                "šlunddožehpet",
+                "šlunddožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in šlunddoš",
+                "it šlunddoš",
+                "ii šlunddoš",
+                "ean šlunddoš",
+                "eahppi šlunddoš",
+                "eaba šlunddoš",
+                "eat šlunddoš",
+                "ehpet šlunddoš",
+                "eai šlunddoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "šlundon",
+                "šlunddo",
+                "šlundos",
+                "šlundu",
+                "šlundu",
+                "šlundoska",
+                "šlundot",
+                "šlundot",
+                "šlundoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon šlunddo",
+                "ale šlunddo",
+                "allos šlunddo",
+                "allu šlunddo",
+                "alli šlunddo",
+                "alloska šlunddo",
+                "allot, allut šlunddo",
+                "allet, allit šlunddo",
+                "alloset šlunddo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Šlundut",
+    "valid": 1
+}

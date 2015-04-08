@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čuorvut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čuorvvun",
+                "čuorvvut",
+                "čuorvu",
+                "čurvo",
+                "čuorvubeahtti",
+                "čuorvuba",
+                "čuorvut",
+                "čuorvubehtet",
+                "čurvot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čuorvvo",
+                "it čuorvvo",
+                "ii čuorvvo",
+                "ean čuorvvo",
+                "eahppi čuorvvo",
+                "eaba čuorvvo",
+                "eat čuorvvo",
+                "ehpet čuorvvo",
+                "eai čuorvvo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čurvon",
+                "čurvot",
+                "čuorvvui",
+                "čuorvvuime",
+                "čuorvvuide",
+                "čuorvvuiga",
+                "čuorvvuimet",
+                "čuorvvuidet",
+                "čurvo"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čurvon",
+                "it čurvon",
+                "ii čurvon",
+                "ean čurvon",
+                "eahppi čurvon",
+                "eaba čurvon",
+                "eat čurvon",
+                "ehpet čurvon",
+                "eai čurvon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čurvon",
+                "leat čurvon",
+                "lea čurvon",
+                "letne čurvon",
+                "leahppi čurvon",
+                "leaba čurvon",
+                "leat čurvon",
+                "lehpet čurvon",
+                "leat čurvon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čurvon",
+                "ledjet čurvon",
+                "lei čurvon",
+                "leimme čurvon",
+                "leidde čurvon",
+                "leigga čurvon",
+                "leimmet čurvon",
+                "leiddet čurvon",
+                "ledje čurvon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čuorvume, -min",
+                "leat čuorvume, -min",
+                "lea čuorvume, -min",
+                "letne čuorvume, -min",
+                "leahppi čuorvume, -min",
+                "leaba čuorvume, -min",
+                "leat čuorvume, -min",
+                "lehpet čuorvume, -min",
+                "leat čuorvume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čuorvume, -min",
+                "ledjet čuorvume, -min",
+                "lei čuorvume, -min",
+                "leimme čuorvume, -min",
+                "leidde čuorvume, -min",
+                "leigga čuorvume, -min",
+                "leimmet čuorvume, -min",
+                "leiddet čuorvume, -min",
+                "ledje čuorvume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čurvvošin",
+                "čurvvošit",
+                "čurvvošii",
+                "čurvvošeimme",
+                "čurvvošeidde",
+                "čurvvošeigga",
+                "čurvvošeimmet",
+                "čurvvošeiddet",
+                "čurvvošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čurvvoše",
+                "it čurvvoše",
+                "ii čurvvoše",
+                "ean čurvvoše",
+                "eahppi čurvvoše",
+                "eaba čurvvoše",
+                "eat čurvvoše",
+                "ehpet čurvvoše",
+                "eai čurvvoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čurvvožan",
+                "čurvvožat",
+                "čurvvoš",
+                "čurvvožetne",
+                "čurvvožeahppi",
+                "čurvvožeaba",
+                "čurvvožit, -žat",
+                "čurvvožehpet",
+                "čurvvožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čurvvoš",
+                "it čurvvoš",
+                "ii čurvvoš",
+                "ean čurvvoš",
+                "eahppi čurvvoš",
+                "eaba čurvvoš",
+                "eat čurvvoš",
+                "ehpet čurvvoš",
+                "eai čurvvoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čurvon",
+                "čuorvvo",
+                "čurvos",
+                "čuorvu",
+                "čuorvu",
+                "čurvoska",
+                "čurvot, čuorvot",
+                "čurvot, čuorvot",
+                "čurvoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čuorvvo",
+                "ale čuorvvo",
+                "allos čuorvvo",
+                "allu čuorvvo",
+                "alli čuorvvo",
+                "alloska čuorvvo",
+                "allot, allut čuorvvo",
+                "allet, allit čuorvvo",
+                "alloset čuorvvo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čuorvut",
+    "valid": 1
+}

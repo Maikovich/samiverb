@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "máksit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "mávssán",
+                "mávssát",
+                "máksá",
+                "mákse",
+                "máksibeahtti",
+                "máksiba",
+                "máksit",
+                "máksibehtet",
+                "mákset"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in mávsse",
+                "it mávsse",
+                "ii mávsse",
+                "ean mávsse",
+                "eahppi mávsse",
+                "eaba mávsse",
+                "eat mávsse",
+                "ehpet mávsse",
+                "eai mávsse"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "máksen",
+                "mákset",
+                "mávssii",
+                "mávssiime",
+                "mávssiide",
+                "mávssiiga",
+                "mávssiimet",
+                "mávssiidet",
+                "mákse"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in máksán",
+                "it máksán",
+                "ii máksán",
+                "ean máksán",
+                "eahppi máksán",
+                "eaba máksán",
+                "eat máksán",
+                "ehpet máksán",
+                "eai máksán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean máksán",
+                "leat máksán",
+                "lea máksán",
+                "letne máksán",
+                "leahppi máksán",
+                "leaba máksán",
+                "leat máksán",
+                "lehpet máksán",
+                "leat máksán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen máksán",
+                "ledjet máksán",
+                "lei máksán",
+                "leimme máksán",
+                "leidde máksán",
+                "leigga máksán",
+                "leimmet máksán",
+                "leiddet máksán",
+                "ledje máksán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean máksime, -min",
+                "leat máksime, -min",
+                "lea máksime, -min",
+                "letne máksime, -min",
+                "leahppi máksime, -min",
+                "leaba máksime, -min",
+                "leat máksime, -min",
+                "lehpet máksime, -min",
+                "leat máksime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen máksime, -min",
+                "ledjet máksime, -min",
+                "lei máksime, -min",
+                "leimme máksime, -min",
+                "leidde máksime, -min",
+                "leigga máksime, -min",
+                "leimmet máksime, -min",
+                "leiddet máksime, -min",
+                "ledje máksime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "mávssášin",
+                "mávssášit",
+                "mávssášii",
+                "mávssášeimme",
+                "mávssášeidde",
+                "mávssášeigga",
+                "mávssášeimmet",
+                "mávssášeiddet",
+                "mávssášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in mávssáše",
+                "it mávssáše",
+                "ii mávssáše",
+                "ean mávssáše",
+                "eahppi mávssáše",
+                "eaba mávssáše",
+                "eat mávssáše",
+                "ehpet mávssáše",
+                "eai mávssáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "mávssežan",
+                "mávssežat",
+                "mávsseš",
+                "mávssežetne",
+                "mávssežeahppi",
+                "mávssežeaba",
+                "mávssežit, -žat",
+                "mávssežehpet",
+                "mávssežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in mávsseš",
+                "it mávsseš",
+                "ii mávsseš",
+                "ean mávsseš",
+                "eahppi mávsseš",
+                "eaba mávsseš",
+                "eat mávsseš",
+                "ehpet mávsseš",
+                "eai mávsseš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "mákson",
+                "mávsse",
+                "máksos",
+                "máksu",
+                "máksi",
+                "máksoska",
+                "máksot",
+                "mákset",
+                "máksoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon mávsse",
+                "ale mávsse",
+                "allos mávsse",
+                "allu mávsse",
+                "alli mávsse",
+                "alloska mávsse",
+                "allot, allut mávsse",
+                "allet, allit mávsse",
+                "alloset mávsse"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Máksit",
+    "valid": 1
+}

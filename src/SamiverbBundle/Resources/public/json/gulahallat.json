@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gulahallat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gulahalan",
+                "gulahalat",
+                "gulahallá",
+                "gulahalle",
+                "gulahallabeahtti",
+                "gulahallaba",
+                "gulahallat",
+                "gulahallabehtet",
+                "gulahallet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gulahala",
+                "it gulahala",
+                "ii gulahala",
+                "ean gulahala",
+                "eahppi gulahala",
+                "eaba gulahala",
+                "eat gulahala",
+                "ehpet gulahala",
+                "eai gulahala"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gulahallen",
+                "gulahallet",
+                "gulahalai",
+                "gulahalaime",
+                "gulahalaide",
+                "gulahalaiga",
+                "gulahalaimet",
+                "gulahalaidet",
+                "gulahalle"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gulahallan",
+                "it gulahallan",
+                "ii gulahallan",
+                "ean gulahallan",
+                "eahppi gulahallan",
+                "eaba gulahallan",
+                "eat gulahallan",
+                "ehpet gulahallan",
+                "eai gulahallan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gulahallan",
+                "leat gulahallan",
+                "lea gulahallan",
+                "letne gulahallan",
+                "leahppi gulahallan",
+                "leaba gulahallan",
+                "leat gulahallan",
+                "lehpet gulahallan",
+                "leat gulahallan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gulahallan",
+                "ledjet gulahallan",
+                "lei gulahallan",
+                "leimme gulahallan",
+                "leidde gulahallan",
+                "leigga gulahallan",
+                "leimmet gulahallan",
+                "leiddet gulahallan",
+                "ledje gulahallan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gulahallame, -min",
+                "leat gulahallame, -min",
+                "lea gulahallame, -min",
+                "letne gulahallame, -min",
+                "leahppi gulahallame, -min",
+                "leaba gulahallame, -min",
+                "leat gulahallame, -min",
+                "lehpet gulahallame, -min",
+                "leat gulahallame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gulahallame, -min",
+                "ledjet gulahallame, -min",
+                "lei gulahallame, -min",
+                "leimme gulahallame, -min",
+                "leidde gulahallame, -min",
+                "leigga gulahallame, -min",
+                "leimmet gulahallame, -min",
+                "leiddet gulahallame, -min",
+                "ledje gulahallame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gulahalašin",
+                "gulahalašit",
+                "gulahalašii",
+                "gulahalašeimme",
+                "gulahalašeidde",
+                "gulahalašeigga",
+                "gulahalašeimmet",
+                "gulahalašeiddet",
+                "gulahalašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gulahalaše",
+                "it gulahalaše",
+                "ii gulahalaše",
+                "ean gulahalaše",
+                "eahppi gulahalaše",
+                "eaba gulahalaše",
+                "eat gulahalaše",
+                "ehpet gulahalaše",
+                "eai gulahalaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gulahalažan",
+                "gulahalažat",
+                "gulahalaš",
+                "gulahalažetne",
+                "gulahalažeahppi",
+                "gulahalažeaba",
+                "gulahalažit, -žat",
+                "gulahalažehpet",
+                "gulahalažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gulahalaš",
+                "it gulahalaš",
+                "ii gulahalaš",
+                "ean gulahalaš",
+                "eahppi gulahalaš",
+                "eaba gulahalaš",
+                "eat gulahalaš",
+                "ehpet gulahalaš",
+                "eai gulahalaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gulahallon",
+                "gulahala",
+                "gulahallos",
+                "gulahallu",
+                "gulahalli",
+                "gulahalloska",
+                "gulahallot",
+                "gulahallet, gulahallit",
+                "gulahalloset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gulahala",
+                "ale gulahala",
+                "allos gulahala",
+                "allu gulahala",
+                "alli gulahala",
+                "alloska gulahala",
+                "allot, allut gulahala",
+                "allet, allit gulahala",
+                "alloset gulahala"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gulahallat",
+    "valid": 1
+}

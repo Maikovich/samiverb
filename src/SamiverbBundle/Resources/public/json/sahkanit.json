@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "sahkanit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "sahkanan",
+                "sahkanat",
+                "sahkana",
+                "sahkanetne",
+                "sahkaneahppi",
+                "sahkaneaba",
+                "sahkanit, -nat",
+                "sahkanehpet",
+                "sahkanit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in sahkan",
+                "it sahkan",
+                "ii sahkan",
+                "ean sahkan",
+                "eahppi sahkan",
+                "eaba sahkan",
+                "eat sahkan",
+                "ehpet sahkan",
+                "eai sahkan"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "sahkanin",
+                "sahkanit",
+                "sahkanii",
+                "sahkaneimme",
+                "sahkaneidde",
+                "sahkaneigga",
+                "sahkaneimmet",
+                "sahkaneiddet",
+                "sahkanedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in sahkanan",
+                "it sahkanan",
+                "ii sahkanan",
+                "ean sahkanan",
+                "eahppi sahkanan",
+                "eaba sahkanan",
+                "eat sahkanan",
+                "ehpet sahkanan",
+                "eai sahkanan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean sahkanan",
+                "leat sahkanan",
+                "lea sahkanan",
+                "letne sahkanan",
+                "leahppi sahkanan",
+                "leaba sahkanan",
+                "leat sahkanan",
+                "lehpet sahkanan",
+                "leat sahkanan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen sahkanan",
+                "ledjet sahkanan",
+                "lei sahkanan",
+                "leimme sahkanan",
+                "leidde sahkanan",
+                "leigga sahkanan",
+                "leimmet sahkanan",
+                "leiddet sahkanan",
+                "ledje sahkanan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean sahkaneame, -men",
+                "leat sahkaneame, -men",
+                "lea sahkaneame, -men",
+                "letne sahkaneame, -men",
+                "leahppi sahkaneame, -men",
+                "leaba sahkaneame, -men",
+                "leat sahkaneame, -men",
+                "lehpet sahkaneame, -men",
+                "leat sahkaneame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen sahkaneame, -men",
+                "ledjet sahkaneame, -men",
+                "lei sahkaneame, -men",
+                "leimme sahkaneame, -men",
+                "leidde sahkaneame, -men",
+                "leigga sahkaneame, -men",
+                "leimmet sahkaneame, -men",
+                "leiddet sahkaneame, -men",
+                "ledje sahkaneame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "sahkanivččen",
+                "sahkanivččet",
+                "sahkanivččii",
+                "sahkanivččiime",
+                "sahkanivččiide",
+                "sahkanivččiiga",
+                "sahkanivččiimet",
+                "sahkanivččiidet",
+                "sahkanivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in sahkanivčče",
+                "it sahkanivčče",
+                "ii sahkanivčče",
+                "ean sahkanivčče",
+                "eahppi sahkanivčče",
+                "eaba sahkanivčče",
+                "eat sahkanivčče",
+                "ehpet sahkanivčče",
+                "eai sahkanivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "sahkaneaččan",
+                "sahkaneaččat",
+                "sahkaneaš, -neš, -neažžá",
+                "sahkanežže",
+                "sahkaneažžabeahtti",
+                "sahkaneažžaba",
+                "sahkaneažžat",
+                "sahkaneažžabehtet",
+                "sahkanežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in sahkaneaš, -neš, -neažžá",
+                "it sahkaneaš, -neš, -neažžá",
+                "ii sahkaneaš, -neš, -neažžá",
+                "ean sahkaneaš, -neš, -neažžá",
+                "eahppi sahkaneaš, -neš, -neažžá",
+                "eaba sahkaneaš, -neš, -neažžá",
+                "eat sahkaneaš, -neš, -neažžá",
+                "ehpet sahkaneaš, -neš, -neažžá",
+                "eai sahkaneaš, -neš, -neažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "sahkanehkon",
+                "sahkan",
+                "sahkanehkos, sahkanus",
+                "sahkaneadnu",
+                "sahkaneahkki",
+                "sahkanehkoska",
+                "sahkanehkot, sahkaneahkkut, sahkanetnot, sahkaneadnot",
+                "sahkanehket",
+                "sahkanehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon sahkan",
+                "ale sahkan",
+                "allos sahkan",
+                "allu sahkan",
+                "alli sahkan",
+                "alloska sahkan",
+                "allot, allut sahkan",
+                "allet, allit sahkan",
+                "alloset sahkan"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Sahkanit",
+    "valid": 1
+}

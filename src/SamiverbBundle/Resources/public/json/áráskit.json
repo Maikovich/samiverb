@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "áráskit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "áráskan",
+                "áráskat",
+                "áráska",
+                "árásketne",
+                "áráskeahppi",
+                "áráskeaba",
+                "áráskit, -kat",
+                "áráskehpet",
+                "áráskit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in árás",
+                "it árás",
+                "ii árás",
+                "ean árás",
+                "eahppi árás",
+                "eaba árás",
+                "eat árás",
+                "ehpet árás",
+                "eai árás"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "áráskin",
+                "áráskit",
+                "áráskii",
+                "áráskeimme",
+                "áráskeidde",
+                "áráskeigga",
+                "áráskeimmet",
+                "áráskeiddet",
+                "áráskedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in áráskan",
+                "it áráskan",
+                "ii áráskan",
+                "ean áráskan",
+                "eahppi áráskan",
+                "eaba áráskan",
+                "eat áráskan",
+                "ehpet áráskan",
+                "eai áráskan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean áráskan",
+                "leat áráskan",
+                "lea áráskan",
+                "letne áráskan",
+                "leahppi áráskan",
+                "leaba áráskan",
+                "leat áráskan",
+                "lehpet áráskan",
+                "leat áráskan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen áráskan",
+                "ledjet áráskan",
+                "lei áráskan",
+                "leimme áráskan",
+                "leidde áráskan",
+                "leigga áráskan",
+                "leimmet áráskan",
+                "leiddet áráskan",
+                "ledje áráskan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean áráskeame, -men",
+                "leat áráskeame, -men",
+                "lea áráskeame, -men",
+                "letne áráskeame, -men",
+                "leahppi áráskeame, -men",
+                "leaba áráskeame, -men",
+                "leat áráskeame, -men",
+                "lehpet áráskeame, -men",
+                "leat áráskeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen áráskeame, -men",
+                "ledjet áráskeame, -men",
+                "lei áráskeame, -men",
+                "leimme áráskeame, -men",
+                "leidde áráskeame, -men",
+                "leigga áráskeame, -men",
+                "leimmet áráskeame, -men",
+                "leiddet áráskeame, -men",
+                "ledje áráskeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "áráskivččen",
+                "áráskivččet",
+                "áráskivččii",
+                "áráskivččiime",
+                "áráskivččiide",
+                "áráskivččiiga",
+                "áráskivččiimet",
+                "áráskivččiidet",
+                "áráskivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in áráskivčče",
+                "it áráskivčče",
+                "ii áráskivčče",
+                "ean áráskivčče",
+                "eahppi áráskivčče",
+                "eaba áráskivčče",
+                "eat áráskivčče",
+                "ehpet áráskivčče",
+                "eai áráskivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "áráskeaččan",
+                "áráskeaččat",
+                "áráskeaš, -keš, -keažžá",
+                "áráskežže",
+                "áráskeažžabeahtti",
+                "áráskeažžaba",
+                "áráskeažžat",
+                "áráskeažžabehtet",
+                "áráskežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in áráskeaš, -keš, -keažžá",
+                "it áráskeaš, -keš, -keažžá",
+                "ii áráskeaš, -keš, -keažžá",
+                "ean áráskeaš, -keš, -keažžá",
+                "eahppi áráskeaš, -keš, -keažžá",
+                "eaba áráskeaš, -keš, -keažžá",
+                "eat áráskeaš, -keš, -keažžá",
+                "ehpet áráskeaš, -keš, -keažžá",
+                "eai áráskeaš, -keš, -keažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "áráskehkon",
+                "árás",
+                "áráskehkos, áráskus",
+                "áráskeadnu",
+                "áráskeahkki",
+                "áráskehkoska",
+                "áráskehkot, áráskeahkkut, árásketnot, áráskeadnot",
+                "áráskehket",
+                "áráskehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon árás",
+                "ale árás",
+                "allos árás",
+                "allu árás",
+                "alli árás",
+                "alloska árás",
+                "allot, allut árás",
+                "allet, allit árás",
+                "alloset árás"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Áráskit",
+    "valid": 1
+}

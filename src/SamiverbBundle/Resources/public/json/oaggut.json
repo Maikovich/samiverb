@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "oaggut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "oakkun",
+                "oakkut",
+                "oaggu",
+                "oggo",
+                "oaggubeahtti",
+                "oagguba",
+                "oaggut",
+                "oaggubehtet",
+                "oggot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in oakko",
+                "it oakko",
+                "ii oakko",
+                "ean oakko",
+                "eahppi oakko",
+                "eaba oakko",
+                "eat oakko",
+                "ehpet oakko",
+                "eai oakko"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "oggon",
+                "oggot",
+                "oakkui",
+                "oakkuime",
+                "oakkuide",
+                "oakkuiga",
+                "oakkuimet",
+                "oakkuidet",
+                "oggo"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in oggon",
+                "it oggon",
+                "ii oggon",
+                "ean oggon",
+                "eahppi oggon",
+                "eaba oggon",
+                "eat oggon",
+                "ehpet oggon",
+                "eai oggon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean oggon",
+                "leat oggon",
+                "lea oggon",
+                "letne oggon",
+                "leahppi oggon",
+                "leaba oggon",
+                "leat oggon",
+                "lehpet oggon",
+                "leat oggon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen oggon",
+                "ledjet oggon",
+                "lei oggon",
+                "leimme oggon",
+                "leidde oggon",
+                "leigga oggon",
+                "leimmet oggon",
+                "leiddet oggon",
+                "ledje oggon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean oaggume, -min",
+                "leat oaggume, -min",
+                "lea oaggume, -min",
+                "letne oaggume, -min",
+                "leahppi oaggume, -min",
+                "leaba oaggume, -min",
+                "leat oaggume, -min",
+                "lehpet oaggume, -min",
+                "leat oaggume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen oaggume, -min",
+                "ledjet oaggume, -min",
+                "lei oaggume, -min",
+                "leimme oaggume, -min",
+                "leidde oaggume, -min",
+                "leigga oaggume, -min",
+                "leimmet oaggume, -min",
+                "leiddet oaggume, -min",
+                "ledje oaggume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "okkošin",
+                "okkošit",
+                "okkošii",
+                "okkošeimme",
+                "okkošeidde",
+                "okkošeigga",
+                "okkošeimmet",
+                "okkošeiddet",
+                "okkošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in okkoše",
+                "it okkoše",
+                "ii okkoše",
+                "ean okkoše",
+                "eahppi okkoše",
+                "eaba okkoše",
+                "eat okkoše",
+                "ehpet okkoše",
+                "eai okkoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "okkožan",
+                "okkožat",
+                "okkoš",
+                "okkožetne",
+                "okkožeahppi",
+                "okkožeaba",
+                "okkožit, -žat",
+                "okkožehpet",
+                "okkožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in okkoš",
+                "it okkoš",
+                "ii okkoš",
+                "ean okkoš",
+                "eahppi okkoš",
+                "eaba okkoš",
+                "eat okkoš",
+                "ehpet okkoš",
+                "eai okkoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "oggon",
+                "oakko",
+                "oggos",
+                "oaggu",
+                "oaggu",
+                "oggoska",
+                "oggot, oaggot",
+                "oggot, oaggot",
+                "oggoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon oakko",
+                "ale oakko",
+                "allos oakko",
+                "allu oakko",
+                "alli oakko",
+                "alloska oakko",
+                "allot, allut oakko",
+                "allet, allit oakko",
+                "alloset oakko"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Oaggut",
+    "valid": 1
+}

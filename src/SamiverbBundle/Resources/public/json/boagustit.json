@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "boagustit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "boagustan",
+                "boagustat",
+                "boagusta",
+                "boagustetne",
+                "boagusteahppi",
+                "boagusteaba",
+                "boagustit, -tat",
+                "boagustehpet",
+                "boagustit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in boagus",
+                "it boagus",
+                "ii boagus",
+                "ean boagus",
+                "eahppi boagus",
+                "eaba boagus",
+                "eat boagus",
+                "ehpet boagus",
+                "eai boagus"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "boagustin",
+                "boagustit",
+                "boagustii",
+                "boagusteimme",
+                "boagusteidde",
+                "boagusteigga",
+                "boagusteimmet",
+                "boagusteiddet",
+                "boagustedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in boagustan",
+                "it boagustan",
+                "ii boagustan",
+                "ean boagustan",
+                "eahppi boagustan",
+                "eaba boagustan",
+                "eat boagustan",
+                "ehpet boagustan",
+                "eai boagustan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean boagustan",
+                "leat boagustan",
+                "lea boagustan",
+                "letne boagustan",
+                "leahppi boagustan",
+                "leaba boagustan",
+                "leat boagustan",
+                "lehpet boagustan",
+                "leat boagustan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen boagustan",
+                "ledjet boagustan",
+                "lei boagustan",
+                "leimme boagustan",
+                "leidde boagustan",
+                "leigga boagustan",
+                "leimmet boagustan",
+                "leiddet boagustan",
+                "ledje boagustan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean boagusteame, -men",
+                "leat boagusteame, -men",
+                "lea boagusteame, -men",
+                "letne boagusteame, -men",
+                "leahppi boagusteame, -men",
+                "leaba boagusteame, -men",
+                "leat boagusteame, -men",
+                "lehpet boagusteame, -men",
+                "leat boagusteame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen boagusteame, -men",
+                "ledjet boagusteame, -men",
+                "lei boagusteame, -men",
+                "leimme boagusteame, -men",
+                "leidde boagusteame, -men",
+                "leigga boagusteame, -men",
+                "leimmet boagusteame, -men",
+                "leiddet boagusteame, -men",
+                "ledje boagusteame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "boagustivččen",
+                "boagustivččet",
+                "boagustivččii",
+                "boagustivččiime",
+                "boagustivččiide",
+                "boagustivččiiga",
+                "boagustivččiimet",
+                "boagustivččiidet",
+                "boagustivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in boagustivčče",
+                "it boagustivčče",
+                "ii boagustivčče",
+                "ean boagustivčče",
+                "eahppi boagustivčče",
+                "eaba boagustivčče",
+                "eat boagustivčče",
+                "ehpet boagustivčče",
+                "eai boagustivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "boagusteaččan",
+                "boagusteaččat",
+                "boagusteaš, -teš, -teažžá",
+                "boagustežže",
+                "boagusteažžabeahtti",
+                "boagusteažžaba",
+                "boagusteažžat",
+                "boagusteažžabehtet",
+                "boagustežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in boagusteaš, -teš, -teažžá",
+                "it boagusteaš, -teš, -teažžá",
+                "ii boagusteaš, -teš, -teažžá",
+                "ean boagusteaš, -teš, -teažžá",
+                "eahppi boagusteaš, -teš, -teažžá",
+                "eaba boagusteaš, -teš, -teažžá",
+                "eat boagusteaš, -teš, -teažžá",
+                "ehpet boagusteaš, -teš, -teažžá",
+                "eai boagusteaš, -teš, -teažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "boagustehkon",
+                "boagus",
+                "boagustehkos, boagustus",
+                "boagusteadnu",
+                "boagusteahkki",
+                "boagustehkoska",
+                "boagustehkot, boagusteahkkut, boagustetnot, boagusteadnot",
+                "boagustehket",
+                "boagustehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon boagus",
+                "ale boagus",
+                "allos boagus",
+                "allu boagus",
+                "alli boagus",
+                "alloska boagus",
+                "allot, allut boagus",
+                "allet, allit boagus",
+                "alloset boagus"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Boagustit",
+    "valid": 1
+}

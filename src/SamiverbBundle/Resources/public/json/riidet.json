@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "riidet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "riiden",
+                "riidet",
+                "riide",
+                "riidejetne",
+                "riidebeahtti",
+                "riideba",
+                "riidet",
+                "riidebehtet",
+                "riidejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in riide",
+                "it riide",
+                "ii riide",
+                "ean riide",
+                "eahppi riide",
+                "eaba riide",
+                "eat riide",
+                "ehpet riide",
+                "eai riide"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "riidejin",
+                "riidejit",
+                "riidii",
+                "riidiime",
+                "riidiide",
+                "riidiiga",
+                "riidiimet",
+                "riidiidet",
+                "riidejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in riiden",
+                "it riiden",
+                "ii riiden",
+                "ean riiden",
+                "eahppi riiden",
+                "eaba riiden",
+                "eat riiden",
+                "ehpet riiden",
+                "eai riiden"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean riiden",
+                "leat riiden",
+                "lea riiden",
+                "letne riiden",
+                "leahppi riiden",
+                "leaba riiden",
+                "leat riiden",
+                "lehpet riiden",
+                "leat riiden"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen riiden",
+                "ledjet riiden",
+                "lei riiden",
+                "leimme riiden",
+                "leidde riiden",
+                "leigga riiden",
+                "leimmet riiden",
+                "leiddet riiden",
+                "ledje riiden"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean riideme, -min",
+                "leat riideme, -min",
+                "lea riideme, -min",
+                "letne riideme, -min",
+                "leahppi riideme, -min",
+                "leaba riideme, -min",
+                "leat riideme, -min",
+                "lehpet riideme, -min",
+                "leat riideme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen riideme, -min",
+                "ledjet riideme, -min",
+                "lei riideme, -min",
+                "leimme riideme, -min",
+                "leidde riideme, -min",
+                "leigga riideme, -min",
+                "leimmet riideme, -min",
+                "leiddet riideme, -min",
+                "ledje riideme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "riidešin",
+                "riidešit",
+                "riidešii",
+                "riidešeimme",
+                "riidešeidde",
+                "riidešeigga",
+                "riidešeimmet",
+                "riidešeiddet",
+                "riidešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in riideše",
+                "it riideše",
+                "ii riideše",
+                "ean riideše",
+                "eahppi riideše",
+                "eaba riideše",
+                "eat riideše",
+                "ehpet riideše",
+                "eai riideše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "riidežan",
+                "riidežat",
+                "riideš",
+                "riidežetne",
+                "riidežeahppi",
+                "riidežeaba",
+                "riidežit, -žat",
+                "riidežehpet",
+                "riidežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in riideš",
+                "it riideš",
+                "ii riideš",
+                "ean riideš",
+                "eahppi riideš",
+                "eaba riideš",
+                "eat riideš",
+                "ehpet riideš",
+                "eai riideš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "riidejehkon",
+                "riide",
+                "riidejehkos",
+                "riidejeadnu",
+                "riidejeahkki",
+                "riidejehkoska",
+                "riidejeahkkut, riidejeadnot, riidejehkot, riidejetnot",
+                "riidejeahkkit",
+                "riidejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon riide",
+                "ale riide",
+                "allos riide",
+                "allu riide",
+                "alli riide",
+                "alloska riide",
+                "allot, allut riide",
+                "allet, allit riide",
+                "alloset riide"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Riidet",
+    "valid": 1
+}

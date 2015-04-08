@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "liegganit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "liegganan",
+                "liegganat",
+                "lieggana",
+                "liegganetne",
+                "liegganeahppi",
+                "liegganeaba",
+                "liegganit, -nat",
+                "liegganehpet",
+                "liegganit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in lieggan",
+                "it lieggan",
+                "ii lieggan",
+                "ean lieggan",
+                "eahppi lieggan",
+                "eaba lieggan",
+                "eat lieggan",
+                "ehpet lieggan",
+                "eai lieggan"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "liegganin",
+                "liegganit",
+                "liegganii",
+                "liegganeimme",
+                "liegganeidde",
+                "liegganeigga",
+                "liegganeimmet",
+                "liegganeiddet",
+                "liegganedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in liegganan",
+                "it liegganan",
+                "ii liegganan",
+                "ean liegganan",
+                "eahppi liegganan",
+                "eaba liegganan",
+                "eat liegganan",
+                "ehpet liegganan",
+                "eai liegganan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean liegganan",
+                "leat liegganan",
+                "lea liegganan",
+                "letne liegganan",
+                "leahppi liegganan",
+                "leaba liegganan",
+                "leat liegganan",
+                "lehpet liegganan",
+                "leat liegganan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen liegganan",
+                "ledjet liegganan",
+                "lei liegganan",
+                "leimme liegganan",
+                "leidde liegganan",
+                "leigga liegganan",
+                "leimmet liegganan",
+                "leiddet liegganan",
+                "ledje liegganan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean liegganeame, -men",
+                "leat liegganeame, -men",
+                "lea liegganeame, -men",
+                "letne liegganeame, -men",
+                "leahppi liegganeame, -men",
+                "leaba liegganeame, -men",
+                "leat liegganeame, -men",
+                "lehpet liegganeame, -men",
+                "leat liegganeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen liegganeame, -men",
+                "ledjet liegganeame, -men",
+                "lei liegganeame, -men",
+                "leimme liegganeame, -men",
+                "leidde liegganeame, -men",
+                "leigga liegganeame, -men",
+                "leimmet liegganeame, -men",
+                "leiddet liegganeame, -men",
+                "ledje liegganeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "liegganivččen",
+                "liegganivččet",
+                "liegganivččii",
+                "liegganivččiime",
+                "liegganivččiide",
+                "liegganivččiiga",
+                "liegganivččiimet",
+                "liegganivččiidet",
+                "liegganivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in liegganivčče",
+                "it liegganivčče",
+                "ii liegganivčče",
+                "ean liegganivčče",
+                "eahppi liegganivčče",
+                "eaba liegganivčče",
+                "eat liegganivčče",
+                "ehpet liegganivčče",
+                "eai liegganivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "liegganeaččan",
+                "liegganeaččat",
+                "liegganeaš, -neš, -neažžá",
+                "liegganežže",
+                "liegganeažžabeahtti",
+                "liegganeažžaba",
+                "liegganeažžat",
+                "liegganeažžabehtet",
+                "liegganežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in liegganeaš, -neš, -neažžá",
+                "it liegganeaš, -neš, -neažžá",
+                "ii liegganeaš, -neš, -neažžá",
+                "ean liegganeaš, -neš, -neažžá",
+                "eahppi liegganeaš, -neš, -neažžá",
+                "eaba liegganeaš, -neš, -neažžá",
+                "eat liegganeaš, -neš, -neažžá",
+                "ehpet liegganeaš, -neš, -neažžá",
+                "eai liegganeaš, -neš, -neažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "liegganehkon",
+                "lieggan",
+                "liegganehkos, liegganus",
+                "liegganeadnu",
+                "liegganeahkki",
+                "liegganehkoska",
+                "liegganehkot, liegganeahkkut, liegganetnot, liegganeadnot",
+                "liegganehket",
+                "liegganehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon lieggan",
+                "ale lieggan",
+                "allos lieggan",
+                "allu lieggan",
+                "alli lieggan",
+                "alloska lieggan",
+                "allot, allut lieggan",
+                "allet, allit lieggan",
+                "alloset lieggan"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Liegganit",
+    "valid": 1
+}

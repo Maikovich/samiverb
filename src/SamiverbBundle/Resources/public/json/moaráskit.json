@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "moaráskit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "moaráskan",
+                "moaráskat",
+                "moaráska",
+                "moarásketne",
+                "moaráskeahppi",
+                "moaráskeaba",
+                "moaráskit, -kat",
+                "moaráskehpet",
+                "moaráskit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in moarás",
+                "it moarás",
+                "ii moarás",
+                "ean moarás",
+                "eahppi moarás",
+                "eaba moarás",
+                "eat moarás",
+                "ehpet moarás",
+                "eai moarás"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "moaráskin",
+                "moaráskit",
+                "moaráskii",
+                "moaráskeimme",
+                "moaráskeidde",
+                "moaráskeigga",
+                "moaráskeimmet",
+                "moaráskeiddet",
+                "moaráskedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in moaráskan",
+                "it moaráskan",
+                "ii moaráskan",
+                "ean moaráskan",
+                "eahppi moaráskan",
+                "eaba moaráskan",
+                "eat moaráskan",
+                "ehpet moaráskan",
+                "eai moaráskan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean moaráskan",
+                "leat moaráskan",
+                "lea moaráskan",
+                "letne moaráskan",
+                "leahppi moaráskan",
+                "leaba moaráskan",
+                "leat moaráskan",
+                "lehpet moaráskan",
+                "leat moaráskan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen moaráskan",
+                "ledjet moaráskan",
+                "lei moaráskan",
+                "leimme moaráskan",
+                "leidde moaráskan",
+                "leigga moaráskan",
+                "leimmet moaráskan",
+                "leiddet moaráskan",
+                "ledje moaráskan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean moaráskeame, -men",
+                "leat moaráskeame, -men",
+                "lea moaráskeame, -men",
+                "letne moaráskeame, -men",
+                "leahppi moaráskeame, -men",
+                "leaba moaráskeame, -men",
+                "leat moaráskeame, -men",
+                "lehpet moaráskeame, -men",
+                "leat moaráskeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen moaráskeame, -men",
+                "ledjet moaráskeame, -men",
+                "lei moaráskeame, -men",
+                "leimme moaráskeame, -men",
+                "leidde moaráskeame, -men",
+                "leigga moaráskeame, -men",
+                "leimmet moaráskeame, -men",
+                "leiddet moaráskeame, -men",
+                "ledje moaráskeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "moaráskivččen",
+                "moaráskivččet",
+                "moaráskivččii",
+                "moaráskivččiime",
+                "moaráskivččiide",
+                "moaráskivččiiga",
+                "moaráskivččiimet",
+                "moaráskivččiidet",
+                "moaráskivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in moaráskivčče",
+                "it moaráskivčče",
+                "ii moaráskivčče",
+                "ean moaráskivčče",
+                "eahppi moaráskivčče",
+                "eaba moaráskivčče",
+                "eat moaráskivčče",
+                "ehpet moaráskivčče",
+                "eai moaráskivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "moaráskeaččan",
+                "moaráskeaččat",
+                "moaráskeaš, -keš, -keažžá",
+                "moaráskežže",
+                "moaráskeažžabeahtti",
+                "moaráskeažžaba",
+                "moaráskeažžat",
+                "moaráskeažžabehtet",
+                "moaráskežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in moaráskeaš, -keš, -keažžá",
+                "it moaráskeaš, -keš, -keažžá",
+                "ii moaráskeaš, -keš, -keažžá",
+                "ean moaráskeaš, -keš, -keažžá",
+                "eahppi moaráskeaš, -keš, -keažžá",
+                "eaba moaráskeaš, -keš, -keažžá",
+                "eat moaráskeaš, -keš, -keažžá",
+                "ehpet moaráskeaš, -keš, -keažžá",
+                "eai moaráskeaš, -keš, -keažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "moaráskehkon",
+                "moarás",
+                "moaráskehkos, moaráskus",
+                "moaráskeadnu",
+                "moaráskeahkki",
+                "moaráskehkoska",
+                "moaráskehkot, moaráskeahkkut, moarásketnot, moaráskeadnot",
+                "moaráskehket",
+                "moaráskehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon moarás",
+                "ale moarás",
+                "allos moarás",
+                "allu moarás",
+                "alli moarás",
+                "alloska moarás",
+                "allot, allut moarás",
+                "allet, allit moarás",
+                "alloset moarás"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Moaráskit",
+    "valid": 1
+}

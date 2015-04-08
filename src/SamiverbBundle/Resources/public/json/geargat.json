@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "geargat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gearggan",
+                "gearggat",
+                "geargá",
+                "gerge",
+                "geargabeahtti",
+                "geargaba",
+                "geargat",
+                "geargabehtet",
+                "gerget"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in geargga",
+                "it geargga",
+                "ii geargga",
+                "ean geargga",
+                "eahppi geargga",
+                "eaba geargga",
+                "eat geargga",
+                "ehpet geargga",
+                "eai geargga"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gergen",
+                "gerget",
+                "gearggai",
+                "gearggaime",
+                "gearggaide",
+                "gearggaiga",
+                "gearggaimet",
+                "gearggaidet",
+                "gerge"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in geargan",
+                "it geargan",
+                "ii geargan",
+                "ean geargan",
+                "eahppi geargan",
+                "eaba geargan",
+                "eat geargan",
+                "ehpet geargan",
+                "eai geargan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean geargan",
+                "leat geargan",
+                "lea geargan",
+                "letne geargan",
+                "leahppi geargan",
+                "leaba geargan",
+                "leat geargan",
+                "lehpet geargan",
+                "leat geargan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen geargan",
+                "ledjet geargan",
+                "lei geargan",
+                "leimme geargan",
+                "leidde geargan",
+                "leigga geargan",
+                "leimmet geargan",
+                "leiddet geargan",
+                "ledje geargan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean geargame, -min",
+                "leat geargame, -min",
+                "lea geargame, -min",
+                "letne geargame, -min",
+                "leahppi geargame, -min",
+                "leaba geargame, -min",
+                "leat geargame, -min",
+                "lehpet geargame, -min",
+                "leat geargame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen geargame, -min",
+                "ledjet geargame, -min",
+                "lei geargame, -min",
+                "leimme geargame, -min",
+                "leidde geargame, -min",
+                "leigga geargame, -min",
+                "leimmet geargame, -min",
+                "leiddet geargame, -min",
+                "ledje geargame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gearggašin",
+                "gearggašit",
+                "gearggašii",
+                "gearggašeimme",
+                "gearggašeidde",
+                "gearggašeigga",
+                "gearggašeimmet",
+                "gearggašeiddet",
+                "gearggašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gearggaše",
+                "it gearggaše",
+                "ii gearggaše",
+                "ean gearggaše",
+                "eahppi gearggaše",
+                "eaba gearggaše",
+                "eat gearggaše",
+                "ehpet gearggaše",
+                "eai gearggaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gearggažan",
+                "gearggažat",
+                "gearggaš",
+                "gearggažetne",
+                "gearggažeahppi",
+                "gearggažeaba",
+                "gearggažit, -žat",
+                "gearggažehpet",
+                "gearggažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gearggaš",
+                "it gearggaš",
+                "ii gearggaš",
+                "ean gearggaš",
+                "eahppi gearggaš",
+                "eaba gearggaš",
+                "eat gearggaš",
+                "ehpet gearggaš",
+                "eai gearggaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gergon",
+                "geargga",
+                "gergos",
+                "geargu",
+                "geargi",
+                "gergoska",
+                "gergot, geargot",
+                "gerget, geargit",
+                "gergoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon geargga",
+                "ale geargga",
+                "allos geargga",
+                "allu geargga",
+                "alli geargga",
+                "alloska geargga",
+                "allot, allut geargga",
+                "allet, allit geargga",
+                "alloset geargga"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Geargat",
+    "valid": 1
+}

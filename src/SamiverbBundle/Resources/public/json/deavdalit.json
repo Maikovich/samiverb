@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "deavdalit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "deavdalan",
+                "deavdalat",
+                "deavdala",
+                "deavdaletne",
+                "deavdaleahppi",
+                "deavdaleaba",
+                "deavdalit, -lat",
+                "deavdalehpet",
+                "deavdalit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in deavdal",
+                "it deavdal",
+                "ii deavdal",
+                "ean deavdal",
+                "eahppi deavdal",
+                "eaba deavdal",
+                "eat deavdal",
+                "ehpet deavdal",
+                "eai deavdal"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "deavdalin",
+                "deavdalit",
+                "deavdalii",
+                "deavdaleimme",
+                "deavdaleidde",
+                "deavdaleigga",
+                "deavdaleimmet",
+                "deavdaleiddet",
+                "deavdaledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in deavdalan",
+                "it deavdalan",
+                "ii deavdalan",
+                "ean deavdalan",
+                "eahppi deavdalan",
+                "eaba deavdalan",
+                "eat deavdalan",
+                "ehpet deavdalan",
+                "eai deavdalan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean deavdalan",
+                "leat deavdalan",
+                "lea deavdalan",
+                "letne deavdalan",
+                "leahppi deavdalan",
+                "leaba deavdalan",
+                "leat deavdalan",
+                "lehpet deavdalan",
+                "leat deavdalan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen deavdalan",
+                "ledjet deavdalan",
+                "lei deavdalan",
+                "leimme deavdalan",
+                "leidde deavdalan",
+                "leigga deavdalan",
+                "leimmet deavdalan",
+                "leiddet deavdalan",
+                "ledje deavdalan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean deavdaleame, -men",
+                "leat deavdaleame, -men",
+                "lea deavdaleame, -men",
+                "letne deavdaleame, -men",
+                "leahppi deavdaleame, -men",
+                "leaba deavdaleame, -men",
+                "leat deavdaleame, -men",
+                "lehpet deavdaleame, -men",
+                "leat deavdaleame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen deavdaleame, -men",
+                "ledjet deavdaleame, -men",
+                "lei deavdaleame, -men",
+                "leimme deavdaleame, -men",
+                "leidde deavdaleame, -men",
+                "leigga deavdaleame, -men",
+                "leimmet deavdaleame, -men",
+                "leiddet deavdaleame, -men",
+                "ledje deavdaleame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "deavdalivččen",
+                "deavdalivččet",
+                "deavdalivččii",
+                "deavdalivččiime",
+                "deavdalivččiide",
+                "deavdalivččiiga",
+                "deavdalivččiimet",
+                "deavdalivččiidet",
+                "deavdalivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in deavdalivčče",
+                "it deavdalivčče",
+                "ii deavdalivčče",
+                "ean deavdalivčče",
+                "eahppi deavdalivčče",
+                "eaba deavdalivčče",
+                "eat deavdalivčče",
+                "ehpet deavdalivčče",
+                "eai deavdalivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "deavdaleaččan",
+                "deavdaleaččat",
+                "deavdaleaš, -leš, -leažžá",
+                "deavdaležže",
+                "deavdaleažžabeahtti",
+                "deavdaleažžaba",
+                "deavdaleažžat",
+                "deavdaleažžabehtet",
+                "deavdaležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in deavdaleaš, -leš, -leažžá",
+                "it deavdaleaš, -leš, -leažžá",
+                "ii deavdaleaš, -leš, -leažžá",
+                "ean deavdaleaš, -leš, -leažžá",
+                "eahppi deavdaleaš, -leš, -leažžá",
+                "eaba deavdaleaš, -leš, -leažžá",
+                "eat deavdaleaš, -leš, -leažžá",
+                "ehpet deavdaleaš, -leš, -leažžá",
+                "eai deavdaleaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "deavdalehkon",
+                "deavdal",
+                "deavdalehkos, deavdalus",
+                "deavdaleadnu",
+                "deavdaleahkki",
+                "deavdalehkoska",
+                "deavdalehkot, deavdaleahkkut, deavdaletnot, deavdaleadnot",
+                "deavdalehket",
+                "deavdalehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon deavdal",
+                "ale deavdal",
+                "allos deavdal",
+                "allu deavdal",
+                "alli deavdal",
+                "alloska deavdal",
+                "allot, allut deavdal",
+                "allet, allit deavdal",
+                "alloset deavdal"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Deavdalit",
+    "valid": 1
+}

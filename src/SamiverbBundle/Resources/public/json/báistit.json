@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "báistit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "báisttán",
+                "báisttát",
+                "báistá",
+                "báiste",
+                "báistibeahtti",
+                "báistiba",
+                "báistit",
+                "báistibehtet",
+                "báistet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in báistte",
+                "it báistte",
+                "ii báistte",
+                "ean báistte",
+                "eahppi báistte",
+                "eaba báistte",
+                "eat báistte",
+                "ehpet báistte",
+                "eai báistte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "báisten",
+                "báistet",
+                "báisttii",
+                "báisttiime",
+                "báisttiide",
+                "báisttiiga",
+                "báisttiimet",
+                "báisttiidet",
+                "báiste"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in báistán",
+                "it báistán",
+                "ii báistán",
+                "ean báistán",
+                "eahppi báistán",
+                "eaba báistán",
+                "eat báistán",
+                "ehpet báistán",
+                "eai báistán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean báistán",
+                "leat báistán",
+                "lea báistán",
+                "letne báistán",
+                "leahppi báistán",
+                "leaba báistán",
+                "leat báistán",
+                "lehpet báistán",
+                "leat báistán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen báistán",
+                "ledjet báistán",
+                "lei báistán",
+                "leimme báistán",
+                "leidde báistán",
+                "leigga báistán",
+                "leimmet báistán",
+                "leiddet báistán",
+                "ledje báistán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean báistime, -min",
+                "leat báistime, -min",
+                "lea báistime, -min",
+                "letne báistime, -min",
+                "leahppi báistime, -min",
+                "leaba báistime, -min",
+                "leat báistime, -min",
+                "lehpet báistime, -min",
+                "leat báistime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen báistime, -min",
+                "ledjet báistime, -min",
+                "lei báistime, -min",
+                "leimme báistime, -min",
+                "leidde báistime, -min",
+                "leigga báistime, -min",
+                "leimmet báistime, -min",
+                "leiddet báistime, -min",
+                "ledje báistime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "báisttášin",
+                "báisttášit",
+                "báisttášii",
+                "báisttášeimme",
+                "báisttášeidde",
+                "báisttášeigga",
+                "báisttášeimmet",
+                "báisttášeiddet",
+                "báisttášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in báisttáše",
+                "it báisttáše",
+                "ii báisttáše",
+                "ean báisttáše",
+                "eahppi báisttáše",
+                "eaba báisttáše",
+                "eat báisttáše",
+                "ehpet báisttáše",
+                "eai báisttáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "báisttežan",
+                "báisttežat",
+                "báistteš",
+                "báisttežetne",
+                "báisttežeahppi",
+                "báisttežeaba",
+                "báisttežit, -žat",
+                "báisttežehpet",
+                "báisttežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in báistteš",
+                "it báistteš",
+                "ii báistteš",
+                "ean báistteš",
+                "eahppi báistteš",
+                "eaba báistteš",
+                "eat báistteš",
+                "ehpet báistteš",
+                "eai báistteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "báiston",
+                "báistte",
+                "báistos",
+                "báistu",
+                "báisti",
+                "báistoska",
+                "báistot",
+                "báistet",
+                "báistoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon báistte",
+                "ale báistte",
+                "allos báistte",
+                "allu báistte",
+                "alli báistte",
+                "alloska báistte",
+                "allot, allut báistte",
+                "allet, allit báistte",
+                "alloset báistte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Báistit",
+    "valid": 1
+}

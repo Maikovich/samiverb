@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "dálvat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "dálvvan",
+                "dálvvat",
+                "dálvá",
+                "dálve",
+                "dálvabeahtti",
+                "dálvaba",
+                "dálvat",
+                "dálvabehtet",
+                "dálvet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in dálvva",
+                "it dálvva",
+                "ii dálvva",
+                "ean dálvva",
+                "eahppi dálvva",
+                "eaba dálvva",
+                "eat dálvva",
+                "ehpet dálvva",
+                "eai dálvva"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "dálven",
+                "dálvet",
+                "dálvvai",
+                "dálvvaime",
+                "dálvvaide",
+                "dálvvaiga",
+                "dálvvaimet",
+                "dálvvaidet",
+                "dálve"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in dálvan",
+                "it dálvan",
+                "ii dálvan",
+                "ean dálvan",
+                "eahppi dálvan",
+                "eaba dálvan",
+                "eat dálvan",
+                "ehpet dálvan",
+                "eai dálvan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean dálvan",
+                "leat dálvan",
+                "lea dálvan",
+                "letne dálvan",
+                "leahppi dálvan",
+                "leaba dálvan",
+                "leat dálvan",
+                "lehpet dálvan",
+                "leat dálvan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen dálvan",
+                "ledjet dálvan",
+                "lei dálvan",
+                "leimme dálvan",
+                "leidde dálvan",
+                "leigga dálvan",
+                "leimmet dálvan",
+                "leiddet dálvan",
+                "ledje dálvan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean dálvame, -min",
+                "leat dálvame, -min",
+                "lea dálvame, -min",
+                "letne dálvame, -min",
+                "leahppi dálvame, -min",
+                "leaba dálvame, -min",
+                "leat dálvame, -min",
+                "lehpet dálvame, -min",
+                "leat dálvame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen dálvame, -min",
+                "ledjet dálvame, -min",
+                "lei dálvame, -min",
+                "leimme dálvame, -min",
+                "leidde dálvame, -min",
+                "leigga dálvame, -min",
+                "leimmet dálvame, -min",
+                "leiddet dálvame, -min",
+                "ledje dálvame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "dálvvašin",
+                "dálvvašit",
+                "dálvvašii",
+                "dálvvašeimme",
+                "dálvvašeidde",
+                "dálvvašeigga",
+                "dálvvašeimmet",
+                "dálvvašeiddet",
+                "dálvvašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in dálvvaše",
+                "it dálvvaše",
+                "ii dálvvaše",
+                "ean dálvvaše",
+                "eahppi dálvvaše",
+                "eaba dálvvaše",
+                "eat dálvvaše",
+                "ehpet dálvvaše",
+                "eai dálvvaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "dálvvažan",
+                "dálvvažat",
+                "dálvvaš",
+                "dálvvažetne",
+                "dálvvažeahppi",
+                "dálvvažeaba",
+                "dálvvažit, -žat",
+                "dálvvažehpet",
+                "dálvvažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in dálvvaš",
+                "it dálvvaš",
+                "ii dálvvaš",
+                "ean dálvvaš",
+                "eahppi dálvvaš",
+                "eaba dálvvaš",
+                "eat dálvvaš",
+                "ehpet dálvvaš",
+                "eai dálvvaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "dálvon",
+                "dálvva",
+                "dálvos",
+                "dálvu",
+                "dálvi",
+                "dálvoska",
+                "dálvot",
+                "dálvet, dálvit",
+                "dálvoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon dálvva",
+                "ale dálvva",
+                "allos dálvva",
+                "allu dálvva",
+                "alli dálvva",
+                "alloska dálvva",
+                "allot, allut dálvva",
+                "allet, allit dálvva",
+                "alloset dálvva"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Dálvat",
+    "valid": 1
+}

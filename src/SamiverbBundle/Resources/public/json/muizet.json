@@ -1,0 +1,217 @@
+{
+  "check": 0, 
+  "name": "muizet", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "muizen", 
+        "muizet", 
+        "muize", 
+        "muizejetne", 
+        "muizebeahtti", 
+        "muizeba", 
+        "muizet", 
+        "muizebehtet", 
+        "muizejit"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in muize", 
+        "it muize", 
+        "ii muize", 
+        "ean muize", 
+        "eahppi muize", 
+        "eaba muize", 
+        "eat muize", 
+        "ehpet muize", 
+        "eai muize"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "muizejin", 
+        "muizejit", 
+        "muizii", 
+        "muiziime", 
+        "muiziide", 
+        "muiziiga", 
+        "muiziimet", 
+        "muiziidet", 
+        "muizejedje"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in muizen", 
+        "it muizen", 
+        "ii muizen", 
+        "ean muizen", 
+        "eahppi muizen", 
+        "eaba muizen", 
+        "eat muizen", 
+        "ehpet muizen", 
+        "eai muizen"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean muizen", 
+        "leat muizen", 
+        "lea muizen", 
+        "letne muizen", 
+        "leahppi muizen", 
+        "leaba muizen", 
+        "leat muizen", 
+        "lehpet muizen", 
+        "leat muizen"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen muizen", 
+        "ledjet muizen", 
+        "lei muizen", 
+        "leimme muizen", 
+        "leidde muizen", 
+        "leigga muizen", 
+        "leimmet muizen", 
+        "leiddet muizen", 
+        "ledje muizen"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean muizeme, -min", 
+        "leat muizeme, -min", 
+        "lea muizeme, -min", 
+        "letne muizeme, -min", 
+        "leahppi muizeme, -min", 
+        "leaba muizeme, -min", 
+        "leat muizeme, -min", 
+        "lehpet muizeme, -min", 
+        "leat muizeme, -min"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen muizeme, -min", 
+        "ledjet muizeme, -min", 
+        "lei muizeme, -min", 
+        "leimme muizeme, -min", 
+        "leidde muizeme, -min", 
+        "leigga muizeme, -min", 
+        "leimmet muizeme, -min", 
+        "leiddet muizeme, -min", 
+        "ledje muizeme, -min"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "muizešin", 
+        "muizešit", 
+        "muizešii", 
+        "muizešeimme", 
+        "muizešeidde", 
+        "muizešeigga", 
+        "muizešeimmet", 
+        "muizešeiddet", 
+        "muizešedje"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in muizeše", 
+        "it muizeše", 
+        "ii muizeše", 
+        "ean muizeše", 
+        "eahppi muizeše", 
+        "eaba muizeše", 
+        "eat muizeše", 
+        "ehpet muizeše", 
+        "eai muizeše"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "muizežan", 
+        "muizežat", 
+        "muizeš", 
+        "muizežetne", 
+        "muizežeahppi", 
+        "muizežeaba", 
+        "muizežit, -žat", 
+        "muizežehpet", 
+        "muizežit"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in muizeš", 
+        "it muizeš", 
+        "ii muizeš", 
+        "ean muizeš", 
+        "eahppi muizeš", 
+        "eaba muizeš", 
+        "eat muizeš", 
+        "ehpet muizeš", 
+        "eai muizeš"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "muizejehkon", 
+        "muize", 
+        "muizejehkos", 
+        "muizejeadnu", 
+        "muizejeahkki", 
+        "muizejehkoska", 
+        "muizejeahkkut, muizejeadnot, muizejehkot, muizejetnot", 
+        "muizejeahkkit", 
+        "muizejehkoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon muize", 
+        "ale muize", 
+        "allos muize", 
+        "allu muize", 
+        "alli muize", 
+        "alloska muize", 
+        "allot, allut muize", 
+        "allet, allit muize", 
+        "alloset muize"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "value": "Muizet"
+}

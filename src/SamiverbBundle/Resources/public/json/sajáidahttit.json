@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "sajáidahttit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "sajáidahtán",
+                "sajáidahtát",
+                "sajáidahttá",
+                "sajáidahtte",
+                "sajáidahttibeahtti",
+                "sajáidahttiba",
+                "sajáidahttit",
+                "sajáidahttibehtet",
+                "sajáidahttet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in sajáidahte",
+                "it sajáidahte",
+                "ii sajáidahte",
+                "ean sajáidahte",
+                "eahppi sajáidahte",
+                "eaba sajáidahte",
+                "eat sajáidahte",
+                "ehpet sajáidahte",
+                "eai sajáidahte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "sajáidahtten",
+                "sajáidahttet",
+                "sajáidahtii",
+                "sajáidahtiime",
+                "sajáidahtiide",
+                "sajáidahtiiga",
+                "sajáidahtiimet",
+                "sajáidahtiidet",
+                "sajáidahtte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in sajáidahttán",
+                "it sajáidahttán",
+                "ii sajáidahttán",
+                "ean sajáidahttán",
+                "eahppi sajáidahttán",
+                "eaba sajáidahttán",
+                "eat sajáidahttán",
+                "ehpet sajáidahttán",
+                "eai sajáidahttán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean sajáidahttán",
+                "leat sajáidahttán",
+                "lea sajáidahttán",
+                "letne sajáidahttán",
+                "leahppi sajáidahttán",
+                "leaba sajáidahttán",
+                "leat sajáidahttán",
+                "lehpet sajáidahttán",
+                "leat sajáidahttán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen sajáidahttán",
+                "ledjet sajáidahttán",
+                "lei sajáidahttán",
+                "leimme sajáidahttán",
+                "leidde sajáidahttán",
+                "leigga sajáidahttán",
+                "leimmet sajáidahttán",
+                "leiddet sajáidahttán",
+                "ledje sajáidahttán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean sajáidahttime, -min",
+                "leat sajáidahttime, -min",
+                "lea sajáidahttime, -min",
+                "letne sajáidahttime, -min",
+                "leahppi sajáidahttime, -min",
+                "leaba sajáidahttime, -min",
+                "leat sajáidahttime, -min",
+                "lehpet sajáidahttime, -min",
+                "leat sajáidahttime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen sajáidahttime, -min",
+                "ledjet sajáidahttime, -min",
+                "lei sajáidahttime, -min",
+                "leimme sajáidahttime, -min",
+                "leidde sajáidahttime, -min",
+                "leigga sajáidahttime, -min",
+                "leimmet sajáidahttime, -min",
+                "leiddet sajáidahttime, -min",
+                "ledje sajáidahttime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "sajáidahtášin",
+                "sajáidahtášit",
+                "sajáidahtášii",
+                "sajáidahtášeimme",
+                "sajáidahtášeidde",
+                "sajáidahtášeigga",
+                "sajáidahtášeimmet",
+                "sajáidahtášeiddet",
+                "sajáidahtášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in sajáidahtáše",
+                "it sajáidahtáše",
+                "ii sajáidahtáše",
+                "ean sajáidahtáše",
+                "eahppi sajáidahtáše",
+                "eaba sajáidahtáše",
+                "eat sajáidahtáše",
+                "ehpet sajáidahtáše",
+                "eai sajáidahtáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "sajáidahtežan",
+                "sajáidahtežat",
+                "sajáidahteš",
+                "sajáidahtežetne",
+                "sajáidahtežeahppi",
+                "sajáidahtežeaba",
+                "sajáidahtežit, -žat",
+                "sajáidahtežehpet",
+                "sajáidahtežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in sajáidahteš",
+                "it sajáidahteš",
+                "ii sajáidahteš",
+                "ean sajáidahteš",
+                "eahppi sajáidahteš",
+                "eaba sajáidahteš",
+                "eat sajáidahteš",
+                "ehpet sajáidahteš",
+                "eai sajáidahteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "sajáidahtton",
+                "sajáidahte",
+                "sajáidahttos",
+                "sajáidahttu",
+                "sajáidahtti",
+                "sajáidahttoska",
+                "sajáidahttot",
+                "sajáidahttet",
+                "sajáidahttoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon sajáidahte",
+                "ale sajáidahte",
+                "allos sajáidahte",
+                "allu sajáidahte",
+                "alli sajáidahte",
+                "alloska sajáidahte",
+                "allot, allut sajáidahte",
+                "allet, allit sajáidahte",
+                "alloset sajáidahte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Sajáidahttit",
+    "valid": 1
+}

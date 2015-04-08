@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "njoarrat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "njoaran",
+                "njoarat",
+                "njoarrá",
+                "njorre",
+                "njoarrabeahtti",
+                "njoarraba",
+                "njoarrat",
+                "njoarrabehtet",
+                "njorret"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in njoara",
+                "it njoara",
+                "ii njoara",
+                "ean njoara",
+                "eahppi njoara",
+                "eaba njoara",
+                "eat njoara",
+                "ehpet njoara",
+                "eai njoara"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "njorren",
+                "njorret",
+                "njoarai",
+                "njoaraime",
+                "njoaraide",
+                "njoaraiga",
+                "njoaraimet",
+                "njoaraidet",
+                "njorre"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in njoarran",
+                "it njoarran",
+                "ii njoarran",
+                "ean njoarran",
+                "eahppi njoarran",
+                "eaba njoarran",
+                "eat njoarran",
+                "ehpet njoarran",
+                "eai njoarran"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean njoarran",
+                "leat njoarran",
+                "lea njoarran",
+                "letne njoarran",
+                "leahppi njoarran",
+                "leaba njoarran",
+                "leat njoarran",
+                "lehpet njoarran",
+                "leat njoarran"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen njoarran",
+                "ledjet njoarran",
+                "lei njoarran",
+                "leimme njoarran",
+                "leidde njoarran",
+                "leigga njoarran",
+                "leimmet njoarran",
+                "leiddet njoarran",
+                "ledje njoarran"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean njoarrame, -min",
+                "leat njoarrame, -min",
+                "lea njoarrame, -min",
+                "letne njoarrame, -min",
+                "leahppi njoarrame, -min",
+                "leaba njoarrame, -min",
+                "leat njoarrame, -min",
+                "lehpet njoarrame, -min",
+                "leat njoarrame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen njoarrame, -min",
+                "ledjet njoarrame, -min",
+                "lei njoarrame, -min",
+                "leimme njoarrame, -min",
+                "leidde njoarrame, -min",
+                "leigga njoarrame, -min",
+                "leimmet njoarrame, -min",
+                "leiddet njoarrame, -min",
+                "ledje njoarrame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "njoarašin",
+                "njoarašit",
+                "njoarašii",
+                "njoarašeimme",
+                "njoarašeidde",
+                "njoarašeigga",
+                "njoarašeimmet",
+                "njoarašeiddet",
+                "njoarašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in njoaraše",
+                "it njoaraše",
+                "ii njoaraše",
+                "ean njoaraše",
+                "eahppi njoaraše",
+                "eaba njoaraše",
+                "eat njoaraše",
+                "ehpet njoaraše",
+                "eai njoaraše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "njoaražan",
+                "njoaražat",
+                "njoaraš",
+                "njoaražetne",
+                "njoaražeahppi",
+                "njoaražeaba",
+                "njoaražit, -žat",
+                "njoaražehpet",
+                "njoaražit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in njoaraš",
+                "it njoaraš",
+                "ii njoaraš",
+                "ean njoaraš",
+                "eahppi njoaraš",
+                "eaba njoaraš",
+                "eat njoaraš",
+                "ehpet njoaraš",
+                "eai njoaraš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "njorron",
+                "njoara",
+                "njorros",
+                "njoarru",
+                "njoarri",
+                "njorroska",
+                "njorrot, njoarrot",
+                "njorret, njoarrit",
+                "njorroset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon njoara",
+                "ale njoara",
+                "allos njoara",
+                "allu njoara",
+                "alli njoara",
+                "alloska njoara",
+                "allot, allut njoara",
+                "allet, allit njoara",
+                "alloset njoara"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Njoarrat",
+    "valid": 1
+}

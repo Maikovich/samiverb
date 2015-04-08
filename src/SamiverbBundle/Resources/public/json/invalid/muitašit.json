@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "muitašit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "muitašan",
+                "muitašat",
+                "muitaša",
+                "muitašetne",
+                "muitašeahppi",
+                "muitašeaba",
+                "muitašit, -šat",
+                "muitašehpet",
+                "muitašit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in muitaš",
+                "it muitaš",
+                "ii muitaš",
+                "ean muitaš",
+                "eahppi muitaš",
+                "eaba muitaš",
+                "eat muitaš",
+                "ehpet muitaš",
+                "eai muitaš"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "muitašin",
+                "muitašit",
+                "muitašii",
+                "muitašeimme",
+                "muitašeidde",
+                "muitašeigga",
+                "muitašeimmet",
+                "muitašeiddet",
+                "muitašedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in muitašan",
+                "it muitašan",
+                "ii muitašan",
+                "ean muitašan",
+                "eahppi muitašan",
+                "eaba muitašan",
+                "eat muitašan",
+                "ehpet muitašan",
+                "eai muitašan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean muitašan",
+                "leat muitašan",
+                "lea muitašan",
+                "letne muitašan",
+                "leahppi muitašan",
+                "leaba muitašan",
+                "leat muitašan",
+                "lehpet muitašan",
+                "leat muitašan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen muitašan",
+                "ledjet muitašan",
+                "lei muitašan",
+                "leimme muitašan",
+                "leidde muitašan",
+                "leigga muitašan",
+                "leimmet muitašan",
+                "leiddet muitašan",
+                "ledje muitašan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean muitašeame, -men",
+                "leat muitašeame, -men",
+                "lea muitašeame, -men",
+                "letne muitašeame, -men",
+                "leahppi muitašeame, -men",
+                "leaba muitašeame, -men",
+                "leat muitašeame, -men",
+                "lehpet muitašeame, -men",
+                "leat muitašeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen muitašeame, -men",
+                "ledjet muitašeame, -men",
+                "lei muitašeame, -men",
+                "leimme muitašeame, -men",
+                "leidde muitašeame, -men",
+                "leigga muitašeame, -men",
+                "leimmet muitašeame, -men",
+                "leiddet muitašeame, -men",
+                "ledje muitašeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "muitašivččen",
+                "muitašivččet",
+                "muitašivččii",
+                "muitašivččiime",
+                "muitašivččiide",
+                "muitašivččiiga",
+                "muitašivččiimet",
+                "muitašivččiidet",
+                "muitašivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in muitašivčče",
+                "it muitašivčče",
+                "ii muitašivčče",
+                "ean muitašivčče",
+                "eahppi muitašivčče",
+                "eaba muitašivčče",
+                "eat muitašivčče",
+                "ehpet muitašivčče",
+                "eai muitašivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "muitašeaččan",
+                "muitašeaččat",
+                "muitašeaš, -šeš, -šeažžá",
+                "muitašežže",
+                "muitašeažžabeahtti",
+                "muitašeažžaba",
+                "muitašeažžat",
+                "muitašeažžabehtet",
+                "muitašežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in muitašeaš, -šeš, -šeažžá",
+                "it muitašeaš, -šeš, -šeažžá",
+                "ii muitašeaš, -šeš, -šeažžá",
+                "ean muitašeaš, -šeš, -šeažžá",
+                "eahppi muitašeaš, -šeš, -šeažžá",
+                "eaba muitašeaš, -šeš, -šeažžá",
+                "eat muitašeaš, -šeš, -šeažžá",
+                "ehpet muitašeaš, -šeš, -šeažžá",
+                "eai muitašeaš, -šeš, -šeažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "muitašehkon",
+                "muitaš",
+                "muitašehkos, muitašus",
+                "muitašeadnu",
+                "muitašeahkki",
+                "muitašehkoska",
+                "muitašehkot, muitašeahkkut, muitašetnot, muitašeadnot",
+                "muitašehket",
+                "muitašehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon muitaš",
+                "ale muitaš",
+                "allos muitaš",
+                "allu muitaš",
+                "alli muitaš",
+                "alloska muitaš",
+                "allot, allut muitaš",
+                "allet, allit muitaš",
+                "alloset muitaš"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Muitašit",
+    "valid": 0
+}

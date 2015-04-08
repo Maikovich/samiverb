@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "oastit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "oasttán",
+                "oasttát",
+                "oastá",
+                "oste",
+                "oastibeahtti",
+                "oastiba",
+                "oastit",
+                "oastibehtet",
+                "ostet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in oastte",
+                "it oastte",
+                "ii oastte",
+                "ean oastte",
+                "eahppi oastte",
+                "eaba oastte",
+                "eat oastte",
+                "ehpet oastte",
+                "eai oastte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "osten",
+                "ostet",
+                "osttii",
+                "osttiime",
+                "osttiide",
+                "osttiiga",
+                "osttiimet",
+                "osttiidet",
+                "oste"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in oastán",
+                "it oastán",
+                "ii oastán",
+                "ean oastán",
+                "eahppi oastán",
+                "eaba oastán",
+                "eat oastán",
+                "ehpet oastán",
+                "eai oastán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean oastán",
+                "leat oastán",
+                "lea oastán",
+                "letne oastán",
+                "leahppi oastán",
+                "leaba oastán",
+                "leat oastán",
+                "lehpet oastán",
+                "leat oastán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen oastán",
+                "ledjet oastán",
+                "lei oastán",
+                "leimme oastán",
+                "leidde oastán",
+                "leigga oastán",
+                "leimmet oastán",
+                "leiddet oastán",
+                "ledje oastán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean oastime, -min",
+                "leat oastime, -min",
+                "lea oastime, -min",
+                "letne oastime, -min",
+                "leahppi oastime, -min",
+                "leaba oastime, -min",
+                "leat oastime, -min",
+                "lehpet oastime, -min",
+                "leat oastime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen oastime, -min",
+                "ledjet oastime, -min",
+                "lei oastime, -min",
+                "leimme oastime, -min",
+                "leidde oastime, -min",
+                "leigga oastime, -min",
+                "leimmet oastime, -min",
+                "leiddet oastime, -min",
+                "ledje oastime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "oasttášin",
+                "oasttášit",
+                "oasttášii",
+                "oasttášeimme",
+                "oasttášeidde",
+                "oasttášeigga",
+                "oasttášeimmet",
+                "oasttášeiddet",
+                "oasttášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in oasttáše",
+                "it oasttáše",
+                "ii oasttáše",
+                "ean oasttáše",
+                "eahppi oasttáše",
+                "eaba oasttáše",
+                "eat oasttáše",
+                "ehpet oasttáše",
+                "eai oasttáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "osttežan",
+                "osttežat",
+                "ostteš",
+                "osttežetne",
+                "osttežeahppi",
+                "osttežeaba",
+                "osttežit, -žat",
+                "osttežehpet",
+                "osttežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in ostteš",
+                "it ostteš",
+                "ii ostteš",
+                "ean ostteš",
+                "eahppi ostteš",
+                "eaba ostteš",
+                "eat ostteš",
+                "ehpet ostteš",
+                "eai ostteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "oston",
+                "oastte",
+                "ostos",
+                "oastu",
+                "oasti",
+                "ostoska",
+                "ostot, oastot",
+                "ostet, oastet",
+                "ostoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon oastte",
+                "ale oastte",
+                "allos oastte",
+                "allu oastte",
+                "alli oastte",
+                "alloska oastte",
+                "allot, allut oastte",
+                "allet, allit oastte",
+                "alloset oastte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Oastit",
+    "valid": 1
+}

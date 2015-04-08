@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gieldit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gielddán",
+                "gielddát",
+                "gieldá",
+                "gilde",
+                "gieldibeahtti",
+                "gieldiba",
+                "gieldit",
+                "gieldibehtet",
+                "gildet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gieldde",
+                "it gieldde",
+                "ii gieldde",
+                "ean gieldde",
+                "eahppi gieldde",
+                "eaba gieldde",
+                "eat gieldde",
+                "ehpet gieldde",
+                "eai gieldde"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gilden",
+                "gildet",
+                "gilddii",
+                "gilddiime",
+                "gilddiide",
+                "gilddiiga",
+                "gilddiimet",
+                "gilddiidet",
+                "gilde"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gieldán",
+                "it gieldán",
+                "ii gieldán",
+                "ean gieldán",
+                "eahppi gieldán",
+                "eaba gieldán",
+                "eat gieldán",
+                "ehpet gieldán",
+                "eai gieldán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gieldán",
+                "leat gieldán",
+                "lea gieldán",
+                "letne gieldán",
+                "leahppi gieldán",
+                "leaba gieldán",
+                "leat gieldán",
+                "lehpet gieldán",
+                "leat gieldán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gieldán",
+                "ledjet gieldán",
+                "lei gieldán",
+                "leimme gieldán",
+                "leidde gieldán",
+                "leigga gieldán",
+                "leimmet gieldán",
+                "leiddet gieldán",
+                "ledje gieldán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gieldime, -min",
+                "leat gieldime, -min",
+                "lea gieldime, -min",
+                "letne gieldime, -min",
+                "leahppi gieldime, -min",
+                "leaba gieldime, -min",
+                "leat gieldime, -min",
+                "lehpet gieldime, -min",
+                "leat gieldime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gieldime, -min",
+                "ledjet gieldime, -min",
+                "lei gieldime, -min",
+                "leimme gieldime, -min",
+                "leidde gieldime, -min",
+                "leigga gieldime, -min",
+                "leimmet gieldime, -min",
+                "leiddet gieldime, -min",
+                "ledje gieldime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gielddášin",
+                "gielddášit",
+                "gielddášii",
+                "gielddášeimme",
+                "gielddášeidde",
+                "gielddášeigga",
+                "gielddášeimmet",
+                "gielddášeiddet",
+                "gielddášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gielddáše",
+                "it gielddáše",
+                "ii gielddáše",
+                "ean gielddáše",
+                "eahppi gielddáše",
+                "eaba gielddáše",
+                "eat gielddáše",
+                "ehpet gielddáše",
+                "eai gielddáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gilddežan",
+                "gilddežat",
+                "gilddeš",
+                "gilddežetne",
+                "gilddežeahppi",
+                "gilddežeaba",
+                "gilddežit, -žat",
+                "gilddežehpet",
+                "gilddežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gilddeš",
+                "it gilddeš",
+                "ii gilddeš",
+                "ean gilddeš",
+                "eahppi gilddeš",
+                "eaba gilddeš",
+                "eat gilddeš",
+                "ehpet gilddeš",
+                "eai gilddeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gildon",
+                "gieldde",
+                "gildos",
+                "gieldu",
+                "gieldi",
+                "gildoska",
+                "gildot, gieldot",
+                "gildet, gieldet",
+                "gildoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gieldde",
+                "ale gieldde",
+                "allos gieldde",
+                "allu gieldde",
+                "alli gieldde",
+                "alloska gieldde",
+                "allot, allut gieldde",
+                "allet, allit gieldde",
+                "alloset gieldde"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gieldit",
+    "valid": 1
+}

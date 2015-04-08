@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "mánnat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "mánan",
+                "mánat",
+                "mánná",
+                "mánne",
+                "mánnabeahtti",
+                "mánnaba",
+                "mánnat",
+                "mánnabehtet",
+                "mánnet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in mána",
+                "it mána",
+                "ii mána",
+                "ean mána",
+                "eahppi mána",
+                "eaba mána",
+                "eat mána",
+                "ehpet mána",
+                "eai mána"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "mánnen",
+                "mánnet",
+                "mánai",
+                "mánaime",
+                "mánaide",
+                "mánaiga",
+                "mánaimet",
+                "mánaidet",
+                "mánne"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in mánnan",
+                "it mánnan",
+                "ii mánnan",
+                "ean mánnan",
+                "eahppi mánnan",
+                "eaba mánnan",
+                "eat mánnan",
+                "ehpet mánnan",
+                "eai mánnan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean mánnan",
+                "leat mánnan",
+                "lea mánnan",
+                "letne mánnan",
+                "leahppi mánnan",
+                "leaba mánnan",
+                "leat mánnan",
+                "lehpet mánnan",
+                "leat mánnan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen mánnan",
+                "ledjet mánnan",
+                "lei mánnan",
+                "leimme mánnan",
+                "leidde mánnan",
+                "leigga mánnan",
+                "leimmet mánnan",
+                "leiddet mánnan",
+                "ledje mánnan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean mánname, -min",
+                "leat mánname, -min",
+                "lea mánname, -min",
+                "letne mánname, -min",
+                "leahppi mánname, -min",
+                "leaba mánname, -min",
+                "leat mánname, -min",
+                "lehpet mánname, -min",
+                "leat mánname, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen mánname, -min",
+                "ledjet mánname, -min",
+                "lei mánname, -min",
+                "leimme mánname, -min",
+                "leidde mánname, -min",
+                "leigga mánname, -min",
+                "leimmet mánname, -min",
+                "leiddet mánname, -min",
+                "ledje mánname, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "mánašin",
+                "mánašit",
+                "mánašii",
+                "mánašeimme",
+                "mánašeidde",
+                "mánašeigga",
+                "mánašeimmet",
+                "mánašeiddet",
+                "mánašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in mánaše",
+                "it mánaše",
+                "ii mánaše",
+                "ean mánaše",
+                "eahppi mánaše",
+                "eaba mánaše",
+                "eat mánaše",
+                "ehpet mánaše",
+                "eai mánaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "mánažan",
+                "mánažat",
+                "mánaš",
+                "mánažetne",
+                "mánažeahppi",
+                "mánažeaba",
+                "mánažit, -žat",
+                "mánažehpet",
+                "mánažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in mánaš",
+                "it mánaš",
+                "ii mánaš",
+                "ean mánaš",
+                "eahppi mánaš",
+                "eaba mánaš",
+                "eat mánaš",
+                "ehpet mánaš",
+                "eai mánaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "mánnon",
+                "mána",
+                "mánnos",
+                "mánnu",
+                "mánni",
+                "mánnoska",
+                "mánnot",
+                "mánnet, mánnit",
+                "mánnoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon mána",
+                "ale mána",
+                "allos mána",
+                "allu mána",
+                "alli mána",
+                "alloska mána",
+                "allot, allut mána",
+                "allet, allit mána",
+                "alloset mána"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Mánnat",
+    "valid": 1
+}

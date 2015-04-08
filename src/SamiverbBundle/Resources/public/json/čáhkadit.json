@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čáhkadit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čáhkadan",
+                "čáhkadat",
+                "čáhkada",
+                "čáhkadetne",
+                "čáhkadeahppi",
+                "čáhkadeaba",
+                "čáhkadit, -dat",
+                "čáhkadehpet",
+                "čáhkadit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čáhkat",
+                "it čáhkat",
+                "ii čáhkat",
+                "ean čáhkat",
+                "eahppi čáhkat",
+                "eaba čáhkat",
+                "eat čáhkat",
+                "ehpet čáhkat",
+                "eai čáhkat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čáhkadin",
+                "čáhkadit",
+                "čáhkadii",
+                "čáhkadeimme",
+                "čáhkadeidde",
+                "čáhkadeigga",
+                "čáhkadeimmet",
+                "čáhkadeiddet",
+                "čáhkadedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čáhkadan",
+                "it čáhkadan",
+                "ii čáhkadan",
+                "ean čáhkadan",
+                "eahppi čáhkadan",
+                "eaba čáhkadan",
+                "eat čáhkadan",
+                "ehpet čáhkadan",
+                "eai čáhkadan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čáhkadan",
+                "leat čáhkadan",
+                "lea čáhkadan",
+                "letne čáhkadan",
+                "leahppi čáhkadan",
+                "leaba čáhkadan",
+                "leat čáhkadan",
+                "lehpet čáhkadan",
+                "leat čáhkadan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čáhkadan",
+                "ledjet čáhkadan",
+                "lei čáhkadan",
+                "leimme čáhkadan",
+                "leidde čáhkadan",
+                "leigga čáhkadan",
+                "leimmet čáhkadan",
+                "leiddet čáhkadan",
+                "ledje čáhkadan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čáhkadeame, -men",
+                "leat čáhkadeame, -men",
+                "lea čáhkadeame, -men",
+                "letne čáhkadeame, -men",
+                "leahppi čáhkadeame, -men",
+                "leaba čáhkadeame, -men",
+                "leat čáhkadeame, -men",
+                "lehpet čáhkadeame, -men",
+                "leat čáhkadeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čáhkadeame, -men",
+                "ledjet čáhkadeame, -men",
+                "lei čáhkadeame, -men",
+                "leimme čáhkadeame, -men",
+                "leidde čáhkadeame, -men",
+                "leigga čáhkadeame, -men",
+                "leimmet čáhkadeame, -men",
+                "leiddet čáhkadeame, -men",
+                "ledje čáhkadeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čáhkadivččen",
+                "čáhkadivččet",
+                "čáhkadivččii",
+                "čáhkadivččiime",
+                "čáhkadivččiide",
+                "čáhkadivččiiga",
+                "čáhkadivččiimet",
+                "čáhkadivččiidet",
+                "čáhkadivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čáhkadivčče",
+                "it čáhkadivčče",
+                "ii čáhkadivčče",
+                "ean čáhkadivčče",
+                "eahppi čáhkadivčče",
+                "eaba čáhkadivčče",
+                "eat čáhkadivčče",
+                "ehpet čáhkadivčče",
+                "eai čáhkadivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čáhkadeaččan",
+                "čáhkadeaččat",
+                "čáhkadeaš, -deš, -deažžá",
+                "čáhkadežže",
+                "čáhkadeažžabeahtti",
+                "čáhkadeažžaba",
+                "čáhkadeažžat",
+                "čáhkadeažžabehtet",
+                "čáhkadežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čáhkadeaš, -deš, -deažžá",
+                "it čáhkadeaš, -deš, -deažžá",
+                "ii čáhkadeaš, -deš, -deažžá",
+                "ean čáhkadeaš, -deš, -deažžá",
+                "eahppi čáhkadeaš, -deš, -deažžá",
+                "eaba čáhkadeaš, -deš, -deažžá",
+                "eat čáhkadeaš, -deš, -deažžá",
+                "ehpet čáhkadeaš, -deš, -deažžá",
+                "eai čáhkadeaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čáhkadehkon",
+                "čáhkat",
+                "čáhkadehkos, čáhkadus",
+                "čáhkadeadnu",
+                "čáhkadeahkki",
+                "čáhkadehkoska",
+                "čáhkadehkot, čáhkadeahkkut, čáhkadetnot, čáhkadeadnot",
+                "čáhkadehket",
+                "čáhkadehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čáhkat",
+                "ale čáhkat",
+                "allos čáhkat",
+                "allu čáhkat",
+                "alli čáhkat",
+                "alloska čáhkat",
+                "allot, allut čáhkat",
+                "allet, allit čáhkat",
+                "alloset čáhkat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čáhkadit",
+    "valid": 1
+}

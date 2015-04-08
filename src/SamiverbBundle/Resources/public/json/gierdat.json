@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gierdat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gierddan",
+                "gierddat",
+                "gierdá",
+                "girde",
+                "gierdabeahtti",
+                "gierdaba",
+                "gierdat",
+                "gierdabehtet",
+                "girdet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gierdda",
+                "it gierdda",
+                "ii gierdda",
+                "ean gierdda",
+                "eahppi gierdda",
+                "eaba gierdda",
+                "eat gierdda",
+                "ehpet gierdda",
+                "eai gierdda"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "girden",
+                "girdet",
+                "gierddai",
+                "gierddaime",
+                "gierddaide",
+                "gierddaiga",
+                "gierddaimet",
+                "gierddaidet",
+                "girde"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gierdan",
+                "it gierdan",
+                "ii gierdan",
+                "ean gierdan",
+                "eahppi gierdan",
+                "eaba gierdan",
+                "eat gierdan",
+                "ehpet gierdan",
+                "eai gierdan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gierdan",
+                "leat gierdan",
+                "lea gierdan",
+                "letne gierdan",
+                "leahppi gierdan",
+                "leaba gierdan",
+                "leat gierdan",
+                "lehpet gierdan",
+                "leat gierdan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gierdan",
+                "ledjet gierdan",
+                "lei gierdan",
+                "leimme gierdan",
+                "leidde gierdan",
+                "leigga gierdan",
+                "leimmet gierdan",
+                "leiddet gierdan",
+                "ledje gierdan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gierdame, -min",
+                "leat gierdame, -min",
+                "lea gierdame, -min",
+                "letne gierdame, -min",
+                "leahppi gierdame, -min",
+                "leaba gierdame, -min",
+                "leat gierdame, -min",
+                "lehpet gierdame, -min",
+                "leat gierdame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gierdame, -min",
+                "ledjet gierdame, -min",
+                "lei gierdame, -min",
+                "leimme gierdame, -min",
+                "leidde gierdame, -min",
+                "leigga gierdame, -min",
+                "leimmet gierdame, -min",
+                "leiddet gierdame, -min",
+                "ledje gierdame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gierddašin",
+                "gierddašit",
+                "gierddašii",
+                "gierddašeimme",
+                "gierddašeidde",
+                "gierddašeigga",
+                "gierddašeimmet",
+                "gierddašeiddet",
+                "gierddašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gierddaše",
+                "it gierddaše",
+                "ii gierddaše",
+                "ean gierddaše",
+                "eahppi gierddaše",
+                "eaba gierddaše",
+                "eat gierddaše",
+                "ehpet gierddaše",
+                "eai gierddaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gierddažan",
+                "gierddažat",
+                "gierddaš",
+                "gierddažetne",
+                "gierddažeahppi",
+                "gierddažeaba",
+                "gierddažit, -žat",
+                "gierddažehpet",
+                "gierddažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gierddaš",
+                "it gierddaš",
+                "ii gierddaš",
+                "ean gierddaš",
+                "eahppi gierddaš",
+                "eaba gierddaš",
+                "eat gierddaš",
+                "ehpet gierddaš",
+                "eai gierddaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "girdon",
+                "gierdda",
+                "girdos",
+                "gierdu",
+                "gierdi",
+                "girdoska",
+                "girdot, gierdot",
+                "girdet, gierdit",
+                "girdoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gierdda",
+                "ale gierdda",
+                "allos gierdda",
+                "allu gierdda",
+                "alli gierdda",
+                "alloska gierdda",
+                "allot, allut gierdda",
+                "allet, allit gierdda",
+                "alloset gierdda"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gierdat",
+    "valid": 1
+}

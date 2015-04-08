@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "šearrát",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "šearrán",
+                "šearrát",
+                "šearrá",
+                "šearrájetne",
+                "šearrábeahtti",
+                "šearrába",
+                "šearrát",
+                "šearrábehtet",
+                "šearrájit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in šearrá",
+                "it šearrá",
+                "ii šearrá",
+                "ean šearrá",
+                "eahppi šearrá",
+                "eaba šearrá",
+                "eat šearrá",
+                "ehpet šearrá",
+                "eai šearrá"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "šearrájin",
+                "šearrájit",
+                "šearrái",
+                "šearráime",
+                "šearráide",
+                "šearráiga",
+                "šearráimet",
+                "šearráidet",
+                "šearrájedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in šearrán",
+                "it šearrán",
+                "ii šearrán",
+                "ean šearrán",
+                "eahppi šearrán",
+                "eaba šearrán",
+                "eat šearrán",
+                "ehpet šearrán",
+                "eai šearrán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean šearrán",
+                "leat šearrán",
+                "lea šearrán",
+                "letne šearrán",
+                "leahppi šearrán",
+                "leaba šearrán",
+                "leat šearrán",
+                "lehpet šearrán",
+                "leat šearrán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen šearrán",
+                "ledjet šearrán",
+                "lei šearrán",
+                "leimme šearrán",
+                "leidde šearrán",
+                "leigga šearrán",
+                "leimmet šearrán",
+                "leiddet šearrán",
+                "ledje šearrán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean šearráme, -min",
+                "leat šearráme, -min",
+                "lea šearráme, -min",
+                "letne šearráme, -min",
+                "leahppi šearráme, -min",
+                "leaba šearráme, -min",
+                "leat šearráme, -min",
+                "lehpet šearráme, -min",
+                "leat šearráme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen šearráme, -min",
+                "ledjet šearráme, -min",
+                "lei šearráme, -min",
+                "leimme šearráme, -min",
+                "leidde šearráme, -min",
+                "leigga šearráme, -min",
+                "leimmet šearráme, -min",
+                "leiddet šearráme, -min",
+                "ledje šearráme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "šearrášin",
+                "šearrášit",
+                "šearrášii",
+                "šearrášeimme",
+                "šearrášeidde",
+                "šearrášeigga",
+                "šearrášeimmet",
+                "šearrášeiddet",
+                "šearrášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in šearráše",
+                "it šearráše",
+                "ii šearráše",
+                "ean šearráše",
+                "eahppi šearráše",
+                "eaba šearráše",
+                "eat šearráše",
+                "ehpet šearráše",
+                "eai šearráše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "šearrážan",
+                "šearrážat",
+                "šearráš",
+                "šearrážetne",
+                "šearrážeahppi",
+                "šearrážeaba",
+                "šearrážit, -žat",
+                "šearrážehpet",
+                "šearrážit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in šearráš",
+                "it šearráš",
+                "ii šearráš",
+                "ean šearráš",
+                "eahppi šearráš",
+                "eaba šearráš",
+                "eat šearráš",
+                "ehpet šearráš",
+                "eai šearráš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "šearrájehkon",
+                "šearrá",
+                "šearrájehkos",
+                "šearrájeadnu",
+                "šearrájeahkki",
+                "šearrájehkoska",
+                "šearrájeahkkut, šearrájeadnot, šearrájehkot, šearrájetnot",
+                "šearrájeahkkit",
+                "šearrájehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon šearrá",
+                "ale šearrá",
+                "allos šearrá",
+                "allu šearrá",
+                "alli šearrá",
+                "alloska šearrá",
+                "allot, allut šearrá",
+                "allet, allit šearrá",
+                "alloset šearrá"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Šearrát",
+    "valid": 1
+}

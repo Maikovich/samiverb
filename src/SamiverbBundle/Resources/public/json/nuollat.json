@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "nuollat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "nuolan",
+                "nuolat",
+                "nuollá",
+                "nulle",
+                "nuollabeahtti",
+                "nuollaba",
+                "nuollat",
+                "nuollabehtet",
+                "nullet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in nuola",
+                "it nuola",
+                "ii nuola",
+                "ean nuola",
+                "eahppi nuola",
+                "eaba nuola",
+                "eat nuola",
+                "ehpet nuola",
+                "eai nuola"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "nullen",
+                "nullet",
+                "nuolai",
+                "nuolaime",
+                "nuolaide",
+                "nuolaiga",
+                "nuolaimet",
+                "nuolaidet",
+                "nulle"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in nuollan",
+                "it nuollan",
+                "ii nuollan",
+                "ean nuollan",
+                "eahppi nuollan",
+                "eaba nuollan",
+                "eat nuollan",
+                "ehpet nuollan",
+                "eai nuollan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean nuollan",
+                "leat nuollan",
+                "lea nuollan",
+                "letne nuollan",
+                "leahppi nuollan",
+                "leaba nuollan",
+                "leat nuollan",
+                "lehpet nuollan",
+                "leat nuollan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen nuollan",
+                "ledjet nuollan",
+                "lei nuollan",
+                "leimme nuollan",
+                "leidde nuollan",
+                "leigga nuollan",
+                "leimmet nuollan",
+                "leiddet nuollan",
+                "ledje nuollan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean nuollame, -min",
+                "leat nuollame, -min",
+                "lea nuollame, -min",
+                "letne nuollame, -min",
+                "leahppi nuollame, -min",
+                "leaba nuollame, -min",
+                "leat nuollame, -min",
+                "lehpet nuollame, -min",
+                "leat nuollame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen nuollame, -min",
+                "ledjet nuollame, -min",
+                "lei nuollame, -min",
+                "leimme nuollame, -min",
+                "leidde nuollame, -min",
+                "leigga nuollame, -min",
+                "leimmet nuollame, -min",
+                "leiddet nuollame, -min",
+                "ledje nuollame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "nuolašin",
+                "nuolašit",
+                "nuolašii",
+                "nuolašeimme",
+                "nuolašeidde",
+                "nuolašeigga",
+                "nuolašeimmet",
+                "nuolašeiddet",
+                "nuolašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in nuolaše",
+                "it nuolaše",
+                "ii nuolaše",
+                "ean nuolaše",
+                "eahppi nuolaše",
+                "eaba nuolaše",
+                "eat nuolaše",
+                "ehpet nuolaše",
+                "eai nuolaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "nuolažan",
+                "nuolažat",
+                "nuolaš",
+                "nuolažetne",
+                "nuolažeahppi",
+                "nuolažeaba",
+                "nuolažit, -žat",
+                "nuolažehpet",
+                "nuolažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in nuolaš",
+                "it nuolaš",
+                "ii nuolaš",
+                "ean nuolaš",
+                "eahppi nuolaš",
+                "eaba nuolaš",
+                "eat nuolaš",
+                "ehpet nuolaš",
+                "eai nuolaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "nullon",
+                "nuola",
+                "nullos",
+                "nuollu",
+                "nuolli",
+                "nulloska",
+                "nullot, nuollot",
+                "nullet, nuollit",
+                "nulloset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon nuola",
+                "ale nuola",
+                "allos nuola",
+                "allu nuola",
+                "alli nuola",
+                "alloska nuola",
+                "allot, allut nuola",
+                "allet, allit nuola",
+                "alloset nuola"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Nuollat",
+    "valid": 1
+}

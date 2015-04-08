@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gahččat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gahčan",
+                "gahčat",
+                "gahččá",
+                "gahčče",
+                "gahččabeahtti",
+                "gahččaba",
+                "gahččat",
+                "gahččabehtet",
+                "gahččet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gahča",
+                "it gahča",
+                "ii gahča",
+                "ean gahča",
+                "eahppi gahča",
+                "eaba gahča",
+                "eat gahča",
+                "ehpet gahča",
+                "eai gahča"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gahččen",
+                "gahččet",
+                "gahčai",
+                "gahčaime",
+                "gahčaide",
+                "gahčaiga",
+                "gahčaimet",
+                "gahčaidet",
+                "gahčče"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gahččan",
+                "it gahččan",
+                "ii gahččan",
+                "ean gahččan",
+                "eahppi gahččan",
+                "eaba gahččan",
+                "eat gahččan",
+                "ehpet gahččan",
+                "eai gahččan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gahččan",
+                "leat gahččan",
+                "lea gahččan",
+                "letne gahččan",
+                "leahppi gahččan",
+                "leaba gahččan",
+                "leat gahččan",
+                "lehpet gahččan",
+                "leat gahččan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gahččan",
+                "ledjet gahččan",
+                "lei gahččan",
+                "leimme gahččan",
+                "leidde gahččan",
+                "leigga gahččan",
+                "leimmet gahččan",
+                "leiddet gahččan",
+                "ledje gahččan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gahččame, -min",
+                "leat gahččame, -min",
+                "lea gahččame, -min",
+                "letne gahččame, -min",
+                "leahppi gahččame, -min",
+                "leaba gahččame, -min",
+                "leat gahččame, -min",
+                "lehpet gahččame, -min",
+                "leat gahččame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gahččame, -min",
+                "ledjet gahččame, -min",
+                "lei gahččame, -min",
+                "leimme gahččame, -min",
+                "leidde gahččame, -min",
+                "leigga gahččame, -min",
+                "leimmet gahččame, -min",
+                "leiddet gahččame, -min",
+                "ledje gahččame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gahčašin",
+                "gahčašit",
+                "gahčašii",
+                "gahčašeimme",
+                "gahčašeidde",
+                "gahčašeigga",
+                "gahčašeimmet",
+                "gahčašeiddet",
+                "gahčašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gahčaše",
+                "it gahčaše",
+                "ii gahčaše",
+                "ean gahčaše",
+                "eahppi gahčaše",
+                "eaba gahčaše",
+                "eat gahčaše",
+                "ehpet gahčaše",
+                "eai gahčaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gahčažan",
+                "gahčažat",
+                "gahčaš",
+                "gahčažetne",
+                "gahčažeahppi",
+                "gahčažeaba",
+                "gahčažit, -žat",
+                "gahčažehpet",
+                "gahčažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gahčaš",
+                "it gahčaš",
+                "ii gahčaš",
+                "ean gahčaš",
+                "eahppi gahčaš",
+                "eaba gahčaš",
+                "eat gahčaš",
+                "ehpet gahčaš",
+                "eai gahčaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gahččon",
+                "gahča",
+                "gahččos",
+                "gahčču",
+                "gahčči",
+                "gahččoska",
+                "gahččot",
+                "gahččet, gahččit",
+                "gahččoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gahča",
+                "ale gahča",
+                "allos gahča",
+                "allu gahča",
+                "alli gahča",
+                "alloska gahča",
+                "allot, allut gahča",
+                "allet, allit gahča",
+                "alloset gahča"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gahččat",
+    "valid": 1
+}

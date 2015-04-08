@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "atnit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "anán",
+                "anát",
+                "atná",
+                "atne",
+                "atnibeahtti",
+                "atniba",
+                "atnit",
+                "atnibehtet",
+                "atnet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in ane",
+                "it ane",
+                "ii ane",
+                "ean ane",
+                "eahppi ane",
+                "eaba ane",
+                "eat ane",
+                "ehpet ane",
+                "eai ane"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "atnen",
+                "atnet",
+                "anii",
+                "aniime",
+                "aniide",
+                "aniiga",
+                "aniimet",
+                "aniidet",
+                "atne"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in atnán",
+                "it atnán",
+                "ii atnán",
+                "ean atnán",
+                "eahppi atnán",
+                "eaba atnán",
+                "eat atnán",
+                "ehpet atnán",
+                "eai atnán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean atnán",
+                "leat atnán",
+                "lea atnán",
+                "letne atnán",
+                "leahppi atnán",
+                "leaba atnán",
+                "leat atnán",
+                "lehpet atnán",
+                "leat atnán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen atnán",
+                "ledjet atnán",
+                "lei atnán",
+                "leimme atnán",
+                "leidde atnán",
+                "leigga atnán",
+                "leimmet atnán",
+                "leiddet atnán",
+                "ledje atnán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean atnime, -min",
+                "leat atnime, -min",
+                "lea atnime, -min",
+                "letne atnime, -min",
+                "leahppi atnime, -min",
+                "leaba atnime, -min",
+                "leat atnime, -min",
+                "lehpet atnime, -min",
+                "leat atnime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen atnime, -min",
+                "ledjet atnime, -min",
+                "lei atnime, -min",
+                "leimme atnime, -min",
+                "leidde atnime, -min",
+                "leigga atnime, -min",
+                "leimmet atnime, -min",
+                "leiddet atnime, -min",
+                "ledje atnime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "anášin",
+                "anášit",
+                "anášii",
+                "anášeimme",
+                "anášeidde",
+                "anášeigga",
+                "anášeimmet",
+                "anášeiddet",
+                "anášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in anáše",
+                "it anáše",
+                "ii anáše",
+                "ean anáše",
+                "eahppi anáše",
+                "eaba anáše",
+                "eat anáše",
+                "ehpet anáše",
+                "eai anáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "anežan",
+                "anežat",
+                "aneš",
+                "anežetne",
+                "anežeahppi",
+                "anežeaba",
+                "anežit, -žat",
+                "anežehpet",
+                "anežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in aneš",
+                "it aneš",
+                "ii aneš",
+                "ean aneš",
+                "eahppi aneš",
+                "eaba aneš",
+                "eat aneš",
+                "ehpet aneš",
+                "eai aneš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "atnon",
+                "ane",
+                "atnos",
+                "adnu",
+                "adni",
+                "atnoska",
+                "atnot, adnot",
+                "atnet, adnet",
+                "atnoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon ane",
+                "ale ane",
+                "allos ane",
+                "allu ane",
+                "alli ane",
+                "alloska ane",
+                "allot, allut ane",
+                "allet, allit ane",
+                "alloset ane"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Atnit",
+    "valid": 1
+}

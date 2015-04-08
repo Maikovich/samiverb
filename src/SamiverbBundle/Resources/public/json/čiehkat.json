@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čiehkat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čiegan",
+                "čiegat",
+                "čiehká",
+                "čihke",
+                "čiehkabeahtti",
+                "čiehkaba",
+                "čiehkat",
+                "čiehkabehtet",
+                "čihket"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čiega",
+                "it čiega",
+                "ii čiega",
+                "ean čiega",
+                "eahppi čiega",
+                "eaba čiega",
+                "eat čiega",
+                "ehpet čiega",
+                "eai čiega"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čihken",
+                "čihket",
+                "čiegai",
+                "čiegaime",
+                "čiegaide",
+                "čiegaiga",
+                "čiegaimet",
+                "čiegaidet",
+                "čihke"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čiehkan",
+                "it čiehkan",
+                "ii čiehkan",
+                "ean čiehkan",
+                "eahppi čiehkan",
+                "eaba čiehkan",
+                "eat čiehkan",
+                "ehpet čiehkan",
+                "eai čiehkan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čiehkan",
+                "leat čiehkan",
+                "lea čiehkan",
+                "letne čiehkan",
+                "leahppi čiehkan",
+                "leaba čiehkan",
+                "leat čiehkan",
+                "lehpet čiehkan",
+                "leat čiehkan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čiehkan",
+                "ledjet čiehkan",
+                "lei čiehkan",
+                "leimme čiehkan",
+                "leidde čiehkan",
+                "leigga čiehkan",
+                "leimmet čiehkan",
+                "leiddet čiehkan",
+                "ledje čiehkan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čiehkame, -min",
+                "leat čiehkame, -min",
+                "lea čiehkame, -min",
+                "letne čiehkame, -min",
+                "leahppi čiehkame, -min",
+                "leaba čiehkame, -min",
+                "leat čiehkame, -min",
+                "lehpet čiehkame, -min",
+                "leat čiehkame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čiehkame, -min",
+                "ledjet čiehkame, -min",
+                "lei čiehkame, -min",
+                "leimme čiehkame, -min",
+                "leidde čiehkame, -min",
+                "leigga čiehkame, -min",
+                "leimmet čiehkame, -min",
+                "leiddet čiehkame, -min",
+                "ledje čiehkame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čiegašin",
+                "čiegašit",
+                "čiegašii",
+                "čiegašeimme",
+                "čiegašeidde",
+                "čiegašeigga",
+                "čiegašeimmet",
+                "čiegašeiddet",
+                "čiegašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čiegaše",
+                "it čiegaše",
+                "ii čiegaše",
+                "ean čiegaše",
+                "eahppi čiegaše",
+                "eaba čiegaše",
+                "eat čiegaše",
+                "ehpet čiegaše",
+                "eai čiegaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čiegažan",
+                "čiegažat",
+                "čiegaš",
+                "čiegažetne",
+                "čiegažeahppi",
+                "čiegažeaba",
+                "čiegažit, -žat",
+                "čiegažehpet",
+                "čiegažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čiegaš",
+                "it čiegaš",
+                "ii čiegaš",
+                "ean čiegaš",
+                "eahppi čiegaš",
+                "eaba čiegaš",
+                "eat čiegaš",
+                "ehpet čiegaš",
+                "eai čiegaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čihkon",
+                "čiega",
+                "čihkos",
+                "čiehkku",
+                "čiehkki",
+                "čihkoska",
+                "čihkot, čiehkkot",
+                "čihket, čiehkkit",
+                "čihkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čiega",
+                "ale čiega",
+                "allos čiega",
+                "allu čiega",
+                "alli čiega",
+                "alloska čiega",
+                "allot, allut čiega",
+                "allet, allit čiega",
+                "alloset čiega"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čiehkat",
+    "valid": 1
+}

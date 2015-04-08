@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "rassat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "rasan",
+                "rasat",
+                "rassá",
+                "rasse",
+                "rassabeahtti",
+                "rassaba",
+                "rassat",
+                "rassabehtet",
+                "rasset"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in rasa",
+                "it rasa",
+                "ii rasa",
+                "ean rasa",
+                "eahppi rasa",
+                "eaba rasa",
+                "eat rasa",
+                "ehpet rasa",
+                "eai rasa"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "rassen",
+                "rasset",
+                "rasai",
+                "rasaime",
+                "rasaide",
+                "rasaiga",
+                "rasaimet",
+                "rasaidet",
+                "rasse"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in rassan",
+                "it rassan",
+                "ii rassan",
+                "ean rassan",
+                "eahppi rassan",
+                "eaba rassan",
+                "eat rassan",
+                "ehpet rassan",
+                "eai rassan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean rassan",
+                "leat rassan",
+                "lea rassan",
+                "letne rassan",
+                "leahppi rassan",
+                "leaba rassan",
+                "leat rassan",
+                "lehpet rassan",
+                "leat rassan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen rassan",
+                "ledjet rassan",
+                "lei rassan",
+                "leimme rassan",
+                "leidde rassan",
+                "leigga rassan",
+                "leimmet rassan",
+                "leiddet rassan",
+                "ledje rassan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean rassame, -min",
+                "leat rassame, -min",
+                "lea rassame, -min",
+                "letne rassame, -min",
+                "leahppi rassame, -min",
+                "leaba rassame, -min",
+                "leat rassame, -min",
+                "lehpet rassame, -min",
+                "leat rassame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen rassame, -min",
+                "ledjet rassame, -min",
+                "lei rassame, -min",
+                "leimme rassame, -min",
+                "leidde rassame, -min",
+                "leigga rassame, -min",
+                "leimmet rassame, -min",
+                "leiddet rassame, -min",
+                "ledje rassame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "rasašin",
+                "rasašit",
+                "rasašii",
+                "rasašeimme",
+                "rasašeidde",
+                "rasašeigga",
+                "rasašeimmet",
+                "rasašeiddet",
+                "rasašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in rasaše",
+                "it rasaše",
+                "ii rasaše",
+                "ean rasaše",
+                "eahppi rasaše",
+                "eaba rasaše",
+                "eat rasaše",
+                "ehpet rasaše",
+                "eai rasaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "rasažan",
+                "rasažat",
+                "rasaš",
+                "rasažetne",
+                "rasažeahppi",
+                "rasažeaba",
+                "rasažit, -žat",
+                "rasažehpet",
+                "rasažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in rasaš",
+                "it rasaš",
+                "ii rasaš",
+                "ean rasaš",
+                "eahppi rasaš",
+                "eaba rasaš",
+                "eat rasaš",
+                "ehpet rasaš",
+                "eai rasaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "rasson",
+                "rasa",
+                "rassos",
+                "rassu",
+                "rassi",
+                "rassoska",
+                "rassot",
+                "rasset, rassit",
+                "rassoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon rasa",
+                "ale rasa",
+                "allos rasa",
+                "allu rasa",
+                "alli rasa",
+                "alloska rasa",
+                "allot, allut rasa",
+                "allet, allit rasa",
+                "alloset rasa"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Rassat",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "márfut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "márffun",
+                "márffut",
+                "márfu",
+                "márfo",
+                "márfubeahtti",
+                "márfuba",
+                "márfut",
+                "márfubehtet",
+                "márfot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in márffo",
+                "it márffo",
+                "ii márffo",
+                "ean márffo",
+                "eahppi márffo",
+                "eaba márffo",
+                "eat márffo",
+                "ehpet márffo",
+                "eai márffo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "márfon",
+                "márfot",
+                "márffui",
+                "márffuime",
+                "márffuide",
+                "márffuiga",
+                "márffuimet",
+                "márffuidet",
+                "márfo"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in márfon",
+                "it márfon",
+                "ii márfon",
+                "ean márfon",
+                "eahppi márfon",
+                "eaba márfon",
+                "eat márfon",
+                "ehpet márfon",
+                "eai márfon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean márfon",
+                "leat márfon",
+                "lea márfon",
+                "letne márfon",
+                "leahppi márfon",
+                "leaba márfon",
+                "leat márfon",
+                "lehpet márfon",
+                "leat márfon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen márfon",
+                "ledjet márfon",
+                "lei márfon",
+                "leimme márfon",
+                "leidde márfon",
+                "leigga márfon",
+                "leimmet márfon",
+                "leiddet márfon",
+                "ledje márfon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean márfume, -min",
+                "leat márfume, -min",
+                "lea márfume, -min",
+                "letne márfume, -min",
+                "leahppi márfume, -min",
+                "leaba márfume, -min",
+                "leat márfume, -min",
+                "lehpet márfume, -min",
+                "leat márfume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen márfume, -min",
+                "ledjet márfume, -min",
+                "lei márfume, -min",
+                "leimme márfume, -min",
+                "leidde márfume, -min",
+                "leigga márfume, -min",
+                "leimmet márfume, -min",
+                "leiddet márfume, -min",
+                "ledje márfume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "márffošin",
+                "márffošit",
+                "márffošii",
+                "márffošeimme",
+                "márffošeidde",
+                "márffošeigga",
+                "márffošeimmet",
+                "márffošeiddet",
+                "márffošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in márffoše",
+                "it márffoše",
+                "ii márffoše",
+                "ean márffoše",
+                "eahppi márffoše",
+                "eaba márffoše",
+                "eat márffoše",
+                "ehpet márffoše",
+                "eai márffoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "márffožan",
+                "márffožat",
+                "márffoš",
+                "márffožetne",
+                "márffožeahppi",
+                "márffožeaba",
+                "márffožit, -žat",
+                "márffožehpet",
+                "márffožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in márffoš",
+                "it márffoš",
+                "ii márffoš",
+                "ean márffoš",
+                "eahppi márffoš",
+                "eaba márffoš",
+                "eat márffoš",
+                "ehpet márffoš",
+                "eai márffoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "márfon",
+                "márffo",
+                "márfos",
+                "márfu",
+                "márfu",
+                "márfoska",
+                "márfot",
+                "márfot",
+                "márfoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon márffo",
+                "ale márffo",
+                "allos márffo",
+                "allu márffo",
+                "alli márffo",
+                "alloska márffo",
+                "allot, allut márffo",
+                "allet, allit márffo",
+                "alloset márffo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Márfut",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "váldot",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "váldon",
+                "váldot",
+                "váldo",
+                "váldojetne",
+                "váldobeahtti",
+                "váldoba",
+                "váldot",
+                "váldobehtet",
+                "váldojit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in váldo",
+                "it váldo",
+                "ii váldo",
+                "ean váldo",
+                "eahppi váldo",
+                "eaba váldo",
+                "eat váldo",
+                "ehpet váldo",
+                "eai váldo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "váldojin",
+                "váldojit",
+                "váldui",
+                "válduime",
+                "válduide",
+                "válduiga",
+                "válduimet",
+                "válduidet",
+                "váldojedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in váldon",
+                "it váldon",
+                "ii váldon",
+                "ean váldon",
+                "eahppi váldon",
+                "eaba váldon",
+                "eat váldon",
+                "ehpet váldon",
+                "eai váldon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean váldon",
+                "leat váldon",
+                "lea váldon",
+                "letne váldon",
+                "leahppi váldon",
+                "leaba váldon",
+                "leat váldon",
+                "lehpet váldon",
+                "leat váldon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen váldon",
+                "ledjet váldon",
+                "lei váldon",
+                "leimme váldon",
+                "leidde váldon",
+                "leigga váldon",
+                "leimmet váldon",
+                "leiddet váldon",
+                "ledje váldon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean váldome, -min",
+                "leat váldome, -min",
+                "lea váldome, -min",
+                "letne váldome, -min",
+                "leahppi váldome, -min",
+                "leaba váldome, -min",
+                "leat váldome, -min",
+                "lehpet váldome, -min",
+                "leat váldome, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen váldome, -min",
+                "ledjet váldome, -min",
+                "lei váldome, -min",
+                "leimme váldome, -min",
+                "leidde váldome, -min",
+                "leigga váldome, -min",
+                "leimmet váldome, -min",
+                "leiddet váldome, -min",
+                "ledje váldome, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "váldošin",
+                "váldošit",
+                "váldošii",
+                "váldošeimme",
+                "váldošeidde",
+                "váldošeigga",
+                "váldošeimmet",
+                "váldošeiddet",
+                "váldošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in váldoše",
+                "it váldoše",
+                "ii váldoše",
+                "ean váldoše",
+                "eahppi váldoše",
+                "eaba váldoše",
+                "eat váldoše",
+                "ehpet váldoše",
+                "eai váldoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "váldožan",
+                "váldožat",
+                "váldoš",
+                "váldožetne",
+                "váldožeahppi",
+                "váldožeaba",
+                "váldožit, -žat",
+                "váldožehpet",
+                "váldožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in váldoš",
+                "it váldoš",
+                "ii váldoš",
+                "ean váldoš",
+                "eahppi váldoš",
+                "eaba váldoš",
+                "eat váldoš",
+                "ehpet váldoš",
+                "eai váldoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "váldojehkon",
+                "váldo",
+                "váldojehkos",
+                "váldojeadnu",
+                "váldojeahkki",
+                "váldojehkoska",
+                "váldojeahkkut, váldojeadnot, váldojehkot, váldojetnot",
+                "váldojeahkkit",
+                "váldojehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon váldo",
+                "ale váldo",
+                "allos váldo",
+                "allu váldo",
+                "alli váldo",
+                "alloska váldo",
+                "allot, allut váldo",
+                "allet, allit váldo",
+                "alloset váldo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Váldot",
+    "valid": 1
+}

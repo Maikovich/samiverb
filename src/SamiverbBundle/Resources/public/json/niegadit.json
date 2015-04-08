@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "niegadit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "niegadan",
+                "niegadat",
+                "niegada",
+                "niegadetne",
+                "niegadeahppi",
+                "niegadeaba",
+                "niegadit, -dat",
+                "niegadehpet",
+                "niegadit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in niegat",
+                "it niegat",
+                "ii niegat",
+                "ean niegat",
+                "eahppi niegat",
+                "eaba niegat",
+                "eat niegat",
+                "ehpet niegat",
+                "eai niegat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "niegadin",
+                "niegadit",
+                "niegadii",
+                "niegadeimme",
+                "niegadeidde",
+                "niegadeigga",
+                "niegadeimmet",
+                "niegadeiddet",
+                "niegadedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in niegadan",
+                "it niegadan",
+                "ii niegadan",
+                "ean niegadan",
+                "eahppi niegadan",
+                "eaba niegadan",
+                "eat niegadan",
+                "ehpet niegadan",
+                "eai niegadan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean niegadan",
+                "leat niegadan",
+                "lea niegadan",
+                "letne niegadan",
+                "leahppi niegadan",
+                "leaba niegadan",
+                "leat niegadan",
+                "lehpet niegadan",
+                "leat niegadan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen niegadan",
+                "ledjet niegadan",
+                "lei niegadan",
+                "leimme niegadan",
+                "leidde niegadan",
+                "leigga niegadan",
+                "leimmet niegadan",
+                "leiddet niegadan",
+                "ledje niegadan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean niegadeame, -men",
+                "leat niegadeame, -men",
+                "lea niegadeame, -men",
+                "letne niegadeame, -men",
+                "leahppi niegadeame, -men",
+                "leaba niegadeame, -men",
+                "leat niegadeame, -men",
+                "lehpet niegadeame, -men",
+                "leat niegadeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen niegadeame, -men",
+                "ledjet niegadeame, -men",
+                "lei niegadeame, -men",
+                "leimme niegadeame, -men",
+                "leidde niegadeame, -men",
+                "leigga niegadeame, -men",
+                "leimmet niegadeame, -men",
+                "leiddet niegadeame, -men",
+                "ledje niegadeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "niegadivččen",
+                "niegadivččet",
+                "niegadivččii",
+                "niegadivččiime",
+                "niegadivččiide",
+                "niegadivččiiga",
+                "niegadivččiimet",
+                "niegadivččiidet",
+                "niegadivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in niegadivčče",
+                "it niegadivčče",
+                "ii niegadivčče",
+                "ean niegadivčče",
+                "eahppi niegadivčče",
+                "eaba niegadivčče",
+                "eat niegadivčče",
+                "ehpet niegadivčče",
+                "eai niegadivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "niegadeaččan",
+                "niegadeaččat",
+                "niegadeaš, -deš, -deažžá",
+                "niegadežže",
+                "niegadeažžabeahtti",
+                "niegadeažžaba",
+                "niegadeažžat",
+                "niegadeažžabehtet",
+                "niegadežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in niegadeaš, -deš, -deažžá",
+                "it niegadeaš, -deš, -deažžá",
+                "ii niegadeaš, -deš, -deažžá",
+                "ean niegadeaš, -deš, -deažžá",
+                "eahppi niegadeaš, -deš, -deažžá",
+                "eaba niegadeaš, -deš, -deažžá",
+                "eat niegadeaš, -deš, -deažžá",
+                "ehpet niegadeaš, -deš, -deažžá",
+                "eai niegadeaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "niegadehkon",
+                "niegat",
+                "niegadehkos, niegadus",
+                "niegadeadnu",
+                "niegadeahkki",
+                "niegadehkoska",
+                "niegadehkot, niegadeahkkut, niegadetnot, niegadeadnot",
+                "niegadehket",
+                "niegadehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon niegat",
+                "ale niegat",
+                "allos niegat",
+                "allu niegat",
+                "alli niegat",
+                "alloska niegat",
+                "allot, allut niegat",
+                "allet, allit niegat",
+                "alloset niegat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Niegadit",
+    "valid": 1
+}

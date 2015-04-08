@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "ffortet", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "fforten", 
+        "ffortet", 
+        "fforte", 
+        "ffortejetne", 
+        "ffortebeahtti", 
+        "fforteba", 
+        "ffortet", 
+        "ffortebehtet", 
+        "ffortejit"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in fforte", 
+        "it fforte", 
+        "ii fforte", 
+        "ean fforte", 
+        "eahppi fforte", 
+        "eaba fforte", 
+        "eat fforte", 
+        "ehpet fforte", 
+        "eai fforte"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "ffortejin", 
+        "ffortejit", 
+        "ffortii", 
+        "ffortiime", 
+        "ffortiide", 
+        "ffortiiga", 
+        "ffortiimet", 
+        "ffortiidet", 
+        "ffortejedje"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in fforten", 
+        "it fforten", 
+        "ii fforten", 
+        "ean fforten", 
+        "eahppi fforten", 
+        "eaba fforten", 
+        "eat fforten", 
+        "ehpet fforten", 
+        "eai fforten"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean fforten", 
+        "leat fforten", 
+        "lea fforten", 
+        "letne fforten", 
+        "leahppi fforten", 
+        "leaba fforten", 
+        "leat fforten", 
+        "lehpet fforten", 
+        "leat fforten"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen fforten", 
+        "ledjet fforten", 
+        "lei fforten", 
+        "leimme fforten", 
+        "leidde fforten", 
+        "leigga fforten", 
+        "leimmet fforten", 
+        "leiddet fforten", 
+        "ledje fforten"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean fforteme, -min", 
+        "leat fforteme, -min", 
+        "lea fforteme, -min", 
+        "letne fforteme, -min", 
+        "leahppi fforteme, -min", 
+        "leaba fforteme, -min", 
+        "leat fforteme, -min", 
+        "lehpet fforteme, -min", 
+        "leat fforteme, -min"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen fforteme, -min", 
+        "ledjet fforteme, -min", 
+        "lei fforteme, -min", 
+        "leimme fforteme, -min", 
+        "leidde fforteme, -min", 
+        "leigga fforteme, -min", 
+        "leimmet fforteme, -min", 
+        "leiddet fforteme, -min", 
+        "ledje fforteme, -min"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "ffortešin", 
+        "ffortešit", 
+        "ffortešii", 
+        "ffortešeimme", 
+        "ffortešeidde", 
+        "ffortešeigga", 
+        "ffortešeimmet", 
+        "ffortešeiddet", 
+        "ffortešedje"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in fforteše", 
+        "it fforteše", 
+        "ii fforteše", 
+        "ean fforteše", 
+        "eahppi fforteše", 
+        "eaba fforteše", 
+        "eat fforteše", 
+        "ehpet fforteše", 
+        "eai fforteše"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "ffortežan", 
+        "ffortežat", 
+        "fforteš", 
+        "ffortežetne", 
+        "ffortežeahppi", 
+        "ffortežeaba", 
+        "ffortežit, -žat", 
+        "ffortežehpet", 
+        "ffortežit"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in fforteš", 
+        "it fforteš", 
+        "ii fforteš", 
+        "ean fforteš", 
+        "eahppi fforteš", 
+        "eaba fforteš", 
+        "eat fforteš", 
+        "ehpet fforteš", 
+        "eai fforteš"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "ffortejehkon", 
+        "fforte", 
+        "ffortejehkos", 
+        "ffortejeadnu", 
+        "ffortejeahkki", 
+        "ffortejehkoska", 
+        "ffortejeahkkut, ffortejeadnot, ffortejehkot, ffortejetnot", 
+        "ffortejeahkkit", 
+        "ffortejehkoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon fforte", 
+        "ale fforte", 
+        "allos fforte", 
+        "allu fforte", 
+        "alli fforte", 
+        "alloska fforte", 
+        "allot, allut fforte", 
+        "allet, allit fforte", 
+        "alloset fforte"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Ffortet"
+}

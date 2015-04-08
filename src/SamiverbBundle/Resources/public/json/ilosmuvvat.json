@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "ilosmuvvat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "ilosmuvan",
+                "ilosmuvat",
+                "ilosmuvvá",
+                "ilosmuvve",
+                "ilosmuvvabeahtti",
+                "ilosmuvvaba",
+                "ilosmuvvat",
+                "ilosmuvvabehtet",
+                "ilosmuvvet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in ilosmuva",
+                "it ilosmuva",
+                "ii ilosmuva",
+                "ean ilosmuva",
+                "eahppi ilosmuva",
+                "eaba ilosmuva",
+                "eat ilosmuva",
+                "ehpet ilosmuva",
+                "eai ilosmuva"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ilosmuvven",
+                "ilosmuvvet",
+                "ilosmuvai",
+                "ilosmuvaime",
+                "ilosmuvaide",
+                "ilosmuvaiga",
+                "ilosmuvaimet",
+                "ilosmuvaidet",
+                "ilosmuvve"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ilosmuvvan",
+                "it ilosmuvvan",
+                "ii ilosmuvvan",
+                "ean ilosmuvvan",
+                "eahppi ilosmuvvan",
+                "eaba ilosmuvvan",
+                "eat ilosmuvvan",
+                "ehpet ilosmuvvan",
+                "eai ilosmuvvan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ilosmuvvan",
+                "leat ilosmuvvan",
+                "lea ilosmuvvan",
+                "letne ilosmuvvan",
+                "leahppi ilosmuvvan",
+                "leaba ilosmuvvan",
+                "leat ilosmuvvan",
+                "lehpet ilosmuvvan",
+                "leat ilosmuvvan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ilosmuvvan",
+                "ledjet ilosmuvvan",
+                "lei ilosmuvvan",
+                "leimme ilosmuvvan",
+                "leidde ilosmuvvan",
+                "leigga ilosmuvvan",
+                "leimmet ilosmuvvan",
+                "leiddet ilosmuvvan",
+                "ledje ilosmuvvan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean ilosmuvvame, -min",
+                "leat ilosmuvvame, -min",
+                "lea ilosmuvvame, -min",
+                "letne ilosmuvvame, -min",
+                "leahppi ilosmuvvame, -min",
+                "leaba ilosmuvvame, -min",
+                "leat ilosmuvvame, -min",
+                "lehpet ilosmuvvame, -min",
+                "leat ilosmuvvame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen ilosmuvvame, -min",
+                "ledjet ilosmuvvame, -min",
+                "lei ilosmuvvame, -min",
+                "leimme ilosmuvvame, -min",
+                "leidde ilosmuvvame, -min",
+                "leigga ilosmuvvame, -min",
+                "leimmet ilosmuvvame, -min",
+                "leiddet ilosmuvvame, -min",
+                "ledje ilosmuvvame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "ilosmuvašin",
+                "ilosmuvašit",
+                "ilosmuvašii",
+                "ilosmuvašeimme",
+                "ilosmuvašeidde",
+                "ilosmuvašeigga",
+                "ilosmuvašeimmet",
+                "ilosmuvašeiddet",
+                "ilosmuvašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in ilosmuvaše",
+                "it ilosmuvaše",
+                "ii ilosmuvaše",
+                "ean ilosmuvaše",
+                "eahppi ilosmuvaše",
+                "eaba ilosmuvaše",
+                "eat ilosmuvaše",
+                "ehpet ilosmuvaše",
+                "eai ilosmuvaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "ilosmuvažan",
+                "ilosmuvažat",
+                "ilosmuvaš",
+                "ilosmuvažetne",
+                "ilosmuvažeahppi",
+                "ilosmuvažeaba",
+                "ilosmuvažit, -žat",
+                "ilosmuvažehpet",
+                "ilosmuvažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in ilosmuvaš",
+                "it ilosmuvaš",
+                "ii ilosmuvaš",
+                "ean ilosmuvaš",
+                "eahppi ilosmuvaš",
+                "eaba ilosmuvaš",
+                "eat ilosmuvaš",
+                "ehpet ilosmuvaš",
+                "eai ilosmuvaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "ilosmuvvon",
+                "ilosmuva",
+                "ilosmuvvos",
+                "ilosmuvvu",
+                "ilosmuvvi",
+                "ilosmuvvoska",
+                "ilosmuvvot",
+                "ilosmuvvet, ilosmuvvit",
+                "ilosmuvvoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon ilosmuva",
+                "ale ilosmuva",
+                "allos ilosmuva",
+                "allu ilosmuva",
+                "alli ilosmuva",
+                "alloska ilosmuva",
+                "allot, allut ilosmuva",
+                "allet, allit ilosmuva",
+                "alloset ilosmuva"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Ilosmuvvat",
+    "valid": 1
+}

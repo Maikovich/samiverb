@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "muidelit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "muidelan",
+                "muidelat",
+                "muidela",
+                "muideletne",
+                "muideleahppi",
+                "muideleaba",
+                "muidelit, -lat",
+                "muidelehpet",
+                "muidelit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in muidel",
+                "it muidel",
+                "ii muidel",
+                "ean muidel",
+                "eahppi muidel",
+                "eaba muidel",
+                "eat muidel",
+                "ehpet muidel",
+                "eai muidel"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "muidelin",
+                "muidelit",
+                "muidelii",
+                "muideleimme",
+                "muideleidde",
+                "muideleigga",
+                "muideleimmet",
+                "muideleiddet",
+                "muideledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in muidelan",
+                "it muidelan",
+                "ii muidelan",
+                "ean muidelan",
+                "eahppi muidelan",
+                "eaba muidelan",
+                "eat muidelan",
+                "ehpet muidelan",
+                "eai muidelan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean muidelan",
+                "leat muidelan",
+                "lea muidelan",
+                "letne muidelan",
+                "leahppi muidelan",
+                "leaba muidelan",
+                "leat muidelan",
+                "lehpet muidelan",
+                "leat muidelan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen muidelan",
+                "ledjet muidelan",
+                "lei muidelan",
+                "leimme muidelan",
+                "leidde muidelan",
+                "leigga muidelan",
+                "leimmet muidelan",
+                "leiddet muidelan",
+                "ledje muidelan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean muideleame, -men",
+                "leat muideleame, -men",
+                "lea muideleame, -men",
+                "letne muideleame, -men",
+                "leahppi muideleame, -men",
+                "leaba muideleame, -men",
+                "leat muideleame, -men",
+                "lehpet muideleame, -men",
+                "leat muideleame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen muideleame, -men",
+                "ledjet muideleame, -men",
+                "lei muideleame, -men",
+                "leimme muideleame, -men",
+                "leidde muideleame, -men",
+                "leigga muideleame, -men",
+                "leimmet muideleame, -men",
+                "leiddet muideleame, -men",
+                "ledje muideleame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "muidelivččen",
+                "muidelivččet",
+                "muidelivččii",
+                "muidelivččiime",
+                "muidelivččiide",
+                "muidelivččiiga",
+                "muidelivččiimet",
+                "muidelivččiidet",
+                "muidelivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in muidelivčče",
+                "it muidelivčče",
+                "ii muidelivčče",
+                "ean muidelivčče",
+                "eahppi muidelivčče",
+                "eaba muidelivčče",
+                "eat muidelivčče",
+                "ehpet muidelivčče",
+                "eai muidelivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "muideleaččan",
+                "muideleaččat",
+                "muideleaš, -leš, -leažžá",
+                "muideležže",
+                "muideleažžabeahtti",
+                "muideleažžaba",
+                "muideleažžat",
+                "muideleažžabehtet",
+                "muideležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in muideleaš, -leš, -leažžá",
+                "it muideleaš, -leš, -leažžá",
+                "ii muideleaš, -leš, -leažžá",
+                "ean muideleaš, -leš, -leažžá",
+                "eahppi muideleaš, -leš, -leažžá",
+                "eaba muideleaš, -leš, -leažžá",
+                "eat muideleaš, -leš, -leažžá",
+                "ehpet muideleaš, -leš, -leažžá",
+                "eai muideleaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "muidelehkon",
+                "muidel",
+                "muidelehkos, muidelus",
+                "muideleadnu",
+                "muideleahkki",
+                "muidelehkoska",
+                "muidelehkot, muideleahkkut, muideletnot, muideleadnot",
+                "muidelehket",
+                "muidelehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon muidel",
+                "ale muidel",
+                "allos muidel",
+                "allu muidel",
+                "alli muidel",
+                "alloska muidel",
+                "allot, allut muidel",
+                "allet, allit muidel",
+                "alloset muidel"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "valid": 0,
+    "value": "Muidelit"
+}

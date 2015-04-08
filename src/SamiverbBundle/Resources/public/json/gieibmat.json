@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gieibmat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gieimman",
+                "gieimmat",
+                "gieibmá",
+                "giibme",
+                "gieibmabeahtti",
+                "gieibmaba",
+                "gieibmat",
+                "gieibmabehtet",
+                "giibmet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gieimma",
+                "it gieimma",
+                "ii gieimma",
+                "ean gieimma",
+                "eahppi gieimma",
+                "eaba gieimma",
+                "eat gieimma",
+                "ehpet gieimma",
+                "eai gieimma"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "giibmen",
+                "giibmet",
+                "gieimmai",
+                "gieimmaime",
+                "gieimmaide",
+                "gieimmaiga",
+                "gieimmaimet",
+                "gieimmaidet",
+                "giibme"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gieibman",
+                "it gieibman",
+                "ii gieibman",
+                "ean gieibman",
+                "eahppi gieibman",
+                "eaba gieibman",
+                "eat gieibman",
+                "ehpet gieibman",
+                "eai gieibman"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gieibman",
+                "leat gieibman",
+                "lea gieibman",
+                "letne gieibman",
+                "leahppi gieibman",
+                "leaba gieibman",
+                "leat gieibman",
+                "lehpet gieibman",
+                "leat gieibman"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gieibman",
+                "ledjet gieibman",
+                "lei gieibman",
+                "leimme gieibman",
+                "leidde gieibman",
+                "leigga gieibman",
+                "leimmet gieibman",
+                "leiddet gieibman",
+                "ledje gieibman"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gieibmame, -min",
+                "leat gieibmame, -min",
+                "lea gieibmame, -min",
+                "letne gieibmame, -min",
+                "leahppi gieibmame, -min",
+                "leaba gieibmame, -min",
+                "leat gieibmame, -min",
+                "lehpet gieibmame, -min",
+                "leat gieibmame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gieibmame, -min",
+                "ledjet gieibmame, -min",
+                "lei gieibmame, -min",
+                "leimme gieibmame, -min",
+                "leidde gieibmame, -min",
+                "leigga gieibmame, -min",
+                "leimmet gieibmame, -min",
+                "leiddet gieibmame, -min",
+                "ledje gieibmame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gieimmašin",
+                "gieimmašit",
+                "gieimmašii",
+                "gieimmašeimme",
+                "gieimmašeidde",
+                "gieimmašeigga",
+                "gieimmašeimmet",
+                "gieimmašeiddet",
+                "gieimmašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gieimmaše",
+                "it gieimmaše",
+                "ii gieimmaše",
+                "ean gieimmaše",
+                "eahppi gieimmaše",
+                "eaba gieimmaše",
+                "eat gieimmaše",
+                "ehpet gieimmaše",
+                "eai gieimmaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gieimmažan",
+                "gieimmažat",
+                "gieimmaš",
+                "gieimmažetne",
+                "gieimmažeahppi",
+                "gieimmažeaba",
+                "gieimmažit, -žat",
+                "gieimmažehpet",
+                "gieimmažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gieimmaš",
+                "it gieimmaš",
+                "ii gieimmaš",
+                "ean gieimmaš",
+                "eahppi gieimmaš",
+                "eaba gieimmaš",
+                "eat gieimmaš",
+                "ehpet gieimmaš",
+                "eai gieimmaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "giibmon",
+                "gieimma",
+                "giibmos",
+                "gieibmu",
+                "gieibmi",
+                "giibmoska",
+                "giibmot, gieibmot",
+                "giibmet, gieibmit",
+                "giibmoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gieimma",
+                "ale gieimma",
+                "allos gieimma",
+                "allu gieimma",
+                "alli gieimma",
+                "alloska gieimma",
+                "allot, allut gieimma",
+                "allet, allit gieimma",
+                "alloset gieimma"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gieibmat",
+    "valid": 1
+}

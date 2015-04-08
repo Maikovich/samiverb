@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "imaštit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "imaštan",
+                "imaštat",
+                "imašta",
+                "imaštetne",
+                "imašteahppi",
+                "imašteaba",
+                "imaštit, -tat",
+                "imaštehpet",
+                "imaštit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in imaš",
+                "it imaš",
+                "ii imaš",
+                "ean imaš",
+                "eahppi imaš",
+                "eaba imaš",
+                "eat imaš",
+                "ehpet imaš",
+                "eai imaš"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "imaštin",
+                "imaštit",
+                "imaštii",
+                "imašteimme",
+                "imašteidde",
+                "imašteigga",
+                "imašteimmet",
+                "imašteiddet",
+                "imaštedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in imaštan",
+                "it imaštan",
+                "ii imaštan",
+                "ean imaštan",
+                "eahppi imaštan",
+                "eaba imaštan",
+                "eat imaštan",
+                "ehpet imaštan",
+                "eai imaštan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean imaštan",
+                "leat imaštan",
+                "lea imaštan",
+                "letne imaštan",
+                "leahppi imaštan",
+                "leaba imaštan",
+                "leat imaštan",
+                "lehpet imaštan",
+                "leat imaštan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen imaštan",
+                "ledjet imaštan",
+                "lei imaštan",
+                "leimme imaštan",
+                "leidde imaštan",
+                "leigga imaštan",
+                "leimmet imaštan",
+                "leiddet imaštan",
+                "ledje imaštan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean imašteame, -men",
+                "leat imašteame, -men",
+                "lea imašteame, -men",
+                "letne imašteame, -men",
+                "leahppi imašteame, -men",
+                "leaba imašteame, -men",
+                "leat imašteame, -men",
+                "lehpet imašteame, -men",
+                "leat imašteame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen imašteame, -men",
+                "ledjet imašteame, -men",
+                "lei imašteame, -men",
+                "leimme imašteame, -men",
+                "leidde imašteame, -men",
+                "leigga imašteame, -men",
+                "leimmet imašteame, -men",
+                "leiddet imašteame, -men",
+                "ledje imašteame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "imaštivččen",
+                "imaštivččet",
+                "imaštivččii",
+                "imaštivččiime",
+                "imaštivččiide",
+                "imaštivččiiga",
+                "imaštivččiimet",
+                "imaštivččiidet",
+                "imaštivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in imaštivčče",
+                "it imaštivčče",
+                "ii imaštivčče",
+                "ean imaštivčče",
+                "eahppi imaštivčče",
+                "eaba imaštivčče",
+                "eat imaštivčče",
+                "ehpet imaštivčče",
+                "eai imaštivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "imašteaččan",
+                "imašteaččat",
+                "imašteaš, -teš, -teažžá",
+                "imaštežže",
+                "imašteažžabeahtti",
+                "imašteažžaba",
+                "imašteažžat",
+                "imašteažžabehtet",
+                "imaštežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in imašteaš, -teš, -teažžá",
+                "it imašteaš, -teš, -teažžá",
+                "ii imašteaš, -teš, -teažžá",
+                "ean imašteaš, -teš, -teažžá",
+                "eahppi imašteaš, -teš, -teažžá",
+                "eaba imašteaš, -teš, -teažžá",
+                "eat imašteaš, -teš, -teažžá",
+                "ehpet imašteaš, -teš, -teažžá",
+                "eai imašteaš, -teš, -teažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "imaštehkon",
+                "imaš",
+                "imaštehkos, imaštus",
+                "imašteadnu",
+                "imašteahkki",
+                "imaštehkoska",
+                "imaštehkot, imašteahkkut, imaštetnot, imašteadnot",
+                "imaštehket",
+                "imaštehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon imaš",
+                "ale imaš",
+                "allos imaš",
+                "allu imaš",
+                "alli imaš",
+                "alloska imaš",
+                "allot, allut imaš",
+                "allet, allit imaš",
+                "alloset imaš"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Imaštit",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "duođaštit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "duođaštan",
+                "duođaštat",
+                "duođašta",
+                "duođaštetne",
+                "duođašteahppi",
+                "duođašteaba",
+                "duođaštit, -tat",
+                "duođaštehpet",
+                "duođaštit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in duođaš",
+                "it duođaš",
+                "ii duođaš",
+                "ean duođaš",
+                "eahppi duođaš",
+                "eaba duođaš",
+                "eat duođaš",
+                "ehpet duođaš",
+                "eai duođaš"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "duođaštin",
+                "duođaštit",
+                "duođaštii",
+                "duođašteimme",
+                "duođašteidde",
+                "duođašteigga",
+                "duođašteimmet",
+                "duođašteiddet",
+                "duođaštedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in duođaštan",
+                "it duođaštan",
+                "ii duođaštan",
+                "ean duođaštan",
+                "eahppi duođaštan",
+                "eaba duođaštan",
+                "eat duođaštan",
+                "ehpet duođaštan",
+                "eai duođaštan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean duođaštan",
+                "leat duođaštan",
+                "lea duođaštan",
+                "letne duođaštan",
+                "leahppi duođaštan",
+                "leaba duođaštan",
+                "leat duođaštan",
+                "lehpet duođaštan",
+                "leat duođaštan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen duođaštan",
+                "ledjet duođaštan",
+                "lei duođaštan",
+                "leimme duođaštan",
+                "leidde duođaštan",
+                "leigga duođaštan",
+                "leimmet duođaštan",
+                "leiddet duođaštan",
+                "ledje duođaštan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean duođašteame, -men",
+                "leat duođašteame, -men",
+                "lea duođašteame, -men",
+                "letne duođašteame, -men",
+                "leahppi duođašteame, -men",
+                "leaba duođašteame, -men",
+                "leat duođašteame, -men",
+                "lehpet duođašteame, -men",
+                "leat duođašteame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen duođašteame, -men",
+                "ledjet duođašteame, -men",
+                "lei duođašteame, -men",
+                "leimme duođašteame, -men",
+                "leidde duođašteame, -men",
+                "leigga duođašteame, -men",
+                "leimmet duođašteame, -men",
+                "leiddet duođašteame, -men",
+                "ledje duođašteame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "duođaštivččen",
+                "duođaštivččet",
+                "duođaštivččii",
+                "duođaštivččiime",
+                "duođaštivččiide",
+                "duođaštivččiiga",
+                "duođaštivččiimet",
+                "duođaštivččiidet",
+                "duođaštivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in duođaštivčče",
+                "it duođaštivčče",
+                "ii duođaštivčče",
+                "ean duođaštivčče",
+                "eahppi duođaštivčče",
+                "eaba duođaštivčče",
+                "eat duođaštivčče",
+                "ehpet duođaštivčče",
+                "eai duođaštivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "duođašteaččan",
+                "duođašteaččat",
+                "duođašteaš, -teš, -teažžá",
+                "duođaštežže",
+                "duođašteažžabeahtti",
+                "duođašteažžaba",
+                "duođašteažžat",
+                "duođašteažžabehtet",
+                "duođaštežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in duođašteaš, -teš, -teažžá",
+                "it duođašteaš, -teš, -teažžá",
+                "ii duođašteaš, -teš, -teažžá",
+                "ean duođašteaš, -teš, -teažžá",
+                "eahppi duođašteaš, -teš, -teažžá",
+                "eaba duođašteaš, -teš, -teažžá",
+                "eat duođašteaš, -teš, -teažžá",
+                "ehpet duođašteaš, -teš, -teažžá",
+                "eai duođašteaš, -teš, -teažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "duođaštehkon",
+                "duođaš",
+                "duođaštehkos, duođaštus",
+                "duođašteadnu",
+                "duođašteahkki",
+                "duođaštehkoska",
+                "duođaštehkot, duođašteahkkut, duođaštetnot, duođašteadnot",
+                "duođaštehket",
+                "duođaštehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon duođaš",
+                "ale duođaš",
+                "allos duođaš",
+                "allu duođaš",
+                "alli duođaš",
+                "alloska duođaš",
+                "allot, allut duođaš",
+                "allet, allit duođaš",
+                "alloset duođaš"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Duođaštit",
+    "valid": 1
+}

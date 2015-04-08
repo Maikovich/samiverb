@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "cancut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "canccun",
+                "canccut",
+                "cancu",
+                "canco",
+                "cancubeahtti",
+                "cancuba",
+                "cancut",
+                "cancubehtet",
+                "cancot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in cancco",
+                "it cancco",
+                "ii cancco",
+                "ean cancco",
+                "eahppi cancco",
+                "eaba cancco",
+                "eat cancco",
+                "ehpet cancco",
+                "eai cancco"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "cancon",
+                "cancot",
+                "canccui",
+                "canccuime",
+                "canccuide",
+                "canccuiga",
+                "canccuimet",
+                "canccuidet",
+                "canco"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in cancon",
+                "it cancon",
+                "ii cancon",
+                "ean cancon",
+                "eahppi cancon",
+                "eaba cancon",
+                "eat cancon",
+                "ehpet cancon",
+                "eai cancon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean cancon",
+                "leat cancon",
+                "lea cancon",
+                "letne cancon",
+                "leahppi cancon",
+                "leaba cancon",
+                "leat cancon",
+                "lehpet cancon",
+                "leat cancon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen cancon",
+                "ledjet cancon",
+                "lei cancon",
+                "leimme cancon",
+                "leidde cancon",
+                "leigga cancon",
+                "leimmet cancon",
+                "leiddet cancon",
+                "ledje cancon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean cancume, -min",
+                "leat cancume, -min",
+                "lea cancume, -min",
+                "letne cancume, -min",
+                "leahppi cancume, -min",
+                "leaba cancume, -min",
+                "leat cancume, -min",
+                "lehpet cancume, -min",
+                "leat cancume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen cancume, -min",
+                "ledjet cancume, -min",
+                "lei cancume, -min",
+                "leimme cancume, -min",
+                "leidde cancume, -min",
+                "leigga cancume, -min",
+                "leimmet cancume, -min",
+                "leiddet cancume, -min",
+                "ledje cancume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "canccošin",
+                "canccošit",
+                "canccošii",
+                "canccošeimme",
+                "canccošeidde",
+                "canccošeigga",
+                "canccošeimmet",
+                "canccošeiddet",
+                "canccošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in canccoše",
+                "it canccoše",
+                "ii canccoše",
+                "ean canccoše",
+                "eahppi canccoše",
+                "eaba canccoše",
+                "eat canccoše",
+                "ehpet canccoše",
+                "eai canccoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "canccožan",
+                "canccožat",
+                "canccoš",
+                "canccožetne",
+                "canccožeahppi",
+                "canccožeaba",
+                "canccožit, -žat",
+                "canccožehpet",
+                "canccožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in canccoš",
+                "it canccoš",
+                "ii canccoš",
+                "ean canccoš",
+                "eahppi canccoš",
+                "eaba canccoš",
+                "eat canccoš",
+                "ehpet canccoš",
+                "eai canccoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "cancon",
+                "cancco",
+                "cancos",
+                "cancu",
+                "cancu",
+                "cancoska",
+                "cancot",
+                "cancot",
+                "cancoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon cancco",
+                "ale cancco",
+                "allos cancco",
+                "allu cancco",
+                "alli cancco",
+                "alloska cancco",
+                "allot, allut cancco",
+                "allet, allit cancco",
+                "alloset cancco"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Cancut",
+    "valid": 1
+}

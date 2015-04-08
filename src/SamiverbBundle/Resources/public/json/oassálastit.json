@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "oassálastit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "oassálasttán",
+                "oassálasttát",
+                "oassálastá",
+                "oassálaste",
+                "oassálastibeahtti",
+                "oassálastiba",
+                "oassálastit",
+                "oassálastibehtet",
+                "oassálastet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in oassálastte",
+                "it oassálastte",
+                "ii oassálastte",
+                "ean oassálastte",
+                "eahppi oassálastte",
+                "eaba oassálastte",
+                "eat oassálastte",
+                "ehpet oassálastte",
+                "eai oassálastte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "oassálasten",
+                "oassálastet",
+                "oassálasttii",
+                "oassálasttiime",
+                "oassálasttiide",
+                "oassálasttiiga",
+                "oassálasttiimet",
+                "oassálasttiidet",
+                "oassálaste"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in oassálastán",
+                "it oassálastán",
+                "ii oassálastán",
+                "ean oassálastán",
+                "eahppi oassálastán",
+                "eaba oassálastán",
+                "eat oassálastán",
+                "ehpet oassálastán",
+                "eai oassálastán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean oassálastán",
+                "leat oassálastán",
+                "lea oassálastán",
+                "letne oassálastán",
+                "leahppi oassálastán",
+                "leaba oassálastán",
+                "leat oassálastán",
+                "lehpet oassálastán",
+                "leat oassálastán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen oassálastán",
+                "ledjet oassálastán",
+                "lei oassálastán",
+                "leimme oassálastán",
+                "leidde oassálastán",
+                "leigga oassálastán",
+                "leimmet oassálastán",
+                "leiddet oassálastán",
+                "ledje oassálastán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean oassálastime, -min",
+                "leat oassálastime, -min",
+                "lea oassálastime, -min",
+                "letne oassálastime, -min",
+                "leahppi oassálastime, -min",
+                "leaba oassálastime, -min",
+                "leat oassálastime, -min",
+                "lehpet oassálastime, -min",
+                "leat oassálastime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen oassálastime, -min",
+                "ledjet oassálastime, -min",
+                "lei oassálastime, -min",
+                "leimme oassálastime, -min",
+                "leidde oassálastime, -min",
+                "leigga oassálastime, -min",
+                "leimmet oassálastime, -min",
+                "leiddet oassálastime, -min",
+                "ledje oassálastime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "oassálasttášin",
+                "oassálasttášit",
+                "oassálasttášii",
+                "oassálasttášeimme",
+                "oassálasttášeidde",
+                "oassálasttášeigga",
+                "oassálasttášeimmet",
+                "oassálasttášeiddet",
+                "oassálasttášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in oassálasttáše",
+                "it oassálasttáše",
+                "ii oassálasttáše",
+                "ean oassálasttáše",
+                "eahppi oassálasttáše",
+                "eaba oassálasttáše",
+                "eat oassálasttáše",
+                "ehpet oassálasttáše",
+                "eai oassálasttáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "oassálasttežan",
+                "oassálasttežat",
+                "oassálastteš",
+                "oassálasttežetne",
+                "oassálasttežeahppi",
+                "oassálasttežeaba",
+                "oassálasttežit, -žat",
+                "oassálasttežehpet",
+                "oassálasttežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in oassálastteš",
+                "it oassálastteš",
+                "ii oassálastteš",
+                "ean oassálastteš",
+                "eahppi oassálastteš",
+                "eaba oassálastteš",
+                "eat oassálastteš",
+                "ehpet oassálastteš",
+                "eai oassálastteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "oassálaston",
+                "oassálastte",
+                "oassálastos",
+                "oassálastu",
+                "oassálasti",
+                "oassálastoska",
+                "oassálastot",
+                "oassálastet",
+                "oassálastoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon oassálastte",
+                "ale oassálastte",
+                "allos oassálastte",
+                "allu oassálastte",
+                "alli oassálastte",
+                "alloska oassálastte",
+                "allot, allut oassálastte",
+                "allet, allit oassálastte",
+                "alloset oassálastte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Oassálastit",
+    "valid": 1
+}

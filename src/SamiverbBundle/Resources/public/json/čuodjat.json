@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čuodjat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čuojan",
+                "čuojat",
+                "čuodjá",
+                "čudje",
+                "čuodjabeahtti",
+                "čuodjaba",
+                "čuodjat",
+                "čuodjabehtet",
+                "čudjet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čuoja",
+                "it čuoja",
+                "ii čuoja",
+                "ean čuoja",
+                "eahppi čuoja",
+                "eaba čuoja",
+                "eat čuoja",
+                "ehpet čuoja",
+                "eai čuoja"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čudjen",
+                "čudjet",
+                "čuojai",
+                "čuojaime",
+                "čuojaide",
+                "čuojaiga",
+                "čuojaimet",
+                "čuojaidet",
+                "čudje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čuodjan",
+                "it čuodjan",
+                "ii čuodjan",
+                "ean čuodjan",
+                "eahppi čuodjan",
+                "eaba čuodjan",
+                "eat čuodjan",
+                "ehpet čuodjan",
+                "eai čuodjan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čuodjan",
+                "leat čuodjan",
+                "lea čuodjan",
+                "letne čuodjan",
+                "leahppi čuodjan",
+                "leaba čuodjan",
+                "leat čuodjan",
+                "lehpet čuodjan",
+                "leat čuodjan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čuodjan",
+                "ledjet čuodjan",
+                "lei čuodjan",
+                "leimme čuodjan",
+                "leidde čuodjan",
+                "leigga čuodjan",
+                "leimmet čuodjan",
+                "leiddet čuodjan",
+                "ledje čuodjan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čuodjame, -min",
+                "leat čuodjame, -min",
+                "lea čuodjame, -min",
+                "letne čuodjame, -min",
+                "leahppi čuodjame, -min",
+                "leaba čuodjame, -min",
+                "leat čuodjame, -min",
+                "lehpet čuodjame, -min",
+                "leat čuodjame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čuodjame, -min",
+                "ledjet čuodjame, -min",
+                "lei čuodjame, -min",
+                "leimme čuodjame, -min",
+                "leidde čuodjame, -min",
+                "leigga čuodjame, -min",
+                "leimmet čuodjame, -min",
+                "leiddet čuodjame, -min",
+                "ledje čuodjame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čuojašin",
+                "čuojašit",
+                "čuojašii",
+                "čuojašeimme",
+                "čuojašeidde",
+                "čuojašeigga",
+                "čuojašeimmet",
+                "čuojašeiddet",
+                "čuojašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čuojaše",
+                "it čuojaše",
+                "ii čuojaše",
+                "ean čuojaše",
+                "eahppi čuojaše",
+                "eaba čuojaše",
+                "eat čuojaše",
+                "ehpet čuojaše",
+                "eai čuojaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čuojažan",
+                "čuojažat",
+                "čuojaš",
+                "čuojažetne",
+                "čuojažeahppi",
+                "čuojažeaba",
+                "čuojažit, -žat",
+                "čuojažehpet",
+                "čuojažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čuojaš",
+                "it čuojaš",
+                "ii čuojaš",
+                "ean čuojaš",
+                "eahppi čuojaš",
+                "eaba čuojaš",
+                "eat čuojaš",
+                "ehpet čuojaš",
+                "eai čuojaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čudjon",
+                "čuoja",
+                "čudjos",
+                "čuoddju",
+                "čuoddji",
+                "čudjoska",
+                "čudjot, čuoddjot",
+                "čudjet, čuoddjit",
+                "čudjoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čuoja",
+                "ale čuoja",
+                "allos čuoja",
+                "allu čuoja",
+                "alli čuoja",
+                "alloska čuoja",
+                "allot, allut čuoja",
+                "allet, allit čuoja",
+                "alloset čuoja"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čuodjat",
+    "valid": 1
+}

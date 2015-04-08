@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "ohcat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "ozan",
+                "ozat",
+                "ohcá",
+                "ohce",
+                "ohcabeahtti",
+                "ohcaba",
+                "ohcat",
+                "ohcabehtet",
+                "ohcet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in oza",
+                "it oza",
+                "ii oza",
+                "ean oza",
+                "eahppi oza",
+                "eaba oza",
+                "eat oza",
+                "ehpet oza",
+                "eai oza"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ohcen",
+                "ohcet",
+                "ozai",
+                "ozaime",
+                "ozaide",
+                "ozaiga",
+                "ozaimet",
+                "ozaidet",
+                "ohce"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ohcan",
+                "it ohcan",
+                "ii ohcan",
+                "ean ohcan",
+                "eahppi ohcan",
+                "eaba ohcan",
+                "eat ohcan",
+                "ehpet ohcan",
+                "eai ohcan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ohcan",
+                "leat ohcan",
+                "lea ohcan",
+                "letne ohcan",
+                "leahppi ohcan",
+                "leaba ohcan",
+                "leat ohcan",
+                "lehpet ohcan",
+                "leat ohcan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ohcan",
+                "ledjet ohcan",
+                "lei ohcan",
+                "leimme ohcan",
+                "leidde ohcan",
+                "leigga ohcan",
+                "leimmet ohcan",
+                "leiddet ohcan",
+                "ledje ohcan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean ohcame, -min",
+                "leat ohcame, -min",
+                "lea ohcame, -min",
+                "letne ohcame, -min",
+                "leahppi ohcame, -min",
+                "leaba ohcame, -min",
+                "leat ohcame, -min",
+                "lehpet ohcame, -min",
+                "leat ohcame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen ohcame, -min",
+                "ledjet ohcame, -min",
+                "lei ohcame, -min",
+                "leimme ohcame, -min",
+                "leidde ohcame, -min",
+                "leigga ohcame, -min",
+                "leimmet ohcame, -min",
+                "leiddet ohcame, -min",
+                "ledje ohcame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "ozašin",
+                "ozašit",
+                "ozašii",
+                "ozašeimme",
+                "ozašeidde",
+                "ozašeigga",
+                "ozašeimmet",
+                "ozašeiddet",
+                "ozašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in ozaše",
+                "it ozaše",
+                "ii ozaše",
+                "ean ozaše",
+                "eahppi ozaše",
+                "eaba ozaše",
+                "eat ozaše",
+                "ehpet ozaše",
+                "eai ozaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "ozažan",
+                "ozažat",
+                "ozaš",
+                "ozažetne",
+                "ozažeahppi",
+                "ozažeaba",
+                "ozažit, -žat",
+                "ozažehpet",
+                "ozažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in ozaš",
+                "it ozaš",
+                "ii ozaš",
+                "ean ozaš",
+                "eahppi ozaš",
+                "eaba ozaš",
+                "eat ozaš",
+                "ehpet ozaš",
+                "eai ozaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "ohcon",
+                "oza",
+                "ohcos",
+                "ohccu",
+                "ohcci",
+                "ohcoska",
+                "ohcot, ohccot",
+                "ohcet, ohccit",
+                "ohcoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon oza",
+                "ale oza",
+                "allos oza",
+                "allu oza",
+                "alli oza",
+                "alloska oza",
+                "allot, allut oza",
+                "allet, allit oza",
+                "alloset oza"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Ohcat",
+    "valid": 1
+}

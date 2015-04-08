@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "juhkat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "jugan",
+                "jugat",
+                "juhká",
+                "juhke",
+                "juhkabeahtti",
+                "juhkaba",
+                "juhkat",
+                "juhkabehtet",
+                "juhket"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in juga",
+                "it juga",
+                "ii juga",
+                "ean juga",
+                "eahppi juga",
+                "eaba juga",
+                "eat juga",
+                "ehpet juga",
+                "eai juga"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "juhken",
+                "juhket",
+                "jugai",
+                "jugaime",
+                "jugaide",
+                "jugaiga",
+                "jugaimet",
+                "jugaidet",
+                "juhke"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in juhkan",
+                "it juhkan",
+                "ii juhkan",
+                "ean juhkan",
+                "eahppi juhkan",
+                "eaba juhkan",
+                "eat juhkan",
+                "ehpet juhkan",
+                "eai juhkan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean juhkan",
+                "leat juhkan",
+                "lea juhkan",
+                "letne juhkan",
+                "leahppi juhkan",
+                "leaba juhkan",
+                "leat juhkan",
+                "lehpet juhkan",
+                "leat juhkan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen juhkan",
+                "ledjet juhkan",
+                "lei juhkan",
+                "leimme juhkan",
+                "leidde juhkan",
+                "leigga juhkan",
+                "leimmet juhkan",
+                "leiddet juhkan",
+                "ledje juhkan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean juhkame, -min",
+                "leat juhkame, -min",
+                "lea juhkame, -min",
+                "letne juhkame, -min",
+                "leahppi juhkame, -min",
+                "leaba juhkame, -min",
+                "leat juhkame, -min",
+                "lehpet juhkame, -min",
+                "leat juhkame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen juhkame, -min",
+                "ledjet juhkame, -min",
+                "lei juhkame, -min",
+                "leimme juhkame, -min",
+                "leidde juhkame, -min",
+                "leigga juhkame, -min",
+                "leimmet juhkame, -min",
+                "leiddet juhkame, -min",
+                "ledje juhkame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "jugašin",
+                "jugašit",
+                "jugašii",
+                "jugašeimme",
+                "jugašeidde",
+                "jugašeigga",
+                "jugašeimmet",
+                "jugašeiddet",
+                "jugašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in jugaše",
+                "it jugaše",
+                "ii jugaše",
+                "ean jugaše",
+                "eahppi jugaše",
+                "eaba jugaše",
+                "eat jugaše",
+                "ehpet jugaše",
+                "eai jugaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "jugažan",
+                "jugažat",
+                "jugaš",
+                "jugažetne",
+                "jugažeahppi",
+                "jugažeaba",
+                "jugažit, -žat",
+                "jugažehpet",
+                "jugažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in jugaš",
+                "it jugaš",
+                "ii jugaš",
+                "ean jugaš",
+                "eahppi jugaš",
+                "eaba jugaš",
+                "eat jugaš",
+                "ehpet jugaš",
+                "eai jugaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "juhkon",
+                "juga",
+                "juhkos",
+                "juhkku",
+                "juhkki",
+                "juhkoska",
+                "juhkot, juhkkot",
+                "juhket, juhkkit",
+                "juhkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon juga",
+                "ale juga",
+                "allos juga",
+                "allu juga",
+                "alli juga",
+                "alloska juga",
+                "allot, allut juga",
+                "allet, allit juga",
+                "alloset juga"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Juhkat",
+    "valid": 1
+}

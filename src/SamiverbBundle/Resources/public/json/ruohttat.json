@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "ruohttat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "ruohtan",
+                "ruohtat",
+                "ruohttá",
+                "ruhtte",
+                "ruohttabeahtti",
+                "ruohttaba",
+                "ruohttat",
+                "ruohttabehtet",
+                "ruhttet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in ruohta",
+                "it ruohta",
+                "ii ruohta",
+                "ean ruohta",
+                "eahppi ruohta",
+                "eaba ruohta",
+                "eat ruohta",
+                "ehpet ruohta",
+                "eai ruohta"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ruhtten",
+                "ruhttet",
+                "ruohtai",
+                "ruohtaime",
+                "ruohtaide",
+                "ruohtaiga",
+                "ruohtaimet",
+                "ruohtaidet",
+                "ruhtte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ruohttan",
+                "it ruohttan",
+                "ii ruohttan",
+                "ean ruohttan",
+                "eahppi ruohttan",
+                "eaba ruohttan",
+                "eat ruohttan",
+                "ehpet ruohttan",
+                "eai ruohttan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ruohttan",
+                "leat ruohttan",
+                "lea ruohttan",
+                "letne ruohttan",
+                "leahppi ruohttan",
+                "leaba ruohttan",
+                "leat ruohttan",
+                "lehpet ruohttan",
+                "leat ruohttan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ruohttan",
+                "ledjet ruohttan",
+                "lei ruohttan",
+                "leimme ruohttan",
+                "leidde ruohttan",
+                "leigga ruohttan",
+                "leimmet ruohttan",
+                "leiddet ruohttan",
+                "ledje ruohttan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean ruohttame, -min",
+                "leat ruohttame, -min",
+                "lea ruohttame, -min",
+                "letne ruohttame, -min",
+                "leahppi ruohttame, -min",
+                "leaba ruohttame, -min",
+                "leat ruohttame, -min",
+                "lehpet ruohttame, -min",
+                "leat ruohttame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen ruohttame, -min",
+                "ledjet ruohttame, -min",
+                "lei ruohttame, -min",
+                "leimme ruohttame, -min",
+                "leidde ruohttame, -min",
+                "leigga ruohttame, -min",
+                "leimmet ruohttame, -min",
+                "leiddet ruohttame, -min",
+                "ledje ruohttame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "ruohtašin",
+                "ruohtašit",
+                "ruohtašii",
+                "ruohtašeimme",
+                "ruohtašeidde",
+                "ruohtašeigga",
+                "ruohtašeimmet",
+                "ruohtašeiddet",
+                "ruohtašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in ruohtaše",
+                "it ruohtaše",
+                "ii ruohtaše",
+                "ean ruohtaše",
+                "eahppi ruohtaše",
+                "eaba ruohtaše",
+                "eat ruohtaše",
+                "ehpet ruohtaše",
+                "eai ruohtaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "ruohtažan",
+                "ruohtažat",
+                "ruohtaš",
+                "ruohtažetne",
+                "ruohtažeahppi",
+                "ruohtažeaba",
+                "ruohtažit, -žat",
+                "ruohtažehpet",
+                "ruohtažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in ruohtaš",
+                "it ruohtaš",
+                "ii ruohtaš",
+                "ean ruohtaš",
+                "eahppi ruohtaš",
+                "eaba ruohtaš",
+                "eat ruohtaš",
+                "ehpet ruohtaš",
+                "eai ruohtaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "ruhtton",
+                "ruohta",
+                "ruhttos",
+                "ruohttu",
+                "ruohtti",
+                "ruhttoska",
+                "ruhttot, ruohttot",
+                "ruhttet, ruohttit",
+                "ruhttoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon ruohta",
+                "ale ruohta",
+                "allos ruohta",
+                "allu ruohta",
+                "alli ruohta",
+                "alloska ruohta",
+                "allot, allut ruohta",
+                "allet, allit ruohta",
+                "alloset ruohta"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Ruohttat",
+    "valid": 1
+}

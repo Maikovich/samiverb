@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čugget",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čuggen",
+                "čugget",
+                "čugge",
+                "čuggejetne",
+                "čuggebeahtti",
+                "čuggeba",
+                "čugget",
+                "čuggebehtet",
+                "čuggejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čugge",
+                "it čugge",
+                "ii čugge",
+                "ean čugge",
+                "eahppi čugge",
+                "eaba čugge",
+                "eat čugge",
+                "ehpet čugge",
+                "eai čugge"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čuggejin",
+                "čuggejit",
+                "čuggii",
+                "čuggiime",
+                "čuggiide",
+                "čuggiiga",
+                "čuggiimet",
+                "čuggiidet",
+                "čuggejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čuggen",
+                "it čuggen",
+                "ii čuggen",
+                "ean čuggen",
+                "eahppi čuggen",
+                "eaba čuggen",
+                "eat čuggen",
+                "ehpet čuggen",
+                "eai čuggen"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čuggen",
+                "leat čuggen",
+                "lea čuggen",
+                "letne čuggen",
+                "leahppi čuggen",
+                "leaba čuggen",
+                "leat čuggen",
+                "lehpet čuggen",
+                "leat čuggen"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čuggen",
+                "ledjet čuggen",
+                "lei čuggen",
+                "leimme čuggen",
+                "leidde čuggen",
+                "leigga čuggen",
+                "leimmet čuggen",
+                "leiddet čuggen",
+                "ledje čuggen"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čuggeme, -min",
+                "leat čuggeme, -min",
+                "lea čuggeme, -min",
+                "letne čuggeme, -min",
+                "leahppi čuggeme, -min",
+                "leaba čuggeme, -min",
+                "leat čuggeme, -min",
+                "lehpet čuggeme, -min",
+                "leat čuggeme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čuggeme, -min",
+                "ledjet čuggeme, -min",
+                "lei čuggeme, -min",
+                "leimme čuggeme, -min",
+                "leidde čuggeme, -min",
+                "leigga čuggeme, -min",
+                "leimmet čuggeme, -min",
+                "leiddet čuggeme, -min",
+                "ledje čuggeme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čuggešin",
+                "čuggešit",
+                "čuggešii",
+                "čuggešeimme",
+                "čuggešeidde",
+                "čuggešeigga",
+                "čuggešeimmet",
+                "čuggešeiddet",
+                "čuggešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čuggeše",
+                "it čuggeše",
+                "ii čuggeše",
+                "ean čuggeše",
+                "eahppi čuggeše",
+                "eaba čuggeše",
+                "eat čuggeše",
+                "ehpet čuggeše",
+                "eai čuggeše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čuggežan",
+                "čuggežat",
+                "čuggeš",
+                "čuggežetne",
+                "čuggežeahppi",
+                "čuggežeaba",
+                "čuggežit, -žat",
+                "čuggežehpet",
+                "čuggežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čuggeš",
+                "it čuggeš",
+                "ii čuggeš",
+                "ean čuggeš",
+                "eahppi čuggeš",
+                "eaba čuggeš",
+                "eat čuggeš",
+                "ehpet čuggeš",
+                "eai čuggeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čuggejehkon",
+                "čugge",
+                "čuggejehkos",
+                "čuggejeadnu",
+                "čuggejeahkki",
+                "čuggejehkoska",
+                "čuggejeahkkut, čuggejeadnot, čuggejehkot, čuggejetnot",
+                "čuggejeahkkit",
+                "čuggejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čugge",
+                "ale čugge",
+                "allos čugge",
+                "allu čugge",
+                "alli čugge",
+                "alloska čugge",
+                "allot, allut čugge",
+                "allet, allit čugge",
+                "alloset čugge"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čugget",
+    "valid": 1
+}

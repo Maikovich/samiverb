@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "hoavridit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "hoavridan",
+                "hoavridat",
+                "hoavrida",
+                "hoavridetne",
+                "hoavrideahppi",
+                "hoavrideaba",
+                "hoavridit, -dat",
+                "hoavridehpet",
+                "hoavridit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in hoavrit",
+                "it hoavrit",
+                "ii hoavrit",
+                "ean hoavrit",
+                "eahppi hoavrit",
+                "eaba hoavrit",
+                "eat hoavrit",
+                "ehpet hoavrit",
+                "eai hoavrit"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "hoavridin",
+                "hoavridit",
+                "hoavridii",
+                "hoavrideimme",
+                "hoavrideidde",
+                "hoavrideigga",
+                "hoavrideimmet",
+                "hoavrideiddet",
+                "hoavridedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in hoavridan",
+                "it hoavridan",
+                "ii hoavridan",
+                "ean hoavridan",
+                "eahppi hoavridan",
+                "eaba hoavridan",
+                "eat hoavridan",
+                "ehpet hoavridan",
+                "eai hoavridan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean hoavridan",
+                "leat hoavridan",
+                "lea hoavridan",
+                "letne hoavridan",
+                "leahppi hoavridan",
+                "leaba hoavridan",
+                "leat hoavridan",
+                "lehpet hoavridan",
+                "leat hoavridan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen hoavridan",
+                "ledjet hoavridan",
+                "lei hoavridan",
+                "leimme hoavridan",
+                "leidde hoavridan",
+                "leigga hoavridan",
+                "leimmet hoavridan",
+                "leiddet hoavridan",
+                "ledje hoavridan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean hoavrideame, -men",
+                "leat hoavrideame, -men",
+                "lea hoavrideame, -men",
+                "letne hoavrideame, -men",
+                "leahppi hoavrideame, -men",
+                "leaba hoavrideame, -men",
+                "leat hoavrideame, -men",
+                "lehpet hoavrideame, -men",
+                "leat hoavrideame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen hoavrideame, -men",
+                "ledjet hoavrideame, -men",
+                "lei hoavrideame, -men",
+                "leimme hoavrideame, -men",
+                "leidde hoavrideame, -men",
+                "leigga hoavrideame, -men",
+                "leimmet hoavrideame, -men",
+                "leiddet hoavrideame, -men",
+                "ledje hoavrideame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "hoavridivččen",
+                "hoavridivččet",
+                "hoavridivččii",
+                "hoavridivččiime",
+                "hoavridivččiide",
+                "hoavridivččiiga",
+                "hoavridivččiimet",
+                "hoavridivččiidet",
+                "hoavridivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in hoavridivčče",
+                "it hoavridivčče",
+                "ii hoavridivčče",
+                "ean hoavridivčče",
+                "eahppi hoavridivčče",
+                "eaba hoavridivčče",
+                "eat hoavridivčče",
+                "ehpet hoavridivčče",
+                "eai hoavridivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "hoavrideaččan",
+                "hoavrideaččat",
+                "hoavrideaš, -deš, -deažžá",
+                "hoavridežže",
+                "hoavrideažžabeahtti",
+                "hoavrideažžaba",
+                "hoavrideažžat",
+                "hoavrideažžabehtet",
+                "hoavridežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in hoavrideaš, -deš, -deažžá",
+                "it hoavrideaš, -deš, -deažžá",
+                "ii hoavrideaš, -deš, -deažžá",
+                "ean hoavrideaš, -deš, -deažžá",
+                "eahppi hoavrideaš, -deš, -deažžá",
+                "eaba hoavrideaš, -deš, -deažžá",
+                "eat hoavrideaš, -deš, -deažžá",
+                "ehpet hoavrideaš, -deš, -deažžá",
+                "eai hoavrideaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "hoavridehkon",
+                "hoavrit",
+                "hoavridehkos, hoavridus",
+                "hoavrideadnu",
+                "hoavrideahkki",
+                "hoavridehkoska",
+                "hoavridehkot, hoavrideahkkut, hoavridetnot, hoavrideadnot",
+                "hoavridehket",
+                "hoavridehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon hoavrit",
+                "ale hoavrit",
+                "allos hoavrit",
+                "allu hoavrit",
+                "alli hoavrit",
+                "alloska hoavrit",
+                "allot, allut hoavrit",
+                "allet, allit hoavrit",
+                "alloset hoavrit"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Hoavridit",
+    "valid": 1
+}

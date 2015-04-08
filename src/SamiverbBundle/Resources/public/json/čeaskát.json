@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čeaskát",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čeaskán",
+                "čeaskát",
+                "čeaská",
+                "čeaskájetne",
+                "čeaskábeahtti",
+                "čeaskába",
+                "čeaskát",
+                "čeaskábehtet",
+                "čeaskájit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čeaská",
+                "it čeaská",
+                "ii čeaská",
+                "ean čeaská",
+                "eahppi čeaská",
+                "eaba čeaská",
+                "eat čeaská",
+                "ehpet čeaská",
+                "eai čeaská"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čeaskájin",
+                "čeaskájit",
+                "čeaskái",
+                "čeaskáime",
+                "čeaskáide",
+                "čeaskáiga",
+                "čeaskáimet",
+                "čeaskáidet",
+                "čeaskájedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čeaskán",
+                "it čeaskán",
+                "ii čeaskán",
+                "ean čeaskán",
+                "eahppi čeaskán",
+                "eaba čeaskán",
+                "eat čeaskán",
+                "ehpet čeaskán",
+                "eai čeaskán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čeaskán",
+                "leat čeaskán",
+                "lea čeaskán",
+                "letne čeaskán",
+                "leahppi čeaskán",
+                "leaba čeaskán",
+                "leat čeaskán",
+                "lehpet čeaskán",
+                "leat čeaskán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čeaskán",
+                "ledjet čeaskán",
+                "lei čeaskán",
+                "leimme čeaskán",
+                "leidde čeaskán",
+                "leigga čeaskán",
+                "leimmet čeaskán",
+                "leiddet čeaskán",
+                "ledje čeaskán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čeaskáme, -min",
+                "leat čeaskáme, -min",
+                "lea čeaskáme, -min",
+                "letne čeaskáme, -min",
+                "leahppi čeaskáme, -min",
+                "leaba čeaskáme, -min",
+                "leat čeaskáme, -min",
+                "lehpet čeaskáme, -min",
+                "leat čeaskáme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čeaskáme, -min",
+                "ledjet čeaskáme, -min",
+                "lei čeaskáme, -min",
+                "leimme čeaskáme, -min",
+                "leidde čeaskáme, -min",
+                "leigga čeaskáme, -min",
+                "leimmet čeaskáme, -min",
+                "leiddet čeaskáme, -min",
+                "ledje čeaskáme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čeaskášin",
+                "čeaskášit",
+                "čeaskášii",
+                "čeaskášeimme",
+                "čeaskášeidde",
+                "čeaskášeigga",
+                "čeaskášeimmet",
+                "čeaskášeiddet",
+                "čeaskášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čeaskáše",
+                "it čeaskáše",
+                "ii čeaskáše",
+                "ean čeaskáše",
+                "eahppi čeaskáše",
+                "eaba čeaskáše",
+                "eat čeaskáše",
+                "ehpet čeaskáše",
+                "eai čeaskáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čeaskážan",
+                "čeaskážat",
+                "čeaskáš",
+                "čeaskážetne",
+                "čeaskážeahppi",
+                "čeaskážeaba",
+                "čeaskážit, -žat",
+                "čeaskážehpet",
+                "čeaskážit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čeaskáš",
+                "it čeaskáš",
+                "ii čeaskáš",
+                "ean čeaskáš",
+                "eahppi čeaskáš",
+                "eaba čeaskáš",
+                "eat čeaskáš",
+                "ehpet čeaskáš",
+                "eai čeaskáš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čeaskájehkon",
+                "čeaská",
+                "čeaskájehkos",
+                "čeaskájeadnu",
+                "čeaskájeahkki",
+                "čeaskájehkoska",
+                "čeaskájeahkkut, čeaskájeadnot, čeaskájehkot, čeaskájetnot",
+                "čeaskájeahkkit",
+                "čeaskájehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čeaská",
+                "ale čeaská",
+                "allos čeaská",
+                "allu čeaská",
+                "alli čeaská",
+                "alloska čeaská",
+                "allot, allut čeaská",
+                "allet, allit čeaská",
+                "alloset čeaská"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čeaskát",
+    "valid": 1
+}

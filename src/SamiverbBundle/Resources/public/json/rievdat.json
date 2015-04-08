@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "rievdat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "rievddan",
+                "rievddat",
+                "rievdá",
+                "rivde",
+                "rievdabeahtti",
+                "rievdaba",
+                "rievdat",
+                "rievdabehtet",
+                "rivdet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in rievdda",
+                "it rievdda",
+                "ii rievdda",
+                "ean rievdda",
+                "eahppi rievdda",
+                "eaba rievdda",
+                "eat rievdda",
+                "ehpet rievdda",
+                "eai rievdda"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "rivden",
+                "rivdet",
+                "rievddai",
+                "rievddaime",
+                "rievddaide",
+                "rievddaiga",
+                "rievddaimet",
+                "rievddaidet",
+                "rivde"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in rievdan",
+                "it rievdan",
+                "ii rievdan",
+                "ean rievdan",
+                "eahppi rievdan",
+                "eaba rievdan",
+                "eat rievdan",
+                "ehpet rievdan",
+                "eai rievdan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean rievdan",
+                "leat rievdan",
+                "lea rievdan",
+                "letne rievdan",
+                "leahppi rievdan",
+                "leaba rievdan",
+                "leat rievdan",
+                "lehpet rievdan",
+                "leat rievdan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen rievdan",
+                "ledjet rievdan",
+                "lei rievdan",
+                "leimme rievdan",
+                "leidde rievdan",
+                "leigga rievdan",
+                "leimmet rievdan",
+                "leiddet rievdan",
+                "ledje rievdan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean rievdame, -min",
+                "leat rievdame, -min",
+                "lea rievdame, -min",
+                "letne rievdame, -min",
+                "leahppi rievdame, -min",
+                "leaba rievdame, -min",
+                "leat rievdame, -min",
+                "lehpet rievdame, -min",
+                "leat rievdame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen rievdame, -min",
+                "ledjet rievdame, -min",
+                "lei rievdame, -min",
+                "leimme rievdame, -min",
+                "leidde rievdame, -min",
+                "leigga rievdame, -min",
+                "leimmet rievdame, -min",
+                "leiddet rievdame, -min",
+                "ledje rievdame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "rievddašin",
+                "rievddašit",
+                "rievddašii",
+                "rievddašeimme",
+                "rievddašeidde",
+                "rievddašeigga",
+                "rievddašeimmet",
+                "rievddašeiddet",
+                "rievddašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in rievddaše",
+                "it rievddaše",
+                "ii rievddaše",
+                "ean rievddaše",
+                "eahppi rievddaše",
+                "eaba rievddaše",
+                "eat rievddaše",
+                "ehpet rievddaše",
+                "eai rievddaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "rievddažan",
+                "rievddažat",
+                "rievddaš",
+                "rievddažetne",
+                "rievddažeahppi",
+                "rievddažeaba",
+                "rievddažit, -žat",
+                "rievddažehpet",
+                "rievddažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in rievddaš",
+                "it rievddaš",
+                "ii rievddaš",
+                "ean rievddaš",
+                "eahppi rievddaš",
+                "eaba rievddaš",
+                "eat rievddaš",
+                "ehpet rievddaš",
+                "eai rievddaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "rivdon",
+                "rievdda",
+                "rivdos",
+                "rievdu",
+                "rievdi",
+                "rivdoska",
+                "rivdot, rievdot",
+                "rivdet, rievdit",
+                "rivdoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon rievdda",
+                "ale rievdda",
+                "allos rievdda",
+                "allu rievdda",
+                "alli rievdda",
+                "alloska rievdda",
+                "allot, allut rievdda",
+                "allet, allit rievdda",
+                "alloset rievdda"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Rievdat",
+    "valid": 1
+}

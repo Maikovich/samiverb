@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "bisánit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "bisánan",
+                "bisánat",
+                "bisána",
+                "bisánetne",
+                "bisáneahppi",
+                "bisáneaba",
+                "bisánit, -nat",
+                "bisánehpet",
+                "bisánit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in bisán",
+                "it bisán",
+                "ii bisán",
+                "ean bisán",
+                "eahppi bisán",
+                "eaba bisán",
+                "eat bisán",
+                "ehpet bisán",
+                "eai bisán"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "bisánin",
+                "bisánit",
+                "bisánii",
+                "bisáneimme",
+                "bisáneidde",
+                "bisáneigga",
+                "bisáneimmet",
+                "bisáneiddet",
+                "bisánedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in bisánan",
+                "it bisánan",
+                "ii bisánan",
+                "ean bisánan",
+                "eahppi bisánan",
+                "eaba bisánan",
+                "eat bisánan",
+                "ehpet bisánan",
+                "eai bisánan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean bisánan",
+                "leat bisánan",
+                "lea bisánan",
+                "letne bisánan",
+                "leahppi bisánan",
+                "leaba bisánan",
+                "leat bisánan",
+                "lehpet bisánan",
+                "leat bisánan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen bisánan",
+                "ledjet bisánan",
+                "lei bisánan",
+                "leimme bisánan",
+                "leidde bisánan",
+                "leigga bisánan",
+                "leimmet bisánan",
+                "leiddet bisánan",
+                "ledje bisánan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean bisáneame, -men",
+                "leat bisáneame, -men",
+                "lea bisáneame, -men",
+                "letne bisáneame, -men",
+                "leahppi bisáneame, -men",
+                "leaba bisáneame, -men",
+                "leat bisáneame, -men",
+                "lehpet bisáneame, -men",
+                "leat bisáneame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen bisáneame, -men",
+                "ledjet bisáneame, -men",
+                "lei bisáneame, -men",
+                "leimme bisáneame, -men",
+                "leidde bisáneame, -men",
+                "leigga bisáneame, -men",
+                "leimmet bisáneame, -men",
+                "leiddet bisáneame, -men",
+                "ledje bisáneame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "bisánivččen",
+                "bisánivččet",
+                "bisánivččii",
+                "bisánivččiime",
+                "bisánivččiide",
+                "bisánivččiiga",
+                "bisánivččiimet",
+                "bisánivččiidet",
+                "bisánivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in bisánivčče",
+                "it bisánivčče",
+                "ii bisánivčče",
+                "ean bisánivčče",
+                "eahppi bisánivčče",
+                "eaba bisánivčče",
+                "eat bisánivčče",
+                "ehpet bisánivčče",
+                "eai bisánivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "bisáneaččan",
+                "bisáneaččat",
+                "bisáneaš, -neš, -neažžá",
+                "bisánežže",
+                "bisáneažžabeahtti",
+                "bisáneažžaba",
+                "bisáneažžat",
+                "bisáneažžabehtet",
+                "bisánežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in bisáneaš, -neš, -neažžá",
+                "it bisáneaš, -neš, -neažžá",
+                "ii bisáneaš, -neš, -neažžá",
+                "ean bisáneaš, -neš, -neažžá",
+                "eahppi bisáneaš, -neš, -neažžá",
+                "eaba bisáneaš, -neš, -neažžá",
+                "eat bisáneaš, -neš, -neažžá",
+                "ehpet bisáneaš, -neš, -neažžá",
+                "eai bisáneaš, -neš, -neažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "bisánehkon",
+                "bisán",
+                "bisánehkos, bisánus",
+                "bisáneadnu",
+                "bisáneahkki",
+                "bisánehkoska",
+                "bisánehkot, bisáneahkkut, bisánetnot, bisáneadnot",
+                "bisánehket",
+                "bisánehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon bisán",
+                "ale bisán",
+                "allos bisán",
+                "allu bisán",
+                "alli bisán",
+                "alloska bisán",
+                "allot, allut bisán",
+                "allet, allit bisán",
+                "alloset bisán"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Bisánit",
+    "valid": 1
+}

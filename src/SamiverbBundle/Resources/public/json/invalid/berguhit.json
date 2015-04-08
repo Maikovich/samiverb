@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "berguhit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "berguhan",
+                "berguhat",
+                "berguha",
+                "berguhetne",
+                "berguheahppi",
+                "berguheaba",
+                "berguhit, -hat",
+                "berguhehpet",
+                "berguhit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in bergut",
+                "it bergut",
+                "ii bergut",
+                "ean bergut",
+                "eahppi bergut",
+                "eaba bergut",
+                "eat bergut",
+                "ehpet bergut",
+                "eai bergut"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "berguhin",
+                "berguhit",
+                "berguhii",
+                "berguheimme",
+                "berguheidde",
+                "berguheigga",
+                "berguheimmet",
+                "berguheiddet",
+                "berguhedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in berguhan",
+                "it berguhan",
+                "ii berguhan",
+                "ean berguhan",
+                "eahppi berguhan",
+                "eaba berguhan",
+                "eat berguhan",
+                "ehpet berguhan",
+                "eai berguhan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean berguhan",
+                "leat berguhan",
+                "lea berguhan",
+                "letne berguhan",
+                "leahppi berguhan",
+                "leaba berguhan",
+                "leat berguhan",
+                "lehpet berguhan",
+                "leat berguhan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen berguhan",
+                "ledjet berguhan",
+                "lei berguhan",
+                "leimme berguhan",
+                "leidde berguhan",
+                "leigga berguhan",
+                "leimmet berguhan",
+                "leiddet berguhan",
+                "ledje berguhan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean berguheame, -men",
+                "leat berguheame, -men",
+                "lea berguheame, -men",
+                "letne berguheame, -men",
+                "leahppi berguheame, -men",
+                "leaba berguheame, -men",
+                "leat berguheame, -men",
+                "lehpet berguheame, -men",
+                "leat berguheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen berguheame, -men",
+                "ledjet berguheame, -men",
+                "lei berguheame, -men",
+                "leimme berguheame, -men",
+                "leidde berguheame, -men",
+                "leigga berguheame, -men",
+                "leimmet berguheame, -men",
+                "leiddet berguheame, -men",
+                "ledje berguheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "berguhivččen",
+                "berguhivččet",
+                "berguhivččii",
+                "berguhivččiime",
+                "berguhivččiide",
+                "berguhivččiiga",
+                "berguhivččiimet",
+                "berguhivččiidet",
+                "berguhivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in berguhivčče",
+                "it berguhivčče",
+                "ii berguhivčče",
+                "ean berguhivčče",
+                "eahppi berguhivčče",
+                "eaba berguhivčče",
+                "eat berguhivčče",
+                "ehpet berguhivčče",
+                "eai berguhivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "berguheaččan",
+                "berguheaččat",
+                "berguheaš, -heš, -heažžá",
+                "berguhežže",
+                "berguheažžabeahtti",
+                "berguheažžaba",
+                "berguheažžat",
+                "berguheažžabehtet",
+                "berguhežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in berguheaš, -heš, -heažžá",
+                "it berguheaš, -heš, -heažžá",
+                "ii berguheaš, -heš, -heažžá",
+                "ean berguheaš, -heš, -heažžá",
+                "eahppi berguheaš, -heš, -heažžá",
+                "eaba berguheaš, -heš, -heažžá",
+                "eat berguheaš, -heš, -heažžá",
+                "ehpet berguheaš, -heš, -heažžá",
+                "eai berguheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "berguhehkon",
+                "bergut",
+                "berguhehkos, berguhus",
+                "berguheadnu",
+                "berguheahkki",
+                "berguhehkoska",
+                "berguhehkot, berguheahkkut, berguhetnot, berguheadnot",
+                "berguhehket",
+                "berguhehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon bergut",
+                "ale bergut",
+                "allos bergut",
+                "allu bergut",
+                "alli bergut",
+                "alloska bergut",
+                "allot, allut bergut",
+                "allet, allit bergut",
+                "alloset bergut"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "valid": 0,
+    "value": "Berguhit"
+}

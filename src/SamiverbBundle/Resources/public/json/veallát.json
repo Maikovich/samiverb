@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "veallát",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "veallán",
+                "veallát",
+                "veallá",
+                "veallájetne",
+                "veallábeahtti",
+                "veallába",
+                "veallát",
+                "veallábehtet",
+                "veallájit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in veallá",
+                "it veallá",
+                "ii veallá",
+                "ean veallá",
+                "eahppi veallá",
+                "eaba veallá",
+                "eat veallá",
+                "ehpet veallá",
+                "eai veallá"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "veallájin",
+                "veallájit",
+                "veallái",
+                "vealláime",
+                "vealláide",
+                "vealláiga",
+                "vealláimet",
+                "vealláidet",
+                "veallájedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in veallán",
+                "it veallán",
+                "ii veallán",
+                "ean veallán",
+                "eahppi veallán",
+                "eaba veallán",
+                "eat veallán",
+                "ehpet veallán",
+                "eai veallán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean veallán",
+                "leat veallán",
+                "lea veallán",
+                "letne veallán",
+                "leahppi veallán",
+                "leaba veallán",
+                "leat veallán",
+                "lehpet veallán",
+                "leat veallán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen veallán",
+                "ledjet veallán",
+                "lei veallán",
+                "leimme veallán",
+                "leidde veallán",
+                "leigga veallán",
+                "leimmet veallán",
+                "leiddet veallán",
+                "ledje veallán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean vealláme, -min",
+                "leat vealláme, -min",
+                "lea vealláme, -min",
+                "letne vealláme, -min",
+                "leahppi vealláme, -min",
+                "leaba vealláme, -min",
+                "leat vealláme, -min",
+                "lehpet vealláme, -min",
+                "leat vealláme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen vealláme, -min",
+                "ledjet vealláme, -min",
+                "lei vealláme, -min",
+                "leimme vealláme, -min",
+                "leidde vealláme, -min",
+                "leigga vealláme, -min",
+                "leimmet vealláme, -min",
+                "leiddet vealláme, -min",
+                "ledje vealláme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "veallášin",
+                "veallášit",
+                "veallášii",
+                "veallášeimme",
+                "veallášeidde",
+                "veallášeigga",
+                "veallášeimmet",
+                "veallášeiddet",
+                "veallášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in vealláše",
+                "it vealláše",
+                "ii vealláše",
+                "ean vealláše",
+                "eahppi vealláše",
+                "eaba vealláše",
+                "eat vealláše",
+                "ehpet vealláše",
+                "eai vealláše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "veallážan",
+                "veallážat",
+                "vealláš",
+                "veallážetne",
+                "veallážeahppi",
+                "veallážeaba",
+                "veallážit, -žat",
+                "veallážehpet",
+                "veallážit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in vealláš",
+                "it vealláš",
+                "ii vealláš",
+                "ean vealláš",
+                "eahppi vealláš",
+                "eaba vealláš",
+                "eat vealláš",
+                "ehpet vealláš",
+                "eai vealláš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "veallájehkon",
+                "veallá",
+                "veallájehkos",
+                "veallájeadnu",
+                "veallájeahkki",
+                "veallájehkoska",
+                "veallájeahkkut, veallájeadnot, veallájehkot, veallájetnot",
+                "veallájeahkkit",
+                "veallájehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon veallá",
+                "ale veallá",
+                "allos veallá",
+                "allu veallá",
+                "alli veallá",
+                "alloska veallá",
+                "allot, allut veallá",
+                "allet, allit veallá",
+                "alloset veallá"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Veallát",
+    "valid": 1
+}

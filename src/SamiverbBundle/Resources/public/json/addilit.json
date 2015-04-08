@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "addilit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "addilan",
+                "addilat",
+                "addila",
+                "addiletne",
+                "addileahppi",
+                "addileaba",
+                "addilit, -lat",
+                "addilehpet",
+                "addilit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in addil",
+                "it addil",
+                "ii addil",
+                "ean addil",
+                "eahppi addil",
+                "eaba addil",
+                "eat addil",
+                "ehpet addil",
+                "eai addil"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "addilin",
+                "addilit",
+                "addilii",
+                "addileimme",
+                "addileidde",
+                "addileigga",
+                "addileimmet",
+                "addileiddet",
+                "addiledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in addilan",
+                "it addilan",
+                "ii addilan",
+                "ean addilan",
+                "eahppi addilan",
+                "eaba addilan",
+                "eat addilan",
+                "ehpet addilan",
+                "eai addilan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean addilan",
+                "leat addilan",
+                "lea addilan",
+                "letne addilan",
+                "leahppi addilan",
+                "leaba addilan",
+                "leat addilan",
+                "lehpet addilan",
+                "leat addilan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen addilan",
+                "ledjet addilan",
+                "lei addilan",
+                "leimme addilan",
+                "leidde addilan",
+                "leigga addilan",
+                "leimmet addilan",
+                "leiddet addilan",
+                "ledje addilan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean addileame, -men",
+                "leat addileame, -men",
+                "lea addileame, -men",
+                "letne addileame, -men",
+                "leahppi addileame, -men",
+                "leaba addileame, -men",
+                "leat addileame, -men",
+                "lehpet addileame, -men",
+                "leat addileame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen addileame, -men",
+                "ledjet addileame, -men",
+                "lei addileame, -men",
+                "leimme addileame, -men",
+                "leidde addileame, -men",
+                "leigga addileame, -men",
+                "leimmet addileame, -men",
+                "leiddet addileame, -men",
+                "ledje addileame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "addilivččen",
+                "addilivččet",
+                "addilivččii",
+                "addilivččiime",
+                "addilivččiide",
+                "addilivččiiga",
+                "addilivččiimet",
+                "addilivččiidet",
+                "addilivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in addilivčče",
+                "it addilivčče",
+                "ii addilivčče",
+                "ean addilivčče",
+                "eahppi addilivčče",
+                "eaba addilivčče",
+                "eat addilivčče",
+                "ehpet addilivčče",
+                "eai addilivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "addileaččan",
+                "addileaččat",
+                "addileaš, -leš, -leažžá",
+                "addiležže",
+                "addileažžabeahtti",
+                "addileažžaba",
+                "addileažžat",
+                "addileažžabehtet",
+                "addiležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in addileaš, -leš, -leažžá",
+                "it addileaš, -leš, -leažžá",
+                "ii addileaš, -leš, -leažžá",
+                "ean addileaš, -leš, -leažžá",
+                "eahppi addileaš, -leš, -leažžá",
+                "eaba addileaš, -leš, -leažžá",
+                "eat addileaš, -leš, -leažžá",
+                "ehpet addileaš, -leš, -leažžá",
+                "eai addileaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "addilehkon",
+                "addil",
+                "addilehkos, addilus",
+                "addileadnu",
+                "addileahkki",
+                "addilehkoska",
+                "addilehkot, addileahkkut, addiletnot, addileadnot",
+                "addilehket",
+                "addilehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon addil",
+                "ale addil",
+                "allos addil",
+                "allu addil",
+                "alli addil",
+                "alloska addil",
+                "allot, allut addil",
+                "allet, allit addil",
+                "alloset addil"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Addilit",
+    "valid": 1
+}

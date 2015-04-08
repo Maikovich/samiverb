@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "meddelit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "meddelan",
+                "meddelat",
+                "meddela",
+                "meddeletne",
+                "meddeleahppi",
+                "meddeleaba",
+                "meddelit, -lat",
+                "meddelehpet",
+                "meddelit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in meddel",
+                "it meddel",
+                "ii meddel",
+                "ean meddel",
+                "eahppi meddel",
+                "eaba meddel",
+                "eat meddel",
+                "ehpet meddel",
+                "eai meddel"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "meddelin",
+                "meddelit",
+                "meddelii",
+                "meddeleimme",
+                "meddeleidde",
+                "meddeleigga",
+                "meddeleimmet",
+                "meddeleiddet",
+                "meddeledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in meddelan",
+                "it meddelan",
+                "ii meddelan",
+                "ean meddelan",
+                "eahppi meddelan",
+                "eaba meddelan",
+                "eat meddelan",
+                "ehpet meddelan",
+                "eai meddelan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean meddelan",
+                "leat meddelan",
+                "lea meddelan",
+                "letne meddelan",
+                "leahppi meddelan",
+                "leaba meddelan",
+                "leat meddelan",
+                "lehpet meddelan",
+                "leat meddelan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen meddelan",
+                "ledjet meddelan",
+                "lei meddelan",
+                "leimme meddelan",
+                "leidde meddelan",
+                "leigga meddelan",
+                "leimmet meddelan",
+                "leiddet meddelan",
+                "ledje meddelan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean meddeleame, -men",
+                "leat meddeleame, -men",
+                "lea meddeleame, -men",
+                "letne meddeleame, -men",
+                "leahppi meddeleame, -men",
+                "leaba meddeleame, -men",
+                "leat meddeleame, -men",
+                "lehpet meddeleame, -men",
+                "leat meddeleame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen meddeleame, -men",
+                "ledjet meddeleame, -men",
+                "lei meddeleame, -men",
+                "leimme meddeleame, -men",
+                "leidde meddeleame, -men",
+                "leigga meddeleame, -men",
+                "leimmet meddeleame, -men",
+                "leiddet meddeleame, -men",
+                "ledje meddeleame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "meddelivččen",
+                "meddelivččet",
+                "meddelivččii",
+                "meddelivččiime",
+                "meddelivččiide",
+                "meddelivččiiga",
+                "meddelivččiimet",
+                "meddelivččiidet",
+                "meddelivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in meddelivčče",
+                "it meddelivčče",
+                "ii meddelivčče",
+                "ean meddelivčče",
+                "eahppi meddelivčče",
+                "eaba meddelivčče",
+                "eat meddelivčče",
+                "ehpet meddelivčče",
+                "eai meddelivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "meddeleaččan",
+                "meddeleaččat",
+                "meddeleaš, -leš, -leažžá",
+                "meddeležže",
+                "meddeleažžabeahtti",
+                "meddeleažžaba",
+                "meddeleažžat",
+                "meddeleažžabehtet",
+                "meddeležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in meddeleaš, -leš, -leažžá",
+                "it meddeleaš, -leš, -leažžá",
+                "ii meddeleaš, -leš, -leažžá",
+                "ean meddeleaš, -leš, -leažžá",
+                "eahppi meddeleaš, -leš, -leažžá",
+                "eaba meddeleaš, -leš, -leažžá",
+                "eat meddeleaš, -leš, -leažžá",
+                "ehpet meddeleaš, -leš, -leažžá",
+                "eai meddeleaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "meddelehkon",
+                "meddel",
+                "meddelehkos, meddelus",
+                "meddeleadnu",
+                "meddeleahkki",
+                "meddelehkoska",
+                "meddelehkot, meddeleahkkut, meddeletnot, meddeleadnot",
+                "meddelehket",
+                "meddelehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon meddel",
+                "ale meddel",
+                "allos meddel",
+                "allu meddel",
+                "alli meddel",
+                "alloska meddel",
+                "allot, allut meddel",
+                "allet, allit meddel",
+                "alloset meddel"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "valid": 0,
+    "value": "Meddelit"
+}

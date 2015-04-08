@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gullat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gulan",
+                "gulat",
+                "gullá",
+                "gulle",
+                "gullabeahtti",
+                "gullaba",
+                "gullat",
+                "gullabehtet",
+                "gullet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gula",
+                "it gula",
+                "ii gula",
+                "ean gula",
+                "eahppi gula",
+                "eaba gula",
+                "eat gula",
+                "ehpet gula",
+                "eai gula"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gullen",
+                "gullet",
+                "gulai",
+                "gulaime",
+                "gulaide",
+                "gulaiga",
+                "gulaimet",
+                "gulaidet",
+                "gulle"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gullan",
+                "it gullan",
+                "ii gullan",
+                "ean gullan",
+                "eahppi gullan",
+                "eaba gullan",
+                "eat gullan",
+                "ehpet gullan",
+                "eai gullan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gullan",
+                "leat gullan",
+                "lea gullan",
+                "letne gullan",
+                "leahppi gullan",
+                "leaba gullan",
+                "leat gullan",
+                "lehpet gullan",
+                "leat gullan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gullan",
+                "ledjet gullan",
+                "lei gullan",
+                "leimme gullan",
+                "leidde gullan",
+                "leigga gullan",
+                "leimmet gullan",
+                "leiddet gullan",
+                "ledje gullan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gullame, -min",
+                "leat gullame, -min",
+                "lea gullame, -min",
+                "letne gullame, -min",
+                "leahppi gullame, -min",
+                "leaba gullame, -min",
+                "leat gullame, -min",
+                "lehpet gullame, -min",
+                "leat gullame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gullame, -min",
+                "ledjet gullame, -min",
+                "lei gullame, -min",
+                "leimme gullame, -min",
+                "leidde gullame, -min",
+                "leigga gullame, -min",
+                "leimmet gullame, -min",
+                "leiddet gullame, -min",
+                "ledje gullame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gulašin",
+                "gulašit",
+                "gulašii",
+                "gulašeimme",
+                "gulašeidde",
+                "gulašeigga",
+                "gulašeimmet",
+                "gulašeiddet",
+                "gulašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gulaše",
+                "it gulaše",
+                "ii gulaše",
+                "ean gulaše",
+                "eahppi gulaše",
+                "eaba gulaše",
+                "eat gulaše",
+                "ehpet gulaše",
+                "eai gulaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gulažan",
+                "gulažat",
+                "gulaš",
+                "gulažetne",
+                "gulažeahppi",
+                "gulažeaba",
+                "gulažit, -žat",
+                "gulažehpet",
+                "gulažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gulaš",
+                "it gulaš",
+                "ii gulaš",
+                "ean gulaš",
+                "eahppi gulaš",
+                "eaba gulaš",
+                "eat gulaš",
+                "ehpet gulaš",
+                "eai gulaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gullon",
+                "gula",
+                "gullos",
+                "gullu",
+                "gulli",
+                "gulloska",
+                "gullot",
+                "gullet, gullit",
+                "gulloset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gula",
+                "ale gula",
+                "allos gula",
+                "allu gula",
+                "alli gula",
+                "alloska gula",
+                "allot, allut gula",
+                "allet, allit gula",
+                "alloset gula"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gullat",
+    "valid": 1
+}

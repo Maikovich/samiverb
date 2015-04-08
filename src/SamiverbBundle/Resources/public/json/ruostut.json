@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "ruostut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "ruosttun",
+                "ruosttut",
+                "ruostu",
+                "rusto",
+                "ruostubeahtti",
+                "ruostuba",
+                "ruostut",
+                "ruostubehtet",
+                "rustot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in ruostto",
+                "it ruostto",
+                "ii ruostto",
+                "ean ruostto",
+                "eahppi ruostto",
+                "eaba ruostto",
+                "eat ruostto",
+                "ehpet ruostto",
+                "eai ruostto"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ruston",
+                "rustot",
+                "ruosttui",
+                "ruosttuime",
+                "ruosttuide",
+                "ruosttuiga",
+                "ruosttuimet",
+                "ruosttuidet",
+                "rusto"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ruston",
+                "it ruston",
+                "ii ruston",
+                "ean ruston",
+                "eahppi ruston",
+                "eaba ruston",
+                "eat ruston",
+                "ehpet ruston",
+                "eai ruston"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ruston",
+                "leat ruston",
+                "lea ruston",
+                "letne ruston",
+                "leahppi ruston",
+                "leaba ruston",
+                "leat ruston",
+                "lehpet ruston",
+                "leat ruston"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ruston",
+                "ledjet ruston",
+                "lei ruston",
+                "leimme ruston",
+                "leidde ruston",
+                "leigga ruston",
+                "leimmet ruston",
+                "leiddet ruston",
+                "ledje ruston"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean ruostume, -min",
+                "leat ruostume, -min",
+                "lea ruostume, -min",
+                "letne ruostume, -min",
+                "leahppi ruostume, -min",
+                "leaba ruostume, -min",
+                "leat ruostume, -min",
+                "lehpet ruostume, -min",
+                "leat ruostume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen ruostume, -min",
+                "ledjet ruostume, -min",
+                "lei ruostume, -min",
+                "leimme ruostume, -min",
+                "leidde ruostume, -min",
+                "leigga ruostume, -min",
+                "leimmet ruostume, -min",
+                "leiddet ruostume, -min",
+                "ledje ruostume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "rusttošin",
+                "rusttošit",
+                "rusttošii",
+                "rusttošeimme",
+                "rusttošeidde",
+                "rusttošeigga",
+                "rusttošeimmet",
+                "rusttošeiddet",
+                "rusttošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in rusttoše",
+                "it rusttoše",
+                "ii rusttoše",
+                "ean rusttoše",
+                "eahppi rusttoše",
+                "eaba rusttoše",
+                "eat rusttoše",
+                "ehpet rusttoše",
+                "eai rusttoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "rusttožan",
+                "rusttožat",
+                "rusttoš",
+                "rusttožetne",
+                "rusttožeahppi",
+                "rusttožeaba",
+                "rusttožit, -žat",
+                "rusttožehpet",
+                "rusttožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in rusttoš",
+                "it rusttoš",
+                "ii rusttoš",
+                "ean rusttoš",
+                "eahppi rusttoš",
+                "eaba rusttoš",
+                "eat rusttoš",
+                "ehpet rusttoš",
+                "eai rusttoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "ruston",
+                "ruostto",
+                "rustos",
+                "ruostu",
+                "ruostu",
+                "rustoska",
+                "rustot, ruostot",
+                "rustot, ruostot",
+                "rustoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon ruostto",
+                "ale ruostto",
+                "allos ruostto",
+                "allu ruostto",
+                "alli ruostto",
+                "alloska ruostto",
+                "allot, allut ruostto",
+                "allet, allit ruostto",
+                "alloset ruostto"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Ruostut",
+    "valid": 1
+}

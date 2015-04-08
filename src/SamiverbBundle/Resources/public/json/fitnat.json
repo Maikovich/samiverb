@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "fitnat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "finan",
+                "finat",
+                "fitná",
+                "fitne",
+                "fitnabeahtti",
+                "fitnaba",
+                "fitnat",
+                "fitnabehtet",
+                "fitnet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in fina",
+                "it fina",
+                "ii fina",
+                "ean fina",
+                "eahppi fina",
+                "eaba fina",
+                "eat fina",
+                "ehpet fina",
+                "eai fina"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "fitnen",
+                "fitnet",
+                "finai",
+                "finaime",
+                "finaide",
+                "finaiga",
+                "finaimet",
+                "finaidet",
+                "fitne"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in fitnan",
+                "it fitnan",
+                "ii fitnan",
+                "ean fitnan",
+                "eahppi fitnan",
+                "eaba fitnan",
+                "eat fitnan",
+                "ehpet fitnan",
+                "eai fitnan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean fitnan",
+                "leat fitnan",
+                "lea fitnan",
+                "letne fitnan",
+                "leahppi fitnan",
+                "leaba fitnan",
+                "leat fitnan",
+                "lehpet fitnan",
+                "leat fitnan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen fitnan",
+                "ledjet fitnan",
+                "lei fitnan",
+                "leimme fitnan",
+                "leidde fitnan",
+                "leigga fitnan",
+                "leimmet fitnan",
+                "leiddet fitnan",
+                "ledje fitnan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean fitname, -min",
+                "leat fitname, -min",
+                "lea fitname, -min",
+                "letne fitname, -min",
+                "leahppi fitname, -min",
+                "leaba fitname, -min",
+                "leat fitname, -min",
+                "lehpet fitname, -min",
+                "leat fitname, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen fitname, -min",
+                "ledjet fitname, -min",
+                "lei fitname, -min",
+                "leimme fitname, -min",
+                "leidde fitname, -min",
+                "leigga fitname, -min",
+                "leimmet fitname, -min",
+                "leiddet fitname, -min",
+                "ledje fitname, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "finašin",
+                "finašit",
+                "finašii",
+                "finašeimme",
+                "finašeidde",
+                "finašeigga",
+                "finašeimmet",
+                "finašeiddet",
+                "finašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in finaše",
+                "it finaše",
+                "ii finaše",
+                "ean finaše",
+                "eahppi finaše",
+                "eaba finaše",
+                "eat finaše",
+                "ehpet finaše",
+                "eai finaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "finažan",
+                "finažat",
+                "finaš",
+                "finažetne",
+                "finažeahppi",
+                "finažeaba",
+                "finažit, -žat",
+                "finažehpet",
+                "finažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in finaš",
+                "it finaš",
+                "ii finaš",
+                "ean finaš",
+                "eahppi finaš",
+                "eaba finaš",
+                "eat finaš",
+                "ehpet finaš",
+                "eai finaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "fitnon",
+                "fina",
+                "fitnos",
+                "fidnu",
+                "fidni",
+                "fitnoska",
+                "fitnot, fidnot",
+                "fitnet, fidnit",
+                "fitnoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon fina",
+                "ale fina",
+                "allos fina",
+                "allu fina",
+                "alli fina",
+                "alloska fina",
+                "allot, allut fina",
+                "allet, allit fina",
+                "alloset fina"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Fitnat",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "ságastit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "ságastan",
+                "ságastat",
+                "ságasta",
+                "ságastetne",
+                "ságasteahppi",
+                "ságasteaba",
+                "ságastit, -tat",
+                "ságastehpet",
+                "ságastit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in ságas",
+                "it ságas",
+                "ii ságas",
+                "ean ságas",
+                "eahppi ságas",
+                "eaba ságas",
+                "eat ságas",
+                "ehpet ságas",
+                "eai ságas"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ságastin",
+                "ságastit",
+                "ságastii",
+                "ságasteimme",
+                "ságasteidde",
+                "ságasteigga",
+                "ságasteimmet",
+                "ságasteiddet",
+                "ságastedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ságastan",
+                "it ságastan",
+                "ii ságastan",
+                "ean ságastan",
+                "eahppi ságastan",
+                "eaba ságastan",
+                "eat ságastan",
+                "ehpet ságastan",
+                "eai ságastan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ságastan",
+                "leat ságastan",
+                "lea ságastan",
+                "letne ságastan",
+                "leahppi ságastan",
+                "leaba ságastan",
+                "leat ságastan",
+                "lehpet ságastan",
+                "leat ságastan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ságastan",
+                "ledjet ságastan",
+                "lei ságastan",
+                "leimme ságastan",
+                "leidde ságastan",
+                "leigga ságastan",
+                "leimmet ságastan",
+                "leiddet ságastan",
+                "ledje ságastan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean ságasteame, -men",
+                "leat ságasteame, -men",
+                "lea ságasteame, -men",
+                "letne ságasteame, -men",
+                "leahppi ságasteame, -men",
+                "leaba ságasteame, -men",
+                "leat ságasteame, -men",
+                "lehpet ságasteame, -men",
+                "leat ságasteame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen ságasteame, -men",
+                "ledjet ságasteame, -men",
+                "lei ságasteame, -men",
+                "leimme ságasteame, -men",
+                "leidde ságasteame, -men",
+                "leigga ságasteame, -men",
+                "leimmet ságasteame, -men",
+                "leiddet ságasteame, -men",
+                "ledje ságasteame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "ságastivččen",
+                "ságastivččet",
+                "ságastivččii",
+                "ságastivččiime",
+                "ságastivččiide",
+                "ságastivččiiga",
+                "ságastivččiimet",
+                "ságastivččiidet",
+                "ságastivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in ságastivčče",
+                "it ságastivčče",
+                "ii ságastivčče",
+                "ean ságastivčče",
+                "eahppi ságastivčče",
+                "eaba ságastivčče",
+                "eat ságastivčče",
+                "ehpet ságastivčče",
+                "eai ságastivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "ságasteaččan",
+                "ságasteaččat",
+                "ságasteaš, -teš, -teažžá",
+                "ságastežže",
+                "ságasteažžabeahtti",
+                "ságasteažžaba",
+                "ságasteažžat",
+                "ságasteažžabehtet",
+                "ságastežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in ságasteaš, -teš, -teažžá",
+                "it ságasteaš, -teš, -teažžá",
+                "ii ságasteaš, -teš, -teažžá",
+                "ean ságasteaš, -teš, -teažžá",
+                "eahppi ságasteaš, -teš, -teažžá",
+                "eaba ságasteaš, -teš, -teažžá",
+                "eat ságasteaš, -teš, -teažžá",
+                "ehpet ságasteaš, -teš, -teažžá",
+                "eai ságasteaš, -teš, -teažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "ságastehkon",
+                "ságas",
+                "ságastehkos, ságastus",
+                "ságasteadnu",
+                "ságasteahkki",
+                "ságastehkoska",
+                "ságastehkot, ságasteahkkut, ságastetnot, ságasteadnot",
+                "ságastehket",
+                "ságastehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon ságas",
+                "ale ságas",
+                "allos ságas",
+                "allu ságas",
+                "alli ságas",
+                "alloska ságas",
+                "allot, allut ságas",
+                "allet, allit ságas",
+                "alloset ságas"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Ságastit",
+    "valid": 1
+}

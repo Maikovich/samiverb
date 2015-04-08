@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "ađahuvvat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "ađahuvan",
+                "ađahuvat",
+                "ađahuvvá",
+                "ađahuvve",
+                "ađahuvvabeahtti",
+                "ađahuvvaba",
+                "ađahuvvat",
+                "ađahuvvabehtet",
+                "ađahuvvet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in ađahuva",
+                "it ađahuva",
+                "ii ađahuva",
+                "ean ađahuva",
+                "eahppi ađahuva",
+                "eaba ađahuva",
+                "eat ađahuva",
+                "ehpet ađahuva",
+                "eai ađahuva"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ađahuvven",
+                "ađahuvvet",
+                "ađahuvai",
+                "ađahuvaime",
+                "ađahuvaide",
+                "ađahuvaiga",
+                "ađahuvaimet",
+                "ađahuvaidet",
+                "ađahuvve"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ađahuvvan",
+                "it ađahuvvan",
+                "ii ađahuvvan",
+                "ean ađahuvvan",
+                "eahppi ađahuvvan",
+                "eaba ađahuvvan",
+                "eat ađahuvvan",
+                "ehpet ađahuvvan",
+                "eai ađahuvvan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ađahuvvan",
+                "leat ađahuvvan",
+                "lea ađahuvvan",
+                "letne ađahuvvan",
+                "leahppi ađahuvvan",
+                "leaba ađahuvvan",
+                "leat ađahuvvan",
+                "lehpet ađahuvvan",
+                "leat ađahuvvan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ađahuvvan",
+                "ledjet ađahuvvan",
+                "lei ađahuvvan",
+                "leimme ađahuvvan",
+                "leidde ađahuvvan",
+                "leigga ađahuvvan",
+                "leimmet ađahuvvan",
+                "leiddet ađahuvvan",
+                "ledje ađahuvvan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean ađahuvvame, -min",
+                "leat ađahuvvame, -min",
+                "lea ađahuvvame, -min",
+                "letne ađahuvvame, -min",
+                "leahppi ađahuvvame, -min",
+                "leaba ađahuvvame, -min",
+                "leat ađahuvvame, -min",
+                "lehpet ađahuvvame, -min",
+                "leat ađahuvvame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen ađahuvvame, -min",
+                "ledjet ađahuvvame, -min",
+                "lei ađahuvvame, -min",
+                "leimme ađahuvvame, -min",
+                "leidde ađahuvvame, -min",
+                "leigga ađahuvvame, -min",
+                "leimmet ađahuvvame, -min",
+                "leiddet ađahuvvame, -min",
+                "ledje ađahuvvame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "ađahuvašin",
+                "ađahuvašit",
+                "ađahuvašii",
+                "ađahuvašeimme",
+                "ađahuvašeidde",
+                "ađahuvašeigga",
+                "ađahuvašeimmet",
+                "ađahuvašeiddet",
+                "ađahuvašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in ađahuvaše",
+                "it ađahuvaše",
+                "ii ađahuvaše",
+                "ean ađahuvaše",
+                "eahppi ađahuvaše",
+                "eaba ađahuvaše",
+                "eat ađahuvaše",
+                "ehpet ađahuvaše",
+                "eai ađahuvaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "ađahuvažan",
+                "ađahuvažat",
+                "ađahuvaš",
+                "ađahuvažetne",
+                "ađahuvažeahppi",
+                "ađahuvažeaba",
+                "ađahuvažit, -žat",
+                "ađahuvažehpet",
+                "ađahuvažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in ađahuvaš",
+                "it ađahuvaš",
+                "ii ađahuvaš",
+                "ean ađahuvaš",
+                "eahppi ađahuvaš",
+                "eaba ađahuvaš",
+                "eat ađahuvaš",
+                "ehpet ađahuvaš",
+                "eai ađahuvaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "ađahuvvon",
+                "ađahuva",
+                "ađahuvvos",
+                "ađahuvvu",
+                "ađahuvvi",
+                "ađahuvvoska",
+                "ađahuvvot",
+                "ađahuvvet, ađahuvvit",
+                "ađahuvvoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon ađahuva",
+                "ale ađahuva",
+                "allos ađahuva",
+                "allu ađahuva",
+                "alli ađahuva",
+                "alloska ađahuva",
+                "allot, allut ađahuva",
+                "allet, allit ađahuva",
+                "alloset ađahuva"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Ađahuvvat",
+    "valid": 1
+}

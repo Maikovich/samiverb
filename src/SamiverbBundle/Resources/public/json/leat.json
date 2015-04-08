@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "leat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "lean",
+                "leat",
+                "lea",
+                "letne",
+                "leahppi",
+                "leaba",
+                "leat, -eat",
+                "lehpet",
+                "leat"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in leat",
+                "it leat",
+                "ii leat",
+                "ean leat",
+                "eahppi leat",
+                "eaba leat",
+                "eat leat",
+                "ehpet leat",
+                "eai leat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ledjen",
+                "ledjet",
+                "lei",
+                "leimme",
+                "leidde",
+                "leigga",
+                "leimmet",
+                "leiddet",
+                "ledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in lean",
+                "it lean",
+                "ii lean",
+                "ean lean",
+                "eahppi lean",
+                "eaba lean",
+                "eat lean",
+                "ehpet lean",
+                "eai lean"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean leamaš",
+                "leat leamaš",
+                "lea leamaš",
+                "letne leamaš",
+                "leahppi leamaš",
+                "leaba leamaš",
+                "leat leamaš",
+                "lehpet leamaš",
+                "leat leamaš"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen leamaš",
+                "ledjet leamaš",
+                "lei leamaš",
+                "leimme leamaš",
+                "leidde leamaš",
+                "leigga leamaš",
+                "leimmet leamaš",
+                "leiddet leamaš",
+                "ledje leamaš"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean leame, -men",
+                "leat leame, -men",
+                "lea leame, -men",
+                "letne leame, -men",
+                "leahppi leame, -men",
+                "leaba leame, -men",
+                "leat leame, -men",
+                "lehpet leame, -men",
+                "leat leame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen leame, -men",
+                "ledjet leame, -men",
+                "lei leame, -men",
+                "leimme leame, -men",
+                "leidde leame, -men",
+                "leigga leame, -men",
+                "leimmet leame, -men",
+                "leiddet leame, -men",
+                "ledje leame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "livččen",
+                "livččet",
+                "livččii",
+                "livččiime",
+                "livččiide",
+                "livččiiga",
+                "livččiimet",
+                "livččiidet",
+                "livčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in livčče",
+                "it livčče",
+                "ii livčče",
+                "ean livčče",
+                "eahppi livčče",
+                "eaba livčče",
+                "eat livčče",
+                "ehpet livčče",
+                "eai livčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "leaččan",
+                "leaččat",
+                "leaš, -leš, -leažžá",
+                "ležžet",
+                "leažžabeahtti",
+                "leažžaba",
+                "leažžat",
+                "leažžabehtet",
+                "ležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in leaš, -leš, -leažžá",
+                "it leaš, -leš, -leažžá",
+                "ii leaš, -leš, -leažžá",
+                "ean leaš, -leš, -leažžá",
+                "eahppi leaš, -leš, -leažžá",
+                "eaba leaš, -leš, -leažžá",
+                "eat leaš, -leš, -leažžá",
+                "ehpet leaš, -leš, -leažžá",
+                "eai leaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "lehkon",
+                "leage",
+                "lehkos",
+                "leahkku, leadnu",
+                "leahkki",
+                "lehkoska",
+                "lehkot, leahkkut, leatnot",
+                "lehket, leahkkit",
+                "lehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon leage",
+                "ale leage",
+                "allos leage",
+                "allu leage",
+                "alli leage",
+                "alloska leage",
+                "allot, allut leage",
+                "allet, allit leage",
+                "alloset leage"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Leat",
+    "valid": 1
+}

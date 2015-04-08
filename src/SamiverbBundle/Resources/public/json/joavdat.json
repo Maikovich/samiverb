@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "joavdat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "joavddan",
+                "joavddat",
+                "joavdá",
+                "jovde",
+                "joavdabeahtti",
+                "joavdaba",
+                "joavdat",
+                "joavdabehtet",
+                "jovdet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in joavdda",
+                "it joavdda",
+                "ii joavdda",
+                "ean joavdda",
+                "eahppi joavdda",
+                "eaba joavdda",
+                "eat joavdda",
+                "ehpet joavdda",
+                "eai joavdda"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "jovden",
+                "jovdet",
+                "joavddai",
+                "joavddaime",
+                "joavddaide",
+                "joavddaiga",
+                "joavddaimet",
+                "joavddaidet",
+                "jovde"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in joavdan",
+                "it joavdan",
+                "ii joavdan",
+                "ean joavdan",
+                "eahppi joavdan",
+                "eaba joavdan",
+                "eat joavdan",
+                "ehpet joavdan",
+                "eai joavdan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean joavdan",
+                "leat joavdan",
+                "lea joavdan",
+                "letne joavdan",
+                "leahppi joavdan",
+                "leaba joavdan",
+                "leat joavdan",
+                "lehpet joavdan",
+                "leat joavdan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen joavdan",
+                "ledjet joavdan",
+                "lei joavdan",
+                "leimme joavdan",
+                "leidde joavdan",
+                "leigga joavdan",
+                "leimmet joavdan",
+                "leiddet joavdan",
+                "ledje joavdan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean joavdame, -min",
+                "leat joavdame, -min",
+                "lea joavdame, -min",
+                "letne joavdame, -min",
+                "leahppi joavdame, -min",
+                "leaba joavdame, -min",
+                "leat joavdame, -min",
+                "lehpet joavdame, -min",
+                "leat joavdame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen joavdame, -min",
+                "ledjet joavdame, -min",
+                "lei joavdame, -min",
+                "leimme joavdame, -min",
+                "leidde joavdame, -min",
+                "leigga joavdame, -min",
+                "leimmet joavdame, -min",
+                "leiddet joavdame, -min",
+                "ledje joavdame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "joavddašin",
+                "joavddašit",
+                "joavddašii",
+                "joavddašeimme",
+                "joavddašeidde",
+                "joavddašeigga",
+                "joavddašeimmet",
+                "joavddašeiddet",
+                "joavddašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in joavddaše",
+                "it joavddaše",
+                "ii joavddaše",
+                "ean joavddaše",
+                "eahppi joavddaše",
+                "eaba joavddaše",
+                "eat joavddaše",
+                "ehpet joavddaše",
+                "eai joavddaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "joavddažan",
+                "joavddažat",
+                "joavddaš",
+                "joavddažetne",
+                "joavddažeahppi",
+                "joavddažeaba",
+                "joavddažit, -žat",
+                "joavddažehpet",
+                "joavddažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in joavddaš",
+                "it joavddaš",
+                "ii joavddaš",
+                "ean joavddaš",
+                "eahppi joavddaš",
+                "eaba joavddaš",
+                "eat joavddaš",
+                "ehpet joavddaš",
+                "eai joavddaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "jovdon",
+                "joavdda",
+                "jovdos",
+                "joavdu",
+                "joavdi",
+                "jovdoska",
+                "jovdot, joavdot",
+                "jovdet, joavdit",
+                "jovdoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon joavdda",
+                "ale joavdda",
+                "allos joavdda",
+                "allu joavdda",
+                "alli joavdda",
+                "alloska joavdda",
+                "allot, allut joavdda",
+                "allet, allit joavdda",
+                "alloset joavdda"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Joavdat",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "vuorddestit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "vuorddestan",
+                "vuorddestat",
+                "vuorddesta",
+                "vuorddestetne",
+                "vuorddesteahppi",
+                "vuorddesteaba",
+                "vuorddestit, -tat",
+                "vuorddestehpet",
+                "vuorddestit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in vuorddes",
+                "it vuorddes",
+                "ii vuorddes",
+                "ean vuorddes",
+                "eahppi vuorddes",
+                "eaba vuorddes",
+                "eat vuorddes",
+                "ehpet vuorddes",
+                "eai vuorddes"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "vuorddestin",
+                "vuorddestit",
+                "vuorddestii",
+                "vuorddesteimme",
+                "vuorddesteidde",
+                "vuorddesteigga",
+                "vuorddesteimmet",
+                "vuorddesteiddet",
+                "vuorddestedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in vuorddestan",
+                "it vuorddestan",
+                "ii vuorddestan",
+                "ean vuorddestan",
+                "eahppi vuorddestan",
+                "eaba vuorddestan",
+                "eat vuorddestan",
+                "ehpet vuorddestan",
+                "eai vuorddestan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean vuorddestan",
+                "leat vuorddestan",
+                "lea vuorddestan",
+                "letne vuorddestan",
+                "leahppi vuorddestan",
+                "leaba vuorddestan",
+                "leat vuorddestan",
+                "lehpet vuorddestan",
+                "leat vuorddestan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen vuorddestan",
+                "ledjet vuorddestan",
+                "lei vuorddestan",
+                "leimme vuorddestan",
+                "leidde vuorddestan",
+                "leigga vuorddestan",
+                "leimmet vuorddestan",
+                "leiddet vuorddestan",
+                "ledje vuorddestan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean vuorddesteame, -men",
+                "leat vuorddesteame, -men",
+                "lea vuorddesteame, -men",
+                "letne vuorddesteame, -men",
+                "leahppi vuorddesteame, -men",
+                "leaba vuorddesteame, -men",
+                "leat vuorddesteame, -men",
+                "lehpet vuorddesteame, -men",
+                "leat vuorddesteame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen vuorddesteame, -men",
+                "ledjet vuorddesteame, -men",
+                "lei vuorddesteame, -men",
+                "leimme vuorddesteame, -men",
+                "leidde vuorddesteame, -men",
+                "leigga vuorddesteame, -men",
+                "leimmet vuorddesteame, -men",
+                "leiddet vuorddesteame, -men",
+                "ledje vuorddesteame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "vuorddestivččen",
+                "vuorddestivččet",
+                "vuorddestivččii",
+                "vuorddestivččiime",
+                "vuorddestivččiide",
+                "vuorddestivččiiga",
+                "vuorddestivččiimet",
+                "vuorddestivččiidet",
+                "vuorddestivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in vuorddestivčče",
+                "it vuorddestivčče",
+                "ii vuorddestivčče",
+                "ean vuorddestivčče",
+                "eahppi vuorddestivčče",
+                "eaba vuorddestivčče",
+                "eat vuorddestivčče",
+                "ehpet vuorddestivčče",
+                "eai vuorddestivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "vuorddesteaččan",
+                "vuorddesteaččat",
+                "vuorddesteaš, -teš, -teažžá",
+                "vuorddestežže",
+                "vuorddesteažžabeahtti",
+                "vuorddesteažžaba",
+                "vuorddesteažžat",
+                "vuorddesteažžabehtet",
+                "vuorddestežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in vuorddesteaš, -teš, -teažžá",
+                "it vuorddesteaš, -teš, -teažžá",
+                "ii vuorddesteaš, -teš, -teažžá",
+                "ean vuorddesteaš, -teš, -teažžá",
+                "eahppi vuorddesteaš, -teš, -teažžá",
+                "eaba vuorddesteaš, -teš, -teažžá",
+                "eat vuorddesteaš, -teš, -teažžá",
+                "ehpet vuorddesteaš, -teš, -teažžá",
+                "eai vuorddesteaš, -teš, -teažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "vuorddestehkon",
+                "vuorddes",
+                "vuorddestehkos, vuorddestus",
+                "vuorddesteadnu",
+                "vuorddesteahkki",
+                "vuorddestehkoska",
+                "vuorddestehkot, vuorddesteahkkut, vuorddestetnot, vuorddesteadnot",
+                "vuorddestehket",
+                "vuorddestehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon vuorddes",
+                "ale vuorddes",
+                "allos vuorddes",
+                "allu vuorddes",
+                "alli vuorddes",
+                "alloska vuorddes",
+                "allot, allut vuorddes",
+                "allet, allit vuorddes",
+                "alloset vuorddes"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Vuorddestit",
+    "valid": 1
+}

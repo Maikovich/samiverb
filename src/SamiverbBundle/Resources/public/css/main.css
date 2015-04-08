@@ -1,0 +1,92 @@
+body {
+  background: url("../img/green_whitenoise.png");;
+  padding-top: 40px;
+  font-family: pt-sans, sans-serif;
+}
+
+.adminpanel {
+  background-color: white;
+  opacity: 0.95;
+}
+
+.admintable {
+  min-height: 75vh;
+}
+
+#logoutButton,
+ #adminButton {
+  margin-right: 5px;
+}
+
+#signedInAs {
+  margin-right: 15px;
+}
+
+.title {
+  font-family: lancelot, serif;
+}
+
+.navbar-brand .title {
+  font-size: 23px;
+}
+
+h1.title {
+  letter-spacing: 1px;
+  text-shadow: 1px 2px 3px #3c763d;
+  font-size: 60px;
+}
+
+#verb {
+  margin: 0 auto;
+  width: 200px;
+}
+.ng-dirty.ng-valid {
+  border-color: green;
+}
+.ng-dirty.ng-invalid {
+  border-color: red;
+}
+[ng\:cloak], [ng-cloak], .ng-cloak {
+display: none !important;
+}
+
+#validated {
+  color: #3c763d;
+}
+
+#not-validated,
+#invalid {
+  color: #a94442;
+}
+
+#suggestions {
+  padding: 0 2px;
+}
+
+#front {
+  padding: 10% 0;
+  height: 100vh;
+}
+
+#conjug {
+  display: none;
+  padding: 10px 0 10px;
+  background: url("../img/blue_whitenoise.png");
+}
+
+#verbpanel {
+  opacity: 0.8;
+}
+
+#goToTop {
+  display: none;
+}
+
+#cooltext {
+  letter-spacing: 1px;
+  padding: 10px 0 30px 0;
+  font-size: 18px;
+  font-family: Courier sans-serif;
+  color: white;
+  opacity: 0.8;
+}

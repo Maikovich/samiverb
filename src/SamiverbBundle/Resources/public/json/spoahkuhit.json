@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "spoahkuhit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "spoahkuhan",
+                "spoahkuhat",
+                "spoahkuha",
+                "spoahkuhetne",
+                "spoahkuheahppi",
+                "spoahkuheaba",
+                "spoahkuhit, -hat",
+                "spoahkuhehpet",
+                "spoahkuhit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in spoahkut",
+                "it spoahkut",
+                "ii spoahkut",
+                "ean spoahkut",
+                "eahppi spoahkut",
+                "eaba spoahkut",
+                "eat spoahkut",
+                "ehpet spoahkut",
+                "eai spoahkut"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "spoahkuhin",
+                "spoahkuhit",
+                "spoahkuhii",
+                "spoahkuheimme",
+                "spoahkuheidde",
+                "spoahkuheigga",
+                "spoahkuheimmet",
+                "spoahkuheiddet",
+                "spoahkuhedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in spoahkuhan",
+                "it spoahkuhan",
+                "ii spoahkuhan",
+                "ean spoahkuhan",
+                "eahppi spoahkuhan",
+                "eaba spoahkuhan",
+                "eat spoahkuhan",
+                "ehpet spoahkuhan",
+                "eai spoahkuhan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean spoahkuhan",
+                "leat spoahkuhan",
+                "lea spoahkuhan",
+                "letne spoahkuhan",
+                "leahppi spoahkuhan",
+                "leaba spoahkuhan",
+                "leat spoahkuhan",
+                "lehpet spoahkuhan",
+                "leat spoahkuhan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen spoahkuhan",
+                "ledjet spoahkuhan",
+                "lei spoahkuhan",
+                "leimme spoahkuhan",
+                "leidde spoahkuhan",
+                "leigga spoahkuhan",
+                "leimmet spoahkuhan",
+                "leiddet spoahkuhan",
+                "ledje spoahkuhan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean spoahkuheame, -men",
+                "leat spoahkuheame, -men",
+                "lea spoahkuheame, -men",
+                "letne spoahkuheame, -men",
+                "leahppi spoahkuheame, -men",
+                "leaba spoahkuheame, -men",
+                "leat spoahkuheame, -men",
+                "lehpet spoahkuheame, -men",
+                "leat spoahkuheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen spoahkuheame, -men",
+                "ledjet spoahkuheame, -men",
+                "lei spoahkuheame, -men",
+                "leimme spoahkuheame, -men",
+                "leidde spoahkuheame, -men",
+                "leigga spoahkuheame, -men",
+                "leimmet spoahkuheame, -men",
+                "leiddet spoahkuheame, -men",
+                "ledje spoahkuheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "spoahkuhivččen",
+                "spoahkuhivččet",
+                "spoahkuhivččii",
+                "spoahkuhivččiime",
+                "spoahkuhivččiide",
+                "spoahkuhivččiiga",
+                "spoahkuhivččiimet",
+                "spoahkuhivččiidet",
+                "spoahkuhivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in spoahkuhivčče",
+                "it spoahkuhivčče",
+                "ii spoahkuhivčče",
+                "ean spoahkuhivčče",
+                "eahppi spoahkuhivčče",
+                "eaba spoahkuhivčče",
+                "eat spoahkuhivčče",
+                "ehpet spoahkuhivčče",
+                "eai spoahkuhivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "spoahkuheaččan",
+                "spoahkuheaččat",
+                "spoahkuheaš, -heš, -heažžá",
+                "spoahkuhežže",
+                "spoahkuheažžabeahtti",
+                "spoahkuheažžaba",
+                "spoahkuheažžat",
+                "spoahkuheažžabehtet",
+                "spoahkuhežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in spoahkuheaš, -heš, -heažžá",
+                "it spoahkuheaš, -heš, -heažžá",
+                "ii spoahkuheaš, -heš, -heažžá",
+                "ean spoahkuheaš, -heš, -heažžá",
+                "eahppi spoahkuheaš, -heš, -heažžá",
+                "eaba spoahkuheaš, -heš, -heažžá",
+                "eat spoahkuheaš, -heš, -heažžá",
+                "ehpet spoahkuheaš, -heš, -heažžá",
+                "eai spoahkuheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "spoahkuhehkon",
+                "spoahkut",
+                "spoahkuhehkos, spoahkuhus",
+                "spoahkuheadnu",
+                "spoahkuheahkki",
+                "spoahkuhehkoska",
+                "spoahkuhehkot, spoahkuheahkkut, spoahkuhetnot, spoahkuheadnot",
+                "spoahkuhehket",
+                "spoahkuhehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon spoahkut",
+                "ale spoahkut",
+                "allos spoahkut",
+                "allu spoahkut",
+                "alli spoahkut",
+                "alloska spoahkut",
+                "allot, allut spoahkut",
+                "allet, allit spoahkut",
+                "alloset spoahkut"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Spoahkuhit",
+    "valid": 1
+}

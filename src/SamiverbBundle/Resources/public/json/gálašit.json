@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gálašit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gálašan",
+                "gálašat",
+                "gálaša",
+                "gálašetne",
+                "gálašeahppi",
+                "gálašeaba",
+                "gálašit, -šat",
+                "gálašehpet",
+                "gálašit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gálaš",
+                "it gálaš",
+                "ii gálaš",
+                "ean gálaš",
+                "eahppi gálaš",
+                "eaba gálaš",
+                "eat gálaš",
+                "ehpet gálaš",
+                "eai gálaš"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gálašin",
+                "gálašit",
+                "gálašii",
+                "gálašeimme",
+                "gálašeidde",
+                "gálašeigga",
+                "gálašeimmet",
+                "gálašeiddet",
+                "gálašedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gálašan",
+                "it gálašan",
+                "ii gálašan",
+                "ean gálašan",
+                "eahppi gálašan",
+                "eaba gálašan",
+                "eat gálašan",
+                "ehpet gálašan",
+                "eai gálašan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gálašan",
+                "leat gálašan",
+                "lea gálašan",
+                "letne gálašan",
+                "leahppi gálašan",
+                "leaba gálašan",
+                "leat gálašan",
+                "lehpet gálašan",
+                "leat gálašan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gálašan",
+                "ledjet gálašan",
+                "lei gálašan",
+                "leimme gálašan",
+                "leidde gálašan",
+                "leigga gálašan",
+                "leimmet gálašan",
+                "leiddet gálašan",
+                "ledje gálašan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gálašeame, -men",
+                "leat gálašeame, -men",
+                "lea gálašeame, -men",
+                "letne gálašeame, -men",
+                "leahppi gálašeame, -men",
+                "leaba gálašeame, -men",
+                "leat gálašeame, -men",
+                "lehpet gálašeame, -men",
+                "leat gálašeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gálašeame, -men",
+                "ledjet gálašeame, -men",
+                "lei gálašeame, -men",
+                "leimme gálašeame, -men",
+                "leidde gálašeame, -men",
+                "leigga gálašeame, -men",
+                "leimmet gálašeame, -men",
+                "leiddet gálašeame, -men",
+                "ledje gálašeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gálašivččen",
+                "gálašivččet",
+                "gálašivččii",
+                "gálašivččiime",
+                "gálašivččiide",
+                "gálašivččiiga",
+                "gálašivččiimet",
+                "gálašivččiidet",
+                "gálašivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gálašivčče",
+                "it gálašivčče",
+                "ii gálašivčče",
+                "ean gálašivčče",
+                "eahppi gálašivčče",
+                "eaba gálašivčče",
+                "eat gálašivčče",
+                "ehpet gálašivčče",
+                "eai gálašivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gálašeaččan",
+                "gálašeaččat",
+                "gálašeaš, -šeš, -šeažžá",
+                "gálašežže",
+                "gálašeažžabeahtti",
+                "gálašeažžaba",
+                "gálašeažžat",
+                "gálašeažžabehtet",
+                "gálašežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gálašeaš, -šeš, -šeažžá",
+                "it gálašeaš, -šeš, -šeažžá",
+                "ii gálašeaš, -šeš, -šeažžá",
+                "ean gálašeaš, -šeš, -šeažžá",
+                "eahppi gálašeaš, -šeš, -šeažžá",
+                "eaba gálašeaš, -šeš, -šeažžá",
+                "eat gálašeaš, -šeš, -šeažžá",
+                "ehpet gálašeaš, -šeš, -šeažžá",
+                "eai gálašeaš, -šeš, -šeažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gálašehkon",
+                "gálaš",
+                "gálašehkos, gálašus",
+                "gálašeadnu",
+                "gálašeahkki",
+                "gálašehkoska",
+                "gálašehkot, gálašeahkkut, gálašetnot, gálašeadnot",
+                "gálašehket",
+                "gálašehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gálaš",
+                "ale gálaš",
+                "allos gálaš",
+                "allu gálaš",
+                "alli gálaš",
+                "alloska gálaš",
+                "allot, allut gálaš",
+                "allet, allit gálaš",
+                "alloset gálaš"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gálašit",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "giddet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gidden",
+                "giddet",
+                "gidde",
+                "giddejetne",
+                "giddebeahtti",
+                "giddeba",
+                "giddet",
+                "giddebehtet",
+                "giddejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gidde",
+                "it gidde",
+                "ii gidde",
+                "ean gidde",
+                "eahppi gidde",
+                "eaba gidde",
+                "eat gidde",
+                "ehpet gidde",
+                "eai gidde"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "giddejin",
+                "giddejit",
+                "giddii",
+                "giddiime",
+                "giddiide",
+                "giddiiga",
+                "giddiimet",
+                "giddiidet",
+                "giddejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gidden",
+                "it gidden",
+                "ii gidden",
+                "ean gidden",
+                "eahppi gidden",
+                "eaba gidden",
+                "eat gidden",
+                "ehpet gidden",
+                "eai gidden"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gidden",
+                "leat gidden",
+                "lea gidden",
+                "letne gidden",
+                "leahppi gidden",
+                "leaba gidden",
+                "leat gidden",
+                "lehpet gidden",
+                "leat gidden"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gidden",
+                "ledjet gidden",
+                "lei gidden",
+                "leimme gidden",
+                "leidde gidden",
+                "leigga gidden",
+                "leimmet gidden",
+                "leiddet gidden",
+                "ledje gidden"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean giddeme, -min",
+                "leat giddeme, -min",
+                "lea giddeme, -min",
+                "letne giddeme, -min",
+                "leahppi giddeme, -min",
+                "leaba giddeme, -min",
+                "leat giddeme, -min",
+                "lehpet giddeme, -min",
+                "leat giddeme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen giddeme, -min",
+                "ledjet giddeme, -min",
+                "lei giddeme, -min",
+                "leimme giddeme, -min",
+                "leidde giddeme, -min",
+                "leigga giddeme, -min",
+                "leimmet giddeme, -min",
+                "leiddet giddeme, -min",
+                "ledje giddeme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "giddešin",
+                "giddešit",
+                "giddešii",
+                "giddešeimme",
+                "giddešeidde",
+                "giddešeigga",
+                "giddešeimmet",
+                "giddešeiddet",
+                "giddešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in giddeše",
+                "it giddeše",
+                "ii giddeše",
+                "ean giddeše",
+                "eahppi giddeše",
+                "eaba giddeše",
+                "eat giddeše",
+                "ehpet giddeše",
+                "eai giddeše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "giddežan",
+                "giddežat",
+                "giddeš",
+                "giddežetne",
+                "giddežeahppi",
+                "giddežeaba",
+                "giddežit, -žat",
+                "giddežehpet",
+                "giddežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in giddeš",
+                "it giddeš",
+                "ii giddeš",
+                "ean giddeš",
+                "eahppi giddeš",
+                "eaba giddeš",
+                "eat giddeš",
+                "ehpet giddeš",
+                "eai giddeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "giddejehkon",
+                "gidde",
+                "giddejehkos",
+                "giddejeadnu",
+                "giddejeahkki",
+                "giddejehkoska",
+                "giddejeahkkut, giddejeadnot, giddejehkot, giddejetnot",
+                "giddejeahkkit",
+                "giddejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gidde",
+                "ale gidde",
+                "allos gidde",
+                "allu gidde",
+                "alli gidde",
+                "alloska gidde",
+                "allot, allut gidde",
+                "allet, allit gidde",
+                "alloset gidde"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Giddet",
+    "valid": 1
+}

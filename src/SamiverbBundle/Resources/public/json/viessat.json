@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "viessat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "viesan",
+                "viesat",
+                "viessá",
+                "visse",
+                "viessabeahtti",
+                "viessaba",
+                "viessat",
+                "viessabehtet",
+                "visset"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in viesa",
+                "it viesa",
+                "ii viesa",
+                "ean viesa",
+                "eahppi viesa",
+                "eaba viesa",
+                "eat viesa",
+                "ehpet viesa",
+                "eai viesa"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "vissen",
+                "visset",
+                "viesai",
+                "viesaime",
+                "viesaide",
+                "viesaiga",
+                "viesaimet",
+                "viesaidet",
+                "visse"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in viessan",
+                "it viessan",
+                "ii viessan",
+                "ean viessan",
+                "eahppi viessan",
+                "eaba viessan",
+                "eat viessan",
+                "ehpet viessan",
+                "eai viessan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean viessan",
+                "leat viessan",
+                "lea viessan",
+                "letne viessan",
+                "leahppi viessan",
+                "leaba viessan",
+                "leat viessan",
+                "lehpet viessan",
+                "leat viessan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen viessan",
+                "ledjet viessan",
+                "lei viessan",
+                "leimme viessan",
+                "leidde viessan",
+                "leigga viessan",
+                "leimmet viessan",
+                "leiddet viessan",
+                "ledje viessan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean viessame, -min",
+                "leat viessame, -min",
+                "lea viessame, -min",
+                "letne viessame, -min",
+                "leahppi viessame, -min",
+                "leaba viessame, -min",
+                "leat viessame, -min",
+                "lehpet viessame, -min",
+                "leat viessame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen viessame, -min",
+                "ledjet viessame, -min",
+                "lei viessame, -min",
+                "leimme viessame, -min",
+                "leidde viessame, -min",
+                "leigga viessame, -min",
+                "leimmet viessame, -min",
+                "leiddet viessame, -min",
+                "ledje viessame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "viesašin",
+                "viesašit",
+                "viesašii",
+                "viesašeimme",
+                "viesašeidde",
+                "viesašeigga",
+                "viesašeimmet",
+                "viesašeiddet",
+                "viesašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in viesaše",
+                "it viesaše",
+                "ii viesaše",
+                "ean viesaše",
+                "eahppi viesaše",
+                "eaba viesaše",
+                "eat viesaše",
+                "ehpet viesaše",
+                "eai viesaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "viesažan",
+                "viesažat",
+                "viesaš",
+                "viesažetne",
+                "viesažeahppi",
+                "viesažeaba",
+                "viesažit, -žat",
+                "viesažehpet",
+                "viesažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in viesaš",
+                "it viesaš",
+                "ii viesaš",
+                "ean viesaš",
+                "eahppi viesaš",
+                "eaba viesaš",
+                "eat viesaš",
+                "ehpet viesaš",
+                "eai viesaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "visson",
+                "viesa",
+                "vissos",
+                "viessu",
+                "viessi",
+                "vissoska",
+                "vissot, viessot",
+                "visset, viessit",
+                "vissoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon viesa",
+                "ale viesa",
+                "allos viesa",
+                "allu viesa",
+                "alli viesa",
+                "alloska viesa",
+                "allot, allut viesa",
+                "allet, allit viesa",
+                "alloset viesa"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Viessat",
+    "valid": 1
+}

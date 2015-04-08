@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "meidnet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "meidnen",
+                "meidnet",
+                "meidne",
+                "meidnejetne",
+                "meidnebeahtti",
+                "meidneba",
+                "meidnet",
+                "meidnebehtet",
+                "meidnejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in meidne",
+                "it meidne",
+                "ii meidne",
+                "ean meidne",
+                "eahppi meidne",
+                "eaba meidne",
+                "eat meidne",
+                "ehpet meidne",
+                "eai meidne"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "meidnejin",
+                "meidnejit",
+                "meidnii",
+                "meidniime",
+                "meidniide",
+                "meidniiga",
+                "meidniimet",
+                "meidniidet",
+                "meidnejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in meidnen",
+                "it meidnen",
+                "ii meidnen",
+                "ean meidnen",
+                "eahppi meidnen",
+                "eaba meidnen",
+                "eat meidnen",
+                "ehpet meidnen",
+                "eai meidnen"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean meidnen",
+                "leat meidnen",
+                "lea meidnen",
+                "letne meidnen",
+                "leahppi meidnen",
+                "leaba meidnen",
+                "leat meidnen",
+                "lehpet meidnen",
+                "leat meidnen"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen meidnen",
+                "ledjet meidnen",
+                "lei meidnen",
+                "leimme meidnen",
+                "leidde meidnen",
+                "leigga meidnen",
+                "leimmet meidnen",
+                "leiddet meidnen",
+                "ledje meidnen"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean meidneme, -min",
+                "leat meidneme, -min",
+                "lea meidneme, -min",
+                "letne meidneme, -min",
+                "leahppi meidneme, -min",
+                "leaba meidneme, -min",
+                "leat meidneme, -min",
+                "lehpet meidneme, -min",
+                "leat meidneme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen meidneme, -min",
+                "ledjet meidneme, -min",
+                "lei meidneme, -min",
+                "leimme meidneme, -min",
+                "leidde meidneme, -min",
+                "leigga meidneme, -min",
+                "leimmet meidneme, -min",
+                "leiddet meidneme, -min",
+                "ledje meidneme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "meidnešin",
+                "meidnešit",
+                "meidnešii",
+                "meidnešeimme",
+                "meidnešeidde",
+                "meidnešeigga",
+                "meidnešeimmet",
+                "meidnešeiddet",
+                "meidnešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in meidneše",
+                "it meidneše",
+                "ii meidneše",
+                "ean meidneše",
+                "eahppi meidneše",
+                "eaba meidneše",
+                "eat meidneše",
+                "ehpet meidneše",
+                "eai meidneše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "meidnežan",
+                "meidnežat",
+                "meidneš",
+                "meidnežetne",
+                "meidnežeahppi",
+                "meidnežeaba",
+                "meidnežit, -žat",
+                "meidnežehpet",
+                "meidnežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in meidneš",
+                "it meidneš",
+                "ii meidneš",
+                "ean meidneš",
+                "eahppi meidneš",
+                "eaba meidneš",
+                "eat meidneš",
+                "ehpet meidneš",
+                "eai meidneš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "meidnejehkon",
+                "meidne",
+                "meidnejehkos",
+                "meidnejeadnu",
+                "meidnejeahkki",
+                "meidnejehkoska",
+                "meidnejeahkkut, meidnejeadnot, meidnejehkot, meidnejetnot",
+                "meidnejeahkkit",
+                "meidnejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon meidne",
+                "ale meidne",
+                "allos meidne",
+                "allu meidne",
+                "alli meidne",
+                "alloska meidne",
+                "allot, allut meidne",
+                "allet, allit meidne",
+                "alloset meidne"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Meidnet",
+    "valid": 1
+}

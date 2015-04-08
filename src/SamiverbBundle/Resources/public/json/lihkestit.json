@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "lihkestit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "lihkestan",
+                "lihkestat",
+                "lihkesta",
+                "lihkestetne",
+                "lihkesteahppi",
+                "lihkesteaba",
+                "lihkestit, -tat",
+                "lihkestehpet",
+                "lihkestit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in lihkes",
+                "it lihkes",
+                "ii lihkes",
+                "ean lihkes",
+                "eahppi lihkes",
+                "eaba lihkes",
+                "eat lihkes",
+                "ehpet lihkes",
+                "eai lihkes"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "lihkestin",
+                "lihkestit",
+                "lihkestii",
+                "lihkesteimme",
+                "lihkesteidde",
+                "lihkesteigga",
+                "lihkesteimmet",
+                "lihkesteiddet",
+                "lihkestedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in lihkestan",
+                "it lihkestan",
+                "ii lihkestan",
+                "ean lihkestan",
+                "eahppi lihkestan",
+                "eaba lihkestan",
+                "eat lihkestan",
+                "ehpet lihkestan",
+                "eai lihkestan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean lihkestan",
+                "leat lihkestan",
+                "lea lihkestan",
+                "letne lihkestan",
+                "leahppi lihkestan",
+                "leaba lihkestan",
+                "leat lihkestan",
+                "lehpet lihkestan",
+                "leat lihkestan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen lihkestan",
+                "ledjet lihkestan",
+                "lei lihkestan",
+                "leimme lihkestan",
+                "leidde lihkestan",
+                "leigga lihkestan",
+                "leimmet lihkestan",
+                "leiddet lihkestan",
+                "ledje lihkestan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean lihkesteame, -men",
+                "leat lihkesteame, -men",
+                "lea lihkesteame, -men",
+                "letne lihkesteame, -men",
+                "leahppi lihkesteame, -men",
+                "leaba lihkesteame, -men",
+                "leat lihkesteame, -men",
+                "lehpet lihkesteame, -men",
+                "leat lihkesteame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen lihkesteame, -men",
+                "ledjet lihkesteame, -men",
+                "lei lihkesteame, -men",
+                "leimme lihkesteame, -men",
+                "leidde lihkesteame, -men",
+                "leigga lihkesteame, -men",
+                "leimmet lihkesteame, -men",
+                "leiddet lihkesteame, -men",
+                "ledje lihkesteame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "lihkestivččen",
+                "lihkestivččet",
+                "lihkestivččii",
+                "lihkestivččiime",
+                "lihkestivččiide",
+                "lihkestivččiiga",
+                "lihkestivččiimet",
+                "lihkestivččiidet",
+                "lihkestivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in lihkestivčče",
+                "it lihkestivčče",
+                "ii lihkestivčče",
+                "ean lihkestivčče",
+                "eahppi lihkestivčče",
+                "eaba lihkestivčče",
+                "eat lihkestivčče",
+                "ehpet lihkestivčče",
+                "eai lihkestivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "lihkesteaččan",
+                "lihkesteaččat",
+                "lihkesteaš, -teš, -teažžá",
+                "lihkestežže",
+                "lihkesteažžabeahtti",
+                "lihkesteažžaba",
+                "lihkesteažžat",
+                "lihkesteažžabehtet",
+                "lihkestežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in lihkesteaš, -teš, -teažžá",
+                "it lihkesteaš, -teš, -teažžá",
+                "ii lihkesteaš, -teš, -teažžá",
+                "ean lihkesteaš, -teš, -teažžá",
+                "eahppi lihkesteaš, -teš, -teažžá",
+                "eaba lihkesteaš, -teš, -teažžá",
+                "eat lihkesteaš, -teš, -teažžá",
+                "ehpet lihkesteaš, -teš, -teažžá",
+                "eai lihkesteaš, -teš, -teažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "lihkestehkon",
+                "lihkes",
+                "lihkestehkos, lihkestus",
+                "lihkesteadnu",
+                "lihkesteahkki",
+                "lihkestehkoska",
+                "lihkestehkot, lihkesteahkkut, lihkestetnot, lihkesteadnot",
+                "lihkestehket",
+                "lihkestehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon lihkes",
+                "ale lihkes",
+                "allos lihkes",
+                "allu lihkes",
+                "alli lihkes",
+                "alloska lihkes",
+                "allot, allut lihkes",
+                "allet, allit lihkes",
+                "alloset lihkes"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Lihkestit",
+    "valid": 1
+}

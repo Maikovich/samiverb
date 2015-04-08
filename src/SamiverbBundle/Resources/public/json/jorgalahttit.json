@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "jorgalahttit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "jorgalahtán",
+                "jorgalahtát",
+                "jorgalahttá",
+                "jorgalahtte",
+                "jorgalahttibeahtti",
+                "jorgalahttiba",
+                "jorgalahttit",
+                "jorgalahttibehtet",
+                "jorgalahttet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in jorgalahte",
+                "it jorgalahte",
+                "ii jorgalahte",
+                "ean jorgalahte",
+                "eahppi jorgalahte",
+                "eaba jorgalahte",
+                "eat jorgalahte",
+                "ehpet jorgalahte",
+                "eai jorgalahte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "jorgalahtten",
+                "jorgalahttet",
+                "jorgalahtii",
+                "jorgalahtiime",
+                "jorgalahtiide",
+                "jorgalahtiiga",
+                "jorgalahtiimet",
+                "jorgalahtiidet",
+                "jorgalahtte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in jorgalahttán",
+                "it jorgalahttán",
+                "ii jorgalahttán",
+                "ean jorgalahttán",
+                "eahppi jorgalahttán",
+                "eaba jorgalahttán",
+                "eat jorgalahttán",
+                "ehpet jorgalahttán",
+                "eai jorgalahttán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean jorgalahttán",
+                "leat jorgalahttán",
+                "lea jorgalahttán",
+                "letne jorgalahttán",
+                "leahppi jorgalahttán",
+                "leaba jorgalahttán",
+                "leat jorgalahttán",
+                "lehpet jorgalahttán",
+                "leat jorgalahttán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen jorgalahttán",
+                "ledjet jorgalahttán",
+                "lei jorgalahttán",
+                "leimme jorgalahttán",
+                "leidde jorgalahttán",
+                "leigga jorgalahttán",
+                "leimmet jorgalahttán",
+                "leiddet jorgalahttán",
+                "ledje jorgalahttán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean jorgalahttime, -min",
+                "leat jorgalahttime, -min",
+                "lea jorgalahttime, -min",
+                "letne jorgalahttime, -min",
+                "leahppi jorgalahttime, -min",
+                "leaba jorgalahttime, -min",
+                "leat jorgalahttime, -min",
+                "lehpet jorgalahttime, -min",
+                "leat jorgalahttime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen jorgalahttime, -min",
+                "ledjet jorgalahttime, -min",
+                "lei jorgalahttime, -min",
+                "leimme jorgalahttime, -min",
+                "leidde jorgalahttime, -min",
+                "leigga jorgalahttime, -min",
+                "leimmet jorgalahttime, -min",
+                "leiddet jorgalahttime, -min",
+                "ledje jorgalahttime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "jorgalahtášin",
+                "jorgalahtášit",
+                "jorgalahtášii",
+                "jorgalahtášeimme",
+                "jorgalahtášeidde",
+                "jorgalahtášeigga",
+                "jorgalahtášeimmet",
+                "jorgalahtášeiddet",
+                "jorgalahtášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in jorgalahtáše",
+                "it jorgalahtáše",
+                "ii jorgalahtáše",
+                "ean jorgalahtáše",
+                "eahppi jorgalahtáše",
+                "eaba jorgalahtáše",
+                "eat jorgalahtáše",
+                "ehpet jorgalahtáše",
+                "eai jorgalahtáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "jorgalahtežan",
+                "jorgalahtežat",
+                "jorgalahteš",
+                "jorgalahtežetne",
+                "jorgalahtežeahppi",
+                "jorgalahtežeaba",
+                "jorgalahtežit, -žat",
+                "jorgalahtežehpet",
+                "jorgalahtežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in jorgalahteš",
+                "it jorgalahteš",
+                "ii jorgalahteš",
+                "ean jorgalahteš",
+                "eahppi jorgalahteš",
+                "eaba jorgalahteš",
+                "eat jorgalahteš",
+                "ehpet jorgalahteš",
+                "eai jorgalahteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "jorgalahtton",
+                "jorgalahte",
+                "jorgalahttos",
+                "jorgalahttu",
+                "jorgalahtti",
+                "jorgalahttoska",
+                "jorgalahttot",
+                "jorgalahttet",
+                "jorgalahttoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon jorgalahte",
+                "ale jorgalahte",
+                "allos jorgalahte",
+                "allu jorgalahte",
+                "alli jorgalahte",
+                "alloska jorgalahte",
+                "allot, allut jorgalahte",
+                "allet, allit jorgalahte",
+                "alloset jorgalahte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Jorgalahttit",
+    "valid": 1
+}

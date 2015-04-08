@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "dihkkadit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "dihkkadan",
+                "dihkkadat",
+                "dihkkada",
+                "dihkkadetne",
+                "dihkkadeahppi",
+                "dihkkadeaba",
+                "dihkkadit, -dat",
+                "dihkkadehpet",
+                "dihkkadit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in dihkkat",
+                "it dihkkat",
+                "ii dihkkat",
+                "ean dihkkat",
+                "eahppi dihkkat",
+                "eaba dihkkat",
+                "eat dihkkat",
+                "ehpet dihkkat",
+                "eai dihkkat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "dihkkadin",
+                "dihkkadit",
+                "dihkkadii",
+                "dihkkadeimme",
+                "dihkkadeidde",
+                "dihkkadeigga",
+                "dihkkadeimmet",
+                "dihkkadeiddet",
+                "dihkkadedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in dihkkadan",
+                "it dihkkadan",
+                "ii dihkkadan",
+                "ean dihkkadan",
+                "eahppi dihkkadan",
+                "eaba dihkkadan",
+                "eat dihkkadan",
+                "ehpet dihkkadan",
+                "eai dihkkadan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean dihkkadan",
+                "leat dihkkadan",
+                "lea dihkkadan",
+                "letne dihkkadan",
+                "leahppi dihkkadan",
+                "leaba dihkkadan",
+                "leat dihkkadan",
+                "lehpet dihkkadan",
+                "leat dihkkadan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen dihkkadan",
+                "ledjet dihkkadan",
+                "lei dihkkadan",
+                "leimme dihkkadan",
+                "leidde dihkkadan",
+                "leigga dihkkadan",
+                "leimmet dihkkadan",
+                "leiddet dihkkadan",
+                "ledje dihkkadan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean dihkkadeame, -men",
+                "leat dihkkadeame, -men",
+                "lea dihkkadeame, -men",
+                "letne dihkkadeame, -men",
+                "leahppi dihkkadeame, -men",
+                "leaba dihkkadeame, -men",
+                "leat dihkkadeame, -men",
+                "lehpet dihkkadeame, -men",
+                "leat dihkkadeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen dihkkadeame, -men",
+                "ledjet dihkkadeame, -men",
+                "lei dihkkadeame, -men",
+                "leimme dihkkadeame, -men",
+                "leidde dihkkadeame, -men",
+                "leigga dihkkadeame, -men",
+                "leimmet dihkkadeame, -men",
+                "leiddet dihkkadeame, -men",
+                "ledje dihkkadeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "dihkkadivččen",
+                "dihkkadivččet",
+                "dihkkadivččii",
+                "dihkkadivččiime",
+                "dihkkadivččiide",
+                "dihkkadivččiiga",
+                "dihkkadivččiimet",
+                "dihkkadivččiidet",
+                "dihkkadivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in dihkkadivčče",
+                "it dihkkadivčče",
+                "ii dihkkadivčče",
+                "ean dihkkadivčče",
+                "eahppi dihkkadivčče",
+                "eaba dihkkadivčče",
+                "eat dihkkadivčče",
+                "ehpet dihkkadivčče",
+                "eai dihkkadivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "dihkkadeaččan",
+                "dihkkadeaččat",
+                "dihkkadeaš, -deš, -deažžá",
+                "dihkkadežže",
+                "dihkkadeažžabeahtti",
+                "dihkkadeažžaba",
+                "dihkkadeažžat",
+                "dihkkadeažžabehtet",
+                "dihkkadežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in dihkkadeaš, -deš, -deažžá",
+                "it dihkkadeaš, -deš, -deažžá",
+                "ii dihkkadeaš, -deš, -deažžá",
+                "ean dihkkadeaš, -deš, -deažžá",
+                "eahppi dihkkadeaš, -deš, -deažžá",
+                "eaba dihkkadeaš, -deš, -deažžá",
+                "eat dihkkadeaš, -deš, -deažžá",
+                "ehpet dihkkadeaš, -deš, -deažžá",
+                "eai dihkkadeaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "dihkkadehkon",
+                "dihkkat",
+                "dihkkadehkos, dihkkadus",
+                "dihkkadeadnu",
+                "dihkkadeahkki",
+                "dihkkadehkoska",
+                "dihkkadehkot, dihkkadeahkkut, dihkkadetnot, dihkkadeadnot",
+                "dihkkadehket",
+                "dihkkadehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon dihkkat",
+                "ale dihkkat",
+                "allos dihkkat",
+                "allu dihkkat",
+                "alli dihkkat",
+                "alloska dihkkat",
+                "allot, allut dihkkat",
+                "allet, allit dihkkat",
+                "alloset dihkkat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Dihkkadit",
+    "valid": 1
+}

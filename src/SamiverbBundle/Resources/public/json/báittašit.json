@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "báittašit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "báittašan",
+                "báittašat",
+                "báittaša",
+                "báittašetne",
+                "báittašeahppi",
+                "báittašeaba",
+                "báittašit, -šat",
+                "báittašehpet",
+                "báittašit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in báittaš",
+                "it báittaš",
+                "ii báittaš",
+                "ean báittaš",
+                "eahppi báittaš",
+                "eaba báittaš",
+                "eat báittaš",
+                "ehpet báittaš",
+                "eai báittaš"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "báittašin",
+                "báittašit",
+                "báittašii",
+                "báittašeimme",
+                "báittašeidde",
+                "báittašeigga",
+                "báittašeimmet",
+                "báittašeiddet",
+                "báittašedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in báittašan",
+                "it báittašan",
+                "ii báittašan",
+                "ean báittašan",
+                "eahppi báittašan",
+                "eaba báittašan",
+                "eat báittašan",
+                "ehpet báittašan",
+                "eai báittašan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean báittašan",
+                "leat báittašan",
+                "lea báittašan",
+                "letne báittašan",
+                "leahppi báittašan",
+                "leaba báittašan",
+                "leat báittašan",
+                "lehpet báittašan",
+                "leat báittašan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen báittašan",
+                "ledjet báittašan",
+                "lei báittašan",
+                "leimme báittašan",
+                "leidde báittašan",
+                "leigga báittašan",
+                "leimmet báittašan",
+                "leiddet báittašan",
+                "ledje báittašan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean báittašeame, -men",
+                "leat báittašeame, -men",
+                "lea báittašeame, -men",
+                "letne báittašeame, -men",
+                "leahppi báittašeame, -men",
+                "leaba báittašeame, -men",
+                "leat báittašeame, -men",
+                "lehpet báittašeame, -men",
+                "leat báittašeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen báittašeame, -men",
+                "ledjet báittašeame, -men",
+                "lei báittašeame, -men",
+                "leimme báittašeame, -men",
+                "leidde báittašeame, -men",
+                "leigga báittašeame, -men",
+                "leimmet báittašeame, -men",
+                "leiddet báittašeame, -men",
+                "ledje báittašeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "báittašivččen",
+                "báittašivččet",
+                "báittašivččii",
+                "báittašivččiime",
+                "báittašivččiide",
+                "báittašivččiiga",
+                "báittašivččiimet",
+                "báittašivččiidet",
+                "báittašivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in báittašivčče",
+                "it báittašivčče",
+                "ii báittašivčče",
+                "ean báittašivčče",
+                "eahppi báittašivčče",
+                "eaba báittašivčče",
+                "eat báittašivčče",
+                "ehpet báittašivčče",
+                "eai báittašivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "báittašeaččan",
+                "báittašeaččat",
+                "báittašeaš, -šeš, -šeažžá",
+                "báittašežže",
+                "báittašeažžabeahtti",
+                "báittašeažžaba",
+                "báittašeažžat",
+                "báittašeažžabehtet",
+                "báittašežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in báittašeaš, -šeš, -šeažžá",
+                "it báittašeaš, -šeš, -šeažžá",
+                "ii báittašeaš, -šeš, -šeažžá",
+                "ean báittašeaš, -šeš, -šeažžá",
+                "eahppi báittašeaš, -šeš, -šeažžá",
+                "eaba báittašeaš, -šeš, -šeažžá",
+                "eat báittašeaš, -šeš, -šeažžá",
+                "ehpet báittašeaš, -šeš, -šeažžá",
+                "eai báittašeaš, -šeš, -šeažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "báittašehkon",
+                "báittaš",
+                "báittašehkos, báittašus",
+                "báittašeadnu",
+                "báittašeahkki",
+                "báittašehkoska",
+                "báittašehkot, báittašeahkkut, báittašetnot, báittašeadnot",
+                "báittašehket",
+                "báittašehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon báittaš",
+                "ale báittaš",
+                "allos báittaš",
+                "allu báittaš",
+                "alli báittaš",
+                "alloska báittaš",
+                "allot, allut báittaš",
+                "allet, allit báittaš",
+                "alloset báittaš"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Báittašit",
+    "valid": 1
+}

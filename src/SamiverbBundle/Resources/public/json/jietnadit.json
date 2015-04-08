@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "jietnadit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "jietnadan",
+                "jietnadat",
+                "jietnada",
+                "jietnadetne",
+                "jietnadeahppi",
+                "jietnadeaba",
+                "jietnadit, -dat",
+                "jietnadehpet",
+                "jietnadit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in jietnat",
+                "it jietnat",
+                "ii jietnat",
+                "ean jietnat",
+                "eahppi jietnat",
+                "eaba jietnat",
+                "eat jietnat",
+                "ehpet jietnat",
+                "eai jietnat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "jietnadin",
+                "jietnadit",
+                "jietnadii",
+                "jietnadeimme",
+                "jietnadeidde",
+                "jietnadeigga",
+                "jietnadeimmet",
+                "jietnadeiddet",
+                "jietnadedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in jietnadan",
+                "it jietnadan",
+                "ii jietnadan",
+                "ean jietnadan",
+                "eahppi jietnadan",
+                "eaba jietnadan",
+                "eat jietnadan",
+                "ehpet jietnadan",
+                "eai jietnadan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean jietnadan",
+                "leat jietnadan",
+                "lea jietnadan",
+                "letne jietnadan",
+                "leahppi jietnadan",
+                "leaba jietnadan",
+                "leat jietnadan",
+                "lehpet jietnadan",
+                "leat jietnadan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen jietnadan",
+                "ledjet jietnadan",
+                "lei jietnadan",
+                "leimme jietnadan",
+                "leidde jietnadan",
+                "leigga jietnadan",
+                "leimmet jietnadan",
+                "leiddet jietnadan",
+                "ledje jietnadan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean jietnadeame, -men",
+                "leat jietnadeame, -men",
+                "lea jietnadeame, -men",
+                "letne jietnadeame, -men",
+                "leahppi jietnadeame, -men",
+                "leaba jietnadeame, -men",
+                "leat jietnadeame, -men",
+                "lehpet jietnadeame, -men",
+                "leat jietnadeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen jietnadeame, -men",
+                "ledjet jietnadeame, -men",
+                "lei jietnadeame, -men",
+                "leimme jietnadeame, -men",
+                "leidde jietnadeame, -men",
+                "leigga jietnadeame, -men",
+                "leimmet jietnadeame, -men",
+                "leiddet jietnadeame, -men",
+                "ledje jietnadeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "jietnadivččen",
+                "jietnadivččet",
+                "jietnadivččii",
+                "jietnadivččiime",
+                "jietnadivččiide",
+                "jietnadivččiiga",
+                "jietnadivččiimet",
+                "jietnadivččiidet",
+                "jietnadivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in jietnadivčče",
+                "it jietnadivčče",
+                "ii jietnadivčče",
+                "ean jietnadivčče",
+                "eahppi jietnadivčče",
+                "eaba jietnadivčče",
+                "eat jietnadivčče",
+                "ehpet jietnadivčče",
+                "eai jietnadivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "jietnadeaččan",
+                "jietnadeaččat",
+                "jietnadeaš, -deš, -deažžá",
+                "jietnadežže",
+                "jietnadeažžabeahtti",
+                "jietnadeažžaba",
+                "jietnadeažžat",
+                "jietnadeažžabehtet",
+                "jietnadežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in jietnadeaš, -deš, -deažžá",
+                "it jietnadeaš, -deš, -deažžá",
+                "ii jietnadeaš, -deš, -deažžá",
+                "ean jietnadeaš, -deš, -deažžá",
+                "eahppi jietnadeaš, -deš, -deažžá",
+                "eaba jietnadeaš, -deš, -deažžá",
+                "eat jietnadeaš, -deš, -deažžá",
+                "ehpet jietnadeaš, -deš, -deažžá",
+                "eai jietnadeaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "jietnadehkon",
+                "jietnat",
+                "jietnadehkos, jietnadus",
+                "jietnadeadnu",
+                "jietnadeahkki",
+                "jietnadehkoska",
+                "jietnadehkot, jietnadeahkkut, jietnadetnot, jietnadeadnot",
+                "jietnadehket",
+                "jietnadehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon jietnat",
+                "ale jietnat",
+                "allos jietnat",
+                "allu jietnat",
+                "alli jietnat",
+                "alloska jietnat",
+                "allot, allut jietnat",
+                "allet, allit jietnat",
+                "alloset jietnat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Jietnadit",
+    "valid": 1
+}

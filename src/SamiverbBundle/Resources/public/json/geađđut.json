@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "geađđut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "geađun",
+                "geađut",
+                "geađđu",
+                "geđđo",
+                "geađđubeahtti",
+                "geađđuba",
+                "geađđut",
+                "geađđubehtet",
+                "geđđot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in geađo",
+                "it geađo",
+                "ii geađo",
+                "ean geađo",
+                "eahppi geađo",
+                "eaba geađo",
+                "eat geađo",
+                "ehpet geađo",
+                "eai geađo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "geđđon",
+                "geđđot",
+                "geađui",
+                "geađuime",
+                "geađuide",
+                "geađuiga",
+                "geađuimet",
+                "geađuidet",
+                "geđđo"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in geđđon",
+                "it geđđon",
+                "ii geđđon",
+                "ean geđđon",
+                "eahppi geđđon",
+                "eaba geđđon",
+                "eat geđđon",
+                "ehpet geđđon",
+                "eai geđđon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean geđđon",
+                "leat geđđon",
+                "lea geđđon",
+                "letne geđđon",
+                "leahppi geđđon",
+                "leaba geđđon",
+                "leat geđđon",
+                "lehpet geđđon",
+                "leat geđđon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen geđđon",
+                "ledjet geđđon",
+                "lei geđđon",
+                "leimme geđđon",
+                "leidde geđđon",
+                "leigga geđđon",
+                "leimmet geđđon",
+                "leiddet geđđon",
+                "ledje geđđon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean geađđume, -min",
+                "leat geađđume, -min",
+                "lea geađđume, -min",
+                "letne geađđume, -min",
+                "leahppi geađđume, -min",
+                "leaba geađđume, -min",
+                "leat geađđume, -min",
+                "lehpet geađđume, -min",
+                "leat geađđume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen geađđume, -min",
+                "ledjet geađđume, -min",
+                "lei geađđume, -min",
+                "leimme geađđume, -min",
+                "leidde geađđume, -min",
+                "leigga geađđume, -min",
+                "leimmet geađđume, -min",
+                "leiddet geađđume, -min",
+                "ledje geađđume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "geđošin",
+                "geđošit",
+                "geđošii",
+                "geđošeimme",
+                "geđošeidde",
+                "geđošeigga",
+                "geđošeimmet",
+                "geđošeiddet",
+                "geđošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in geđoše",
+                "it geđoše",
+                "ii geđoše",
+                "ean geđoše",
+                "eahppi geđoše",
+                "eaba geđoše",
+                "eat geđoše",
+                "ehpet geđoše",
+                "eai geđoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "geđožan",
+                "geđožat",
+                "geđoš",
+                "geđožetne",
+                "geđožeahppi",
+                "geđožeaba",
+                "geđožit, -žat",
+                "geđožehpet",
+                "geđožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in geđoš",
+                "it geđoš",
+                "ii geđoš",
+                "ean geđoš",
+                "eahppi geđoš",
+                "eaba geđoš",
+                "eat geđoš",
+                "ehpet geđoš",
+                "eai geđoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "geđđon",
+                "geađo",
+                "geđđos",
+                "geađđu",
+                "geađđu",
+                "geđđoska",
+                "geđđot, geađđot",
+                "geđđot, geađđot",
+                "geđđoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon geađo",
+                "ale geađo",
+                "allos geađo",
+                "allu geađo",
+                "alli geađo",
+                "alloska geađo",
+                "allot, allut geađo",
+                "allet, allit geađo",
+                "alloset geađo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Geađđut",
+    "valid": 1
+}

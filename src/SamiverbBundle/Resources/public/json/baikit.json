@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "baikit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "baikkán",
+                "baikkát",
+                "baiká",
+                "baike",
+                "baikibeahtti",
+                "baikiba",
+                "baikit",
+                "baikibehtet",
+                "baiket"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in baikke",
+                "it baikke",
+                "ii baikke",
+                "ean baikke",
+                "eahppi baikke",
+                "eaba baikke",
+                "eat baikke",
+                "ehpet baikke",
+                "eai baikke"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "baiken",
+                "baiket",
+                "baikkii",
+                "baikkiime",
+                "baikkiide",
+                "baikkiiga",
+                "baikkiimet",
+                "baikkiidet",
+                "baike"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in baikán",
+                "it baikán",
+                "ii baikán",
+                "ean baikán",
+                "eahppi baikán",
+                "eaba baikán",
+                "eat baikán",
+                "ehpet baikán",
+                "eai baikán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean baikán",
+                "leat baikán",
+                "lea baikán",
+                "letne baikán",
+                "leahppi baikán",
+                "leaba baikán",
+                "leat baikán",
+                "lehpet baikán",
+                "leat baikán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen baikán",
+                "ledjet baikán",
+                "lei baikán",
+                "leimme baikán",
+                "leidde baikán",
+                "leigga baikán",
+                "leimmet baikán",
+                "leiddet baikán",
+                "ledje baikán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean baikime, -min",
+                "leat baikime, -min",
+                "lea baikime, -min",
+                "letne baikime, -min",
+                "leahppi baikime, -min",
+                "leaba baikime, -min",
+                "leat baikime, -min",
+                "lehpet baikime, -min",
+                "leat baikime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen baikime, -min",
+                "ledjet baikime, -min",
+                "lei baikime, -min",
+                "leimme baikime, -min",
+                "leidde baikime, -min",
+                "leigga baikime, -min",
+                "leimmet baikime, -min",
+                "leiddet baikime, -min",
+                "ledje baikime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "baikkášin",
+                "baikkášit",
+                "baikkášii",
+                "baikkášeimme",
+                "baikkášeidde",
+                "baikkášeigga",
+                "baikkášeimmet",
+                "baikkášeiddet",
+                "baikkášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in baikkáše",
+                "it baikkáše",
+                "ii baikkáše",
+                "ean baikkáše",
+                "eahppi baikkáše",
+                "eaba baikkáše",
+                "eat baikkáše",
+                "ehpet baikkáše",
+                "eai baikkáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "baikkežan",
+                "baikkežat",
+                "baikkeš",
+                "baikkežetne",
+                "baikkežeahppi",
+                "baikkežeaba",
+                "baikkežit, -žat",
+                "baikkežehpet",
+                "baikkežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in baikkeš",
+                "it baikkeš",
+                "ii baikkeš",
+                "ean baikkeš",
+                "eahppi baikkeš",
+                "eaba baikkeš",
+                "eat baikkeš",
+                "ehpet baikkeš",
+                "eai baikkeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "baikon",
+                "baikke",
+                "baikos",
+                "baiku",
+                "baiki",
+                "baikoska",
+                "baikot",
+                "baiket",
+                "baikoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon baikke",
+                "ale baikke",
+                "allos baikke",
+                "allu baikke",
+                "alli baikke",
+                "alloska baikke",
+                "allot, allut baikke",
+                "allet, allit baikke",
+                "alloset baikke"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Baikit",
+    "valid": 1
+}

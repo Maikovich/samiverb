@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gažadit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gažadan",
+                "gažadat",
+                "gažada",
+                "gažadetne",
+                "gažadeahppi",
+                "gažadeaba",
+                "gažadit, -dat",
+                "gažadehpet",
+                "gažadit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gažat",
+                "it gažat",
+                "ii gažat",
+                "ean gažat",
+                "eahppi gažat",
+                "eaba gažat",
+                "eat gažat",
+                "ehpet gažat",
+                "eai gažat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gažadin",
+                "gažadit",
+                "gažadii",
+                "gažadeimme",
+                "gažadeidde",
+                "gažadeigga",
+                "gažadeimmet",
+                "gažadeiddet",
+                "gažadedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gažadan",
+                "it gažadan",
+                "ii gažadan",
+                "ean gažadan",
+                "eahppi gažadan",
+                "eaba gažadan",
+                "eat gažadan",
+                "ehpet gažadan",
+                "eai gažadan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gažadan",
+                "leat gažadan",
+                "lea gažadan",
+                "letne gažadan",
+                "leahppi gažadan",
+                "leaba gažadan",
+                "leat gažadan",
+                "lehpet gažadan",
+                "leat gažadan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gažadan",
+                "ledjet gažadan",
+                "lei gažadan",
+                "leimme gažadan",
+                "leidde gažadan",
+                "leigga gažadan",
+                "leimmet gažadan",
+                "leiddet gažadan",
+                "ledje gažadan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gažadeame, -men",
+                "leat gažadeame, -men",
+                "lea gažadeame, -men",
+                "letne gažadeame, -men",
+                "leahppi gažadeame, -men",
+                "leaba gažadeame, -men",
+                "leat gažadeame, -men",
+                "lehpet gažadeame, -men",
+                "leat gažadeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gažadeame, -men",
+                "ledjet gažadeame, -men",
+                "lei gažadeame, -men",
+                "leimme gažadeame, -men",
+                "leidde gažadeame, -men",
+                "leigga gažadeame, -men",
+                "leimmet gažadeame, -men",
+                "leiddet gažadeame, -men",
+                "ledje gažadeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gažadivččen",
+                "gažadivččet",
+                "gažadivččii",
+                "gažadivččiime",
+                "gažadivččiide",
+                "gažadivččiiga",
+                "gažadivččiimet",
+                "gažadivččiidet",
+                "gažadivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gažadivčče",
+                "it gažadivčče",
+                "ii gažadivčče",
+                "ean gažadivčče",
+                "eahppi gažadivčče",
+                "eaba gažadivčče",
+                "eat gažadivčče",
+                "ehpet gažadivčče",
+                "eai gažadivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gažadeaččan",
+                "gažadeaččat",
+                "gažadeaš, -deš, -deažžá",
+                "gažadežže",
+                "gažadeažžabeahtti",
+                "gažadeažžaba",
+                "gažadeažžat",
+                "gažadeažžabehtet",
+                "gažadežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gažadeaš, -deš, -deažžá",
+                "it gažadeaš, -deš, -deažžá",
+                "ii gažadeaš, -deš, -deažžá",
+                "ean gažadeaš, -deš, -deažžá",
+                "eahppi gažadeaš, -deš, -deažžá",
+                "eaba gažadeaš, -deš, -deažžá",
+                "eat gažadeaš, -deš, -deažžá",
+                "ehpet gažadeaš, -deš, -deažžá",
+                "eai gažadeaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gažadehkon",
+                "gažat",
+                "gažadehkos, gažadus",
+                "gažadeadnu",
+                "gažadeahkki",
+                "gažadehkoska",
+                "gažadehkot, gažadeahkkut, gažadetnot, gažadeadnot",
+                "gažadehket",
+                "gažadehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gažat",
+                "ale gažat",
+                "allos gažat",
+                "allu gažat",
+                "alli gažat",
+                "alloska gažat",
+                "allot, allut gažat",
+                "allet, allit gažat",
+                "alloset gažat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gažadit",
+    "valid": 1
+}

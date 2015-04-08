@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "beassat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "beasan",
+                "beasat",
+                "beassá",
+                "besse",
+                "beassabeahtti",
+                "beassaba",
+                "beassat",
+                "beassabehtet",
+                "besset"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in beasa",
+                "it beasa",
+                "ii beasa",
+                "ean beasa",
+                "eahppi beasa",
+                "eaba beasa",
+                "eat beasa",
+                "ehpet beasa",
+                "eai beasa"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "bessen",
+                "besset",
+                "beasai",
+                "beasaime",
+                "beasaide",
+                "beasaiga",
+                "beasaimet",
+                "beasaidet",
+                "besse"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in beassan",
+                "it beassan",
+                "ii beassan",
+                "ean beassan",
+                "eahppi beassan",
+                "eaba beassan",
+                "eat beassan",
+                "ehpet beassan",
+                "eai beassan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean beassan",
+                "leat beassan",
+                "lea beassan",
+                "letne beassan",
+                "leahppi beassan",
+                "leaba beassan",
+                "leat beassan",
+                "lehpet beassan",
+                "leat beassan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen beassan",
+                "ledjet beassan",
+                "lei beassan",
+                "leimme beassan",
+                "leidde beassan",
+                "leigga beassan",
+                "leimmet beassan",
+                "leiddet beassan",
+                "ledje beassan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean beassame, -min",
+                "leat beassame, -min",
+                "lea beassame, -min",
+                "letne beassame, -min",
+                "leahppi beassame, -min",
+                "leaba beassame, -min",
+                "leat beassame, -min",
+                "lehpet beassame, -min",
+                "leat beassame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen beassame, -min",
+                "ledjet beassame, -min",
+                "lei beassame, -min",
+                "leimme beassame, -min",
+                "leidde beassame, -min",
+                "leigga beassame, -min",
+                "leimmet beassame, -min",
+                "leiddet beassame, -min",
+                "ledje beassame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "beasašin",
+                "beasašit",
+                "beasašii",
+                "beasašeimme",
+                "beasašeidde",
+                "beasašeigga",
+                "beasašeimmet",
+                "beasašeiddet",
+                "beasašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in beasaše",
+                "it beasaše",
+                "ii beasaše",
+                "ean beasaše",
+                "eahppi beasaše",
+                "eaba beasaše",
+                "eat beasaše",
+                "ehpet beasaše",
+                "eai beasaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "beasažan",
+                "beasažat",
+                "beasaš",
+                "beasažetne",
+                "beasažeahppi",
+                "beasažeaba",
+                "beasažit, -žat",
+                "beasažehpet",
+                "beasažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in beasaš",
+                "it beasaš",
+                "ii beasaš",
+                "ean beasaš",
+                "eahppi beasaš",
+                "eaba beasaš",
+                "eat beasaš",
+                "ehpet beasaš",
+                "eai beasaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "besson",
+                "beasa",
+                "bessos",
+                "beassu",
+                "beassi",
+                "bessoska",
+                "bessot, beassot",
+                "besset, beassit",
+                "bessoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon beasa",
+                "ale beasa",
+                "allos beasa",
+                "allu beasa",
+                "alli beasa",
+                "alloska beasa",
+                "allot, allut beasa",
+                "allet, allit beasa",
+                "alloset beasa"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Beassat",
+    "valid": 1
+}

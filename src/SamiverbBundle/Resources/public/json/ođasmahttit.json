@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "ođasmahttit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "ođasmahtán",
+                "ođasmahtát",
+                "ođasmahttá",
+                "ođasmahtte",
+                "ođasmahttibeahtti",
+                "ođasmahttiba",
+                "ođasmahttit",
+                "ođasmahttibehtet",
+                "ođasmahttet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in ođasmahte",
+                "it ođasmahte",
+                "ii ođasmahte",
+                "ean ođasmahte",
+                "eahppi ođasmahte",
+                "eaba ođasmahte",
+                "eat ođasmahte",
+                "ehpet ođasmahte",
+                "eai ođasmahte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ođasmahtten",
+                "ođasmahttet",
+                "ođasmahtii",
+                "ođasmahtiime",
+                "ođasmahtiide",
+                "ođasmahtiiga",
+                "ođasmahtiimet",
+                "ođasmahtiidet",
+                "ođasmahtte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ođasmahttán",
+                "it ođasmahttán",
+                "ii ođasmahttán",
+                "ean ođasmahttán",
+                "eahppi ođasmahttán",
+                "eaba ođasmahttán",
+                "eat ođasmahttán",
+                "ehpet ođasmahttán",
+                "eai ođasmahttán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ođasmahttán",
+                "leat ođasmahttán",
+                "lea ođasmahttán",
+                "letne ođasmahttán",
+                "leahppi ođasmahttán",
+                "leaba ođasmahttán",
+                "leat ođasmahttán",
+                "lehpet ođasmahttán",
+                "leat ođasmahttán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ođasmahttán",
+                "ledjet ođasmahttán",
+                "lei ođasmahttán",
+                "leimme ođasmahttán",
+                "leidde ođasmahttán",
+                "leigga ođasmahttán",
+                "leimmet ođasmahttán",
+                "leiddet ođasmahttán",
+                "ledje ođasmahttán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean ođasmahttime, -min",
+                "leat ođasmahttime, -min",
+                "lea ođasmahttime, -min",
+                "letne ođasmahttime, -min",
+                "leahppi ođasmahttime, -min",
+                "leaba ođasmahttime, -min",
+                "leat ođasmahttime, -min",
+                "lehpet ođasmahttime, -min",
+                "leat ođasmahttime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen ođasmahttime, -min",
+                "ledjet ođasmahttime, -min",
+                "lei ođasmahttime, -min",
+                "leimme ođasmahttime, -min",
+                "leidde ođasmahttime, -min",
+                "leigga ođasmahttime, -min",
+                "leimmet ođasmahttime, -min",
+                "leiddet ođasmahttime, -min",
+                "ledje ođasmahttime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "ođasmahtášin",
+                "ođasmahtášit",
+                "ođasmahtášii",
+                "ođasmahtášeimme",
+                "ođasmahtášeidde",
+                "ođasmahtášeigga",
+                "ođasmahtášeimmet",
+                "ođasmahtášeiddet",
+                "ođasmahtášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in ođasmahtáše",
+                "it ođasmahtáše",
+                "ii ođasmahtáše",
+                "ean ođasmahtáše",
+                "eahppi ođasmahtáše",
+                "eaba ođasmahtáše",
+                "eat ođasmahtáše",
+                "ehpet ođasmahtáše",
+                "eai ođasmahtáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "ođasmahtežan",
+                "ođasmahtežat",
+                "ođasmahteš",
+                "ođasmahtežetne",
+                "ođasmahtežeahppi",
+                "ođasmahtežeaba",
+                "ođasmahtežit, -žat",
+                "ođasmahtežehpet",
+                "ođasmahtežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in ođasmahteš",
+                "it ođasmahteš",
+                "ii ođasmahteš",
+                "ean ođasmahteš",
+                "eahppi ođasmahteš",
+                "eaba ođasmahteš",
+                "eat ođasmahteš",
+                "ehpet ođasmahteš",
+                "eai ođasmahteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "ođasmahtton",
+                "ođasmahte",
+                "ođasmahttos",
+                "ođasmahttu",
+                "ođasmahtti",
+                "ođasmahttoska",
+                "ođasmahttot",
+                "ođasmahttet",
+                "ođasmahttoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon ođasmahte",
+                "ale ođasmahte",
+                "allos ođasmahte",
+                "allu ođasmahte",
+                "alli ođasmahte",
+                "alloska ođasmahte",
+                "allot, allut ođasmahte",
+                "allet, allit ođasmahte",
+                "alloset ođasmahte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Ođasmahttit",
+    "valid": 1
+}

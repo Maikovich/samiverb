@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "haliidit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "haliidan",
+                "haliidat",
+                "haliida",
+                "haliidetne",
+                "haliideahppi",
+                "haliideaba",
+                "haliidit, -dat",
+                "haliidehpet",
+                "haliidit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in haliit",
+                "it haliit",
+                "ii haliit",
+                "ean haliit",
+                "eahppi haliit",
+                "eaba haliit",
+                "eat haliit",
+                "ehpet haliit",
+                "eai haliit"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "haliidin",
+                "haliidit",
+                "haliidii",
+                "haliideimme",
+                "haliideidde",
+                "haliideigga",
+                "haliideimmet",
+                "haliideiddet",
+                "haliidedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in haliidan",
+                "it haliidan",
+                "ii haliidan",
+                "ean haliidan",
+                "eahppi haliidan",
+                "eaba haliidan",
+                "eat haliidan",
+                "ehpet haliidan",
+                "eai haliidan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean haliidan",
+                "leat haliidan",
+                "lea haliidan",
+                "letne haliidan",
+                "leahppi haliidan",
+                "leaba haliidan",
+                "leat haliidan",
+                "lehpet haliidan",
+                "leat haliidan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen haliidan",
+                "ledjet haliidan",
+                "lei haliidan",
+                "leimme haliidan",
+                "leidde haliidan",
+                "leigga haliidan",
+                "leimmet haliidan",
+                "leiddet haliidan",
+                "ledje haliidan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean haliideame, -men",
+                "leat haliideame, -men",
+                "lea haliideame, -men",
+                "letne haliideame, -men",
+                "leahppi haliideame, -men",
+                "leaba haliideame, -men",
+                "leat haliideame, -men",
+                "lehpet haliideame, -men",
+                "leat haliideame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen haliideame, -men",
+                "ledjet haliideame, -men",
+                "lei haliideame, -men",
+                "leimme haliideame, -men",
+                "leidde haliideame, -men",
+                "leigga haliideame, -men",
+                "leimmet haliideame, -men",
+                "leiddet haliideame, -men",
+                "ledje haliideame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "haliidivččen",
+                "haliidivččet",
+                "haliidivččii",
+                "haliidivččiime",
+                "haliidivččiide",
+                "haliidivččiiga",
+                "haliidivččiimet",
+                "haliidivččiidet",
+                "haliidivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in haliidivčče",
+                "it haliidivčče",
+                "ii haliidivčče",
+                "ean haliidivčče",
+                "eahppi haliidivčče",
+                "eaba haliidivčče",
+                "eat haliidivčče",
+                "ehpet haliidivčče",
+                "eai haliidivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "haliideaččan",
+                "haliideaččat",
+                "haliideaš, -deš, -deažžá",
+                "haliidežže",
+                "haliideažžabeahtti",
+                "haliideažžaba",
+                "haliideažžat",
+                "haliideažžabehtet",
+                "haliidežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in haliideaš, -deš, -deažžá",
+                "it haliideaš, -deš, -deažžá",
+                "ii haliideaš, -deš, -deažžá",
+                "ean haliideaš, -deš, -deažžá",
+                "eahppi haliideaš, -deš, -deažžá",
+                "eaba haliideaš, -deš, -deažžá",
+                "eat haliideaš, -deš, -deažžá",
+                "ehpet haliideaš, -deš, -deažžá",
+                "eai haliideaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "haliidehkon",
+                "haliit",
+                "haliidehkos, haliidus",
+                "haliideadnu",
+                "haliideahkki",
+                "haliidehkoska",
+                "haliidehkot, haliideahkkut, haliidetnot, haliideadnot",
+                "haliidehket",
+                "haliidehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon haliit",
+                "ale haliit",
+                "allos haliit",
+                "allu haliit",
+                "alli haliit",
+                "alloska haliit",
+                "allot, allut haliit",
+                "allet, allit haliit",
+                "alloset haliit"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "valid": 0,
+    "value": "Haliidit"
+}

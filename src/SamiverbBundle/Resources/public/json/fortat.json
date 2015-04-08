@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "fortat", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "forttan", 
+        "forttat", 
+        "fortá", 
+        "forte", 
+        "fortabeahtti", 
+        "fortaba", 
+        "fortat", 
+        "fortabehtet", 
+        "fortet"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in fortta", 
+        "it fortta", 
+        "ii fortta", 
+        "ean fortta", 
+        "eahppi fortta", 
+        "eaba fortta", 
+        "eat fortta", 
+        "ehpet fortta", 
+        "eai fortta"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "forten", 
+        "fortet", 
+        "forttai", 
+        "forttaime", 
+        "forttaide", 
+        "forttaiga", 
+        "forttaimet", 
+        "forttaidet", 
+        "forte"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in fortan", 
+        "it fortan", 
+        "ii fortan", 
+        "ean fortan", 
+        "eahppi fortan", 
+        "eaba fortan", 
+        "eat fortan", 
+        "ehpet fortan", 
+        "eai fortan"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean fortan", 
+        "leat fortan", 
+        "lea fortan", 
+        "letne fortan", 
+        "leahppi fortan", 
+        "leaba fortan", 
+        "leat fortan", 
+        "lehpet fortan", 
+        "leat fortan"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen fortan", 
+        "ledjet fortan", 
+        "lei fortan", 
+        "leimme fortan", 
+        "leidde fortan", 
+        "leigga fortan", 
+        "leimmet fortan", 
+        "leiddet fortan", 
+        "ledje fortan"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean fortame, -min", 
+        "leat fortame, -min", 
+        "lea fortame, -min", 
+        "letne fortame, -min", 
+        "leahppi fortame, -min", 
+        "leaba fortame, -min", 
+        "leat fortame, -min", 
+        "lehpet fortame, -min", 
+        "leat fortame, -min"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen fortame, -min", 
+        "ledjet fortame, -min", 
+        "lei fortame, -min", 
+        "leimme fortame, -min", 
+        "leidde fortame, -min", 
+        "leigga fortame, -min", 
+        "leimmet fortame, -min", 
+        "leiddet fortame, -min", 
+        "ledje fortame, -min"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "forttašin", 
+        "forttašit", 
+        "forttašii", 
+        "forttašeimme", 
+        "forttašeidde", 
+        "forttašeigga", 
+        "forttašeimmet", 
+        "forttašeiddet", 
+        "forttašedje"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in forttaše", 
+        "it forttaše", 
+        "ii forttaše", 
+        "ean forttaše", 
+        "eahppi forttaše", 
+        "eaba forttaše", 
+        "eat forttaše", 
+        "ehpet forttaše", 
+        "eai forttaše"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "forttažan", 
+        "forttažat", 
+        "forttaš", 
+        "forttažetne", 
+        "forttažeahppi", 
+        "forttažeaba", 
+        "forttažit, -žat", 
+        "forttažehpet", 
+        "forttažit"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in forttaš", 
+        "it forttaš", 
+        "ii forttaš", 
+        "ean forttaš", 
+        "eahppi forttaš", 
+        "eaba forttaš", 
+        "eat forttaš", 
+        "ehpet forttaš", 
+        "eai forttaš"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "forton", 
+        "fortta", 
+        "fortos", 
+        "fortu", 
+        "forti", 
+        "fortoska", 
+        "fortot", 
+        "fortet, fortit", 
+        "fortoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon fortta", 
+        "ale fortta", 
+        "allos fortta", 
+        "allu fortta", 
+        "alli fortta", 
+        "alloska fortta", 
+        "allot, allut fortta", 
+        "allet, allit fortta", 
+        "alloset fortta"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Fortat"
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "oažžut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "oaččun",
+                "oaččut",
+                "oažžu",
+                "ožžo",
+                "oažžubeahtti",
+                "oažžuba",
+                "oažžut",
+                "oažžubehtet",
+                "ožžot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in oaččo",
+                "it oaččo",
+                "ii oaččo",
+                "ean oaččo",
+                "eahppi oaččo",
+                "eaba oaččo",
+                "eat oaččo",
+                "ehpet oaččo",
+                "eai oaččo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ožžon",
+                "ožžot",
+                "oaččui",
+                "oaččuime",
+                "oaččuide",
+                "oaččuiga",
+                "oaččuimet",
+                "oaččuidet",
+                "ožžo"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ožžon",
+                "it ožžon",
+                "ii ožžon",
+                "ean ožžon",
+                "eahppi ožžon",
+                "eaba ožžon",
+                "eat ožžon",
+                "ehpet ožžon",
+                "eai ožžon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ožžon",
+                "leat ožžon",
+                "lea ožžon",
+                "letne ožžon",
+                "leahppi ožžon",
+                "leaba ožžon",
+                "leat ožžon",
+                "lehpet ožžon",
+                "leat ožžon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ožžon",
+                "ledjet ožžon",
+                "lei ožžon",
+                "leimme ožžon",
+                "leidde ožžon",
+                "leigga ožžon",
+                "leimmet ožžon",
+                "leiddet ožžon",
+                "ledje ožžon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean oažžume, -min",
+                "leat oažžume, -min",
+                "lea oažžume, -min",
+                "letne oažžume, -min",
+                "leahppi oažžume, -min",
+                "leaba oažžume, -min",
+                "leat oažžume, -min",
+                "lehpet oažžume, -min",
+                "leat oažžume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen oažžume, -min",
+                "ledjet oažžume, -min",
+                "lei oažžume, -min",
+                "leimme oažžume, -min",
+                "leidde oažžume, -min",
+                "leigga oažžume, -min",
+                "leimmet oažžume, -min",
+                "leiddet oažžume, -min",
+                "ledje oažžume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "oččošin",
+                "oččošit",
+                "oččošii",
+                "oččošeimme",
+                "oččošeidde",
+                "oččošeigga",
+                "oččošeimmet",
+                "oččošeiddet",
+                "oččošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in oččoše",
+                "it oččoše",
+                "ii oččoše",
+                "ean oččoše",
+                "eahppi oččoše",
+                "eaba oččoše",
+                "eat oččoše",
+                "ehpet oččoše",
+                "eai oččoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "oččožan",
+                "oččožat",
+                "oččoš",
+                "oččožetne",
+                "oččožeahppi",
+                "oččožeaba",
+                "oččožit, -žat",
+                "oččožehpet",
+                "oččožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in oččoš",
+                "it oččoš",
+                "ii oččoš",
+                "ean oččoš",
+                "eahppi oččoš",
+                "eaba oččoš",
+                "eat oččoš",
+                "ehpet oččoš",
+                "eai oččoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "ožžon",
+                "oaččo",
+                "ožžos",
+                "oažžu",
+                "oažžu",
+                "ožžoska",
+                "ožžot, oažžot",
+                "ožžot, oažžot",
+                "ožžoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon oaččo",
+                "ale oaččo",
+                "allos oaččo",
+                "allu oaččo",
+                "alli oaččo",
+                "alloska oaččo",
+                "allot, allut oaččo",
+                "allet, allit oaččo",
+                "alloset oaččo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Oažžut",
+    "valid": 1
+}

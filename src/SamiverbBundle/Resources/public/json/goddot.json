@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "goddot",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "goddon",
+                "goddot",
+                "goddo",
+                "goddojetne",
+                "goddobeahtti",
+                "goddoba",
+                "goddot",
+                "goddobehtet",
+                "goddojit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in goddo",
+                "it goddo",
+                "ii goddo",
+                "ean goddo",
+                "eahppi goddo",
+                "eaba goddo",
+                "eat goddo",
+                "ehpet goddo",
+                "eai goddo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "goddojin",
+                "goddojit",
+                "goddui",
+                "godduime",
+                "godduide",
+                "godduiga",
+                "godduimet",
+                "godduidet",
+                "goddojedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in goddon",
+                "it goddon",
+                "ii goddon",
+                "ean goddon",
+                "eahppi goddon",
+                "eaba goddon",
+                "eat goddon",
+                "ehpet goddon",
+                "eai goddon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean goddon",
+                "leat goddon",
+                "lea goddon",
+                "letne goddon",
+                "leahppi goddon",
+                "leaba goddon",
+                "leat goddon",
+                "lehpet goddon",
+                "leat goddon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen goddon",
+                "ledjet goddon",
+                "lei goddon",
+                "leimme goddon",
+                "leidde goddon",
+                "leigga goddon",
+                "leimmet goddon",
+                "leiddet goddon",
+                "ledje goddon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean goddome, -min",
+                "leat goddome, -min",
+                "lea goddome, -min",
+                "letne goddome, -min",
+                "leahppi goddome, -min",
+                "leaba goddome, -min",
+                "leat goddome, -min",
+                "lehpet goddome, -min",
+                "leat goddome, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen goddome, -min",
+                "ledjet goddome, -min",
+                "lei goddome, -min",
+                "leimme goddome, -min",
+                "leidde goddome, -min",
+                "leigga goddome, -min",
+                "leimmet goddome, -min",
+                "leiddet goddome, -min",
+                "ledje goddome, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "goddošin",
+                "goddošit",
+                "goddošii",
+                "goddošeimme",
+                "goddošeidde",
+                "goddošeigga",
+                "goddošeimmet",
+                "goddošeiddet",
+                "goddošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in goddoše",
+                "it goddoše",
+                "ii goddoše",
+                "ean goddoše",
+                "eahppi goddoše",
+                "eaba goddoše",
+                "eat goddoše",
+                "ehpet goddoše",
+                "eai goddoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "goddožan",
+                "goddožat",
+                "goddoš",
+                "goddožetne",
+                "goddožeahppi",
+                "goddožeaba",
+                "goddožit, -žat",
+                "goddožehpet",
+                "goddožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in goddoš",
+                "it goddoš",
+                "ii goddoš",
+                "ean goddoš",
+                "eahppi goddoš",
+                "eaba goddoš",
+                "eat goddoš",
+                "ehpet goddoš",
+                "eai goddoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "goddojehkon",
+                "goddo",
+                "goddojehkos",
+                "goddojeadnu",
+                "goddojeahkki",
+                "goddojehkoska",
+                "goddojeahkkut, goddojeadnot, goddojehkot, goddojetnot",
+                "goddojeahkkit",
+                "goddojehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon goddo",
+                "ale goddo",
+                "allos goddo",
+                "allu goddo",
+                "alli goddo",
+                "alloska goddo",
+                "allot, allut goddo",
+                "allet, allit goddo",
+                "alloset goddo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Goddot",
+    "valid": 1
+}

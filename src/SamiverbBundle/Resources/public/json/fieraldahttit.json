@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "fieraldahttit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "fieraldahtán",
+                "fieraldahtát",
+                "fieraldahttá",
+                "fieraldahtte",
+                "fieraldahttibeahtti",
+                "fieraldahttiba",
+                "fieraldahttit",
+                "fieraldahttibehtet",
+                "fieraldahttet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in fieraldahte",
+                "it fieraldahte",
+                "ii fieraldahte",
+                "ean fieraldahte",
+                "eahppi fieraldahte",
+                "eaba fieraldahte",
+                "eat fieraldahte",
+                "ehpet fieraldahte",
+                "eai fieraldahte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "fieraldahtten",
+                "fieraldahttet",
+                "fieraldahtii",
+                "fieraldahtiime",
+                "fieraldahtiide",
+                "fieraldahtiiga",
+                "fieraldahtiimet",
+                "fieraldahtiidet",
+                "fieraldahtte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in fieraldahttán",
+                "it fieraldahttán",
+                "ii fieraldahttán",
+                "ean fieraldahttán",
+                "eahppi fieraldahttán",
+                "eaba fieraldahttán",
+                "eat fieraldahttán",
+                "ehpet fieraldahttán",
+                "eai fieraldahttán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean fieraldahttán",
+                "leat fieraldahttán",
+                "lea fieraldahttán",
+                "letne fieraldahttán",
+                "leahppi fieraldahttán",
+                "leaba fieraldahttán",
+                "leat fieraldahttán",
+                "lehpet fieraldahttán",
+                "leat fieraldahttán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen fieraldahttán",
+                "ledjet fieraldahttán",
+                "lei fieraldahttán",
+                "leimme fieraldahttán",
+                "leidde fieraldahttán",
+                "leigga fieraldahttán",
+                "leimmet fieraldahttán",
+                "leiddet fieraldahttán",
+                "ledje fieraldahttán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean fieraldahttime, -min",
+                "leat fieraldahttime, -min",
+                "lea fieraldahttime, -min",
+                "letne fieraldahttime, -min",
+                "leahppi fieraldahttime, -min",
+                "leaba fieraldahttime, -min",
+                "leat fieraldahttime, -min",
+                "lehpet fieraldahttime, -min",
+                "leat fieraldahttime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen fieraldahttime, -min",
+                "ledjet fieraldahttime, -min",
+                "lei fieraldahttime, -min",
+                "leimme fieraldahttime, -min",
+                "leidde fieraldahttime, -min",
+                "leigga fieraldahttime, -min",
+                "leimmet fieraldahttime, -min",
+                "leiddet fieraldahttime, -min",
+                "ledje fieraldahttime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "fieraldahtášin",
+                "fieraldahtášit",
+                "fieraldahtášii",
+                "fieraldahtášeimme",
+                "fieraldahtášeidde",
+                "fieraldahtášeigga",
+                "fieraldahtášeimmet",
+                "fieraldahtášeiddet",
+                "fieraldahtášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in fieraldahtáše",
+                "it fieraldahtáše",
+                "ii fieraldahtáše",
+                "ean fieraldahtáše",
+                "eahppi fieraldahtáše",
+                "eaba fieraldahtáše",
+                "eat fieraldahtáše",
+                "ehpet fieraldahtáše",
+                "eai fieraldahtáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "fieraldahtežan",
+                "fieraldahtežat",
+                "fieraldahteš",
+                "fieraldahtežetne",
+                "fieraldahtežeahppi",
+                "fieraldahtežeaba",
+                "fieraldahtežit, -žat",
+                "fieraldahtežehpet",
+                "fieraldahtežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in fieraldahteš",
+                "it fieraldahteš",
+                "ii fieraldahteš",
+                "ean fieraldahteš",
+                "eahppi fieraldahteš",
+                "eaba fieraldahteš",
+                "eat fieraldahteš",
+                "ehpet fieraldahteš",
+                "eai fieraldahteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "fieraldahtton",
+                "fieraldahte",
+                "fieraldahttos",
+                "fieraldahttu",
+                "fieraldahtti",
+                "fieraldahttoska",
+                "fieraldahttot",
+                "fieraldahttet",
+                "fieraldahttoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon fieraldahte",
+                "ale fieraldahte",
+                "allos fieraldahte",
+                "allu fieraldahte",
+                "alli fieraldahte",
+                "alloska fieraldahte",
+                "allot, allut fieraldahte",
+                "allet, allit fieraldahte",
+                "alloset fieraldahte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Fieraldahttit",
+    "valid": 1
+}

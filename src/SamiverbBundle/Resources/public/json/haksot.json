@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "haksot",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "hakson",
+                "haksot",
+                "hakso",
+                "haksojetne",
+                "haksobeahtti",
+                "haksoba",
+                "haksot",
+                "haksobehtet",
+                "haksojit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in hakso",
+                "it hakso",
+                "ii hakso",
+                "ean hakso",
+                "eahppi hakso",
+                "eaba hakso",
+                "eat hakso",
+                "ehpet hakso",
+                "eai hakso"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "haksojin",
+                "haksojit",
+                "haksui",
+                "haksuime",
+                "haksuide",
+                "haksuiga",
+                "haksuimet",
+                "haksuidet",
+                "haksojedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in hakson",
+                "it hakson",
+                "ii hakson",
+                "ean hakson",
+                "eahppi hakson",
+                "eaba hakson",
+                "eat hakson",
+                "ehpet hakson",
+                "eai hakson"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean hakson",
+                "leat hakson",
+                "lea hakson",
+                "letne hakson",
+                "leahppi hakson",
+                "leaba hakson",
+                "leat hakson",
+                "lehpet hakson",
+                "leat hakson"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen hakson",
+                "ledjet hakson",
+                "lei hakson",
+                "leimme hakson",
+                "leidde hakson",
+                "leigga hakson",
+                "leimmet hakson",
+                "leiddet hakson",
+                "ledje hakson"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean haksome, -min",
+                "leat haksome, -min",
+                "lea haksome, -min",
+                "letne haksome, -min",
+                "leahppi haksome, -min",
+                "leaba haksome, -min",
+                "leat haksome, -min",
+                "lehpet haksome, -min",
+                "leat haksome, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen haksome, -min",
+                "ledjet haksome, -min",
+                "lei haksome, -min",
+                "leimme haksome, -min",
+                "leidde haksome, -min",
+                "leigga haksome, -min",
+                "leimmet haksome, -min",
+                "leiddet haksome, -min",
+                "ledje haksome, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "haksošin",
+                "haksošit",
+                "haksošii",
+                "haksošeimme",
+                "haksošeidde",
+                "haksošeigga",
+                "haksošeimmet",
+                "haksošeiddet",
+                "haksošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in haksoše",
+                "it haksoše",
+                "ii haksoše",
+                "ean haksoše",
+                "eahppi haksoše",
+                "eaba haksoše",
+                "eat haksoše",
+                "ehpet haksoše",
+                "eai haksoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "haksožan",
+                "haksožat",
+                "haksoš",
+                "haksožetne",
+                "haksožeahppi",
+                "haksožeaba",
+                "haksožit, -žat",
+                "haksožehpet",
+                "haksožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in haksoš",
+                "it haksoš",
+                "ii haksoš",
+                "ean haksoš",
+                "eahppi haksoš",
+                "eaba haksoš",
+                "eat haksoš",
+                "ehpet haksoš",
+                "eai haksoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "haksojehkon",
+                "hakso",
+                "haksojehkos",
+                "haksojeadnu",
+                "haksojeahkki",
+                "haksojehkoska",
+                "haksojeahkkut, haksojeadnot, haksojehkot, haksojetnot",
+                "haksojeahkkit",
+                "haksojehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon hakso",
+                "ale hakso",
+                "allos hakso",
+                "allu hakso",
+                "alli hakso",
+                "alloska hakso",
+                "allot, allut hakso",
+                "allet, allit hakso",
+                "alloset hakso"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Haksot",
+    "valid": 1
+}

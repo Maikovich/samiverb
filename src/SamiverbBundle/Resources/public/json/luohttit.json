@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "luohttit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "luohtán",
+                "luohtát",
+                "luohttá",
+                "luhtte",
+                "luohttibeahtti",
+                "luohttiba",
+                "luohttit",
+                "luohttibehtet",
+                "luhttet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in luohte",
+                "it luohte",
+                "ii luohte",
+                "ean luohte",
+                "eahppi luohte",
+                "eaba luohte",
+                "eat luohte",
+                "ehpet luohte",
+                "eai luohte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "luhtten",
+                "luhttet",
+                "luhtii",
+                "luhtiime",
+                "luhtiide",
+                "luhtiiga",
+                "luhtiimet",
+                "luhtiidet",
+                "luhtte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in luohttán",
+                "it luohttán",
+                "ii luohttán",
+                "ean luohttán",
+                "eahppi luohttán",
+                "eaba luohttán",
+                "eat luohttán",
+                "ehpet luohttán",
+                "eai luohttán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean luohttán",
+                "leat luohttán",
+                "lea luohttán",
+                "letne luohttán",
+                "leahppi luohttán",
+                "leaba luohttán",
+                "leat luohttán",
+                "lehpet luohttán",
+                "leat luohttán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen luohttán",
+                "ledjet luohttán",
+                "lei luohttán",
+                "leimme luohttán",
+                "leidde luohttán",
+                "leigga luohttán",
+                "leimmet luohttán",
+                "leiddet luohttán",
+                "ledje luohttán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean luohttime, -min",
+                "leat luohttime, -min",
+                "lea luohttime, -min",
+                "letne luohttime, -min",
+                "leahppi luohttime, -min",
+                "leaba luohttime, -min",
+                "leat luohttime, -min",
+                "lehpet luohttime, -min",
+                "leat luohttime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen luohttime, -min",
+                "ledjet luohttime, -min",
+                "lei luohttime, -min",
+                "leimme luohttime, -min",
+                "leidde luohttime, -min",
+                "leigga luohttime, -min",
+                "leimmet luohttime, -min",
+                "leiddet luohttime, -min",
+                "ledje luohttime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "luohtášin",
+                "luohtášit",
+                "luohtášii",
+                "luohtášeimme",
+                "luohtášeidde",
+                "luohtášeigga",
+                "luohtášeimmet",
+                "luohtášeiddet",
+                "luohtášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in luohtáše",
+                "it luohtáše",
+                "ii luohtáše",
+                "ean luohtáše",
+                "eahppi luohtáše",
+                "eaba luohtáše",
+                "eat luohtáše",
+                "ehpet luohtáše",
+                "eai luohtáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "luhtežan",
+                "luhtežat",
+                "luhteš",
+                "luhtežetne",
+                "luhtežeahppi",
+                "luhtežeaba",
+                "luhtežit, -žat",
+                "luhtežehpet",
+                "luhtežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in luhteš",
+                "it luhteš",
+                "ii luhteš",
+                "ean luhteš",
+                "eahppi luhteš",
+                "eaba luhteš",
+                "eat luhteš",
+                "ehpet luhteš",
+                "eai luhteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "luhtton",
+                "luohte",
+                "luhttos",
+                "luohttu",
+                "luohtti",
+                "luhttoska",
+                "luhttot, luohttot",
+                "luhttet, luohttet",
+                "luhttoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon luohte",
+                "ale luohte",
+                "allos luohte",
+                "allu luohte",
+                "alli luohte",
+                "alloska luohte",
+                "allot, allut luohte",
+                "allet, allit luohte",
+                "alloset luohte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Luohttit",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čiŋahit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čiŋahan",
+                "čiŋahat",
+                "čiŋaha",
+                "čiŋahetne",
+                "čiŋaheahppi",
+                "čiŋaheaba",
+                "čiŋahit, -hat",
+                "čiŋahehpet",
+                "čiŋahit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čiŋat",
+                "it čiŋat",
+                "ii čiŋat",
+                "ean čiŋat",
+                "eahppi čiŋat",
+                "eaba čiŋat",
+                "eat čiŋat",
+                "ehpet čiŋat",
+                "eai čiŋat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čiŋahin",
+                "čiŋahit",
+                "čiŋahii",
+                "čiŋaheimme",
+                "čiŋaheidde",
+                "čiŋaheigga",
+                "čiŋaheimmet",
+                "čiŋaheiddet",
+                "čiŋahedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čiŋahan",
+                "it čiŋahan",
+                "ii čiŋahan",
+                "ean čiŋahan",
+                "eahppi čiŋahan",
+                "eaba čiŋahan",
+                "eat čiŋahan",
+                "ehpet čiŋahan",
+                "eai čiŋahan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čiŋahan",
+                "leat čiŋahan",
+                "lea čiŋahan",
+                "letne čiŋahan",
+                "leahppi čiŋahan",
+                "leaba čiŋahan",
+                "leat čiŋahan",
+                "lehpet čiŋahan",
+                "leat čiŋahan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čiŋahan",
+                "ledjet čiŋahan",
+                "lei čiŋahan",
+                "leimme čiŋahan",
+                "leidde čiŋahan",
+                "leigga čiŋahan",
+                "leimmet čiŋahan",
+                "leiddet čiŋahan",
+                "ledje čiŋahan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čiŋaheame, -men",
+                "leat čiŋaheame, -men",
+                "lea čiŋaheame, -men",
+                "letne čiŋaheame, -men",
+                "leahppi čiŋaheame, -men",
+                "leaba čiŋaheame, -men",
+                "leat čiŋaheame, -men",
+                "lehpet čiŋaheame, -men",
+                "leat čiŋaheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čiŋaheame, -men",
+                "ledjet čiŋaheame, -men",
+                "lei čiŋaheame, -men",
+                "leimme čiŋaheame, -men",
+                "leidde čiŋaheame, -men",
+                "leigga čiŋaheame, -men",
+                "leimmet čiŋaheame, -men",
+                "leiddet čiŋaheame, -men",
+                "ledje čiŋaheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čiŋahivččen",
+                "čiŋahivččet",
+                "čiŋahivččii",
+                "čiŋahivččiime",
+                "čiŋahivččiide",
+                "čiŋahivččiiga",
+                "čiŋahivččiimet",
+                "čiŋahivččiidet",
+                "čiŋahivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čiŋahivčče",
+                "it čiŋahivčče",
+                "ii čiŋahivčče",
+                "ean čiŋahivčče",
+                "eahppi čiŋahivčče",
+                "eaba čiŋahivčče",
+                "eat čiŋahivčče",
+                "ehpet čiŋahivčče",
+                "eai čiŋahivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čiŋaheaččan",
+                "čiŋaheaččat",
+                "čiŋaheaš, -heš, -heažžá",
+                "čiŋahežže",
+                "čiŋaheažžabeahtti",
+                "čiŋaheažžaba",
+                "čiŋaheažžat",
+                "čiŋaheažžabehtet",
+                "čiŋahežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čiŋaheaš, -heš, -heažžá",
+                "it čiŋaheaš, -heš, -heažžá",
+                "ii čiŋaheaš, -heš, -heažžá",
+                "ean čiŋaheaš, -heš, -heažžá",
+                "eahppi čiŋaheaš, -heš, -heažžá",
+                "eaba čiŋaheaš, -heš, -heažžá",
+                "eat čiŋaheaš, -heš, -heažžá",
+                "ehpet čiŋaheaš, -heš, -heažžá",
+                "eai čiŋaheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čiŋahehkon",
+                "čiŋat",
+                "čiŋahehkos, čiŋahus",
+                "čiŋaheadnu",
+                "čiŋaheahkki",
+                "čiŋahehkoska",
+                "čiŋahehkot, čiŋaheahkkut, čiŋahetnot, čiŋaheadnot",
+                "čiŋahehket",
+                "čiŋahehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čiŋat",
+                "ale čiŋat",
+                "allos čiŋat",
+                "allu čiŋat",
+                "alli čiŋat",
+                "alloska čiŋat",
+                "allot, allut čiŋat",
+                "allet, allit čiŋat",
+                "alloset čiŋat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čiŋahit",
+    "valid": 1
+}

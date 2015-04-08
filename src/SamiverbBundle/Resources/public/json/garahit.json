@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "garahit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "garahan",
+                "garahat",
+                "garaha",
+                "garahetne",
+                "garaheahppi",
+                "garaheaba",
+                "garahit, -hat",
+                "garahehpet",
+                "garahit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in garat",
+                "it garat",
+                "ii garat",
+                "ean garat",
+                "eahppi garat",
+                "eaba garat",
+                "eat garat",
+                "ehpet garat",
+                "eai garat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "garahin",
+                "garahit",
+                "garahii",
+                "garaheimme",
+                "garaheidde",
+                "garaheigga",
+                "garaheimmet",
+                "garaheiddet",
+                "garahedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in garahan",
+                "it garahan",
+                "ii garahan",
+                "ean garahan",
+                "eahppi garahan",
+                "eaba garahan",
+                "eat garahan",
+                "ehpet garahan",
+                "eai garahan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean garahan",
+                "leat garahan",
+                "lea garahan",
+                "letne garahan",
+                "leahppi garahan",
+                "leaba garahan",
+                "leat garahan",
+                "lehpet garahan",
+                "leat garahan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen garahan",
+                "ledjet garahan",
+                "lei garahan",
+                "leimme garahan",
+                "leidde garahan",
+                "leigga garahan",
+                "leimmet garahan",
+                "leiddet garahan",
+                "ledje garahan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean garaheame, -men",
+                "leat garaheame, -men",
+                "lea garaheame, -men",
+                "letne garaheame, -men",
+                "leahppi garaheame, -men",
+                "leaba garaheame, -men",
+                "leat garaheame, -men",
+                "lehpet garaheame, -men",
+                "leat garaheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen garaheame, -men",
+                "ledjet garaheame, -men",
+                "lei garaheame, -men",
+                "leimme garaheame, -men",
+                "leidde garaheame, -men",
+                "leigga garaheame, -men",
+                "leimmet garaheame, -men",
+                "leiddet garaheame, -men",
+                "ledje garaheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "garahivččen",
+                "garahivččet",
+                "garahivččii",
+                "garahivččiime",
+                "garahivččiide",
+                "garahivččiiga",
+                "garahivččiimet",
+                "garahivččiidet",
+                "garahivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in garahivčče",
+                "it garahivčče",
+                "ii garahivčče",
+                "ean garahivčče",
+                "eahppi garahivčče",
+                "eaba garahivčče",
+                "eat garahivčče",
+                "ehpet garahivčče",
+                "eai garahivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "garaheaččan",
+                "garaheaččat",
+                "garaheaš, -heš, -heažžá",
+                "garahežže",
+                "garaheažžabeahtti",
+                "garaheažžaba",
+                "garaheažžat",
+                "garaheažžabehtet",
+                "garahežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in garaheaš, -heš, -heažžá",
+                "it garaheaš, -heš, -heažžá",
+                "ii garaheaš, -heš, -heažžá",
+                "ean garaheaš, -heš, -heažžá",
+                "eahppi garaheaš, -heš, -heažžá",
+                "eaba garaheaš, -heš, -heažžá",
+                "eat garaheaš, -heš, -heažžá",
+                "ehpet garaheaš, -heš, -heažžá",
+                "eai garaheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "garahehkon",
+                "garat",
+                "garahehkos, garahus",
+                "garaheadnu",
+                "garaheahkki",
+                "garahehkoska",
+                "garahehkot, garaheahkkut, garahetnot, garaheadnot",
+                "garahehket",
+                "garahehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon garat",
+                "ale garat",
+                "allos garat",
+                "allu garat",
+                "alli garat",
+                "alloska garat",
+                "allot, allut garat",
+                "allet, allit garat",
+                "alloset garat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Garahit",
+    "valid": 1
+}

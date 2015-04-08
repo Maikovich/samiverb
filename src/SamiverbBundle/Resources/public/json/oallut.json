@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "oallut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "oalun",
+                "oalut",
+                "oallu",
+                "ollo",
+                "oallubeahtti",
+                "oalluba",
+                "oallut",
+                "oallubehtet",
+                "ollot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in oalo",
+                "it oalo",
+                "ii oalo",
+                "ean oalo",
+                "eahppi oalo",
+                "eaba oalo",
+                "eat oalo",
+                "ehpet oalo",
+                "eai oalo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ollon",
+                "ollot",
+                "oalui",
+                "oaluime",
+                "oaluide",
+                "oaluiga",
+                "oaluimet",
+                "oaluidet",
+                "ollo"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ollon",
+                "it ollon",
+                "ii ollon",
+                "ean ollon",
+                "eahppi ollon",
+                "eaba ollon",
+                "eat ollon",
+                "ehpet ollon",
+                "eai ollon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ollon",
+                "leat ollon",
+                "lea ollon",
+                "letne ollon",
+                "leahppi ollon",
+                "leaba ollon",
+                "leat ollon",
+                "lehpet ollon",
+                "leat ollon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ollon",
+                "ledjet ollon",
+                "lei ollon",
+                "leimme ollon",
+                "leidde ollon",
+                "leigga ollon",
+                "leimmet ollon",
+                "leiddet ollon",
+                "ledje ollon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean oallume, -min",
+                "leat oallume, -min",
+                "lea oallume, -min",
+                "letne oallume, -min",
+                "leahppi oallume, -min",
+                "leaba oallume, -min",
+                "leat oallume, -min",
+                "lehpet oallume, -min",
+                "leat oallume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen oallume, -min",
+                "ledjet oallume, -min",
+                "lei oallume, -min",
+                "leimme oallume, -min",
+                "leidde oallume, -min",
+                "leigga oallume, -min",
+                "leimmet oallume, -min",
+                "leiddet oallume, -min",
+                "ledje oallume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "ološin",
+                "ološit",
+                "ološii",
+                "ološeimme",
+                "ološeidde",
+                "ološeigga",
+                "ološeimmet",
+                "ološeiddet",
+                "ološedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in ološe",
+                "it ološe",
+                "ii ološe",
+                "ean ološe",
+                "eahppi ološe",
+                "eaba ološe",
+                "eat ološe",
+                "ehpet ološe",
+                "eai ološe"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "oložan",
+                "oložat",
+                "ološ",
+                "oložetne",
+                "oložeahppi",
+                "oložeaba",
+                "oložit, -žat",
+                "oložehpet",
+                "oložit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in ološ",
+                "it ološ",
+                "ii ološ",
+                "ean ološ",
+                "eahppi ološ",
+                "eaba ološ",
+                "eat ološ",
+                "ehpet ološ",
+                "eai ološ"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "ollon",
+                "oalo",
+                "ollos",
+                "oallu",
+                "oallu",
+                "olloska",
+                "ollot, oallot",
+                "ollot, oallot",
+                "olloset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon oalo",
+                "ale oalo",
+                "allos oalo",
+                "allu oalo",
+                "alli oalo",
+                "alloska oalo",
+                "allot, allut oalo",
+                "allet, allit oalo",
+                "alloset oalo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Oallut",
+    "valid": 1
+}

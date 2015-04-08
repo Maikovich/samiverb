@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "sodjalahttit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "sodjalahtán",
+                "sodjalahtát",
+                "sodjalahttá",
+                "sodjalahtte",
+                "sodjalahttibeahtti",
+                "sodjalahttiba",
+                "sodjalahttit",
+                "sodjalahttibehtet",
+                "sodjalahttet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in sodjalahte",
+                "it sodjalahte",
+                "ii sodjalahte",
+                "ean sodjalahte",
+                "eahppi sodjalahte",
+                "eaba sodjalahte",
+                "eat sodjalahte",
+                "ehpet sodjalahte",
+                "eai sodjalahte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "sodjalahtten",
+                "sodjalahttet",
+                "sodjalahtii",
+                "sodjalahtiime",
+                "sodjalahtiide",
+                "sodjalahtiiga",
+                "sodjalahtiimet",
+                "sodjalahtiidet",
+                "sodjalahtte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in sodjalahttán",
+                "it sodjalahttán",
+                "ii sodjalahttán",
+                "ean sodjalahttán",
+                "eahppi sodjalahttán",
+                "eaba sodjalahttán",
+                "eat sodjalahttán",
+                "ehpet sodjalahttán",
+                "eai sodjalahttán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean sodjalahttán",
+                "leat sodjalahttán",
+                "lea sodjalahttán",
+                "letne sodjalahttán",
+                "leahppi sodjalahttán",
+                "leaba sodjalahttán",
+                "leat sodjalahttán",
+                "lehpet sodjalahttán",
+                "leat sodjalahttán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen sodjalahttán",
+                "ledjet sodjalahttán",
+                "lei sodjalahttán",
+                "leimme sodjalahttán",
+                "leidde sodjalahttán",
+                "leigga sodjalahttán",
+                "leimmet sodjalahttán",
+                "leiddet sodjalahttán",
+                "ledje sodjalahttán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean sodjalahttime, -min",
+                "leat sodjalahttime, -min",
+                "lea sodjalahttime, -min",
+                "letne sodjalahttime, -min",
+                "leahppi sodjalahttime, -min",
+                "leaba sodjalahttime, -min",
+                "leat sodjalahttime, -min",
+                "lehpet sodjalahttime, -min",
+                "leat sodjalahttime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen sodjalahttime, -min",
+                "ledjet sodjalahttime, -min",
+                "lei sodjalahttime, -min",
+                "leimme sodjalahttime, -min",
+                "leidde sodjalahttime, -min",
+                "leigga sodjalahttime, -min",
+                "leimmet sodjalahttime, -min",
+                "leiddet sodjalahttime, -min",
+                "ledje sodjalahttime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "sodjalahtášin",
+                "sodjalahtášit",
+                "sodjalahtášii",
+                "sodjalahtášeimme",
+                "sodjalahtášeidde",
+                "sodjalahtášeigga",
+                "sodjalahtášeimmet",
+                "sodjalahtášeiddet",
+                "sodjalahtášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in sodjalahtáše",
+                "it sodjalahtáše",
+                "ii sodjalahtáše",
+                "ean sodjalahtáše",
+                "eahppi sodjalahtáše",
+                "eaba sodjalahtáše",
+                "eat sodjalahtáše",
+                "ehpet sodjalahtáše",
+                "eai sodjalahtáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "sodjalahtežan",
+                "sodjalahtežat",
+                "sodjalahteš",
+                "sodjalahtežetne",
+                "sodjalahtežeahppi",
+                "sodjalahtežeaba",
+                "sodjalahtežit, -žat",
+                "sodjalahtežehpet",
+                "sodjalahtežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in sodjalahteš",
+                "it sodjalahteš",
+                "ii sodjalahteš",
+                "ean sodjalahteš",
+                "eahppi sodjalahteš",
+                "eaba sodjalahteš",
+                "eat sodjalahteš",
+                "ehpet sodjalahteš",
+                "eai sodjalahteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "sodjalahtton",
+                "sodjalahte",
+                "sodjalahttos",
+                "sodjalahttu",
+                "sodjalahtti",
+                "sodjalahttoska",
+                "sodjalahttot",
+                "sodjalahttet",
+                "sodjalahttoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon sodjalahte",
+                "ale sodjalahte",
+                "allos sodjalahte",
+                "allu sodjalahte",
+                "alli sodjalahte",
+                "alloska sodjalahte",
+                "allot, allut sodjalahte",
+                "allet, allit sodjalahte",
+                "alloset sodjalahte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Sodjalahttit",
+    "valid": 1
+}

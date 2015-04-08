@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "báddet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "bádden",
+                "báddet",
+                "bádde",
+                "báddejetne",
+                "báddebeahtti",
+                "báddeba",
+                "báddet",
+                "báddebehtet",
+                "báddejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in bádde",
+                "it bádde",
+                "ii bádde",
+                "ean bádde",
+                "eahppi bádde",
+                "eaba bádde",
+                "eat bádde",
+                "ehpet bádde",
+                "eai bádde"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "báddejin",
+                "báddejit",
+                "báddii",
+                "báddiime",
+                "báddiide",
+                "báddiiga",
+                "báddiimet",
+                "báddiidet",
+                "báddejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in bádden",
+                "it bádden",
+                "ii bádden",
+                "ean bádden",
+                "eahppi bádden",
+                "eaba bádden",
+                "eat bádden",
+                "ehpet bádden",
+                "eai bádden"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean bádden",
+                "leat bádden",
+                "lea bádden",
+                "letne bádden",
+                "leahppi bádden",
+                "leaba bádden",
+                "leat bádden",
+                "lehpet bádden",
+                "leat bádden"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen bádden",
+                "ledjet bádden",
+                "lei bádden",
+                "leimme bádden",
+                "leidde bádden",
+                "leigga bádden",
+                "leimmet bádden",
+                "leiddet bádden",
+                "ledje bádden"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean báddeme, -min",
+                "leat báddeme, -min",
+                "lea báddeme, -min",
+                "letne báddeme, -min",
+                "leahppi báddeme, -min",
+                "leaba báddeme, -min",
+                "leat báddeme, -min",
+                "lehpet báddeme, -min",
+                "leat báddeme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen báddeme, -min",
+                "ledjet báddeme, -min",
+                "lei báddeme, -min",
+                "leimme báddeme, -min",
+                "leidde báddeme, -min",
+                "leigga báddeme, -min",
+                "leimmet báddeme, -min",
+                "leiddet báddeme, -min",
+                "ledje báddeme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "báddešin",
+                "báddešit",
+                "báddešii",
+                "báddešeimme",
+                "báddešeidde",
+                "báddešeigga",
+                "báddešeimmet",
+                "báddešeiddet",
+                "báddešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in báddeše",
+                "it báddeše",
+                "ii báddeše",
+                "ean báddeše",
+                "eahppi báddeše",
+                "eaba báddeše",
+                "eat báddeše",
+                "ehpet báddeše",
+                "eai báddeše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "báddežan",
+                "báddežat",
+                "báddeš",
+                "báddežetne",
+                "báddežeahppi",
+                "báddežeaba",
+                "báddežit, -žat",
+                "báddežehpet",
+                "báddežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in báddeš",
+                "it báddeš",
+                "ii báddeš",
+                "ean báddeš",
+                "eahppi báddeš",
+                "eaba báddeš",
+                "eat báddeš",
+                "ehpet báddeš",
+                "eai báddeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "báddejehkon",
+                "bádde",
+                "báddejehkos",
+                "báddejeadnu",
+                "báddejeahkki",
+                "báddejehkoska",
+                "báddejeahkkut, báddejeadnot, báddejehkot, báddejetnot",
+                "báddejeahkkit",
+                "báddejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon bádde",
+                "ale bádde",
+                "allos bádde",
+                "allu bádde",
+                "alli bádde",
+                "alloska bádde",
+                "allot, allut bádde",
+                "allet, allit bádde",
+                "alloset bádde"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Báddet",
+    "valid": 1
+}

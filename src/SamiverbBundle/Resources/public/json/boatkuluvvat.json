@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "boatkuluvvat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "boatkuluvan",
+                "boatkuluvat",
+                "boatkuluvvá",
+                "boatkuluvve",
+                "boatkuluvvabeahtti",
+                "boatkuluvvaba",
+                "boatkuluvvat",
+                "boatkuluvvabehtet",
+                "boatkuluvvet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in boatkuluva",
+                "it boatkuluva",
+                "ii boatkuluva",
+                "ean boatkuluva",
+                "eahppi boatkuluva",
+                "eaba boatkuluva",
+                "eat boatkuluva",
+                "ehpet boatkuluva",
+                "eai boatkuluva"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "boatkuluvven",
+                "boatkuluvvet",
+                "boatkuluvai",
+                "boatkuluvaime",
+                "boatkuluvaide",
+                "boatkuluvaiga",
+                "boatkuluvaimet",
+                "boatkuluvaidet",
+                "boatkuluvve"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in boatkuluvvan",
+                "it boatkuluvvan",
+                "ii boatkuluvvan",
+                "ean boatkuluvvan",
+                "eahppi boatkuluvvan",
+                "eaba boatkuluvvan",
+                "eat boatkuluvvan",
+                "ehpet boatkuluvvan",
+                "eai boatkuluvvan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean boatkuluvvan",
+                "leat boatkuluvvan",
+                "lea boatkuluvvan",
+                "letne boatkuluvvan",
+                "leahppi boatkuluvvan",
+                "leaba boatkuluvvan",
+                "leat boatkuluvvan",
+                "lehpet boatkuluvvan",
+                "leat boatkuluvvan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen boatkuluvvan",
+                "ledjet boatkuluvvan",
+                "lei boatkuluvvan",
+                "leimme boatkuluvvan",
+                "leidde boatkuluvvan",
+                "leigga boatkuluvvan",
+                "leimmet boatkuluvvan",
+                "leiddet boatkuluvvan",
+                "ledje boatkuluvvan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean boatkuluvvame, -min",
+                "leat boatkuluvvame, -min",
+                "lea boatkuluvvame, -min",
+                "letne boatkuluvvame, -min",
+                "leahppi boatkuluvvame, -min",
+                "leaba boatkuluvvame, -min",
+                "leat boatkuluvvame, -min",
+                "lehpet boatkuluvvame, -min",
+                "leat boatkuluvvame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen boatkuluvvame, -min",
+                "ledjet boatkuluvvame, -min",
+                "lei boatkuluvvame, -min",
+                "leimme boatkuluvvame, -min",
+                "leidde boatkuluvvame, -min",
+                "leigga boatkuluvvame, -min",
+                "leimmet boatkuluvvame, -min",
+                "leiddet boatkuluvvame, -min",
+                "ledje boatkuluvvame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "boatkuluvašin",
+                "boatkuluvašit",
+                "boatkuluvašii",
+                "boatkuluvašeimme",
+                "boatkuluvašeidde",
+                "boatkuluvašeigga",
+                "boatkuluvašeimmet",
+                "boatkuluvašeiddet",
+                "boatkuluvašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in boatkuluvaše",
+                "it boatkuluvaše",
+                "ii boatkuluvaše",
+                "ean boatkuluvaše",
+                "eahppi boatkuluvaše",
+                "eaba boatkuluvaše",
+                "eat boatkuluvaše",
+                "ehpet boatkuluvaše",
+                "eai boatkuluvaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "boatkuluvažan",
+                "boatkuluvažat",
+                "boatkuluvaš",
+                "boatkuluvažetne",
+                "boatkuluvažeahppi",
+                "boatkuluvažeaba",
+                "boatkuluvažit, -žat",
+                "boatkuluvažehpet",
+                "boatkuluvažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in boatkuluvaš",
+                "it boatkuluvaš",
+                "ii boatkuluvaš",
+                "ean boatkuluvaš",
+                "eahppi boatkuluvaš",
+                "eaba boatkuluvaš",
+                "eat boatkuluvaš",
+                "ehpet boatkuluvaš",
+                "eai boatkuluvaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "boatkuluvvon",
+                "boatkuluva",
+                "boatkuluvvos",
+                "boatkuluvvu",
+                "boatkuluvvi",
+                "boatkuluvvoska",
+                "boatkuluvvot",
+                "boatkuluvvet, boatkuluvvit",
+                "boatkuluvvoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon boatkuluva",
+                "ale boatkuluva",
+                "allos boatkuluva",
+                "allu boatkuluva",
+                "alli boatkuluva",
+                "alloska boatkuluva",
+                "allot, allut boatkuluva",
+                "allet, allit boatkuluva",
+                "alloset boatkuluva"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Boatkuluvvat",
+    "valid": 1
+}

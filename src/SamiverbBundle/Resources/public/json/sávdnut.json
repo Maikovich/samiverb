@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "sávdnut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "sávnnun",
+                "sávnnut",
+                "sávdnu",
+                "sávdno",
+                "sávdnubeahtti",
+                "sávdnuba",
+                "sávdnut",
+                "sávdnubehtet",
+                "sávdnot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in sávnno",
+                "it sávnno",
+                "ii sávnno",
+                "ean sávnno",
+                "eahppi sávnno",
+                "eaba sávnno",
+                "eat sávnno",
+                "ehpet sávnno",
+                "eai sávnno"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "sávdnon",
+                "sávdnot",
+                "sávnnui",
+                "sávnnuime",
+                "sávnnuide",
+                "sávnnuiga",
+                "sávnnuimet",
+                "sávnnuidet",
+                "sávdno"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in sávdnon",
+                "it sávdnon",
+                "ii sávdnon",
+                "ean sávdnon",
+                "eahppi sávdnon",
+                "eaba sávdnon",
+                "eat sávdnon",
+                "ehpet sávdnon",
+                "eai sávdnon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean sávdnon",
+                "leat sávdnon",
+                "lea sávdnon",
+                "letne sávdnon",
+                "leahppi sávdnon",
+                "leaba sávdnon",
+                "leat sávdnon",
+                "lehpet sávdnon",
+                "leat sávdnon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen sávdnon",
+                "ledjet sávdnon",
+                "lei sávdnon",
+                "leimme sávdnon",
+                "leidde sávdnon",
+                "leigga sávdnon",
+                "leimmet sávdnon",
+                "leiddet sávdnon",
+                "ledje sávdnon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean sávdnume, -min",
+                "leat sávdnume, -min",
+                "lea sávdnume, -min",
+                "letne sávdnume, -min",
+                "leahppi sávdnume, -min",
+                "leaba sávdnume, -min",
+                "leat sávdnume, -min",
+                "lehpet sávdnume, -min",
+                "leat sávdnume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen sávdnume, -min",
+                "ledjet sávdnume, -min",
+                "lei sávdnume, -min",
+                "leimme sávdnume, -min",
+                "leidde sávdnume, -min",
+                "leigga sávdnume, -min",
+                "leimmet sávdnume, -min",
+                "leiddet sávdnume, -min",
+                "ledje sávdnume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "sávnnošin",
+                "sávnnošit",
+                "sávnnošii",
+                "sávnnošeimme",
+                "sávnnošeidde",
+                "sávnnošeigga",
+                "sávnnošeimmet",
+                "sávnnošeiddet",
+                "sávnnošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in sávnnoše",
+                "it sávnnoše",
+                "ii sávnnoše",
+                "ean sávnnoše",
+                "eahppi sávnnoše",
+                "eaba sávnnoše",
+                "eat sávnnoše",
+                "ehpet sávnnoše",
+                "eai sávnnoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "sávnnožan",
+                "sávnnožat",
+                "sávnnoš",
+                "sávnnožetne",
+                "sávnnožeahppi",
+                "sávnnožeaba",
+                "sávnnožit, -žat",
+                "sávnnožehpet",
+                "sávnnožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in sávnnoš",
+                "it sávnnoš",
+                "ii sávnnoš",
+                "ean sávnnoš",
+                "eahppi sávnnoš",
+                "eaba sávnnoš",
+                "eat sávnnoš",
+                "ehpet sávnnoš",
+                "eai sávnnoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "sávdnon",
+                "sávnno",
+                "sávdnos",
+                "sávdnu",
+                "sávdnu",
+                "sávdnoska",
+                "sávdnot",
+                "sávdnot",
+                "sávdnoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon sávnno",
+                "ale sávnno",
+                "allos sávnno",
+                "allu sávnno",
+                "alli sávnno",
+                "alloska sávnno",
+                "allot, allut sávnno",
+                "allet, allit sávnno",
+                "alloset sávnno"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Sávdnut",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gártat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gárttan",
+                "gárttat",
+                "gártá",
+                "gárte",
+                "gártabeahtti",
+                "gártaba",
+                "gártat",
+                "gártabehtet",
+                "gártet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gártta",
+                "it gártta",
+                "ii gártta",
+                "ean gártta",
+                "eahppi gártta",
+                "eaba gártta",
+                "eat gártta",
+                "ehpet gártta",
+                "eai gártta"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gárten",
+                "gártet",
+                "gárttai",
+                "gárttaime",
+                "gárttaide",
+                "gárttaiga",
+                "gárttaimet",
+                "gárttaidet",
+                "gárte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gártan",
+                "it gártan",
+                "ii gártan",
+                "ean gártan",
+                "eahppi gártan",
+                "eaba gártan",
+                "eat gártan",
+                "ehpet gártan",
+                "eai gártan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gártan",
+                "leat gártan",
+                "lea gártan",
+                "letne gártan",
+                "leahppi gártan",
+                "leaba gártan",
+                "leat gártan",
+                "lehpet gártan",
+                "leat gártan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gártan",
+                "ledjet gártan",
+                "lei gártan",
+                "leimme gártan",
+                "leidde gártan",
+                "leigga gártan",
+                "leimmet gártan",
+                "leiddet gártan",
+                "ledje gártan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gártame, -min",
+                "leat gártame, -min",
+                "lea gártame, -min",
+                "letne gártame, -min",
+                "leahppi gártame, -min",
+                "leaba gártame, -min",
+                "leat gártame, -min",
+                "lehpet gártame, -min",
+                "leat gártame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gártame, -min",
+                "ledjet gártame, -min",
+                "lei gártame, -min",
+                "leimme gártame, -min",
+                "leidde gártame, -min",
+                "leigga gártame, -min",
+                "leimmet gártame, -min",
+                "leiddet gártame, -min",
+                "ledje gártame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gárttašin",
+                "gárttašit",
+                "gárttašii",
+                "gárttašeimme",
+                "gárttašeidde",
+                "gárttašeigga",
+                "gárttašeimmet",
+                "gárttašeiddet",
+                "gárttašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gárttaše",
+                "it gárttaše",
+                "ii gárttaše",
+                "ean gárttaše",
+                "eahppi gárttaše",
+                "eaba gárttaše",
+                "eat gárttaše",
+                "ehpet gárttaše",
+                "eai gárttaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gárttažan",
+                "gárttažat",
+                "gárttaš",
+                "gárttažetne",
+                "gárttažeahppi",
+                "gárttažeaba",
+                "gárttažit, -žat",
+                "gárttažehpet",
+                "gárttažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gárttaš",
+                "it gárttaš",
+                "ii gárttaš",
+                "ean gárttaš",
+                "eahppi gárttaš",
+                "eaba gárttaš",
+                "eat gárttaš",
+                "ehpet gárttaš",
+                "eai gárttaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gárton",
+                "gártta",
+                "gártos",
+                "gártu",
+                "gárti",
+                "gártoska",
+                "gártot",
+                "gártet, gártit",
+                "gártoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gártta",
+                "ale gártta",
+                "allos gártta",
+                "allu gártta",
+                "alli gártta",
+                "alloska gártta",
+                "allot, allut gártta",
+                "allet, allit gártta",
+                "alloset gártta"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gártat",
+    "valid": 1
+}

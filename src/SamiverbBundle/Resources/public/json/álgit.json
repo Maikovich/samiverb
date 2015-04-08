@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "álgit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "álggán",
+                "álggát",
+                "álgá",
+                "álge",
+                "álgibeahtti",
+                "álgiba",
+                "álgit",
+                "álgibehtet",
+                "álget"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in álgge",
+                "it álgge",
+                "ii álgge",
+                "ean álgge",
+                "eahppi álgge",
+                "eaba álgge",
+                "eat álgge",
+                "ehpet álgge",
+                "eai álgge"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "álgen",
+                "álget",
+                "álggii",
+                "álggiime",
+                "álggiide",
+                "álggiiga",
+                "álggiimet",
+                "álggiidet",
+                "álge"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in álgán",
+                "it álgán",
+                "ii álgán",
+                "ean álgán",
+                "eahppi álgán",
+                "eaba álgán",
+                "eat álgán",
+                "ehpet álgán",
+                "eai álgán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean álgán",
+                "leat álgán",
+                "lea álgán",
+                "letne álgán",
+                "leahppi álgán",
+                "leaba álgán",
+                "leat álgán",
+                "lehpet álgán",
+                "leat álgán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen álgán",
+                "ledjet álgán",
+                "lei álgán",
+                "leimme álgán",
+                "leidde álgán",
+                "leigga álgán",
+                "leimmet álgán",
+                "leiddet álgán",
+                "ledje álgán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean álgime, -min",
+                "leat álgime, -min",
+                "lea álgime, -min",
+                "letne álgime, -min",
+                "leahppi álgime, -min",
+                "leaba álgime, -min",
+                "leat álgime, -min",
+                "lehpet álgime, -min",
+                "leat álgime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen álgime, -min",
+                "ledjet álgime, -min",
+                "lei álgime, -min",
+                "leimme álgime, -min",
+                "leidde álgime, -min",
+                "leigga álgime, -min",
+                "leimmet álgime, -min",
+                "leiddet álgime, -min",
+                "ledje álgime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "álggášin",
+                "álggášit",
+                "álggášii",
+                "álggášeimme",
+                "álggášeidde",
+                "álggášeigga",
+                "álggášeimmet",
+                "álggášeiddet",
+                "álggášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in álggáše",
+                "it álggáše",
+                "ii álggáše",
+                "ean álggáše",
+                "eahppi álggáše",
+                "eaba álggáše",
+                "eat álggáše",
+                "ehpet álggáše",
+                "eai álggáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "álggežan",
+                "álggežat",
+                "álggeš",
+                "álggežetne",
+                "álggežeahppi",
+                "álggežeaba",
+                "álggežit, -žat",
+                "álggežehpet",
+                "álggežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in álggeš",
+                "it álggeš",
+                "ii álggeš",
+                "ean álggeš",
+                "eahppi álggeš",
+                "eaba álggeš",
+                "eat álggeš",
+                "ehpet álggeš",
+                "eai álggeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "álgon",
+                "álgge",
+                "álgos",
+                "álgu",
+                "álgi",
+                "álgoska",
+                "álgot",
+                "álget",
+                "álgoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon álgge",
+                "ale álgge",
+                "allos álgge",
+                "allu álgge",
+                "alli álgge",
+                "alloska álgge",
+                "allot, allut álgge",
+                "allet, allit álgge",
+                "alloset álgge"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Álgit",
+    "valid": 1
+}

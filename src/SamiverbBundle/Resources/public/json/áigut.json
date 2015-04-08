@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "áigut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "áiggun",
+                "áiggut",
+                "áigu",
+                "áigo",
+                "áigubeahtti",
+                "áiguba",
+                "áigut",
+                "áigubehtet",
+                "áigot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in áiggo",
+                "it áiggo",
+                "ii áiggo",
+                "ean áiggo",
+                "eahppi áiggo",
+                "eaba áiggo",
+                "eat áiggo",
+                "ehpet áiggo",
+                "eai áiggo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "áigon",
+                "áigot",
+                "áiggui",
+                "áigguime",
+                "áigguide",
+                "áigguiga",
+                "áigguimet",
+                "áigguidet",
+                "áigo"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in áigon",
+                "it áigon",
+                "ii áigon",
+                "ean áigon",
+                "eahppi áigon",
+                "eaba áigon",
+                "eat áigon",
+                "ehpet áigon",
+                "eai áigon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean áigon",
+                "leat áigon",
+                "lea áigon",
+                "letne áigon",
+                "leahppi áigon",
+                "leaba áigon",
+                "leat áigon",
+                "lehpet áigon",
+                "leat áigon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen áigon",
+                "ledjet áigon",
+                "lei áigon",
+                "leimme áigon",
+                "leidde áigon",
+                "leigga áigon",
+                "leimmet áigon",
+                "leiddet áigon",
+                "ledje áigon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean áigume, -min",
+                "leat áigume, -min",
+                "lea áigume, -min",
+                "letne áigume, -min",
+                "leahppi áigume, -min",
+                "leaba áigume, -min",
+                "leat áigume, -min",
+                "lehpet áigume, -min",
+                "leat áigume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen áigume, -min",
+                "ledjet áigume, -min",
+                "lei áigume, -min",
+                "leimme áigume, -min",
+                "leidde áigume, -min",
+                "leigga áigume, -min",
+                "leimmet áigume, -min",
+                "leiddet áigume, -min",
+                "ledje áigume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "áiggošin",
+                "áiggošit",
+                "áiggošii",
+                "áiggošeimme",
+                "áiggošeidde",
+                "áiggošeigga",
+                "áiggošeimmet",
+                "áiggošeiddet",
+                "áiggošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in áiggoše",
+                "it áiggoše",
+                "ii áiggoše",
+                "ean áiggoše",
+                "eahppi áiggoše",
+                "eaba áiggoše",
+                "eat áiggoše",
+                "ehpet áiggoše",
+                "eai áiggoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "áiggožan",
+                "áiggožat",
+                "áiggoš",
+                "áiggožetne",
+                "áiggožeahppi",
+                "áiggožeaba",
+                "áiggožit, -žat",
+                "áiggožehpet",
+                "áiggožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in áiggoš",
+                "it áiggoš",
+                "ii áiggoš",
+                "ean áiggoš",
+                "eahppi áiggoš",
+                "eaba áiggoš",
+                "eat áiggoš",
+                "ehpet áiggoš",
+                "eai áiggoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "áigon",
+                "áiggo",
+                "áigos",
+                "áigu",
+                "áigu",
+                "áigoska",
+                "áigot",
+                "áigot",
+                "áigoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon áiggo",
+                "ale áiggo",
+                "allos áiggo",
+                "allu áiggo",
+                "alli áiggo",
+                "alloska áiggo",
+                "allot, allut áiggo",
+                "allet, allit áiggo",
+                "alloset áiggo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Áigut",
+    "valid": 1
+}

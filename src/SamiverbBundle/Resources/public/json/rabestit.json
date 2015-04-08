@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "rabestit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "rabestan",
+                "rabestat",
+                "rabesta",
+                "rabestetne",
+                "rabesteahppi",
+                "rabesteaba",
+                "rabestit, -tat",
+                "rabestehpet",
+                "rabestit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in rabes",
+                "it rabes",
+                "ii rabes",
+                "ean rabes",
+                "eahppi rabes",
+                "eaba rabes",
+                "eat rabes",
+                "ehpet rabes",
+                "eai rabes"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "rabestin",
+                "rabestit",
+                "rabestii",
+                "rabesteimme",
+                "rabesteidde",
+                "rabesteigga",
+                "rabesteimmet",
+                "rabesteiddet",
+                "rabestedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in rabestan",
+                "it rabestan",
+                "ii rabestan",
+                "ean rabestan",
+                "eahppi rabestan",
+                "eaba rabestan",
+                "eat rabestan",
+                "ehpet rabestan",
+                "eai rabestan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean rabestan",
+                "leat rabestan",
+                "lea rabestan",
+                "letne rabestan",
+                "leahppi rabestan",
+                "leaba rabestan",
+                "leat rabestan",
+                "lehpet rabestan",
+                "leat rabestan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen rabestan",
+                "ledjet rabestan",
+                "lei rabestan",
+                "leimme rabestan",
+                "leidde rabestan",
+                "leigga rabestan",
+                "leimmet rabestan",
+                "leiddet rabestan",
+                "ledje rabestan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean rabesteame, -men",
+                "leat rabesteame, -men",
+                "lea rabesteame, -men",
+                "letne rabesteame, -men",
+                "leahppi rabesteame, -men",
+                "leaba rabesteame, -men",
+                "leat rabesteame, -men",
+                "lehpet rabesteame, -men",
+                "leat rabesteame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen rabesteame, -men",
+                "ledjet rabesteame, -men",
+                "lei rabesteame, -men",
+                "leimme rabesteame, -men",
+                "leidde rabesteame, -men",
+                "leigga rabesteame, -men",
+                "leimmet rabesteame, -men",
+                "leiddet rabesteame, -men",
+                "ledje rabesteame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "rabestivččen",
+                "rabestivččet",
+                "rabestivččii",
+                "rabestivččiime",
+                "rabestivččiide",
+                "rabestivččiiga",
+                "rabestivččiimet",
+                "rabestivččiidet",
+                "rabestivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in rabestivčče",
+                "it rabestivčče",
+                "ii rabestivčče",
+                "ean rabestivčče",
+                "eahppi rabestivčče",
+                "eaba rabestivčče",
+                "eat rabestivčče",
+                "ehpet rabestivčče",
+                "eai rabestivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "rabesteaččan",
+                "rabesteaččat",
+                "rabesteaš, -teš, -teažžá",
+                "rabestežže",
+                "rabesteažžabeahtti",
+                "rabesteažžaba",
+                "rabesteažžat",
+                "rabesteažžabehtet",
+                "rabestežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in rabesteaš, -teš, -teažžá",
+                "it rabesteaš, -teš, -teažžá",
+                "ii rabesteaš, -teš, -teažžá",
+                "ean rabesteaš, -teš, -teažžá",
+                "eahppi rabesteaš, -teš, -teažžá",
+                "eaba rabesteaš, -teš, -teažžá",
+                "eat rabesteaš, -teš, -teažžá",
+                "ehpet rabesteaš, -teš, -teažžá",
+                "eai rabesteaš, -teš, -teažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "rabestehkon",
+                "rabes",
+                "rabestehkos, rabestus",
+                "rabesteadnu",
+                "rabesteahkki",
+                "rabestehkoska",
+                "rabestehkot, rabesteahkkut, rabestetnot, rabesteadnot",
+                "rabestehket",
+                "rabestehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon rabes",
+                "ale rabes",
+                "allos rabes",
+                "allu rabes",
+                "alli rabes",
+                "alloska rabes",
+                "allot, allut rabes",
+                "allet, allit rabes",
+                "alloset rabes"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Rabestit",
+    "valid": 1
+}

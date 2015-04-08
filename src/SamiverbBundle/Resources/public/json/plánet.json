@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "plánet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "plánen",
+                "plánet",
+                "pláne",
+                "plánejetne",
+                "plánebeahtti",
+                "pláneba",
+                "plánet",
+                "plánebehtet",
+                "plánejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in pláne",
+                "it pláne",
+                "ii pláne",
+                "ean pláne",
+                "eahppi pláne",
+                "eaba pláne",
+                "eat pláne",
+                "ehpet pláne",
+                "eai pláne"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "plánejin",
+                "plánejit",
+                "plánii",
+                "plániime",
+                "plániide",
+                "plániiga",
+                "plániimet",
+                "plániidet",
+                "plánejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in plánen",
+                "it plánen",
+                "ii plánen",
+                "ean plánen",
+                "eahppi plánen",
+                "eaba plánen",
+                "eat plánen",
+                "ehpet plánen",
+                "eai plánen"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean plánen",
+                "leat plánen",
+                "lea plánen",
+                "letne plánen",
+                "leahppi plánen",
+                "leaba plánen",
+                "leat plánen",
+                "lehpet plánen",
+                "leat plánen"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen plánen",
+                "ledjet plánen",
+                "lei plánen",
+                "leimme plánen",
+                "leidde plánen",
+                "leigga plánen",
+                "leimmet plánen",
+                "leiddet plánen",
+                "ledje plánen"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean pláneme, -min",
+                "leat pláneme, -min",
+                "lea pláneme, -min",
+                "letne pláneme, -min",
+                "leahppi pláneme, -min",
+                "leaba pláneme, -min",
+                "leat pláneme, -min",
+                "lehpet pláneme, -min",
+                "leat pláneme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen pláneme, -min",
+                "ledjet pláneme, -min",
+                "lei pláneme, -min",
+                "leimme pláneme, -min",
+                "leidde pláneme, -min",
+                "leigga pláneme, -min",
+                "leimmet pláneme, -min",
+                "leiddet pláneme, -min",
+                "ledje pláneme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "plánešin",
+                "plánešit",
+                "plánešii",
+                "plánešeimme",
+                "plánešeidde",
+                "plánešeigga",
+                "plánešeimmet",
+                "plánešeiddet",
+                "plánešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in pláneše",
+                "it pláneše",
+                "ii pláneše",
+                "ean pláneše",
+                "eahppi pláneše",
+                "eaba pláneše",
+                "eat pláneše",
+                "ehpet pláneše",
+                "eai pláneše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "plánežan",
+                "plánežat",
+                "pláneš",
+                "plánežetne",
+                "plánežeahppi",
+                "plánežeaba",
+                "plánežit, -žat",
+                "plánežehpet",
+                "plánežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in pláneš",
+                "it pláneš",
+                "ii pláneš",
+                "ean pláneš",
+                "eahppi pláneš",
+                "eaba pláneš",
+                "eat pláneš",
+                "ehpet pláneš",
+                "eai pláneš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "plánejehkon",
+                "pláne",
+                "plánejehkos",
+                "plánejeadnu",
+                "plánejeahkki",
+                "plánejehkoska",
+                "plánejeahkkut, plánejeadnot, plánejehkot, plánejetnot",
+                "plánejeahkkit",
+                "plánejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon pláne",
+                "ale pláne",
+                "allos pláne",
+                "allu pláne",
+                "alli pláne",
+                "alloska pláne",
+                "allot, allut pláne",
+                "allet, allit pláne",
+                "alloset pláne"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Plánet",
+    "valid": 1
+}

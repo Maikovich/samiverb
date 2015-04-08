@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čalmmustahttit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čalmmustahtán",
+                "čalmmustahtát",
+                "čalmmustahttá",
+                "čalmmustahtte",
+                "čalmmustahttibeahtti",
+                "čalmmustahttiba",
+                "čalmmustahttit",
+                "čalmmustahttibehtet",
+                "čalmmustahttet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čalmmustahte",
+                "it čalmmustahte",
+                "ii čalmmustahte",
+                "ean čalmmustahte",
+                "eahppi čalmmustahte",
+                "eaba čalmmustahte",
+                "eat čalmmustahte",
+                "ehpet čalmmustahte",
+                "eai čalmmustahte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čalmmustahtten",
+                "čalmmustahttet",
+                "čalmmustahtii",
+                "čalmmustahtiime",
+                "čalmmustahtiide",
+                "čalmmustahtiiga",
+                "čalmmustahtiimet",
+                "čalmmustahtiidet",
+                "čalmmustahtte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čalmmustahttán",
+                "it čalmmustahttán",
+                "ii čalmmustahttán",
+                "ean čalmmustahttán",
+                "eahppi čalmmustahttán",
+                "eaba čalmmustahttán",
+                "eat čalmmustahttán",
+                "ehpet čalmmustahttán",
+                "eai čalmmustahttán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čalmmustahttán",
+                "leat čalmmustahttán",
+                "lea čalmmustahttán",
+                "letne čalmmustahttán",
+                "leahppi čalmmustahttán",
+                "leaba čalmmustahttán",
+                "leat čalmmustahttán",
+                "lehpet čalmmustahttán",
+                "leat čalmmustahttán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čalmmustahttán",
+                "ledjet čalmmustahttán",
+                "lei čalmmustahttán",
+                "leimme čalmmustahttán",
+                "leidde čalmmustahttán",
+                "leigga čalmmustahttán",
+                "leimmet čalmmustahttán",
+                "leiddet čalmmustahttán",
+                "ledje čalmmustahttán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čalmmustahttime, -min",
+                "leat čalmmustahttime, -min",
+                "lea čalmmustahttime, -min",
+                "letne čalmmustahttime, -min",
+                "leahppi čalmmustahttime, -min",
+                "leaba čalmmustahttime, -min",
+                "leat čalmmustahttime, -min",
+                "lehpet čalmmustahttime, -min",
+                "leat čalmmustahttime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čalmmustahttime, -min",
+                "ledjet čalmmustahttime, -min",
+                "lei čalmmustahttime, -min",
+                "leimme čalmmustahttime, -min",
+                "leidde čalmmustahttime, -min",
+                "leigga čalmmustahttime, -min",
+                "leimmet čalmmustahttime, -min",
+                "leiddet čalmmustahttime, -min",
+                "ledje čalmmustahttime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čalmmustahtášin",
+                "čalmmustahtášit",
+                "čalmmustahtášii",
+                "čalmmustahtášeimme",
+                "čalmmustahtášeidde",
+                "čalmmustahtášeigga",
+                "čalmmustahtášeimmet",
+                "čalmmustahtášeiddet",
+                "čalmmustahtášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čalmmustahtáše",
+                "it čalmmustahtáše",
+                "ii čalmmustahtáše",
+                "ean čalmmustahtáše",
+                "eahppi čalmmustahtáše",
+                "eaba čalmmustahtáše",
+                "eat čalmmustahtáše",
+                "ehpet čalmmustahtáše",
+                "eai čalmmustahtáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čalmmustahtežan",
+                "čalmmustahtežat",
+                "čalmmustahteš",
+                "čalmmustahtežetne",
+                "čalmmustahtežeahppi",
+                "čalmmustahtežeaba",
+                "čalmmustahtežit, -žat",
+                "čalmmustahtežehpet",
+                "čalmmustahtežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čalmmustahteš",
+                "it čalmmustahteš",
+                "ii čalmmustahteš",
+                "ean čalmmustahteš",
+                "eahppi čalmmustahteš",
+                "eaba čalmmustahteš",
+                "eat čalmmustahteš",
+                "ehpet čalmmustahteš",
+                "eai čalmmustahteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čalmmustahtton",
+                "čalmmustahte",
+                "čalmmustahttos",
+                "čalmmustahttu",
+                "čalmmustahtti",
+                "čalmmustahttoska",
+                "čalmmustahttot",
+                "čalmmustahttet",
+                "čalmmustahttoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čalmmustahte",
+                "ale čalmmustahte",
+                "allos čalmmustahte",
+                "allu čalmmustahte",
+                "alli čalmmustahte",
+                "alloska čalmmustahte",
+                "allot, allut čalmmustahte",
+                "allet, allit čalmmustahte",
+                "alloset čalmmustahte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čalmmustahttit",
+    "valid": 1
+}

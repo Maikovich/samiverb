@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "suhttat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "suhtan",
+                "suhtat",
+                "suhttá",
+                "suhtte",
+                "suhttabeahtti",
+                "suhttaba",
+                "suhttat",
+                "suhttabehtet",
+                "suhttet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in suhta",
+                "it suhta",
+                "ii suhta",
+                "ean suhta",
+                "eahppi suhta",
+                "eaba suhta",
+                "eat suhta",
+                "ehpet suhta",
+                "eai suhta"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "suhtten",
+                "suhttet",
+                "suhtai",
+                "suhtaime",
+                "suhtaide",
+                "suhtaiga",
+                "suhtaimet",
+                "suhtaidet",
+                "suhtte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in suhttan",
+                "it suhttan",
+                "ii suhttan",
+                "ean suhttan",
+                "eahppi suhttan",
+                "eaba suhttan",
+                "eat suhttan",
+                "ehpet suhttan",
+                "eai suhttan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean suhttan",
+                "leat suhttan",
+                "lea suhttan",
+                "letne suhttan",
+                "leahppi suhttan",
+                "leaba suhttan",
+                "leat suhttan",
+                "lehpet suhttan",
+                "leat suhttan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen suhttan",
+                "ledjet suhttan",
+                "lei suhttan",
+                "leimme suhttan",
+                "leidde suhttan",
+                "leigga suhttan",
+                "leimmet suhttan",
+                "leiddet suhttan",
+                "ledje suhttan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean suhttame, -min",
+                "leat suhttame, -min",
+                "lea suhttame, -min",
+                "letne suhttame, -min",
+                "leahppi suhttame, -min",
+                "leaba suhttame, -min",
+                "leat suhttame, -min",
+                "lehpet suhttame, -min",
+                "leat suhttame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen suhttame, -min",
+                "ledjet suhttame, -min",
+                "lei suhttame, -min",
+                "leimme suhttame, -min",
+                "leidde suhttame, -min",
+                "leigga suhttame, -min",
+                "leimmet suhttame, -min",
+                "leiddet suhttame, -min",
+                "ledje suhttame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "suhtašin",
+                "suhtašit",
+                "suhtašii",
+                "suhtašeimme",
+                "suhtašeidde",
+                "suhtašeigga",
+                "suhtašeimmet",
+                "suhtašeiddet",
+                "suhtašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in suhtaše",
+                "it suhtaše",
+                "ii suhtaše",
+                "ean suhtaše",
+                "eahppi suhtaše",
+                "eaba suhtaše",
+                "eat suhtaše",
+                "ehpet suhtaše",
+                "eai suhtaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "suhtažan",
+                "suhtažat",
+                "suhtaš",
+                "suhtažetne",
+                "suhtažeahppi",
+                "suhtažeaba",
+                "suhtažit, -žat",
+                "suhtažehpet",
+                "suhtažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in suhtaš",
+                "it suhtaš",
+                "ii suhtaš",
+                "ean suhtaš",
+                "eahppi suhtaš",
+                "eaba suhtaš",
+                "eat suhtaš",
+                "ehpet suhtaš",
+                "eai suhtaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "suhtton",
+                "suhta",
+                "suhttos",
+                "suhttu",
+                "suhtti",
+                "suhttoska",
+                "suhttot",
+                "suhttet, suhttit",
+                "suhttoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon suhta",
+                "ale suhta",
+                "allos suhta",
+                "allu suhta",
+                "alli suhta",
+                "alloska suhta",
+                "allot, allut suhta",
+                "allet, allit suhta",
+                "alloset suhta"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Suhttat",
+    "valid": 1
+}

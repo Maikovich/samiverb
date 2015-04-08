@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "nohkastit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "nohkastan",
+                "nohkastat",
+                "nohkasta",
+                "nohkastetne",
+                "nohkasteahppi",
+                "nohkasteaba",
+                "nohkastit, -tat",
+                "nohkastehpet",
+                "nohkastit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in nohkas",
+                "it nohkas",
+                "ii nohkas",
+                "ean nohkas",
+                "eahppi nohkas",
+                "eaba nohkas",
+                "eat nohkas",
+                "ehpet nohkas",
+                "eai nohkas"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "nohkastin",
+                "nohkastit",
+                "nohkastii",
+                "nohkasteimme",
+                "nohkasteidde",
+                "nohkasteigga",
+                "nohkasteimmet",
+                "nohkasteiddet",
+                "nohkastedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in nohkastan",
+                "it nohkastan",
+                "ii nohkastan",
+                "ean nohkastan",
+                "eahppi nohkastan",
+                "eaba nohkastan",
+                "eat nohkastan",
+                "ehpet nohkastan",
+                "eai nohkastan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean nohkastan",
+                "leat nohkastan",
+                "lea nohkastan",
+                "letne nohkastan",
+                "leahppi nohkastan",
+                "leaba nohkastan",
+                "leat nohkastan",
+                "lehpet nohkastan",
+                "leat nohkastan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen nohkastan",
+                "ledjet nohkastan",
+                "lei nohkastan",
+                "leimme nohkastan",
+                "leidde nohkastan",
+                "leigga nohkastan",
+                "leimmet nohkastan",
+                "leiddet nohkastan",
+                "ledje nohkastan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean nohkasteame, -men",
+                "leat nohkasteame, -men",
+                "lea nohkasteame, -men",
+                "letne nohkasteame, -men",
+                "leahppi nohkasteame, -men",
+                "leaba nohkasteame, -men",
+                "leat nohkasteame, -men",
+                "lehpet nohkasteame, -men",
+                "leat nohkasteame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen nohkasteame, -men",
+                "ledjet nohkasteame, -men",
+                "lei nohkasteame, -men",
+                "leimme nohkasteame, -men",
+                "leidde nohkasteame, -men",
+                "leigga nohkasteame, -men",
+                "leimmet nohkasteame, -men",
+                "leiddet nohkasteame, -men",
+                "ledje nohkasteame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "nohkastivččen",
+                "nohkastivččet",
+                "nohkastivččii",
+                "nohkastivččiime",
+                "nohkastivččiide",
+                "nohkastivččiiga",
+                "nohkastivččiimet",
+                "nohkastivččiidet",
+                "nohkastivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in nohkastivčče",
+                "it nohkastivčče",
+                "ii nohkastivčče",
+                "ean nohkastivčče",
+                "eahppi nohkastivčče",
+                "eaba nohkastivčče",
+                "eat nohkastivčče",
+                "ehpet nohkastivčče",
+                "eai nohkastivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "nohkasteaččan",
+                "nohkasteaččat",
+                "nohkasteaš, -teš, -teažžá",
+                "nohkastežže",
+                "nohkasteažžabeahtti",
+                "nohkasteažžaba",
+                "nohkasteažžat",
+                "nohkasteažžabehtet",
+                "nohkastežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in nohkasteaš, -teš, -teažžá",
+                "it nohkasteaš, -teš, -teažžá",
+                "ii nohkasteaš, -teš, -teažžá",
+                "ean nohkasteaš, -teš, -teažžá",
+                "eahppi nohkasteaš, -teš, -teažžá",
+                "eaba nohkasteaš, -teš, -teažžá",
+                "eat nohkasteaš, -teš, -teažžá",
+                "ehpet nohkasteaš, -teš, -teažžá",
+                "eai nohkasteaš, -teš, -teažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "nohkastehkon",
+                "nohkas",
+                "nohkastehkos, nohkastus",
+                "nohkasteadnu",
+                "nohkasteahkki",
+                "nohkastehkoska",
+                "nohkastehkot, nohkasteahkkut, nohkastetnot, nohkasteadnot",
+                "nohkastehket",
+                "nohkastehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon nohkas",
+                "ale nohkas",
+                "allos nohkas",
+                "allu nohkas",
+                "alli nohkas",
+                "alloska nohkas",
+                "allot, allut nohkas",
+                "allet, allit nohkas",
+                "alloset nohkas"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Nohkastit",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "fuolastuvvat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "fuolastuvan",
+                "fuolastuvat",
+                "fuolastuvvá",
+                "fuolastuvve",
+                "fuolastuvvabeahtti",
+                "fuolastuvvaba",
+                "fuolastuvvat",
+                "fuolastuvvabehtet",
+                "fuolastuvvet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in fuolastuva",
+                "it fuolastuva",
+                "ii fuolastuva",
+                "ean fuolastuva",
+                "eahppi fuolastuva",
+                "eaba fuolastuva",
+                "eat fuolastuva",
+                "ehpet fuolastuva",
+                "eai fuolastuva"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "fuolastuvven",
+                "fuolastuvvet",
+                "fuolastuvai",
+                "fuolastuvaime",
+                "fuolastuvaide",
+                "fuolastuvaiga",
+                "fuolastuvaimet",
+                "fuolastuvaidet",
+                "fuolastuvve"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in fuolastuvvan",
+                "it fuolastuvvan",
+                "ii fuolastuvvan",
+                "ean fuolastuvvan",
+                "eahppi fuolastuvvan",
+                "eaba fuolastuvvan",
+                "eat fuolastuvvan",
+                "ehpet fuolastuvvan",
+                "eai fuolastuvvan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean fuolastuvvan",
+                "leat fuolastuvvan",
+                "lea fuolastuvvan",
+                "letne fuolastuvvan",
+                "leahppi fuolastuvvan",
+                "leaba fuolastuvvan",
+                "leat fuolastuvvan",
+                "lehpet fuolastuvvan",
+                "leat fuolastuvvan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen fuolastuvvan",
+                "ledjet fuolastuvvan",
+                "lei fuolastuvvan",
+                "leimme fuolastuvvan",
+                "leidde fuolastuvvan",
+                "leigga fuolastuvvan",
+                "leimmet fuolastuvvan",
+                "leiddet fuolastuvvan",
+                "ledje fuolastuvvan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean fuolastuvvame, -min",
+                "leat fuolastuvvame, -min",
+                "lea fuolastuvvame, -min",
+                "letne fuolastuvvame, -min",
+                "leahppi fuolastuvvame, -min",
+                "leaba fuolastuvvame, -min",
+                "leat fuolastuvvame, -min",
+                "lehpet fuolastuvvame, -min",
+                "leat fuolastuvvame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen fuolastuvvame, -min",
+                "ledjet fuolastuvvame, -min",
+                "lei fuolastuvvame, -min",
+                "leimme fuolastuvvame, -min",
+                "leidde fuolastuvvame, -min",
+                "leigga fuolastuvvame, -min",
+                "leimmet fuolastuvvame, -min",
+                "leiddet fuolastuvvame, -min",
+                "ledje fuolastuvvame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "fuolastuvašin",
+                "fuolastuvašit",
+                "fuolastuvašii",
+                "fuolastuvašeimme",
+                "fuolastuvašeidde",
+                "fuolastuvašeigga",
+                "fuolastuvašeimmet",
+                "fuolastuvašeiddet",
+                "fuolastuvašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in fuolastuvaše",
+                "it fuolastuvaše",
+                "ii fuolastuvaše",
+                "ean fuolastuvaše",
+                "eahppi fuolastuvaše",
+                "eaba fuolastuvaše",
+                "eat fuolastuvaše",
+                "ehpet fuolastuvaše",
+                "eai fuolastuvaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "fuolastuvažan",
+                "fuolastuvažat",
+                "fuolastuvaš",
+                "fuolastuvažetne",
+                "fuolastuvažeahppi",
+                "fuolastuvažeaba",
+                "fuolastuvažit, -žat",
+                "fuolastuvažehpet",
+                "fuolastuvažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in fuolastuvaš",
+                "it fuolastuvaš",
+                "ii fuolastuvaš",
+                "ean fuolastuvaš",
+                "eahppi fuolastuvaš",
+                "eaba fuolastuvaš",
+                "eat fuolastuvaš",
+                "ehpet fuolastuvaš",
+                "eai fuolastuvaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "fuolastuvvon",
+                "fuolastuva",
+                "fuolastuvvos",
+                "fuolastuvvu",
+                "fuolastuvvi",
+                "fuolastuvvoska",
+                "fuolastuvvot",
+                "fuolastuvvet, fuolastuvvit",
+                "fuolastuvvoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon fuolastuva",
+                "ale fuolastuva",
+                "allos fuolastuva",
+                "allu fuolastuva",
+                "alli fuolastuva",
+                "alloska fuolastuva",
+                "allot, allut fuolastuva",
+                "allet, allit fuolastuva",
+                "alloset fuolastuva"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Fuolastuvvat",
+    "valid": 1
+}

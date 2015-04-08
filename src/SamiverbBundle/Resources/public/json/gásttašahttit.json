@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "gásttašahttit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "gásttašahtán",
+                "gásttašahtát",
+                "gásttašahttá",
+                "gásttašahtte",
+                "gásttašahttibeahtti",
+                "gásttašahttiba",
+                "gásttašahttit",
+                "gásttašahttibehtet",
+                "gásttašahttet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in gásttašahte",
+                "it gásttašahte",
+                "ii gásttašahte",
+                "ean gásttašahte",
+                "eahppi gásttašahte",
+                "eaba gásttašahte",
+                "eat gásttašahte",
+                "ehpet gásttašahte",
+                "eai gásttašahte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "gásttašahtten",
+                "gásttašahttet",
+                "gásttašahtii",
+                "gásttašahtiime",
+                "gásttašahtiide",
+                "gásttašahtiiga",
+                "gásttašahtiimet",
+                "gásttašahtiidet",
+                "gásttašahtte"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in gásttašahttán",
+                "it gásttašahttán",
+                "ii gásttašahttán",
+                "ean gásttašahttán",
+                "eahppi gásttašahttán",
+                "eaba gásttašahttán",
+                "eat gásttašahttán",
+                "ehpet gásttašahttán",
+                "eai gásttašahttán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean gásttašahttán",
+                "leat gásttašahttán",
+                "lea gásttašahttán",
+                "letne gásttašahttán",
+                "leahppi gásttašahttán",
+                "leaba gásttašahttán",
+                "leat gásttašahttán",
+                "lehpet gásttašahttán",
+                "leat gásttašahttán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen gásttašahttán",
+                "ledjet gásttašahttán",
+                "lei gásttašahttán",
+                "leimme gásttašahttán",
+                "leidde gásttašahttán",
+                "leigga gásttašahttán",
+                "leimmet gásttašahttán",
+                "leiddet gásttašahttán",
+                "ledje gásttašahttán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean gásttašahttime, -min",
+                "leat gásttašahttime, -min",
+                "lea gásttašahttime, -min",
+                "letne gásttašahttime, -min",
+                "leahppi gásttašahttime, -min",
+                "leaba gásttašahttime, -min",
+                "leat gásttašahttime, -min",
+                "lehpet gásttašahttime, -min",
+                "leat gásttašahttime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen gásttašahttime, -min",
+                "ledjet gásttašahttime, -min",
+                "lei gásttašahttime, -min",
+                "leimme gásttašahttime, -min",
+                "leidde gásttašahttime, -min",
+                "leigga gásttašahttime, -min",
+                "leimmet gásttašahttime, -min",
+                "leiddet gásttašahttime, -min",
+                "ledje gásttašahttime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "gásttašahtášin",
+                "gásttašahtášit",
+                "gásttašahtášii",
+                "gásttašahtášeimme",
+                "gásttašahtášeidde",
+                "gásttašahtášeigga",
+                "gásttašahtášeimmet",
+                "gásttašahtášeiddet",
+                "gásttašahtášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in gásttašahtáše",
+                "it gásttašahtáše",
+                "ii gásttašahtáše",
+                "ean gásttašahtáše",
+                "eahppi gásttašahtáše",
+                "eaba gásttašahtáše",
+                "eat gásttašahtáše",
+                "ehpet gásttašahtáše",
+                "eai gásttašahtáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "gásttašahtežan",
+                "gásttašahtežat",
+                "gásttašahteš",
+                "gásttašahtežetne",
+                "gásttašahtežeahppi",
+                "gásttašahtežeaba",
+                "gásttašahtežit, -žat",
+                "gásttašahtežehpet",
+                "gásttašahtežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in gásttašahteš",
+                "it gásttašahteš",
+                "ii gásttašahteš",
+                "ean gásttašahteš",
+                "eahppi gásttašahteš",
+                "eaba gásttašahteš",
+                "eat gásttašahteš",
+                "ehpet gásttašahteš",
+                "eai gásttašahteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "gásttašahtton",
+                "gásttašahte",
+                "gásttašahttos",
+                "gásttašahttu",
+                "gásttašahtti",
+                "gásttašahttoska",
+                "gásttašahttot",
+                "gásttašahttet",
+                "gásttašahttoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon gásttašahte",
+                "ale gásttašahte",
+                "allos gásttašahte",
+                "allu gásttašahte",
+                "alli gásttašahte",
+                "alloska gásttašahte",
+                "allot, allut gásttašahte",
+                "allet, allit gásttašahte",
+                "alloset gásttašahte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Gásttašahttit",
+    "valid": 1
+}

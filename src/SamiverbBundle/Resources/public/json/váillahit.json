@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "váillahit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "váillahan",
+                "váillahat",
+                "váillaha",
+                "váillahetne",
+                "váillaheahppi",
+                "váillaheaba",
+                "váillahit, -hat",
+                "váillahehpet",
+                "váillahit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in váillat",
+                "it váillat",
+                "ii váillat",
+                "ean váillat",
+                "eahppi váillat",
+                "eaba váillat",
+                "eat váillat",
+                "ehpet váillat",
+                "eai váillat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "váillahin",
+                "váillahit",
+                "váillahii",
+                "váillaheimme",
+                "váillaheidde",
+                "váillaheigga",
+                "váillaheimmet",
+                "váillaheiddet",
+                "váillahedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in váillahan",
+                "it váillahan",
+                "ii váillahan",
+                "ean váillahan",
+                "eahppi váillahan",
+                "eaba váillahan",
+                "eat váillahan",
+                "ehpet váillahan",
+                "eai váillahan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean váillahan",
+                "leat váillahan",
+                "lea váillahan",
+                "letne váillahan",
+                "leahppi váillahan",
+                "leaba váillahan",
+                "leat váillahan",
+                "lehpet váillahan",
+                "leat váillahan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen váillahan",
+                "ledjet váillahan",
+                "lei váillahan",
+                "leimme váillahan",
+                "leidde váillahan",
+                "leigga váillahan",
+                "leimmet váillahan",
+                "leiddet váillahan",
+                "ledje váillahan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean váillaheame, -men",
+                "leat váillaheame, -men",
+                "lea váillaheame, -men",
+                "letne váillaheame, -men",
+                "leahppi váillaheame, -men",
+                "leaba váillaheame, -men",
+                "leat váillaheame, -men",
+                "lehpet váillaheame, -men",
+                "leat váillaheame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen váillaheame, -men",
+                "ledjet váillaheame, -men",
+                "lei váillaheame, -men",
+                "leimme váillaheame, -men",
+                "leidde váillaheame, -men",
+                "leigga váillaheame, -men",
+                "leimmet váillaheame, -men",
+                "leiddet váillaheame, -men",
+                "ledje váillaheame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "váillahivččen",
+                "váillahivččet",
+                "váillahivččii",
+                "váillahivččiime",
+                "váillahivččiide",
+                "váillahivččiiga",
+                "váillahivččiimet",
+                "váillahivččiidet",
+                "váillahivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in váillahivčče",
+                "it váillahivčče",
+                "ii váillahivčče",
+                "ean váillahivčče",
+                "eahppi váillahivčče",
+                "eaba váillahivčče",
+                "eat váillahivčče",
+                "ehpet váillahivčče",
+                "eai váillahivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "váillaheaččan",
+                "váillaheaččat",
+                "váillaheaš, -heš, -heažžá",
+                "váillahežže",
+                "váillaheažžabeahtti",
+                "váillaheažžaba",
+                "váillaheažžat",
+                "váillaheažžabehtet",
+                "váillahežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in váillaheaš, -heš, -heažžá",
+                "it váillaheaš, -heš, -heažžá",
+                "ii váillaheaš, -heš, -heažžá",
+                "ean váillaheaš, -heš, -heažžá",
+                "eahppi váillaheaš, -heš, -heažžá",
+                "eaba váillaheaš, -heš, -heažžá",
+                "eat váillaheaš, -heš, -heažžá",
+                "ehpet váillaheaš, -heš, -heažžá",
+                "eai váillaheaš, -heš, -heažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "váillahehkon",
+                "váillat",
+                "váillahehkos, váillahus",
+                "váillaheadnu",
+                "váillaheahkki",
+                "váillahehkoska",
+                "váillahehkot, váillaheahkkut, váillahetnot, váillaheadnot",
+                "váillahehket",
+                "váillahehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon váillat",
+                "ale váillat",
+                "allos váillat",
+                "allu váillat",
+                "alli váillat",
+                "alloska váillat",
+                "allot, allut váillat",
+                "allet, allit váillat",
+                "alloset váillat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Váillahit",
+    "valid": 1
+}

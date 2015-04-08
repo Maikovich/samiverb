@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "muitastit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "muitastan",
+                "muitastat",
+                "muitasta",
+                "muitastetne",
+                "muitasteahppi",
+                "muitasteaba",
+                "muitastit, -tat",
+                "muitastehpet",
+                "muitastit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in muitas",
+                "it muitas",
+                "ii muitas",
+                "ean muitas",
+                "eahppi muitas",
+                "eaba muitas",
+                "eat muitas",
+                "ehpet muitas",
+                "eai muitas"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "muitastin",
+                "muitastit",
+                "muitastii",
+                "muitasteimme",
+                "muitasteidde",
+                "muitasteigga",
+                "muitasteimmet",
+                "muitasteiddet",
+                "muitastedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in muitastan",
+                "it muitastan",
+                "ii muitastan",
+                "ean muitastan",
+                "eahppi muitastan",
+                "eaba muitastan",
+                "eat muitastan",
+                "ehpet muitastan",
+                "eai muitastan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean muitastan",
+                "leat muitastan",
+                "lea muitastan",
+                "letne muitastan",
+                "leahppi muitastan",
+                "leaba muitastan",
+                "leat muitastan",
+                "lehpet muitastan",
+                "leat muitastan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen muitastan",
+                "ledjet muitastan",
+                "lei muitastan",
+                "leimme muitastan",
+                "leidde muitastan",
+                "leigga muitastan",
+                "leimmet muitastan",
+                "leiddet muitastan",
+                "ledje muitastan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean muitasteame, -men",
+                "leat muitasteame, -men",
+                "lea muitasteame, -men",
+                "letne muitasteame, -men",
+                "leahppi muitasteame, -men",
+                "leaba muitasteame, -men",
+                "leat muitasteame, -men",
+                "lehpet muitasteame, -men",
+                "leat muitasteame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen muitasteame, -men",
+                "ledjet muitasteame, -men",
+                "lei muitasteame, -men",
+                "leimme muitasteame, -men",
+                "leidde muitasteame, -men",
+                "leigga muitasteame, -men",
+                "leimmet muitasteame, -men",
+                "leiddet muitasteame, -men",
+                "ledje muitasteame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "muitastivččen",
+                "muitastivččet",
+                "muitastivččii",
+                "muitastivččiime",
+                "muitastivččiide",
+                "muitastivččiiga",
+                "muitastivččiimet",
+                "muitastivččiidet",
+                "muitastivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in muitastivčče",
+                "it muitastivčče",
+                "ii muitastivčče",
+                "ean muitastivčče",
+                "eahppi muitastivčče",
+                "eaba muitastivčče",
+                "eat muitastivčče",
+                "ehpet muitastivčče",
+                "eai muitastivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "muitasteaččan",
+                "muitasteaččat",
+                "muitasteaš, -teš, -teažžá",
+                "muitastežže",
+                "muitasteažžabeahtti",
+                "muitasteažžaba",
+                "muitasteažžat",
+                "muitasteažžabehtet",
+                "muitastežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in muitasteaš, -teš, -teažžá",
+                "it muitasteaš, -teš, -teažžá",
+                "ii muitasteaš, -teš, -teažžá",
+                "ean muitasteaš, -teš, -teažžá",
+                "eahppi muitasteaš, -teš, -teažžá",
+                "eaba muitasteaš, -teš, -teažžá",
+                "eat muitasteaš, -teš, -teažžá",
+                "ehpet muitasteaš, -teš, -teažžá",
+                "eai muitasteaš, -teš, -teažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "muitastehkon",
+                "muitas",
+                "muitastehkos, muitastus",
+                "muitasteadnu",
+                "muitasteahkki",
+                "muitastehkoska",
+                "muitastehkot, muitasteahkkut, muitastetnot, muitasteadnot",
+                "muitastehket",
+                "muitastehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon muitas",
+                "ale muitas",
+                "allos muitas",
+                "allu muitas",
+                "alli muitas",
+                "alloska muitas",
+                "allot, allut muitas",
+                "allet, allit muitas",
+                "alloset muitas"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "valid": 0,
+    "value": "Muitastit"
+}

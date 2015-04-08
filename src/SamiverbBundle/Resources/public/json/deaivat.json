@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "deaivat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "deaivvan",
+                "deaivvat",
+                "deaivá",
+                "deive",
+                "deaivabeahtti",
+                "deaivaba",
+                "deaivat",
+                "deaivabehtet",
+                "deivet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in deaivva",
+                "it deaivva",
+                "ii deaivva",
+                "ean deaivva",
+                "eahppi deaivva",
+                "eaba deaivva",
+                "eat deaivva",
+                "ehpet deaivva",
+                "eai deaivva"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "deiven",
+                "deivet",
+                "deaivvai",
+                "deaivvaime",
+                "deaivvaide",
+                "deaivvaiga",
+                "deaivvaimet",
+                "deaivvaidet",
+                "deive"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in deaivan",
+                "it deaivan",
+                "ii deaivan",
+                "ean deaivan",
+                "eahppi deaivan",
+                "eaba deaivan",
+                "eat deaivan",
+                "ehpet deaivan",
+                "eai deaivan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean deaivan",
+                "leat deaivan",
+                "lea deaivan",
+                "letne deaivan",
+                "leahppi deaivan",
+                "leaba deaivan",
+                "leat deaivan",
+                "lehpet deaivan",
+                "leat deaivan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen deaivan",
+                "ledjet deaivan",
+                "lei deaivan",
+                "leimme deaivan",
+                "leidde deaivan",
+                "leigga deaivan",
+                "leimmet deaivan",
+                "leiddet deaivan",
+                "ledje deaivan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean deaivame, -min",
+                "leat deaivame, -min",
+                "lea deaivame, -min",
+                "letne deaivame, -min",
+                "leahppi deaivame, -min",
+                "leaba deaivame, -min",
+                "leat deaivame, -min",
+                "lehpet deaivame, -min",
+                "leat deaivame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen deaivame, -min",
+                "ledjet deaivame, -min",
+                "lei deaivame, -min",
+                "leimme deaivame, -min",
+                "leidde deaivame, -min",
+                "leigga deaivame, -min",
+                "leimmet deaivame, -min",
+                "leiddet deaivame, -min",
+                "ledje deaivame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "deaivvašin",
+                "deaivvašit",
+                "deaivvašii",
+                "deaivvašeimme",
+                "deaivvašeidde",
+                "deaivvašeigga",
+                "deaivvašeimmet",
+                "deaivvašeiddet",
+                "deaivvašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in deaivvaše",
+                "it deaivvaše",
+                "ii deaivvaše",
+                "ean deaivvaše",
+                "eahppi deaivvaše",
+                "eaba deaivvaše",
+                "eat deaivvaše",
+                "ehpet deaivvaše",
+                "eai deaivvaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "deaivvažan",
+                "deaivvažat",
+                "deaivvaš",
+                "deaivvažetne",
+                "deaivvažeahppi",
+                "deaivvažeaba",
+                "deaivvažit, -žat",
+                "deaivvažehpet",
+                "deaivvažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in deaivvaš",
+                "it deaivvaš",
+                "ii deaivvaš",
+                "ean deaivvaš",
+                "eahppi deaivvaš",
+                "eaba deaivvaš",
+                "eat deaivvaš",
+                "ehpet deaivvaš",
+                "eai deaivvaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "deivon",
+                "deaivva",
+                "deivos",
+                "deaivu",
+                "deaivi",
+                "deivoska",
+                "deivot, deaivot",
+                "deivet, deaivit",
+                "deivoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon deaivva",
+                "ale deaivva",
+                "allos deaivva",
+                "allu deaivva",
+                "alli deaivva",
+                "alloska deaivva",
+                "allot, allut deaivva",
+                "allet, allit deaivva",
+                "alloset deaivva"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Deaivat",
+    "valid": 1
+}

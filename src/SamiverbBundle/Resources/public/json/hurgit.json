@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "hurgit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "hurggán",
+                "hurggát",
+                "hurgá",
+                "hurge",
+                "hurgibeahtti",
+                "hurgiba",
+                "hurgit",
+                "hurgibehtet",
+                "hurget"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in hurgge",
+                "it hurgge",
+                "ii hurgge",
+                "ean hurgge",
+                "eahppi hurgge",
+                "eaba hurgge",
+                "eat hurgge",
+                "ehpet hurgge",
+                "eai hurgge"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "hurgen",
+                "hurget",
+                "hurggii",
+                "hurggiime",
+                "hurggiide",
+                "hurggiiga",
+                "hurggiimet",
+                "hurggiidet",
+                "hurge"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in hurgán",
+                "it hurgán",
+                "ii hurgán",
+                "ean hurgán",
+                "eahppi hurgán",
+                "eaba hurgán",
+                "eat hurgán",
+                "ehpet hurgán",
+                "eai hurgán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean hurgán",
+                "leat hurgán",
+                "lea hurgán",
+                "letne hurgán",
+                "leahppi hurgán",
+                "leaba hurgán",
+                "leat hurgán",
+                "lehpet hurgán",
+                "leat hurgán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen hurgán",
+                "ledjet hurgán",
+                "lei hurgán",
+                "leimme hurgán",
+                "leidde hurgán",
+                "leigga hurgán",
+                "leimmet hurgán",
+                "leiddet hurgán",
+                "ledje hurgán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean hurgime, -min",
+                "leat hurgime, -min",
+                "lea hurgime, -min",
+                "letne hurgime, -min",
+                "leahppi hurgime, -min",
+                "leaba hurgime, -min",
+                "leat hurgime, -min",
+                "lehpet hurgime, -min",
+                "leat hurgime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen hurgime, -min",
+                "ledjet hurgime, -min",
+                "lei hurgime, -min",
+                "leimme hurgime, -min",
+                "leidde hurgime, -min",
+                "leigga hurgime, -min",
+                "leimmet hurgime, -min",
+                "leiddet hurgime, -min",
+                "ledje hurgime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "hurggášin",
+                "hurggášit",
+                "hurggášii",
+                "hurggášeimme",
+                "hurggášeidde",
+                "hurggášeigga",
+                "hurggášeimmet",
+                "hurggášeiddet",
+                "hurggášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in hurggáše",
+                "it hurggáše",
+                "ii hurggáše",
+                "ean hurggáše",
+                "eahppi hurggáše",
+                "eaba hurggáše",
+                "eat hurggáše",
+                "ehpet hurggáše",
+                "eai hurggáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "hurggežan",
+                "hurggežat",
+                "hurggeš",
+                "hurggežetne",
+                "hurggežeahppi",
+                "hurggežeaba",
+                "hurggežit, -žat",
+                "hurggežehpet",
+                "hurggežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in hurggeš",
+                "it hurggeš",
+                "ii hurggeš",
+                "ean hurggeš",
+                "eahppi hurggeš",
+                "eaba hurggeš",
+                "eat hurggeš",
+                "ehpet hurggeš",
+                "eai hurggeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "hurgon",
+                "hurgge",
+                "hurgos",
+                "hurgu",
+                "hurgi",
+                "hurgoska",
+                "hurgot",
+                "hurget",
+                "hurgoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon hurgge",
+                "ale hurgge",
+                "allos hurgge",
+                "allu hurgge",
+                "alli hurgge",
+                "alloska hurgge",
+                "allot, allut hurgge",
+                "allet, allit hurgge",
+                "alloset hurgge"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Hurgit",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "dadjalit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "dadjalan",
+                "dadjalat",
+                "dadjala",
+                "dadjaletne",
+                "dadjaleahppi",
+                "dadjaleaba",
+                "dadjalit, -lat",
+                "dadjalehpet",
+                "dadjalit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in dadjal",
+                "it dadjal",
+                "ii dadjal",
+                "ean dadjal",
+                "eahppi dadjal",
+                "eaba dadjal",
+                "eat dadjal",
+                "ehpet dadjal",
+                "eai dadjal"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "dadjalin",
+                "dadjalit",
+                "dadjalii",
+                "dadjaleimme",
+                "dadjaleidde",
+                "dadjaleigga",
+                "dadjaleimmet",
+                "dadjaleiddet",
+                "dadjaledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in dadjalan",
+                "it dadjalan",
+                "ii dadjalan",
+                "ean dadjalan",
+                "eahppi dadjalan",
+                "eaba dadjalan",
+                "eat dadjalan",
+                "ehpet dadjalan",
+                "eai dadjalan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean dadjalan",
+                "leat dadjalan",
+                "lea dadjalan",
+                "letne dadjalan",
+                "leahppi dadjalan",
+                "leaba dadjalan",
+                "leat dadjalan",
+                "lehpet dadjalan",
+                "leat dadjalan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen dadjalan",
+                "ledjet dadjalan",
+                "lei dadjalan",
+                "leimme dadjalan",
+                "leidde dadjalan",
+                "leigga dadjalan",
+                "leimmet dadjalan",
+                "leiddet dadjalan",
+                "ledje dadjalan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean dadjaleame, -men",
+                "leat dadjaleame, -men",
+                "lea dadjaleame, -men",
+                "letne dadjaleame, -men",
+                "leahppi dadjaleame, -men",
+                "leaba dadjaleame, -men",
+                "leat dadjaleame, -men",
+                "lehpet dadjaleame, -men",
+                "leat dadjaleame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen dadjaleame, -men",
+                "ledjet dadjaleame, -men",
+                "lei dadjaleame, -men",
+                "leimme dadjaleame, -men",
+                "leidde dadjaleame, -men",
+                "leigga dadjaleame, -men",
+                "leimmet dadjaleame, -men",
+                "leiddet dadjaleame, -men",
+                "ledje dadjaleame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "dadjalivččen",
+                "dadjalivččet",
+                "dadjalivččii",
+                "dadjalivččiime",
+                "dadjalivččiide",
+                "dadjalivččiiga",
+                "dadjalivččiimet",
+                "dadjalivččiidet",
+                "dadjalivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in dadjalivčče",
+                "it dadjalivčče",
+                "ii dadjalivčče",
+                "ean dadjalivčče",
+                "eahppi dadjalivčče",
+                "eaba dadjalivčče",
+                "eat dadjalivčče",
+                "ehpet dadjalivčče",
+                "eai dadjalivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "dadjaleaččan",
+                "dadjaleaččat",
+                "dadjaleaš, -leš, -leažžá",
+                "dadjaležže",
+                "dadjaleažžabeahtti",
+                "dadjaleažžaba",
+                "dadjaleažžat",
+                "dadjaleažžabehtet",
+                "dadjaležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in dadjaleaš, -leš, -leažžá",
+                "it dadjaleaš, -leš, -leažžá",
+                "ii dadjaleaš, -leš, -leažžá",
+                "ean dadjaleaš, -leš, -leažžá",
+                "eahppi dadjaleaš, -leš, -leažžá",
+                "eaba dadjaleaš, -leš, -leažžá",
+                "eat dadjaleaš, -leš, -leažžá",
+                "ehpet dadjaleaš, -leš, -leažžá",
+                "eai dadjaleaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "dadjalehkon",
+                "dadjal",
+                "dadjalehkos, dadjalus",
+                "dadjaleadnu",
+                "dadjaleahkki",
+                "dadjalehkoska",
+                "dadjalehkot, dadjaleahkkut, dadjaletnot, dadjaleadnot",
+                "dadjalehket",
+                "dadjalehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon dadjal",
+                "ale dadjal",
+                "allos dadjal",
+                "allu dadjal",
+                "alli dadjal",
+                "alloska dadjal",
+                "allot, allut dadjal",
+                "allet, allit dadjal",
+                "alloset dadjal"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Dadjalit",
+    "valid": 1
+}

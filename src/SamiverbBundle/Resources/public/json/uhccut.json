@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "uhccut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "uhcun",
+                "uhcut",
+                "uhccu",
+                "uhcco",
+                "uhccubeahtti",
+                "uhccuba",
+                "uhccut",
+                "uhccubehtet",
+                "uhccot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in uhco",
+                "it uhco",
+                "ii uhco",
+                "ean uhco",
+                "eahppi uhco",
+                "eaba uhco",
+                "eat uhco",
+                "ehpet uhco",
+                "eai uhco"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "uhccon",
+                "uhccot",
+                "uhcui",
+                "uhcuime",
+                "uhcuide",
+                "uhcuiga",
+                "uhcuimet",
+                "uhcuidet",
+                "uhcco"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in uhccon",
+                "it uhccon",
+                "ii uhccon",
+                "ean uhccon",
+                "eahppi uhccon",
+                "eaba uhccon",
+                "eat uhccon",
+                "ehpet uhccon",
+                "eai uhccon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean uhccon",
+                "leat uhccon",
+                "lea uhccon",
+                "letne uhccon",
+                "leahppi uhccon",
+                "leaba uhccon",
+                "leat uhccon",
+                "lehpet uhccon",
+                "leat uhccon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen uhccon",
+                "ledjet uhccon",
+                "lei uhccon",
+                "leimme uhccon",
+                "leidde uhccon",
+                "leigga uhccon",
+                "leimmet uhccon",
+                "leiddet uhccon",
+                "ledje uhccon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean uhccume, -min",
+                "leat uhccume, -min",
+                "lea uhccume, -min",
+                "letne uhccume, -min",
+                "leahppi uhccume, -min",
+                "leaba uhccume, -min",
+                "leat uhccume, -min",
+                "lehpet uhccume, -min",
+                "leat uhccume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen uhccume, -min",
+                "ledjet uhccume, -min",
+                "lei uhccume, -min",
+                "leimme uhccume, -min",
+                "leidde uhccume, -min",
+                "leigga uhccume, -min",
+                "leimmet uhccume, -min",
+                "leiddet uhccume, -min",
+                "ledje uhccume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "uhcošin",
+                "uhcošit",
+                "uhcošii",
+                "uhcošeimme",
+                "uhcošeidde",
+                "uhcošeigga",
+                "uhcošeimmet",
+                "uhcošeiddet",
+                "uhcošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in uhcoše",
+                "it uhcoše",
+                "ii uhcoše",
+                "ean uhcoše",
+                "eahppi uhcoše",
+                "eaba uhcoše",
+                "eat uhcoše",
+                "ehpet uhcoše",
+                "eai uhcoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "uhcožan",
+                "uhcožat",
+                "uhcoš",
+                "uhcožetne",
+                "uhcožeahppi",
+                "uhcožeaba",
+                "uhcožit, -žat",
+                "uhcožehpet",
+                "uhcožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in uhcoš",
+                "it uhcoš",
+                "ii uhcoš",
+                "ean uhcoš",
+                "eahppi uhcoš",
+                "eaba uhcoš",
+                "eat uhcoš",
+                "ehpet uhcoš",
+                "eai uhcoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "uhccon",
+                "uhco",
+                "uhccos",
+                "uhccu",
+                "uhccu",
+                "uhccoska",
+                "uhccot",
+                "uhccot",
+                "uhccoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon uhco",
+                "ale uhco",
+                "allos uhco",
+                "allu uhco",
+                "alli uhco",
+                "alloska uhco",
+                "allot, allut uhco",
+                "allet, allit uhco",
+                "alloset uhco"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Uhccut",
+    "valid": 1
+}

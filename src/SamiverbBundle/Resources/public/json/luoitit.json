@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "luoitit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "luoittán",
+                "luoittát",
+                "luoitá",
+                "luite",
+                "luoitibeahtti",
+                "luoitiba",
+                "luoitit",
+                "luoitibehtet",
+                "luitet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in luoitte",
+                "it luoitte",
+                "ii luoitte",
+                "ean luoitte",
+                "eahppi luoitte",
+                "eaba luoitte",
+                "eat luoitte",
+                "ehpet luoitte",
+                "eai luoitte"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "luiten",
+                "luitet",
+                "luittii",
+                "luittiime",
+                "luittiide",
+                "luittiiga",
+                "luittiimet",
+                "luittiidet",
+                "luite"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in luoitán",
+                "it luoitán",
+                "ii luoitán",
+                "ean luoitán",
+                "eahppi luoitán",
+                "eaba luoitán",
+                "eat luoitán",
+                "ehpet luoitán",
+                "eai luoitán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean luoitán",
+                "leat luoitán",
+                "lea luoitán",
+                "letne luoitán",
+                "leahppi luoitán",
+                "leaba luoitán",
+                "leat luoitán",
+                "lehpet luoitán",
+                "leat luoitán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen luoitán",
+                "ledjet luoitán",
+                "lei luoitán",
+                "leimme luoitán",
+                "leidde luoitán",
+                "leigga luoitán",
+                "leimmet luoitán",
+                "leiddet luoitán",
+                "ledje luoitán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean luoitime, -min",
+                "leat luoitime, -min",
+                "lea luoitime, -min",
+                "letne luoitime, -min",
+                "leahppi luoitime, -min",
+                "leaba luoitime, -min",
+                "leat luoitime, -min",
+                "lehpet luoitime, -min",
+                "leat luoitime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen luoitime, -min",
+                "ledjet luoitime, -min",
+                "lei luoitime, -min",
+                "leimme luoitime, -min",
+                "leidde luoitime, -min",
+                "leigga luoitime, -min",
+                "leimmet luoitime, -min",
+                "leiddet luoitime, -min",
+                "ledje luoitime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "luoittášin",
+                "luoittášit",
+                "luoittášii",
+                "luoittášeimme",
+                "luoittášeidde",
+                "luoittášeigga",
+                "luoittášeimmet",
+                "luoittášeiddet",
+                "luoittášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in luoittáše",
+                "it luoittáše",
+                "ii luoittáše",
+                "ean luoittáše",
+                "eahppi luoittáše",
+                "eaba luoittáše",
+                "eat luoittáše",
+                "ehpet luoittáše",
+                "eai luoittáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "luittežan",
+                "luittežat",
+                "luitteš",
+                "luittežetne",
+                "luittežeahppi",
+                "luittežeaba",
+                "luittežit, -žat",
+                "luittežehpet",
+                "luittežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in luitteš",
+                "it luitteš",
+                "ii luitteš",
+                "ean luitteš",
+                "eahppi luitteš",
+                "eaba luitteš",
+                "eat luitteš",
+                "ehpet luitteš",
+                "eai luitteš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "luiton",
+                "luoitte",
+                "luitos",
+                "luoitu",
+                "luoiti",
+                "luitoska",
+                "luitot, luoitot",
+                "luitet, luoitet",
+                "luitoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon luoitte",
+                "ale luoitte",
+                "allos luoitte",
+                "allu luoitte",
+                "alli luoitte",
+                "alloska luoitte",
+                "allot, allut luoitte",
+                "allet, allit luoitte",
+                "alloset luoitte"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Luoitit",
+    "valid": 1
+}

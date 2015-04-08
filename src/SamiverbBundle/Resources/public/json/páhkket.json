@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "páhkket",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "páhkken",
+                "páhkket",
+                "páhkke",
+                "páhkkejetne",
+                "páhkkebeahtti",
+                "páhkkeba",
+                "páhkket",
+                "páhkkebehtet",
+                "páhkkejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in páhkke",
+                "it páhkke",
+                "ii páhkke",
+                "ean páhkke",
+                "eahppi páhkke",
+                "eaba páhkke",
+                "eat páhkke",
+                "ehpet páhkke",
+                "eai páhkke"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "páhkkejin",
+                "páhkkejit",
+                "páhkkii",
+                "páhkkiime",
+                "páhkkiide",
+                "páhkkiiga",
+                "páhkkiimet",
+                "páhkkiidet",
+                "páhkkejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in páhkken",
+                "it páhkken",
+                "ii páhkken",
+                "ean páhkken",
+                "eahppi páhkken",
+                "eaba páhkken",
+                "eat páhkken",
+                "ehpet páhkken",
+                "eai páhkken"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean páhkken",
+                "leat páhkken",
+                "lea páhkken",
+                "letne páhkken",
+                "leahppi páhkken",
+                "leaba páhkken",
+                "leat páhkken",
+                "lehpet páhkken",
+                "leat páhkken"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen páhkken",
+                "ledjet páhkken",
+                "lei páhkken",
+                "leimme páhkken",
+                "leidde páhkken",
+                "leigga páhkken",
+                "leimmet páhkken",
+                "leiddet páhkken",
+                "ledje páhkken"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean páhkkeme, -min",
+                "leat páhkkeme, -min",
+                "lea páhkkeme, -min",
+                "letne páhkkeme, -min",
+                "leahppi páhkkeme, -min",
+                "leaba páhkkeme, -min",
+                "leat páhkkeme, -min",
+                "lehpet páhkkeme, -min",
+                "leat páhkkeme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen páhkkeme, -min",
+                "ledjet páhkkeme, -min",
+                "lei páhkkeme, -min",
+                "leimme páhkkeme, -min",
+                "leidde páhkkeme, -min",
+                "leigga páhkkeme, -min",
+                "leimmet páhkkeme, -min",
+                "leiddet páhkkeme, -min",
+                "ledje páhkkeme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "páhkkešin",
+                "páhkkešit",
+                "páhkkešii",
+                "páhkkešeimme",
+                "páhkkešeidde",
+                "páhkkešeigga",
+                "páhkkešeimmet",
+                "páhkkešeiddet",
+                "páhkkešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in páhkkeše",
+                "it páhkkeše",
+                "ii páhkkeše",
+                "ean páhkkeše",
+                "eahppi páhkkeše",
+                "eaba páhkkeše",
+                "eat páhkkeše",
+                "ehpet páhkkeše",
+                "eai páhkkeše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "páhkkežan",
+                "páhkkežat",
+                "páhkkeš",
+                "páhkkežetne",
+                "páhkkežeahppi",
+                "páhkkežeaba",
+                "páhkkežit, -žat",
+                "páhkkežehpet",
+                "páhkkežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in páhkkeš",
+                "it páhkkeš",
+                "ii páhkkeš",
+                "ean páhkkeš",
+                "eahppi páhkkeš",
+                "eaba páhkkeš",
+                "eat páhkkeš",
+                "ehpet páhkkeš",
+                "eai páhkkeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "páhkkejehkon",
+                "páhkke",
+                "páhkkejehkos",
+                "páhkkejeadnu",
+                "páhkkejeahkki",
+                "páhkkejehkoska",
+                "páhkkejeahkkut, páhkkejeadnot, páhkkejehkot, páhkkejetnot",
+                "páhkkejeahkkit",
+                "páhkkejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon páhkke",
+                "ale páhkke",
+                "allos páhkke",
+                "allu páhkke",
+                "alli páhkke",
+                "alloska páhkke",
+                "allot, allut páhkke",
+                "allet, allit páhkke",
+                "alloset páhkke"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Páhkket",
+    "valid": 1
+}

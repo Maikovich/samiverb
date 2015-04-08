@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "botnjalit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "botnjalan",
+                "botnjalat",
+                "botnjala",
+                "botnjaletne",
+                "botnjaleahppi",
+                "botnjaleaba",
+                "botnjalit, -lat",
+                "botnjalehpet",
+                "botnjalit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in botnjal",
+                "it botnjal",
+                "ii botnjal",
+                "ean botnjal",
+                "eahppi botnjal",
+                "eaba botnjal",
+                "eat botnjal",
+                "ehpet botnjal",
+                "eai botnjal"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "botnjalin",
+                "botnjalit",
+                "botnjalii",
+                "botnjaleimme",
+                "botnjaleidde",
+                "botnjaleigga",
+                "botnjaleimmet",
+                "botnjaleiddet",
+                "botnjaledje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in botnjalan",
+                "it botnjalan",
+                "ii botnjalan",
+                "ean botnjalan",
+                "eahppi botnjalan",
+                "eaba botnjalan",
+                "eat botnjalan",
+                "ehpet botnjalan",
+                "eai botnjalan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean botnjalan",
+                "leat botnjalan",
+                "lea botnjalan",
+                "letne botnjalan",
+                "leahppi botnjalan",
+                "leaba botnjalan",
+                "leat botnjalan",
+                "lehpet botnjalan",
+                "leat botnjalan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen botnjalan",
+                "ledjet botnjalan",
+                "lei botnjalan",
+                "leimme botnjalan",
+                "leidde botnjalan",
+                "leigga botnjalan",
+                "leimmet botnjalan",
+                "leiddet botnjalan",
+                "ledje botnjalan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean botnjaleame, -men",
+                "leat botnjaleame, -men",
+                "lea botnjaleame, -men",
+                "letne botnjaleame, -men",
+                "leahppi botnjaleame, -men",
+                "leaba botnjaleame, -men",
+                "leat botnjaleame, -men",
+                "lehpet botnjaleame, -men",
+                "leat botnjaleame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen botnjaleame, -men",
+                "ledjet botnjaleame, -men",
+                "lei botnjaleame, -men",
+                "leimme botnjaleame, -men",
+                "leidde botnjaleame, -men",
+                "leigga botnjaleame, -men",
+                "leimmet botnjaleame, -men",
+                "leiddet botnjaleame, -men",
+                "ledje botnjaleame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "botnjalivččen",
+                "botnjalivččet",
+                "botnjalivččii",
+                "botnjalivččiime",
+                "botnjalivččiide",
+                "botnjalivččiiga",
+                "botnjalivččiimet",
+                "botnjalivččiidet",
+                "botnjalivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in botnjalivčče",
+                "it botnjalivčče",
+                "ii botnjalivčče",
+                "ean botnjalivčče",
+                "eahppi botnjalivčče",
+                "eaba botnjalivčče",
+                "eat botnjalivčče",
+                "ehpet botnjalivčče",
+                "eai botnjalivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "botnjaleaččan",
+                "botnjaleaččat",
+                "botnjaleaš, -leš, -leažžá",
+                "botnjaležže",
+                "botnjaleažžabeahtti",
+                "botnjaleažžaba",
+                "botnjaleažžat",
+                "botnjaleažžabehtet",
+                "botnjaležžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in botnjaleaš, -leš, -leažžá",
+                "it botnjaleaš, -leš, -leažžá",
+                "ii botnjaleaš, -leš, -leažžá",
+                "ean botnjaleaš, -leš, -leažžá",
+                "eahppi botnjaleaš, -leš, -leažžá",
+                "eaba botnjaleaš, -leš, -leažžá",
+                "eat botnjaleaš, -leš, -leažžá",
+                "ehpet botnjaleaš, -leš, -leažžá",
+                "eai botnjaleaš, -leš, -leažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "botnjalehkon",
+                "botnjal",
+                "botnjalehkos, botnjalus",
+                "botnjaleadnu",
+                "botnjaleahkki",
+                "botnjalehkoska",
+                "botnjalehkot, botnjaleahkkut, botnjaletnot, botnjaleadnot",
+                "botnjalehket",
+                "botnjalehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon botnjal",
+                "ale botnjal",
+                "allos botnjal",
+                "allu botnjal",
+                "alli botnjal",
+                "alloska botnjal",
+                "allot, allut botnjal",
+                "allet, allit botnjal",
+                "alloset botnjal"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Botnjalit",
+    "valid": 1
+}

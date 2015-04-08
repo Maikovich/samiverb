@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "vašáskit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "vašáskan",
+                "vašáskat",
+                "vašáska",
+                "vašásketne",
+                "vašáskeahppi",
+                "vašáskeaba",
+                "vašáskit, -kat",
+                "vašáskehpet",
+                "vašáskit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in vašás",
+                "it vašás",
+                "ii vašás",
+                "ean vašás",
+                "eahppi vašás",
+                "eaba vašás",
+                "eat vašás",
+                "ehpet vašás",
+                "eai vašás"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "vašáskin",
+                "vašáskit",
+                "vašáskii",
+                "vašáskeimme",
+                "vašáskeidde",
+                "vašáskeigga",
+                "vašáskeimmet",
+                "vašáskeiddet",
+                "vašáskedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in vašáskan",
+                "it vašáskan",
+                "ii vašáskan",
+                "ean vašáskan",
+                "eahppi vašáskan",
+                "eaba vašáskan",
+                "eat vašáskan",
+                "ehpet vašáskan",
+                "eai vašáskan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean vašáskan",
+                "leat vašáskan",
+                "lea vašáskan",
+                "letne vašáskan",
+                "leahppi vašáskan",
+                "leaba vašáskan",
+                "leat vašáskan",
+                "lehpet vašáskan",
+                "leat vašáskan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen vašáskan",
+                "ledjet vašáskan",
+                "lei vašáskan",
+                "leimme vašáskan",
+                "leidde vašáskan",
+                "leigga vašáskan",
+                "leimmet vašáskan",
+                "leiddet vašáskan",
+                "ledje vašáskan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean vašáskeame, -men",
+                "leat vašáskeame, -men",
+                "lea vašáskeame, -men",
+                "letne vašáskeame, -men",
+                "leahppi vašáskeame, -men",
+                "leaba vašáskeame, -men",
+                "leat vašáskeame, -men",
+                "lehpet vašáskeame, -men",
+                "leat vašáskeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen vašáskeame, -men",
+                "ledjet vašáskeame, -men",
+                "lei vašáskeame, -men",
+                "leimme vašáskeame, -men",
+                "leidde vašáskeame, -men",
+                "leigga vašáskeame, -men",
+                "leimmet vašáskeame, -men",
+                "leiddet vašáskeame, -men",
+                "ledje vašáskeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "vašáskivččen",
+                "vašáskivččet",
+                "vašáskivččii",
+                "vašáskivččiime",
+                "vašáskivččiide",
+                "vašáskivččiiga",
+                "vašáskivččiimet",
+                "vašáskivččiidet",
+                "vašáskivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in vašáskivčče",
+                "it vašáskivčče",
+                "ii vašáskivčče",
+                "ean vašáskivčče",
+                "eahppi vašáskivčče",
+                "eaba vašáskivčče",
+                "eat vašáskivčče",
+                "ehpet vašáskivčče",
+                "eai vašáskivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "vašáskeaččan",
+                "vašáskeaččat",
+                "vašáskeaš, -keš, -keažžá",
+                "vašáskežže",
+                "vašáskeažžabeahtti",
+                "vašáskeažžaba",
+                "vašáskeažžat",
+                "vašáskeažžabehtet",
+                "vašáskežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in vašáskeaš, -keš, -keažžá",
+                "it vašáskeaš, -keš, -keažžá",
+                "ii vašáskeaš, -keš, -keažžá",
+                "ean vašáskeaš, -keš, -keažžá",
+                "eahppi vašáskeaš, -keš, -keažžá",
+                "eaba vašáskeaš, -keš, -keažžá",
+                "eat vašáskeaš, -keš, -keažžá",
+                "ehpet vašáskeaš, -keš, -keažžá",
+                "eai vašáskeaš, -keš, -keažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "vašáskehkon",
+                "vašás",
+                "vašáskehkos, vašáskus",
+                "vašáskeadnu",
+                "vašáskeahkki",
+                "vašáskehkoska",
+                "vašáskehkot, vašáskeahkkut, vašásketnot, vašáskeadnot",
+                "vašáskehket",
+                "vašáskehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon vašás",
+                "ale vašás",
+                "allos vašás",
+                "allu vašás",
+                "alli vašás",
+                "alloska vašás",
+                "allot, allut vašás",
+                "allet, allit vašás",
+                "alloset vašás"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Vašáskit",
+    "valid": 1
+}

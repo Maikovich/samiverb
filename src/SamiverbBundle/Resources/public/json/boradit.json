@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "boradit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "boradan",
+                "boradat",
+                "borada",
+                "boradetne",
+                "boradeahppi",
+                "boradeaba",
+                "boradit, -dat",
+                "boradehpet",
+                "boradit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in borat",
+                "it borat",
+                "ii borat",
+                "ean borat",
+                "eahppi borat",
+                "eaba borat",
+                "eat borat",
+                "ehpet borat",
+                "eai borat"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "boradin",
+                "boradit",
+                "boradii",
+                "boradeimme",
+                "boradeidde",
+                "boradeigga",
+                "boradeimmet",
+                "boradeiddet",
+                "boradedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in boradan",
+                "it boradan",
+                "ii boradan",
+                "ean boradan",
+                "eahppi boradan",
+                "eaba boradan",
+                "eat boradan",
+                "ehpet boradan",
+                "eai boradan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean boradan",
+                "leat boradan",
+                "lea boradan",
+                "letne boradan",
+                "leahppi boradan",
+                "leaba boradan",
+                "leat boradan",
+                "lehpet boradan",
+                "leat boradan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen boradan",
+                "ledjet boradan",
+                "lei boradan",
+                "leimme boradan",
+                "leidde boradan",
+                "leigga boradan",
+                "leimmet boradan",
+                "leiddet boradan",
+                "ledje boradan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean boradeame, -men",
+                "leat boradeame, -men",
+                "lea boradeame, -men",
+                "letne boradeame, -men",
+                "leahppi boradeame, -men",
+                "leaba boradeame, -men",
+                "leat boradeame, -men",
+                "lehpet boradeame, -men",
+                "leat boradeame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen boradeame, -men",
+                "ledjet boradeame, -men",
+                "lei boradeame, -men",
+                "leimme boradeame, -men",
+                "leidde boradeame, -men",
+                "leigga boradeame, -men",
+                "leimmet boradeame, -men",
+                "leiddet boradeame, -men",
+                "ledje boradeame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "boradivččen",
+                "boradivččet",
+                "boradivččii",
+                "boradivččiime",
+                "boradivččiide",
+                "boradivččiiga",
+                "boradivččiimet",
+                "boradivččiidet",
+                "boradivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in boradivčče",
+                "it boradivčče",
+                "ii boradivčče",
+                "ean boradivčče",
+                "eahppi boradivčče",
+                "eaba boradivčče",
+                "eat boradivčče",
+                "ehpet boradivčče",
+                "eai boradivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "boradeaččan",
+                "boradeaččat",
+                "boradeaš, -deš, -deažžá",
+                "boradežže",
+                "boradeažžabeahtti",
+                "boradeažžaba",
+                "boradeažžat",
+                "boradeažžabehtet",
+                "boradežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in boradeaš, -deš, -deažžá",
+                "it boradeaš, -deš, -deažžá",
+                "ii boradeaš, -deš, -deažžá",
+                "ean boradeaš, -deš, -deažžá",
+                "eahppi boradeaš, -deš, -deažžá",
+                "eaba boradeaš, -deš, -deažžá",
+                "eat boradeaš, -deš, -deažžá",
+                "ehpet boradeaš, -deš, -deažžá",
+                "eai boradeaš, -deš, -deažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "boradehkon",
+                "borat",
+                "boradehkos, boradus",
+                "boradeadnu",
+                "boradeahkki",
+                "boradehkoska",
+                "boradehkot, boradeahkkut, boradetnot, boradeadnot",
+                "boradehket",
+                "boradehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon borat",
+                "ale borat",
+                "allos borat",
+                "allu borat",
+                "alli borat",
+                "alloska borat",
+                "allot, allut borat",
+                "allet, allit borat",
+                "alloset borat"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Boradit",
+    "valid": 1
+}

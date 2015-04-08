@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "unnut",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "unun",
+                "unut",
+                "unnu",
+                "unno",
+                "unnubeahtti",
+                "unnuba",
+                "unnut",
+                "unnubehtet",
+                "unnot"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in uno",
+                "it uno",
+                "ii uno",
+                "ean uno",
+                "eahppi uno",
+                "eaba uno",
+                "eat uno",
+                "ehpet uno",
+                "eai uno"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "unnon",
+                "unnot",
+                "unui",
+                "unuime",
+                "unuide",
+                "unuiga",
+                "unuimet",
+                "unuidet",
+                "unno"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in unnon",
+                "it unnon",
+                "ii unnon",
+                "ean unnon",
+                "eahppi unnon",
+                "eaba unnon",
+                "eat unnon",
+                "ehpet unnon",
+                "eai unnon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean unnon",
+                "leat unnon",
+                "lea unnon",
+                "letne unnon",
+                "leahppi unnon",
+                "leaba unnon",
+                "leat unnon",
+                "lehpet unnon",
+                "leat unnon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen unnon",
+                "ledjet unnon",
+                "lei unnon",
+                "leimme unnon",
+                "leidde unnon",
+                "leigga unnon",
+                "leimmet unnon",
+                "leiddet unnon",
+                "ledje unnon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean unnume, -min",
+                "leat unnume, -min",
+                "lea unnume, -min",
+                "letne unnume, -min",
+                "leahppi unnume, -min",
+                "leaba unnume, -min",
+                "leat unnume, -min",
+                "lehpet unnume, -min",
+                "leat unnume, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen unnume, -min",
+                "ledjet unnume, -min",
+                "lei unnume, -min",
+                "leimme unnume, -min",
+                "leidde unnume, -min",
+                "leigga unnume, -min",
+                "leimmet unnume, -min",
+                "leiddet unnume, -min",
+                "ledje unnume, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "unošin",
+                "unošit",
+                "unošii",
+                "unošeimme",
+                "unošeidde",
+                "unošeigga",
+                "unošeimmet",
+                "unošeiddet",
+                "unošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in unoše",
+                "it unoše",
+                "ii unoše",
+                "ean unoše",
+                "eahppi unoše",
+                "eaba unoše",
+                "eat unoše",
+                "ehpet unoše",
+                "eai unoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "unožan",
+                "unožat",
+                "unoš",
+                "unožetne",
+                "unožeahppi",
+                "unožeaba",
+                "unožit, -žat",
+                "unožehpet",
+                "unožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in unoš",
+                "it unoš",
+                "ii unoš",
+                "ean unoš",
+                "eahppi unoš",
+                "eaba unoš",
+                "eat unoš",
+                "ehpet unoš",
+                "eai unoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "unnon",
+                "uno",
+                "unnos",
+                "unnu",
+                "unnu",
+                "unnoska",
+                "unnot",
+                "unnot",
+                "unnoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon uno",
+                "ale uno",
+                "allos uno",
+                "allu uno",
+                "alli uno",
+                "alloska uno",
+                "allot, allut uno",
+                "allet, allit uno",
+                "alloset uno"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Unnut",
+    "valid": 1
+}

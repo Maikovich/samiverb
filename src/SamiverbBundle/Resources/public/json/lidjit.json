@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "lidjit", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "liján", 
+        "liját", 
+        "lidjá", 
+        "lidje", 
+        "lidjibeahtti", 
+        "lidjiba", 
+        "lidjit", 
+        "lidjibehtet", 
+        "lidjet"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in lije", 
+        "it lije", 
+        "ii lije", 
+        "ean lije", 
+        "eahppi lije", 
+        "eaba lije", 
+        "eat lije", 
+        "ehpet lije", 
+        "eai lije"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "lidjen", 
+        "lidjet", 
+        "lijii", 
+        "lijiime", 
+        "lijiide", 
+        "lijiiga", 
+        "lijiimet", 
+        "lijiidet", 
+        "lidje"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in lidján", 
+        "it lidján", 
+        "ii lidján", 
+        "ean lidján", 
+        "eahppi lidján", 
+        "eaba lidján", 
+        "eat lidján", 
+        "ehpet lidján", 
+        "eai lidján"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean lidján", 
+        "leat lidján", 
+        "lea lidján", 
+        "letne lidján", 
+        "leahppi lidján", 
+        "leaba lidján", 
+        "leat lidján", 
+        "lehpet lidján", 
+        "leat lidján"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen lidján", 
+        "ledjet lidján", 
+        "lei lidján", 
+        "leimme lidján", 
+        "leidde lidján", 
+        "leigga lidján", 
+        "leimmet lidján", 
+        "leiddet lidján", 
+        "ledje lidján"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean lidjime, -min", 
+        "leat lidjime, -min", 
+        "lea lidjime, -min", 
+        "letne lidjime, -min", 
+        "leahppi lidjime, -min", 
+        "leaba lidjime, -min", 
+        "leat lidjime, -min", 
+        "lehpet lidjime, -min", 
+        "leat lidjime, -min"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen lidjime, -min", 
+        "ledjet lidjime, -min", 
+        "lei lidjime, -min", 
+        "leimme lidjime, -min", 
+        "leidde lidjime, -min", 
+        "leigga lidjime, -min", 
+        "leimmet lidjime, -min", 
+        "leiddet lidjime, -min", 
+        "ledje lidjime, -min"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "lijášin", 
+        "lijášit", 
+        "lijášii", 
+        "lijášeimme", 
+        "lijášeidde", 
+        "lijášeigga", 
+        "lijášeimmet", 
+        "lijášeiddet", 
+        "lijášedje"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in lijáše", 
+        "it lijáše", 
+        "ii lijáše", 
+        "ean lijáše", 
+        "eahppi lijáše", 
+        "eaba lijáše", 
+        "eat lijáše", 
+        "ehpet lijáše", 
+        "eai lijáše"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "liježan", 
+        "liježat", 
+        "liješ", 
+        "liježetne", 
+        "liježeahppi", 
+        "liježeaba", 
+        "liježit, -žat", 
+        "liježehpet", 
+        "liježit"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in liješ", 
+        "it liješ", 
+        "ii liješ", 
+        "ean liješ", 
+        "eahppi liješ", 
+        "eaba liješ", 
+        "eat liješ", 
+        "ehpet liješ", 
+        "eai liješ"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "lidjon", 
+        "lije", 
+        "lidjos", 
+        "liddju", 
+        "liddji", 
+        "lidjoska", 
+        "lidjot, liddjot", 
+        "lidjet, liddjet", 
+        "lidjoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon lije", 
+        "ale lije", 
+        "allos lije", 
+        "allu lije", 
+        "alli lije", 
+        "alloska lije", 
+        "allot, allut lije", 
+        "allet, allit lije", 
+        "alloset lije"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Lidjit"
+}

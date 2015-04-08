@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "galbmot",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "galbmon",
+                "galbmot",
+                "galbmo",
+                "galbmojetne",
+                "galbmobeahtti",
+                "galbmoba",
+                "galbmot",
+                "galbmobehtet",
+                "galbmojit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in galbmo",
+                "it galbmo",
+                "ii galbmo",
+                "ean galbmo",
+                "eahppi galbmo",
+                "eaba galbmo",
+                "eat galbmo",
+                "ehpet galbmo",
+                "eai galbmo"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "galbmojin",
+                "galbmojit",
+                "galbmui",
+                "galbmuime",
+                "galbmuide",
+                "galbmuiga",
+                "galbmuimet",
+                "galbmuidet",
+                "galbmojedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in galbmon",
+                "it galbmon",
+                "ii galbmon",
+                "ean galbmon",
+                "eahppi galbmon",
+                "eaba galbmon",
+                "eat galbmon",
+                "ehpet galbmon",
+                "eai galbmon"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean galbmon",
+                "leat galbmon",
+                "lea galbmon",
+                "letne galbmon",
+                "leahppi galbmon",
+                "leaba galbmon",
+                "leat galbmon",
+                "lehpet galbmon",
+                "leat galbmon"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen galbmon",
+                "ledjet galbmon",
+                "lei galbmon",
+                "leimme galbmon",
+                "leidde galbmon",
+                "leigga galbmon",
+                "leimmet galbmon",
+                "leiddet galbmon",
+                "ledje galbmon"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean galbmome, -min",
+                "leat galbmome, -min",
+                "lea galbmome, -min",
+                "letne galbmome, -min",
+                "leahppi galbmome, -min",
+                "leaba galbmome, -min",
+                "leat galbmome, -min",
+                "lehpet galbmome, -min",
+                "leat galbmome, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen galbmome, -min",
+                "ledjet galbmome, -min",
+                "lei galbmome, -min",
+                "leimme galbmome, -min",
+                "leidde galbmome, -min",
+                "leigga galbmome, -min",
+                "leimmet galbmome, -min",
+                "leiddet galbmome, -min",
+                "ledje galbmome, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "galbmošin",
+                "galbmošit",
+                "galbmošii",
+                "galbmošeimme",
+                "galbmošeidde",
+                "galbmošeigga",
+                "galbmošeimmet",
+                "galbmošeiddet",
+                "galbmošedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in galbmoše",
+                "it galbmoše",
+                "ii galbmoše",
+                "ean galbmoše",
+                "eahppi galbmoše",
+                "eaba galbmoše",
+                "eat galbmoše",
+                "ehpet galbmoše",
+                "eai galbmoše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "galbmožan",
+                "galbmožat",
+                "galbmoš",
+                "galbmožetne",
+                "galbmožeahppi",
+                "galbmožeaba",
+                "galbmožit, -žat",
+                "galbmožehpet",
+                "galbmožit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in galbmoš",
+                "it galbmoš",
+                "ii galbmoš",
+                "ean galbmoš",
+                "eahppi galbmoš",
+                "eaba galbmoš",
+                "eat galbmoš",
+                "ehpet galbmoš",
+                "eai galbmoš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "galbmojehkon",
+                "galbmo",
+                "galbmojehkos",
+                "galbmojeadnu",
+                "galbmojeahkki",
+                "galbmojehkoska",
+                "galbmojeahkkut, galbmojeadnot, galbmojehkot, galbmojetnot",
+                "galbmojeahkkit",
+                "galbmojehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon galbmo",
+                "ale galbmo",
+                "allos galbmo",
+                "allu galbmo",
+                "alli galbmo",
+                "alloska galbmo",
+                "allot, allut galbmo",
+                "allet, allit galbmo",
+                "alloset galbmo"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Galbmot",
+    "valid": 1
+}

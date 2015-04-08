@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "hárjánit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "hárjánan",
+                "hárjánat",
+                "hárjána",
+                "hárjánetne",
+                "hárjáneahppi",
+                "hárjáneaba",
+                "hárjánit, -nat",
+                "hárjánehpet",
+                "hárjánit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in hárján",
+                "it hárján",
+                "ii hárján",
+                "ean hárján",
+                "eahppi hárján",
+                "eaba hárján",
+                "eat hárján",
+                "ehpet hárján",
+                "eai hárján"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "hárjánin",
+                "hárjánit",
+                "hárjánii",
+                "hárjáneimme",
+                "hárjáneidde",
+                "hárjáneigga",
+                "hárjáneimmet",
+                "hárjáneiddet",
+                "hárjánedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in hárjánan",
+                "it hárjánan",
+                "ii hárjánan",
+                "ean hárjánan",
+                "eahppi hárjánan",
+                "eaba hárjánan",
+                "eat hárjánan",
+                "ehpet hárjánan",
+                "eai hárjánan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean hárjánan",
+                "leat hárjánan",
+                "lea hárjánan",
+                "letne hárjánan",
+                "leahppi hárjánan",
+                "leaba hárjánan",
+                "leat hárjánan",
+                "lehpet hárjánan",
+                "leat hárjánan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen hárjánan",
+                "ledjet hárjánan",
+                "lei hárjánan",
+                "leimme hárjánan",
+                "leidde hárjánan",
+                "leigga hárjánan",
+                "leimmet hárjánan",
+                "leiddet hárjánan",
+                "ledje hárjánan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean hárjáneame, -men",
+                "leat hárjáneame, -men",
+                "lea hárjáneame, -men",
+                "letne hárjáneame, -men",
+                "leahppi hárjáneame, -men",
+                "leaba hárjáneame, -men",
+                "leat hárjáneame, -men",
+                "lehpet hárjáneame, -men",
+                "leat hárjáneame, -men"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen hárjáneame, -men",
+                "ledjet hárjáneame, -men",
+                "lei hárjáneame, -men",
+                "leimme hárjáneame, -men",
+                "leidde hárjáneame, -men",
+                "leigga hárjáneame, -men",
+                "leimmet hárjáneame, -men",
+                "leiddet hárjáneame, -men",
+                "ledje hárjáneame, -men"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "hárjánivččen",
+                "hárjánivččet",
+                "hárjánivččii",
+                "hárjánivččiime",
+                "hárjánivččiide",
+                "hárjánivččiiga",
+                "hárjánivččiimet",
+                "hárjánivččiidet",
+                "hárjánivčče"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in hárjánivčče",
+                "it hárjánivčče",
+                "ii hárjánivčče",
+                "ean hárjánivčče",
+                "eahppi hárjánivčče",
+                "eaba hárjánivčče",
+                "eat hárjánivčče",
+                "ehpet hárjánivčče",
+                "eai hárjánivčče"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "hárjáneaččan",
+                "hárjáneaččat",
+                "hárjáneaš, -neš, -neažžá",
+                "hárjánežže",
+                "hárjáneažžabeahtti",
+                "hárjáneažžaba",
+                "hárjáneažžat",
+                "hárjáneažžabehtet",
+                "hárjánežžet"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in hárjáneaš, -neš, -neažžá",
+                "it hárjáneaš, -neš, -neažžá",
+                "ii hárjáneaš, -neš, -neažžá",
+                "ean hárjáneaš, -neš, -neažžá",
+                "eahppi hárjáneaš, -neš, -neažžá",
+                "eaba hárjáneaš, -neš, -neažžá",
+                "eat hárjáneaš, -neš, -neažžá",
+                "ehpet hárjáneaš, -neš, -neažžá",
+                "eai hárjáneaš, -neš, -neažžá"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "hárjánehkon",
+                "hárján",
+                "hárjánehkos, hárjánus",
+                "hárjáneadnu",
+                "hárjáneahkki",
+                "hárjánehkoska",
+                "hárjánehkot, hárjáneahkkut, hárjánetnot, hárjáneadnot",
+                "hárjánehket",
+                "hárjánehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon hárján",
+                "ale hárján",
+                "allos hárján",
+                "allu hárján",
+                "alli hárján",
+                "alloska hárján",
+                "allot, allut hárján",
+                "allet, allit hárján",
+                "alloset hárján"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Hárjánit",
+    "valid": 1
+}

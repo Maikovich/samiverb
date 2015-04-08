@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "čoaggit",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "čoakkán",
+                "čoakkát",
+                "čoaggá",
+                "čogge",
+                "čoaggibeahtti",
+                "čoaggiba",
+                "čoaggit",
+                "čoaggibehtet",
+                "čogget"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in čoakke",
+                "it čoakke",
+                "ii čoakke",
+                "ean čoakke",
+                "eahppi čoakke",
+                "eaba čoakke",
+                "eat čoakke",
+                "ehpet čoakke",
+                "eai čoakke"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "čoggen",
+                "čogget",
+                "čokkii",
+                "čokkiime",
+                "čokkiide",
+                "čokkiiga",
+                "čokkiimet",
+                "čokkiidet",
+                "čogge"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in čoaggán",
+                "it čoaggán",
+                "ii čoaggán",
+                "ean čoaggán",
+                "eahppi čoaggán",
+                "eaba čoaggán",
+                "eat čoaggán",
+                "ehpet čoaggán",
+                "eai čoaggán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean čoaggán",
+                "leat čoaggán",
+                "lea čoaggán",
+                "letne čoaggán",
+                "leahppi čoaggán",
+                "leaba čoaggán",
+                "leat čoaggán",
+                "lehpet čoaggán",
+                "leat čoaggán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen čoaggán",
+                "ledjet čoaggán",
+                "lei čoaggán",
+                "leimme čoaggán",
+                "leidde čoaggán",
+                "leigga čoaggán",
+                "leimmet čoaggán",
+                "leiddet čoaggán",
+                "ledje čoaggán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean čoaggime, -min",
+                "leat čoaggime, -min",
+                "lea čoaggime, -min",
+                "letne čoaggime, -min",
+                "leahppi čoaggime, -min",
+                "leaba čoaggime, -min",
+                "leat čoaggime, -min",
+                "lehpet čoaggime, -min",
+                "leat čoaggime, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen čoaggime, -min",
+                "ledjet čoaggime, -min",
+                "lei čoaggime, -min",
+                "leimme čoaggime, -min",
+                "leidde čoaggime, -min",
+                "leigga čoaggime, -min",
+                "leimmet čoaggime, -min",
+                "leiddet čoaggime, -min",
+                "ledje čoaggime, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "čoakkášin",
+                "čoakkášit",
+                "čoakkášii",
+                "čoakkášeimme",
+                "čoakkášeidde",
+                "čoakkášeigga",
+                "čoakkášeimmet",
+                "čoakkášeiddet",
+                "čoakkášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in čoakkáše",
+                "it čoakkáše",
+                "ii čoakkáše",
+                "ean čoakkáše",
+                "eahppi čoakkáše",
+                "eaba čoakkáše",
+                "eat čoakkáše",
+                "ehpet čoakkáše",
+                "eai čoakkáše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "čokkežan",
+                "čokkežat",
+                "čokkeš",
+                "čokkežetne",
+                "čokkežeahppi",
+                "čokkežeaba",
+                "čokkežit, -žat",
+                "čokkežehpet",
+                "čokkežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in čokkeš",
+                "it čokkeš",
+                "ii čokkeš",
+                "ean čokkeš",
+                "eahppi čokkeš",
+                "eaba čokkeš",
+                "eat čokkeš",
+                "ehpet čokkeš",
+                "eai čokkeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "čoggon",
+                "čoakke",
+                "čoggos",
+                "čoaggu",
+                "čoaggi",
+                "čoggoska",
+                "čoggot, čoaggot",
+                "čogget, čoagget",
+                "čoggoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon čoakke",
+                "ale čoakke",
+                "allos čoakke",
+                "allu čoakke",
+                "alli čoakke",
+                "alloska čoakke",
+                "allot, allut čoakke",
+                "allet, allit čoakke",
+                "alloset čoakke"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Čoaggit",
+    "valid": 1
+}

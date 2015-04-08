@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "ballát",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "ballán",
+                "ballát",
+                "ballá",
+                "ballájetne",
+                "ballábeahtti",
+                "ballába",
+                "ballát",
+                "ballábehtet",
+                "ballájit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in ballá",
+                "it ballá",
+                "ii ballá",
+                "ean ballá",
+                "eahppi ballá",
+                "eaba ballá",
+                "eat ballá",
+                "ehpet ballá",
+                "eai ballá"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "ballájin",
+                "ballájit",
+                "ballái",
+                "balláime",
+                "balláide",
+                "balláiga",
+                "balláimet",
+                "balláidet",
+                "ballájedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in ballán",
+                "it ballán",
+                "ii ballán",
+                "ean ballán",
+                "eahppi ballán",
+                "eaba ballán",
+                "eat ballán",
+                "ehpet ballán",
+                "eai ballán"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean ballán",
+                "leat ballán",
+                "lea ballán",
+                "letne ballán",
+                "leahppi ballán",
+                "leaba ballán",
+                "leat ballán",
+                "lehpet ballán",
+                "leat ballán"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen ballán",
+                "ledjet ballán",
+                "lei ballán",
+                "leimme ballán",
+                "leidde ballán",
+                "leigga ballán",
+                "leimmet ballán",
+                "leiddet ballán",
+                "ledje ballán"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean balláme, -min",
+                "leat balláme, -min",
+                "lea balláme, -min",
+                "letne balláme, -min",
+                "leahppi balláme, -min",
+                "leaba balláme, -min",
+                "leat balláme, -min",
+                "lehpet balláme, -min",
+                "leat balláme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen balláme, -min",
+                "ledjet balláme, -min",
+                "lei balláme, -min",
+                "leimme balláme, -min",
+                "leidde balláme, -min",
+                "leigga balláme, -min",
+                "leimmet balláme, -min",
+                "leiddet balláme, -min",
+                "ledje balláme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "ballášin",
+                "ballášit",
+                "ballášii",
+                "ballášeimme",
+                "ballášeidde",
+                "ballášeigga",
+                "ballášeimmet",
+                "ballášeiddet",
+                "ballášedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in balláše",
+                "it balláše",
+                "ii balláše",
+                "ean balláše",
+                "eahppi balláše",
+                "eaba balláše",
+                "eat balláše",
+                "ehpet balláše",
+                "eai balláše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "ballážan",
+                "ballážat",
+                "balláš",
+                "ballážetne",
+                "ballážeahppi",
+                "ballážeaba",
+                "ballážit, -žat",
+                "ballážehpet",
+                "ballážit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in balláš",
+                "it balláš",
+                "ii balláš",
+                "ean balláš",
+                "eahppi balláš",
+                "eaba balláš",
+                "eat balláš",
+                "ehpet balláš",
+                "eai balláš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "ballájehkon",
+                "ballá",
+                "ballájehkos",
+                "ballájeadnu",
+                "ballájeahkki",
+                "ballájehkoska",
+                "ballájeahkkut, ballájeadnot, ballájehkot, ballájetnot",
+                "ballájeahkkit",
+                "ballájehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon ballá",
+                "ale ballá",
+                "allos ballá",
+                "allu ballá",
+                "alli ballá",
+                "alloska ballá",
+                "allot, allut ballá",
+                "allet, allit ballá",
+                "alloset ballá"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Ballát",
+    "valid": 1
+}

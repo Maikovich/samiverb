@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "vuodjat",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "vuojan",
+                "vuojat",
+                "vuodjá",
+                "vudje",
+                "vuodjabeahtti",
+                "vuodjaba",
+                "vuodjat",
+                "vuodjabehtet",
+                "vudjet"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in vuoja",
+                "it vuoja",
+                "ii vuoja",
+                "ean vuoja",
+                "eahppi vuoja",
+                "eaba vuoja",
+                "eat vuoja",
+                "ehpet vuoja",
+                "eai vuoja"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "vudjen",
+                "vudjet",
+                "vuojai",
+                "vuojaime",
+                "vuojaide",
+                "vuojaiga",
+                "vuojaimet",
+                "vuojaidet",
+                "vudje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in vuodjan",
+                "it vuodjan",
+                "ii vuodjan",
+                "ean vuodjan",
+                "eahppi vuodjan",
+                "eaba vuodjan",
+                "eat vuodjan",
+                "ehpet vuodjan",
+                "eai vuodjan"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean vuodjan",
+                "leat vuodjan",
+                "lea vuodjan",
+                "letne vuodjan",
+                "leahppi vuodjan",
+                "leaba vuodjan",
+                "leat vuodjan",
+                "lehpet vuodjan",
+                "leat vuodjan"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen vuodjan",
+                "ledjet vuodjan",
+                "lei vuodjan",
+                "leimme vuodjan",
+                "leidde vuodjan",
+                "leigga vuodjan",
+                "leimmet vuodjan",
+                "leiddet vuodjan",
+                "ledje vuodjan"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean vuodjame, -min",
+                "leat vuodjame, -min",
+                "lea vuodjame, -min",
+                "letne vuodjame, -min",
+                "leahppi vuodjame, -min",
+                "leaba vuodjame, -min",
+                "leat vuodjame, -min",
+                "lehpet vuodjame, -min",
+                "leat vuodjame, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen vuodjame, -min",
+                "ledjet vuodjame, -min",
+                "lei vuodjame, -min",
+                "leimme vuodjame, -min",
+                "leidde vuodjame, -min",
+                "leigga vuodjame, -min",
+                "leimmet vuodjame, -min",
+                "leiddet vuodjame, -min",
+                "ledje vuodjame, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "vuojašin",
+                "vuojašit",
+                "vuojašii",
+                "vuojašeimme",
+                "vuojašeidde",
+                "vuojašeigga",
+                "vuojašeimmet",
+                "vuojašeiddet",
+                "vuojašedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in vuojaše",
+                "it vuojaše",
+                "ii vuojaše",
+                "ean vuojaše",
+                "eahppi vuojaše",
+                "eaba vuojaše",
+                "eat vuojaše",
+                "ehpet vuojaše",
+                "eai vuojaše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "vuojažan",
+                "vuojažat",
+                "vuojaš",
+                "vuojažetne",
+                "vuojažeahppi",
+                "vuojažeaba",
+                "vuojažit, -žat",
+                "vuojažehpet",
+                "vuojažit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in vuojaš",
+                "it vuojaš",
+                "ii vuojaš",
+                "ean vuojaš",
+                "eahppi vuojaš",
+                "eaba vuojaš",
+                "eat vuojaš",
+                "ehpet vuojaš",
+                "eai vuojaš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "vudjon",
+                "vuoja",
+                "vudjos",
+                "vuoddju",
+                "vuoddji",
+                "vudjoska",
+                "vudjot, vuoddjot",
+                "vudjet, vuoddjit",
+                "vudjoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon vuoja",
+                "ale vuoja",
+                "allos vuoja",
+                "allu vuoja",
+                "alli vuoja",
+                "alloska vuoja",
+                "allot, allut vuoja",
+                "allet, allit vuoja",
+                "alloset vuoja"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Vuodjat",
+    "valid": 1
+}

@@ -1,0 +1,218 @@
+{
+    "check": 1,
+    "name": "sáddet",
+    "tenses": [
+        {
+            "name": "present",
+            "paradigms": [
+                "sádden",
+                "sáddet",
+                "sádde",
+                "sáddejetne",
+                "sáddebeahtti",
+                "sáddeba",
+                "sáddet",
+                "sáddebehtet",
+                "sáddejit"
+            ],
+            "value": "Present"
+        },
+        {
+            "name": "neg-present",
+            "paradigms": [
+                "in sádde",
+                "it sádde",
+                "ii sádde",
+                "ean sádde",
+                "eahppi sádde",
+                "eaba sádde",
+                "eat sádde",
+                "ehpet sádde",
+                "eai sádde"
+            ],
+            "value": "Neg. Present"
+        },
+        {
+            "name": "preterite",
+            "paradigms": [
+                "sáddejin",
+                "sáddejit",
+                "sáddii",
+                "sáddiime",
+                "sáddiide",
+                "sáddiiga",
+                "sáddiimet",
+                "sáddiidet",
+                "sáddejedje"
+            ],
+            "value": "Preterite"
+        },
+        {
+            "name": "neg-preterite",
+            "paradigms": [
+                "in sádden",
+                "it sádden",
+                "ii sádden",
+                "ean sádden",
+                "eahppi sádden",
+                "eaba sádden",
+                "eat sádden",
+                "ehpet sádden",
+                "eai sádden"
+            ],
+            "value": "Neg. Preterite"
+        },
+        {
+            "name": "pres-perfect",
+            "paradigms": [
+                "lean sádden",
+                "leat sádden",
+                "lea sádden",
+                "letne sádden",
+                "leahppi sádden",
+                "leaba sádden",
+                "leat sádden",
+                "lehpet sádden",
+                "leat sádden"
+            ],
+            "value": "Present Perfect"
+        },
+        {
+            "name": "past-perfect",
+            "paradigms": [
+                "ledjen sádden",
+                "ledjet sádden",
+                "lei sádden",
+                "leimme sádden",
+                "leidde sádden",
+                "leigga sádden",
+                "leimmet sádden",
+                "leiddet sádden",
+                "ledje sádden"
+            ],
+            "value": "Past Perfect"
+        },
+        {
+            "name": "pres-actioessive",
+            "paradigms": [
+                "lean sáddeme, -min",
+                "leat sáddeme, -min",
+                "lea sáddeme, -min",
+                "letne sáddeme, -min",
+                "leahppi sáddeme, -min",
+                "leaba sáddeme, -min",
+                "leat sáddeme, -min",
+                "lehpet sáddeme, -min",
+                "leat sáddeme, -min"
+            ],
+            "value": "Present Actio Essive"
+        },
+        {
+            "name": "past-actioessive",
+            "paradigms": [
+                "ledjen sáddeme, -min",
+                "ledjet sáddeme, -min",
+                "lei sáddeme, -min",
+                "leimme sáddeme, -min",
+                "leidde sáddeme, -min",
+                "leigga sáddeme, -min",
+                "leimmet sáddeme, -min",
+                "leiddet sáddeme, -min",
+                "ledje sáddeme, -min"
+            ],
+            "value": "Past Actio Essive"
+        },
+        {
+            "name": "conditional",
+            "paradigms": [
+                "sáddešin",
+                "sáddešit",
+                "sáddešii",
+                "sáddešeimme",
+                "sáddešeidde",
+                "sáddešeigga",
+                "sáddešeimmet",
+                "sáddešeiddet",
+                "sáddešedje"
+            ],
+            "value": "Conditional"
+        },
+        {
+            "name": "neg-conditional",
+            "paradigms": [
+                "in sáddeše",
+                "it sáddeše",
+                "ii sáddeše",
+                "ean sáddeše",
+                "eahppi sáddeše",
+                "eaba sáddeše",
+                "eat sáddeše",
+                "ehpet sáddeše",
+                "eai sáddeše"
+            ],
+            "value": "Neg. Conditional"
+        },
+        {
+            "name": "potential",
+            "paradigms": [
+                "sáddežan",
+                "sáddežat",
+                "sáddeš",
+                "sáddežetne",
+                "sáddežeahppi",
+                "sáddežeaba",
+                "sáddežit, -žat",
+                "sáddežehpet",
+                "sáddežit"
+            ],
+            "value": "Potential"
+        },
+        {
+            "name": "neg-potential",
+            "paradigms": [
+                "in sáddeš",
+                "it sáddeš",
+                "ii sáddeš",
+                "ean sáddeš",
+                "eahppi sáddeš",
+                "eaba sáddeš",
+                "eat sáddeš",
+                "ehpet sáddeš",
+                "eai sáddeš"
+            ],
+            "value": "Neg. Potential"
+        },
+        {
+            "name": "imperative",
+            "paradigms": [
+                "sáddejehkon",
+                "sádde",
+                "sáddejehkos",
+                "sáddejeadnu",
+                "sáddejeahkki",
+                "sáddejehkoska",
+                "sáddejeahkkut, sáddejeadnot, sáddejehkot, sáddejetnot",
+                "sáddejeahkkit",
+                "sáddejehkoset"
+            ],
+            "value": "Imperative"
+        },
+        {
+            "name": "neg-imperative",
+            "paradigms": [
+                "allon sádde",
+                "ale sádde",
+                "allos sádde",
+                "allu sádde",
+                "alli sádde",
+                "alloska sádde",
+                "allot, allut sádde",
+                "allet, allit sádde",
+                "alloset sádde"
+            ],
+            "value": "Neg. Imperative"
+        }
+    ],
+    "value": "Sáddet",
+    "valid": 1
+}
