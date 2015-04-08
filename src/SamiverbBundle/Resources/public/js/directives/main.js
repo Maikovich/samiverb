@@ -1,52 +1,52 @@
 (function(){
   angular.module('Samiverb')
 
-  .directive("conjugateForm", function() {
+  .directive("conjugateForm", [ 'apiRoot', function(apiRoot) {
     return {
       restricted: 'AE',
-      templateUrl: '/bundles/samiverb/directives/frontpage/conjugate-form.html'
+      templateUrl: apiRoot + '/bundles/samiverb/directives/frontpage/conjugate-form.html'
     };
-  })
+  }])
 
-  .directive("alertSuggestions", function() {
+  .directive("alertSuggestions", [ 'apiRoot', function(apiRoot) {
     return {
       restricted: 'AE',
-      templateUrl: '/bundles/samiverb/directives/alert/suggestions.html'
+      templateUrl: apiRoot + '/bundles/samiverb/directives/alert/suggestions.html'
     };
-  })
+  }])
 
-  .directive("alertNotvalidated", function() {
+  .directive("alertNotvalidated", [ 'apiRoot', function(apiRoot) {
     return {
       restricted: 'AE',
-      templateUrl: '/bundles/samiverb/directives/alert/notvalidated.html'
+      templateUrl: apiRoot + '/bundles/samiverb/directives/alert/notvalidated.html'
     };
-  })
+  }])
 
-  .directive("alertInvalid", function() {
+  .directive("alertInvalid", [ 'apiRoot', function(apiRoot) {
     return {
       restricted: 'AE',
-      templateUrl: '/bundles/samiverb/directives/alert/invalid.html'
+      templateUrl: apiRoot + '/bundles/samiverb/directives/alert/invalid.html'
     };
-  })
+  }])
 
-  .directive("verbresult", function() {
+  .directive("verbresult", [ 'apiRoot', function(apiRoot) {
     return {
       restricted: 'AE',
-      templateUrl: '/bundles/samiverb/directives/result/verbtable.html'
+      templateUrl: apiRoot + '/bundles/samiverb/directives/result/verbtable.html'
     };
-  })
+  }])
 
-  .directive("validateModal", function() {
+  .directive("validateModal", [ 'apiRoot', function(apiRoot) {
     return {
       restricted: 'AE',
-      templateUrl: '/bundles/samiverb/directives/modal/validate.html'
+      templateUrl: apiRoot + '/bundles/samiverb/directives/modal/validate.html'
     };
-  })
+  }])
 
-  .directive("revalidateModal", function() {
+  .directive("revalidateModal", [ 'apiRoot', function(apiRoot) {
     return {
       restricted: 'AE',
-      templateUrl: '/bundles/samiverb/directives/modal/revalidate.html'
+      templateUrl: apiRoot + '/bundles/samiverb/directives/modal/revalidate.html'
     };
-  });
+  }]);
 })();
