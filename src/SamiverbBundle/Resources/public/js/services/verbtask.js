@@ -1,11 +1,12 @@
 (function() {
-  angular.module('Samiverb').factory("VerbTaskFactory", ['$http', '$q', '$timeout', 'VerbObjFactory', 'apiRoot', function($http, $q, $timeout, VerbObjFactory, apiRoot){
+  angular.module('Samiverb').factory("VerbTaskFactory", ['$http', '$q', '$timeout', 'VerbObjFactory', function($http, $q, $timeout, VerbObjFactory){
 
     var conjugations_section = '#conjugations'
     var conjugateBtn = '#conjugate-btn';
     var validateBtn = '#validate-btn';
-    var requestDir = apiRoot + '/request';
-    var suggestionsDir = apiRoot + '/suggestions';
+    var requestDir = 'request';
+    var suggestionsDir = 'suggestions';
+    var validateDir = 'validate';
     var protectedMode = true;
     var requestedVerb = false;
     var submitted = false;
@@ -26,10 +27,6 @@
 
 
     return {
-      getApiRoot: function() {
-        return apiRoot;
-      },
-      
       turnOffProtectedMode: function() {
         scrollToTarget(conjugations_section);
         protectedMode = false;
@@ -109,7 +106,7 @@
 
         var req = {
           method: 'POST',
-          url: apiRoot + '/validate',
+          url: validateDir,
           headers: {
             'Content-Type': undefined,
             'X-CSRF-Token': csrf_token

@@ -5,7 +5,7 @@
     $scope.token = "";
 
     $scope.generateCrsf = function(mode) {
-      return $http.get(VerbTaskFactory.getApiRoot() + '/crsf/' + mode) 
+      return $http.get('crsf/' + mode) 
         .then(function(response) {
           $scope.token = response.data;
         });
