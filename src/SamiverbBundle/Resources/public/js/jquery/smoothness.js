@@ -14,7 +14,7 @@ $(document).ready( function() {
     if ($(window).scrollTop() >= ($('#conjugations').offset().top - navbarPadding - 250)) {
       $('#goToTop').fadeIn();
     } else {
-      $('#goToTop').fadeOut();
+      $('#goToTop').stop().fadeOut();
     }
   });
 
