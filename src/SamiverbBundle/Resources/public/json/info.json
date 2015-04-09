@@ -1,5 +1,5 @@
 {
-    "count": 733,
+    "count": 734,
     "verbs": {
         "0": {
             "name": "addit",
@@ -4404,6 +4404,12 @@
             "valid": 0,
             "timesAccessed": 1,
             "lastAccessed": "2015-04-10 01:54:41"
+        },
+        "736": {
+            "name": "defelit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-04-10 02:41:21"
         }
     }
 }

@@ -70,7 +70,7 @@
           finally(function() {
             if (--todo == 0) {
               l.stop();
-              if (errors == 2) {
+              if (errors < tasks) {
                 $('#conjug').show();
                 scrollToTarget(conjugations_section);
               }

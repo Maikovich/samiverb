@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "defelit", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "defelan", 
+        "defelat", 
+        "defela", 
+        "defeletne", 
+        "defeleahppi", 
+        "defeleaba", 
+        "defelit, -lat", 
+        "defelehpet", 
+        "defelit"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in defel", 
+        "it defel", 
+        "ii defel", 
+        "ean defel", 
+        "eahppi defel", 
+        "eaba defel", 
+        "eat defel", 
+        "ehpet defel", 
+        "eai defel"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "defelin", 
+        "defelit", 
+        "defelii", 
+        "defeleimme", 
+        "defeleidde", 
+        "defeleigga", 
+        "defeleimmet", 
+        "defeleiddet", 
+        "defeledje"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in defelan", 
+        "it defelan", 
+        "ii defelan", 
+        "ean defelan", 
+        "eahppi defelan", 
+        "eaba defelan", 
+        "eat defelan", 
+        "ehpet defelan", 
+        "eai defelan"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean defelan", 
+        "leat defelan", 
+        "lea defelan", 
+        "letne defelan", 
+        "leahppi defelan", 
+        "leaba defelan", 
+        "leat defelan", 
+        "lehpet defelan", 
+        "leat defelan"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen defelan", 
+        "ledjet defelan", 
+        "lei defelan", 
+        "leimme defelan", 
+        "leidde defelan", 
+        "leigga defelan", 
+        "leimmet defelan", 
+        "leiddet defelan", 
+        "ledje defelan"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean defeleame, -men", 
+        "leat defeleame, -men", 
+        "lea defeleame, -men", 
+        "letne defeleame, -men", 
+        "leahppi defeleame, -men", 
+        "leaba defeleame, -men", 
+        "leat defeleame, -men", 
+        "lehpet defeleame, -men", 
+        "leat defeleame, -men"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen defeleame, -men", 
+        "ledjet defeleame, -men", 
+        "lei defeleame, -men", 
+        "leimme defeleame, -men", 
+        "leidde defeleame, -men", 
+        "leigga defeleame, -men", 
+        "leimmet defeleame, -men", 
+        "leiddet defeleame, -men", 
+        "ledje defeleame, -men"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "defelivččen", 
+        "defelivččet", 
+        "defelivččii", 
+        "defelivččiime", 
+        "defelivččiide", 
+        "defelivččiiga", 
+        "defelivččiimet", 
+        "defelivččiidet", 
+        "defelivčče"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in defelivčče", 
+        "it defelivčče", 
+        "ii defelivčče", 
+        "ean defelivčče", 
+        "eahppi defelivčče", 
+        "eaba defelivčče", 
+        "eat defelivčče", 
+        "ehpet defelivčče", 
+        "eai defelivčče"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "defeleaččan", 
+        "defeleaččat", 
+        "defeleaš, -leš, -leažžá", 
+        "defeležže", 
+        "defeleažžabeahtti", 
+        "defeleažžaba", 
+        "defeleažžat", 
+        "defeleažžabehtet", 
+        "defeležžet"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in defeleaš, -leš, -leažžá", 
+        "it defeleaš, -leš, -leažžá", 
+        "ii defeleaš, -leš, -leažžá", 
+        "ean defeleaš, -leš, -leažžá", 
+        "eahppi defeleaš, -leš, -leažžá", 
+        "eaba defeleaš, -leš, -leažžá", 
+        "eat defeleaš, -leš, -leažžá", 
+        "ehpet defeleaš, -leš, -leažžá", 
+        "eai defeleaš, -leš, -leažžá"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "defelehkon", 
+        "defel", 
+        "defelehkos, defelus", 
+        "defeleadnu", 
+        "defeleahkki", 
+        "defelehkoska", 
+        "defelehkot, defeleahkkut, defeletnot, defeleadnot", 
+        "defelehket", 
+        "defelehkoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon defel", 
+        "ale defel", 
+        "allos defel", 
+        "allu defel", 
+        "alli defel", 
+        "alloska defel", 
+        "allot, allut defel", 
+        "allet, allit defel", 
+        "alloset defel"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Defelit"
+}
