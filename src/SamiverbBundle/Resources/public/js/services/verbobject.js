@@ -6,8 +6,11 @@
     var vAvailable = false;
     var sAvailable = false;
 
-    var resetAvail = function() {
+    var resetVAvail = function() {
       vAvailable = false;
+    }
+    var resetSAvail = function() {
+      sAvailable = false;
     }
     var setVerbObj = function(newObj) {
       angular.copy(newObj, verbObj);
@@ -26,6 +29,7 @@
             return response;
           }
           , function(response) {
+            resetVAvail();
             return $q.reject(response);
           });
       },
@@ -37,6 +41,7 @@
             return response;
           }
           , function(response) {
+            resetSAvail();
             return $q.reject(response);
           });
       },

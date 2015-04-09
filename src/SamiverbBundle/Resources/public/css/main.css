@@ -1,3 +1,13 @@
+@viewport{
+    zoom: 1.0;
+    width: device-width;
+}
+
+@-ms-viewport{
+    zoom: 1.0;
+    width: device-width;
+}
+
 body {
   background: url("../img/green_whitenoise.png");;
   padding-top: 50px;
@@ -70,7 +80,7 @@ display: none !important;
 
 #conjug {
   display: none;
-  padding: 10px 0 10px;
+  padding: 30px 0 10px;
   background: url("../img/blue_whitenoise.png");
 }
 

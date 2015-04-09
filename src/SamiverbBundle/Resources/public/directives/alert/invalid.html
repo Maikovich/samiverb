@@ -5,7 +5,7 @@
   </h4>
   <p>
     <strong>Suggestions: </strong>
-    <a href class="suggestions" ng-repeat="match in suggestions.matches" ng-click="requestNewVerb(match)">
+    <a href class="suggestions" ng-repeat="match in suggestions.matches | limitTo:4" ng-click="requestNewVerb(match)">
       <em>{[{match}]}</em>
     </a>
   </p>

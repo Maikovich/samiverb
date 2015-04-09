@@ -1,0 +1,218 @@
+{
+  "check": 0, 
+  "name": "delilit", 
+  "tenses": [
+    {
+      "name": "present", 
+      "paradigms": [
+        "delilan", 
+        "delilat", 
+        "delila", 
+        "deliletne", 
+        "delileahppi", 
+        "delileaba", 
+        "delilit, -lat", 
+        "delilehpet", 
+        "delilit"
+      ], 
+      "value": "Present"
+    }, 
+    {
+      "name": "neg-present", 
+      "paradigms": [
+        "in delil", 
+        "it delil", 
+        "ii delil", 
+        "ean delil", 
+        "eahppi delil", 
+        "eaba delil", 
+        "eat delil", 
+        "ehpet delil", 
+        "eai delil"
+      ], 
+      "value": "Neg. Present"
+    }, 
+    {
+      "name": "preterite", 
+      "paradigms": [
+        "delilin", 
+        "delilit", 
+        "delilii", 
+        "delileimme", 
+        "delileidde", 
+        "delileigga", 
+        "delileimmet", 
+        "delileiddet", 
+        "deliledje"
+      ], 
+      "value": "Preterite"
+    }, 
+    {
+      "name": "neg-preterite", 
+      "paradigms": [
+        "in delilan", 
+        "it delilan", 
+        "ii delilan", 
+        "ean delilan", 
+        "eahppi delilan", 
+        "eaba delilan", 
+        "eat delilan", 
+        "ehpet delilan", 
+        "eai delilan"
+      ], 
+      "value": "Neg. Preterite"
+    }, 
+    {
+      "name": "pres-perfect", 
+      "paradigms": [
+        "lean delilan", 
+        "leat delilan", 
+        "lea delilan", 
+        "letne delilan", 
+        "leahppi delilan", 
+        "leaba delilan", 
+        "leat delilan", 
+        "lehpet delilan", 
+        "leat delilan"
+      ], 
+      "value": "Present Perfect"
+    }, 
+    {
+      "name": "past-perfect", 
+      "paradigms": [
+        "ledjen delilan", 
+        "ledjet delilan", 
+        "lei delilan", 
+        "leimme delilan", 
+        "leidde delilan", 
+        "leigga delilan", 
+        "leimmet delilan", 
+        "leiddet delilan", 
+        "ledje delilan"
+      ], 
+      "value": "Past Perfect"
+    }, 
+    {
+      "name": "pres-actioessive", 
+      "paradigms": [
+        "lean delileame, -men", 
+        "leat delileame, -men", 
+        "lea delileame, -men", 
+        "letne delileame, -men", 
+        "leahppi delileame, -men", 
+        "leaba delileame, -men", 
+        "leat delileame, -men", 
+        "lehpet delileame, -men", 
+        "leat delileame, -men"
+      ], 
+      "value": "Present Actio Essive"
+    }, 
+    {
+      "name": "past-actioessive", 
+      "paradigms": [
+        "ledjen delileame, -men", 
+        "ledjet delileame, -men", 
+        "lei delileame, -men", 
+        "leimme delileame, -men", 
+        "leidde delileame, -men", 
+        "leigga delileame, -men", 
+        "leimmet delileame, -men", 
+        "leiddet delileame, -men", 
+        "ledje delileame, -men"
+      ], 
+      "value": "Past Actio Essive"
+    }, 
+    {
+      "name": "conditional", 
+      "paradigms": [
+        "delilivččen", 
+        "delilivččet", 
+        "delilivččii", 
+        "delilivččiime", 
+        "delilivččiide", 
+        "delilivččiiga", 
+        "delilivččiimet", 
+        "delilivččiidet", 
+        "delilivčče"
+      ], 
+      "value": "Conditional"
+    }, 
+    {
+      "name": "neg-conditional", 
+      "paradigms": [
+        "in delilivčče", 
+        "it delilivčče", 
+        "ii delilivčče", 
+        "ean delilivčče", 
+        "eahppi delilivčče", 
+        "eaba delilivčče", 
+        "eat delilivčče", 
+        "ehpet delilivčče", 
+        "eai delilivčče"
+      ], 
+      "value": "Neg. Conditional"
+    }, 
+    {
+      "name": "potential", 
+      "paradigms": [
+        "delileaččan", 
+        "delileaččat", 
+        "delileaš, -leš, -leažžá", 
+        "deliležže", 
+        "delileažžabeahtti", 
+        "delileažžaba", 
+        "delileažžat", 
+        "delileažžabehtet", 
+        "deliležžet"
+      ], 
+      "value": "Potential"
+    }, 
+    {
+      "name": "neg-potential", 
+      "paradigms": [
+        "in delileaš, -leš, -leažžá", 
+        "it delileaš, -leš, -leažžá", 
+        "ii delileaš, -leš, -leažžá", 
+        "ean delileaš, -leš, -leažžá", 
+        "eahppi delileaš, -leš, -leažžá", 
+        "eaba delileaš, -leš, -leažžá", 
+        "eat delileaš, -leš, -leažžá", 
+        "ehpet delileaš, -leš, -leažžá", 
+        "eai delileaš, -leš, -leažžá"
+      ], 
+      "value": "Neg. Potential"
+    }, 
+    {
+      "name": "imperative", 
+      "paradigms": [
+        "delilehkon", 
+        "delil", 
+        "delilehkos, delilus", 
+        "delileadnu", 
+        "delileahkki", 
+        "delilehkoska", 
+        "delilehkot, delileahkkut, deliletnot, delileadnot", 
+        "delilehket", 
+        "delilehkoset"
+      ], 
+      "value": "Imperative"
+    }, 
+    {
+      "name": "neg-imperative", 
+      "paradigms": [
+        "allon delil", 
+        "ale delil", 
+        "allos delil", 
+        "allu delil", 
+        "alli delil", 
+        "alloska delil", 
+        "allot, allut delil", 
+        "allet, allit delil", 
+        "alloset delil"
+      ], 
+      "value": "Neg. Imperative"
+    }
+  ], 
+  "valid": 0, 
+  "value": "Delilit"
+}

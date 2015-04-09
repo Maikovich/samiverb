@@ -4,6 +4,14 @@
     $scope.validateForm = {};
     $scope.token = "";
 
+    $scope.isSuggestionsReady = function() {
+      return VerbObjFactory.isSuggestionsAvailable();
+    };
+
+    $scope.isVerbReady = function() {
+      return VerbObjFactory.isVerbAvailable();
+    };
+
     $scope.generateCrsf = function(mode) {
       return $http.get('crsf/' + mode) 
         .then(function(response) {
@@ -11,11 +19,11 @@
         });
     };
 
-    $scope.$watch(VerbObjFactory.isVerbAvailable, function(){
+    $scope.$watch($scope.isSuggestionsReady, function(){
       $scope.verb = VerbObjFactory.getVerbObj();
     });
 
-    $scope.$watch(VerbObjFactory.isSuggestionsAvailable, function() {
+    $scope.$watch($scope.isVerbReady, function() {
       $scope.suggestions = VerbObjFactory.getSuggestionsObj();
     });
 

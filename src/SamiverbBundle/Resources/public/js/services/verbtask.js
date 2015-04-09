@@ -52,7 +52,9 @@
 
       requestVerb: function(verb) {
         var l = Ladda.create( document.querySelector(conjugateBtn));
-        var todo = 2;
+        var tasks = 2;
+        var todo = tasks;
+        var errors = 0;
         requestedVerb = verb;
         submitted = false;
 
@@ -62,22 +64,31 @@
             requestedVerb = response.data['name'];
           },
           function(error) {
+            errors += 1;
             requestedVerb = error.data;
           }).
           finally(function() {
             if (--todo == 0) {
               l.stop();
-              $('#conjug').fadeIn();
-              scrollToTarget(conjugations_section);
+              if (errors == 2) {
+                $('#conjug').show();
+                scrollToTarget(conjugations_section);
+              }
             }
           });
 
         VerbObjFactory.requestSuggestionsObj(suggestionsDir+'/'+verb).
+          then(function(){},
+          function() {
+            errors += 1;
+          }).
           finally(function() {
             if (--todo == 0) {
               l.stop();
-              $('#conjug').fadeIn();
-              scrollToTarget(conjugations_section);
+              if (errors < tasks) {
+                $('#conjug').show();
+                scrollToTarget(conjugations_section);
+              }
             }
           });
       },
@@ -91,13 +102,13 @@
         VerbObjFactory.requestVerbObj(requestDir+'/'+verb).
           then(function(response) {
             requestedVerb = response.data['name'];
+            scrollToTarget(conjugations_section);
           },
           function(error) {
             requestedVerb = error.data;
           }).
           finally(function() {
             l.stop();
-            scrollToTarget(conjugations_section);
           });
       },
 

@@ -1,4 +1,4 @@
-<div class="modal fade" id="validateModal" tabindex="-1" role="dialog" aria-labelledby="validateModalLabel" aria-hidden="true" ng-controller="ValidateModalController" ng-init="generateCrsf(1)">
+<div class="modal fade" id="validateModal" tabindex="-1" role="dialog" aria-labelledby="validateModalLabel" aria-hidden="true" ng-controller="ValidateModalController" ng-show="isSuggestionsReady()" ng-init="generateCrsf(1)">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
@@ -11,7 +11,7 @@
         </h4>
         <p>
           Are you sure you didn't misspell the verb? Didn't you mean: 
-          <a href class="suggestions" ng-repeat="match in suggestions.matches" data-dismiss="modal" ng-click="requestNewVerb(match)">
+          <a href class="suggestions" ng-repeat="match in suggestions.matches | limitTo:4" data-dismiss="modal" ng-click="requestNewVerb(match)">
             <em>{[{match}]}</em>
           </a>
           ?

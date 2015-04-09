@@ -1,5 +1,5 @@
 {
-    "count": 732,
+    "count": 733,
     "verbs": {
         "0": {
             "name": "addit",
@@ -100,8 +100,8 @@
         "16": {
             "name": "bassat",
             "valid": 1,
-            "timesAccessed": 1,
-            "lastAccessed": "2015-03-28 04:22:42"
+            "timesAccessed": 2,
+            "lastAccessed": "2015-04-10 02:03:45"
         },
         "17": {
             "name": "bassit",
@@ -664,8 +664,8 @@
         "110": {
             "name": "deret",
             "valid": 1,
-            "timesAccessed": 1,
-            "lastAccessed": "2015-03-28 04:22:42"
+            "timesAccessed": 3,
+            "lastAccessed": "2015-04-10 02:18:52"
         },
         "111": {
             "name": "devdnet",
@@ -1972,8 +1972,8 @@
         "328": {
             "name": "leat",
             "valid": 1,
-            "timesAccessed": 15,
-            "lastAccessed": "2015-04-07 22:38:48"
+            "timesAccessed": 17,
+            "lastAccessed": "2015-04-10 02:15:01"
         },
         "329": {
             "name": "leavvat",
@@ -2374,8 +2374,8 @@
         "395": {
             "name": "muitalit",
             "valid": 1,
-            "timesAccessed": 129,
-            "lastAccessed": "2015-04-09 03:50:44"
+            "timesAccessed": 138,
+            "lastAccessed": "2015-04-10 02:18:31"
         },
         "396": {
             "name": "muitit",
@@ -4054,8 +4054,8 @@
         "675": {
             "name": "šaddat",
             "valid": 1,
-            "timesAccessed": 1,
-            "lastAccessed": "2015-03-28 04:22:48"
+            "timesAccessed": 2,
+            "lastAccessed": "2015-04-10 02:02:14"
         },
         "676": {
             "name": "šallat",
@@ -4398,6 +4398,12 @@
             "valid": 0,
             "timesAccessed": 1,
             "lastAccessed": "2015-04-07 22:39:13"
+        },
+        "735": {
+            "name": "delilit",
+            "valid": 0,
+            "timesAccessed": 1,
+            "lastAccessed": "2015-04-10 01:54:41"
         }
     }
 }
