@@ -157,8 +157,8 @@ class APIController extends Controller
     if (count($errors) > 0) {
       $errorsString = (string) $errors;
 
-      //return new Response($errorsString, 400,
-       // array('Content-Type' => 'text/plain'));
+      return new Response($errorsString, 400,
+        array('Content-Type' => 'text/plain'));
     }
 
     // check csrf_token
