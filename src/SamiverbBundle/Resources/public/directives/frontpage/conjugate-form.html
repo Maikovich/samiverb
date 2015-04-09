@@ -1,9 +1,0 @@
-<form class="text-center" name="verbForm" id="conjugform" ng-controller="VerbController" ng-submit="verbForm.$valid && requestVerbInfo()" novalidate>
-  <div class="form-group">
-    <label class="sr-only" for="verb">Verb</label>
-    <div class="form-group">
-      <input ng-model="verb" type="text" class="form-control input-lg text-center" id="verb" placeholder="Enter a verb" pattern=".{4,}" required>
-    </div>
-    <button type="submit" id="conjugate-btn" class="btn btn-lg btn-primary ladda-button" data-style="slide-down"><span class="ladda-label">Conjugate</span></button>
-  </div>
-</form>

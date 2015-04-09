@@ -16,59 +16,50 @@
 
   <section id="enterverb">
     <div id="front">
-      <!--<div class="bg"></div>-->
-      <div class="container">
-        <div class="col-xs-12">
-          <div class="row">
-            <div class="col-xs-12 col-sm-12 text-center">
-              <h1 class="title">Samiverb</h1>
-              <ol id="cooltext" class="list-unstyled text-center">
-                <li>Click on the form</li>
-                <li>Type in a verb</li>
-                <li>Press conjugate</li>
-              </ol>
-              <conjugate-form></conjugate-form>
-            </div>
+    <div class="container">
+    <div class="col-xs-12">
+    <div class="row">
+    <div class="col-xs-12 col-sm-12 text-center">
+      <h1 class="title">Samiverb</h1>
+      <ol id="cooltext" class="list-unstyled text-center">
+        <li>Click on the form</li>
+        <li>Type in a verb</li>
+        <li>Press conjugate</li>
+      </ol>
+      <form class="text-center" name="verbForm" id="conjugform" ng-controller="VerbController" ng-submit="verbForm.$valid && requestVerbInfo()" novalidate>
+        <div class="form-group">
+          <label class="sr-only" for="verb">Verb</label>
+          <div class="form-group">
+            <input ng-model="verb" type="text" class="form-control input-lg text-center" id="verb" placeholder="Enter a verb" pattern=".{4,}" required>
           </div>
+          <button type="submit" id="conjugate-btn" class="btn btn-lg btn-primary ladda-button" data-style="slide-down"><span class="ladda-label">Conjugate</span></button>
         </div>
-      </div>
-    </div>
+      </form>
+    </div><!-- /.col-xs-12 col-sm-12 text-center -->
+    </div><!-- /.row -->
+    </div><!-- /.col-xs-12 -->
+    </div><!-- /.container -->
+    </div><!-- /#front -->
   </section>
 
   <section id="conjugations">
     <div id="conjug" ng-cloak>
-      <div class="container">
-        <div class="row">
-          <div class="col-xs-12 col-sm-12">
-            <div ng-controller="OutputController">
-              <!--TODO FIX NG-SHOW HERE !-->
-              <alert-suggestions></alert-suggestions>
-              <alert-notvalidated></alert-notvalidated>
-              <alert-invalid></alert-invalid>
-
-              <verbresult></verbresult>
-              
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    <div class="container">
+    <div class="row">
+    <div class="col-xs-12 col-sm-12">
+    <div ng-controller="OutputController">
+      <alert-suggestions></alert-suggestions>
+      <alert-notvalidated></alert-notvalidated>
+      <alert-invalid></alert-invalid>
+      <verbresult></verbresult>
+    </div><!-- /ngOutputController -->
+    </div><!-- /.col-xs-12 col-sm-12 -->
+    </div><!-- /.row -->
+    </div><!-- /.container -->
+    </div><!-- /#conjug -->
   </section>
 
   <validate-modal></validate-modal>
   <revalidate-modal></revalidate-modal>
 
-{% endblock %}
-
-{% block javascript %}
-  <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-61717634-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
 {% endblock %}

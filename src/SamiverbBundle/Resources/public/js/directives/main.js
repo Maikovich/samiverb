@@ -1,13 +1,6 @@
 (function(){
   angular.module('Samiverb')
 
-  .directive("conjugateForm", function() {
-    return {
-      restricted: 'AE',
-      templateUrl: 'bundles/samiverb/directives/frontpage/conjugate-form.html'
-    };
-  })
-
   .directive("alertSuggestions", function() {
     return {
       restricted: 'AE',
